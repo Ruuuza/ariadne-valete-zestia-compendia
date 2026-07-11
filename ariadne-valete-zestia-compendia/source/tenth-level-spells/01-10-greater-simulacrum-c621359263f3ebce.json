@@ -1,0 +1,178 @@
+{
+  "_key": "!items!c621359263f3ebce",
+  "_id": "c621359263f3ebce",
+  "name": "[10º] Greater Simulacrum",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "aa1e11aaf81d89bd": {
+        "type": "utility",
+        "_id": "aa1e11aaf81d89bd",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Conjurar Greater Simulacrum"
+        },
+        "duration": {
+          "value": "1",
+          "units": "hour",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "120",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Epic Magic, p. 127.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> [10º] Greater Simulacrum<br />\n<strong>Identificador sugerido:</strong> <code>greater-simulacrum</code><br />\n<strong>Tipo:</strong> Spell — Illusion<br />\n<strong>Círculo real:</strong> 10º<br />\n<strong>Classes:</strong> Wizard<br />\n<strong>Fonte:</strong> Página 127<br />\n<strong>Tempo de conjuração:</strong> 1 ação<br />\n<strong>Alcance:</strong> 120 pés<br />\n<strong>Componentes:</strong> V, S, M<br />\n<strong>Material:</strong> Uma sombra presa em uma garrafa, um punhado de neve de Tartarus, um fragmento de vidro da City of Mirrors e uma pitada de sal espalhada no ar<br />\n<strong>Duração:</strong> Concentração, até 1 hora<br />\n<strong>Custo adicional:</strong> 2 LP e um slot de 10º círculo<br />\n<strong>Alvos:</strong> Até quatro criaturas dentro do alcance</p>\n<h3>Descrição para colar</h3>\n<p>Você cria duplicatas ilusórias, parcialmente reais, de até quatro criaturas dentro do alcance.</p>\n<p>Cada duplicata:</p>\n<ul>\n<li>Usa todas as estatísticas da criatura copiada.</li>\n<li>É considerada um Construct.</li>\n<li>Possui no máximo 300 pontos de vida.</li>\n<li>Surge com o equipamento do alvo, exceto Artifacts e Relics.</li>\n<li>Não pode conjurar magias de 10º círculo.</li>\n<li>Não pode usar características que gastem mais de 2 Legendary Points de uma vez.</li>\n<li>Não pode criar outro simulacrum.</li>\n<li>Não pode recuperar Legendary Points.</li>\n<li>Não pode recuperar recursos gastos.</li>\n<li>Não aprende novas magias.</li>\n<li>Não recebe níveis de classe.</li>\n<li>Não se torna mais poderosa.</li>\n</ul>\n<p>As duplicatas são amistosas a você e às criaturas que indicar. Elas obedecem a comandos mentais sem exigir ação e atuam imediatamente depois das criaturas originais na ordem de iniciativa.</p>\n<p>As duplicatas duram até uma hora, até serem reduzidas a 0 pontos de vida ou até sua concentração terminar. Quando uma duplicata desaparece, todos os efeitos persistentes criados por ela também terminam.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Nível no Foundry: 10 quando possível; caso contrário, 9 com prefixo <code>[10º]</code>.</li>\n<li>Escola: Illusion.</li>\n<li>Preparação: sempre preparada após Memorized Spellbook.</li>\n<li>Ativação: ação.</li>\n<li>Alcance: 120 pés.</li>\n<li>Alvos: até 4 criaturas.</li>\n<li>Duração: concentração, 1 hora.</li>\n<li>Consumo:<ul>\n<li>2 LP.</li>\n<li>1 slot de 10º.</li>\n</ul>\n</li>\n<li>Criar atores duplicados manualmente.</li>\n<li>Limitar HP de cada duplicata a 300.</li>\n<li>Alterar tipo para Construct.</li>\n<li>Inserir as duplicatas imediatamente após seus originais na iniciativa.</li>\n<li>Destruir efeitos persistentes das cópias quando elas desaparecerem.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "greater-simulacrum",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "127",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "level": 9,
+    "materials": {
+      "value": "Uma sombra presa em uma garrafa, neve de Tartarus, vidro da City of Mirrors e uma pitada de sal.",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material",
+      "concentration"
+    ],
+    "range": {
+      "value": "120",
+      "units": "ft"
+    },
+    "school": "ill",
+    "target": {
+      "affects": {
+        "count": "4",
+        "type": "creature",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 1,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "tenth-level-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "127",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

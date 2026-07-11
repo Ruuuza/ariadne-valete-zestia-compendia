@@ -1,0 +1,141 @@
+{
+  "_key": "!items!8ad2795cb53e4d4d",
+  "_id": "8ad2795cb53e4d4d",
+  "name": "Magical Geometry",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "c9283495c42e1a50": {
+        "type": "utility",
+        "_id": "c9283495c42e1a50",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Magical Geometry"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Arcane Marksman, p. 87.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Magical Geometry<br />\n<strong>Identificador sugerido:</strong> <code>arcane-marksman-magical-geometry</code><br />\n<strong>Tipo:</strong> Feat — Epic<br />\n<strong>Pré-requisito:</strong> Fingers of Toth<br />\n<strong>Fonte:</strong> Arcane Marksman, página 87<br />\n<strong>Ativação:</strong> Passiva e gatilho em crítico</p>\n<h3>Descrição para colar</h3>\n<p>Sua margem de crítico com ataques mágicos aumenta em mais 1.</p>\n<p>Quando você obtém um acerto crítico com um ataque mágico, o alvo não pode realizar reações até o início do próximo turno dele.</p>\n<p>Com Fingers of Toth e Magical Geometry, a margem normal de crítico dos ataques mágicos passa a ser 18–20.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Margem crítica: controle manual ou por módulo.</li>\n<li>Criar atividade utilitária <code>Disrupted Reactions</code>.</li>\n<li>Aplicar no alvo um efeito que impeça reações.</li>\n<li>Duração: até o início do próximo turno do alvo.</li>\n<li>Sem automação, use um ícone temporário e lembrete no chat.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "magical-geometry",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "87",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 22,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fingers of Toth",
+    "type": {
+      "value": "feat",
+      "subtype": "epic"
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic",
+      "sourcePage": "87",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 600000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

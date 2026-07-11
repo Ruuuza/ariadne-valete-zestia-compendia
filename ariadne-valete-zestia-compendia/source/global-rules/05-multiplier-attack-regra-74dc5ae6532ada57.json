@@ -1,0 +1,68 @@
+{
+  "_key": "!items!74dc5ae6532ada57",
+  "_id": "74dc5ae6532ada57",
+  "name": "Multiplier Attack — Regra",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Regras gerais, p. 13.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Multiplier Attack — Regra<br />\n<strong>Identificador sugerido:</strong> <code>multiplier-attack-rule</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Regras gerais, página 13<br />\n<strong>Ativação:</strong> Passiva</p>\n<h3>Descrição para colar</h3>\n<p>Multiplier Attacks usam uma quantidade de dados multiplicada por 5 ou por 10.</p>\n<p>Eles não recebem bônus adicionais de dano além da fórmula apresentada. Modificadores de atributo, bônus de armas, efeitos de classe, dados extras e efeitos que rerrolam dados não são adicionados, salvo quando a própria habilidade declarar o contrário.</p>\n<p>Em um acerto crítico, não dobre o resultado. Use a fórmula crítica específica indicada pela habilidade.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Não marcar “dobrar dados no crítico”.</li>\n<li>Criar atividades de dano normal e crítico separadas.</li>\n<li>Não somar modificador de atributo.</li>\n<li>Não somar dano normal da arma ao Multiplier Attack.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "multiplier-attack",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "13",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "global",
+      "sourcePage": "13",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 500000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

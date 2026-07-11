@@ -1,0 +1,323 @@
+{
+  "_key": "!items!f009d81eedf06e1a",
+  "_id": "f009d81eedf06e1a",
+  "name": "Absolute Precision",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "5140f6163348969b": {
+        "type": "utility",
+        "_id": "5140f6163348969b",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Absolute Precision"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      },
+      "ab4499058ba4b4f4": {
+        "type": "damage",
+        "_id": "ab4499058ba4b4f4",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Legendary Shot — 4d8 × 5"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "damage": {
+          "parts": [
+            {
+              "number": null,
+              "denomination": 0,
+              "bonus": "",
+              "types": [],
+              "custom": {
+                "enabled": true,
+                "formula": "4d8 * 5"
+              },
+              "scaling": {
+                "mode": "",
+                "number": null,
+                "formula": ""
+              }
+            }
+          ],
+          "critical": {
+            "bonus": "",
+            "allow": false
+          }
+        }
+      },
+      "199a1764ec956da1": {
+        "type": "damage",
+        "_id": "199a1764ec956da1",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Legendary Shot — Crítico 6d8 × 5"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "damage": {
+          "parts": [
+            {
+              "number": null,
+              "denomination": 0,
+              "bonus": "",
+              "types": [],
+              "custom": {
+                "enabled": true,
+                "formula": "6d8 * 5"
+              },
+              "scaling": {
+                "mode": "",
+                "number": null,
+                "formula": ""
+              }
+            }
+          ],
+          "critical": {
+            "bonus": "",
+            "allow": false
+          }
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Sniper, p. 93.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Absolute Precision<br />\n<strong>Identificador sugerido:</strong> <code>legendary-sniper-absolute-precision</code><br />\n<strong>Tipo:</strong> Feat — Epic<br />\n<strong>Pré-requisito:</strong> Hunter’s Eye<br />\n<strong>Fonte:</strong> Legendary Sniper, página 93<br />\n<strong>Ativação:</strong> Passiva e ação especial</p>\n<h3>Descrição para colar</h3>\n<p>Seus ataques com armas à distância ignoram resistência a dano perfurante.</p>\n<p>Você pode usar sua ação para realizar um Legendary Shot. Faça um único ataque com arma à distância contra uma criatura dentro do alcance. Em um acerto, o alvo sofre 4d8 × 5 do tipo de dano da arma. Esse ataque não recebe qualquer bônus adicional de dano.</p>\n<p>Em um acerto crítico, não dobre os dados. Em vez disso, o ataque causa 6d8 × 5 do tipo de dano da arma.</p>\n<p>Legendary Shot é um Multiplier Attack e não gasta Legendary Points.</p>\n<h3>Configuração recomendada</h3>\n<p>Crie três atividades:</p>\n<p><strong>Legendary Shot — Ataque</strong></p>\n<ul>\n<li>Ativação: ação.</li>\n<li>Alcance: conforme a arma usada.</li>\n<li>Faça o ataque com o item de arma original.</li>\n<li>Não aplique dano normal da arma junto do Multiplier Attack.</li>\n</ul>\n<p><strong>Legendary Shot — Dano normal</strong></p>\n<ul>\n<li>Fórmula: <code>4d8 * 5</code>.</li>\n<li>Tipo: tipo de dano da arma.</li>\n<li>Para o Laser Rifle: radiant.</li>\n</ul>\n<p><strong>Legendary Shot — Crítico</strong></p>\n<ul>\n<li>Fórmula: <code>6d8 * 5</code>.</li>\n<li>Tipo: tipo de dano da arma.</li>\n</ul>\n<p>Observação: Penetrating Shots só ignora resistência a dano perfurante. Ele não ignora resistência a radiant do Laser Rifle, salvo decisão do mestre.</p>\n</div>",
+      "chat": ""
+    },
+    "identifier": "absolute-precision",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "93",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 23,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Hunter's Eye",
+    "type": {
+      "value": "feat",
+      "subtype": "epic"
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic",
+      "sourcePage": "93",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 300000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

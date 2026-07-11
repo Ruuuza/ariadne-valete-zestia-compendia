@@ -1,0 +1,71 @@
+{
+  "id": "ariadne-valete-zestia-compendia",
+  "title": "Ariadne — Valete & Zestia: Compêndios Lendários",
+  "description": "<p>Compêndios privados de regras, feats, características lendárias, Mythical Techniques e magias de 10º círculo para Valete & Zestia.</p><p>Não inclui armas ou equipamentos.</p>",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Rodrigo Ruza"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.3.3",
+          "verified": "5.3.3"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "global-rules",
+      "label": "Ariadne — Regras Lendárias",
+      "path": "packs/global-rules",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "heroic-paths",
+      "label": "Ariadne — Heroic Paths",
+      "path": "packs/heroic-paths",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "monk-features",
+      "label": "Ariadne — Monk Lendário",
+      "path": "packs/monk-features",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "mythical-techniques",
+      "label": "Ariadne — Mythical Techniques",
+      "path": "packs/mythical-techniques",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "wizard-features",
+      "label": "Ariadne — Wizard Lendário",
+      "path": "packs/wizard-features",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "tenth-level-spells",
+      "label": "Ariadne — Magias de 10º Círculo",
+      "path": "packs/tenth-level-spells",
+      "type": "Item",
+      "system": "dnd5e"
+    }
+  ]
+}

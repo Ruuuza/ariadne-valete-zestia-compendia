@@ -1,0 +1,146 @@
+{
+  "_key": "!items!db229b329a029ff6",
+  "_id": "db229b329a029ff6",
+  "name": "Masterful Deflection",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "0b1c0e773735c5b7": {
+        "type": "utility",
+        "_id": "0b1c0e773735c5b7",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Masterful Deflection"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [
+        {
+          "period": "sr",
+          "type": "recoverAll"
+        }
+      ]
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Monk, p. 52.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Masterful Deflection<br />\n<strong>Identificador sugerido:</strong> <code>legendary-monk-masterful-deflection</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Monk, página 52<br />\n<strong>Ativação:</strong> Reação<br />\n<strong>Custo:</strong> 1 LP; redirecionamento opcional por 5 ou mais Focus<br />\n<strong>Usos:</strong> 1 por descanso curto ou longo</p>\n<h3>Descrição para colar</h3>\n<p>Quando sofre dano de um tipo ao qual possui resistência, você pode usar sua reação e gastar 1 Legendary Point para não sofrer dano.</p>\n<p>Ao usar essa reação, pode gastar 5 Focus Points para redirecionar a força mitigada contra uma criatura que enxergue a até 60 pés. O alvo realiza uma salvaguarda de Destreza.</p>\n<p>Em uma falha, o alvo sofre Soul damage igual ao dano mitigado, até um máximo de 100.</p>\n<p>Você pode gastar Focus adicional na mesma reação. Para cada Focus além dos 5 iniciais, o limite máximo de Soul damage aumenta em 20.</p>\n<p>Depois de usar esta característica, você não pode usá-la novamente até concluir um descanso curto ou longo.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Ativação: reação.</li>\n<li>Gatilho: sofrer dano de tipo resistido.</li>\n<li>Consumo: 1 LP.</li>\n<li>Usos: 1.</li>\n<li>Recarga: descanso curto ou longo.</li>\n<li>Criar atividade opcional <code>Redirect</code>.</li>\n<li>Consumo do Redirect: 5 Focus, mais gasto manual adicional.</li>\n<li>Alcance: 60 pés.</li>\n<li>Salvaguarda: Dexterity contra a CD das características de Monk ou uma CD definida pelo mestre.</li>\n<li>Dano: Soul, igual ao dano anulado, limitado a 100 + 20 por Focus extra.</li>\n<li>O dano mitigado deve ser anotado manualmente.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "masterful-deflection",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "52",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 22,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "monk",
+      "sourcePage": "52",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 700000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

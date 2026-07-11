@@ -1,0 +1,141 @@
+{
+  "_key": "!items!d6e50f134a7dabca",
+  "_id": "d6e50f134a7dabca",
+  "name": "Heroic Sharpshooter",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "d9596730a72c6e81": {
+        "type": "utility",
+        "_id": "d9596730a72c6e81",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Heroic Sharpshooter"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Sniper, p. 93.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Heroic Sharpshooter<br />\n<strong>Identificador sugerido:</strong> <code>legendary-sniper-heroic-sharpshooter</code><br />\n<strong>Tipo:</strong> Feat — Epic<br />\n<strong>Pré-requisito:</strong> Destreza 20 ou maior<br />\n<strong>Fonte:</strong> Legendary Sniper, página 93<br />\n<strong>Ativação:</strong> Passiva, com um gatilho de uma vez por rodada</p>\n<h3>Descrição para colar</h3>\n<p>Enquanto estiver usando uma arma à distância, você dobra os alcances normal e longo da arma. Seus ataques com armas à distância ignoram meia cobertura e três quartos de cobertura.</p>\n<p>Uma vez por rodada, quando você acerta uma criatura de tamanho Enorme ou menor com um ataque de arma à distância, pode prendê-la ou desestabilizar sua movimentação. O deslocamento da criatura é reduzido em 20 pés até o final do próximo turno dela.</p>\n<p>Seus ataques com armas à distância não podem ser realizados com desvantagem. Além disso, sua margem de crítico com ataques de armas à distância aumenta em 1.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Não criar consumo.</li>\n<li>Não criar duração global.</li>\n<li>Criar uma atividade utilitária chamada <code>Pinning Shot</code>.</li>\n<li>Uso da atividade: 1 por rodada, controlado manualmente.</li>\n<li>Duração do efeito: até o final do próximo turno do alvo.</li>\n<li>Redução de deslocamento: 20 pés.</li>\n<li>O aumento de margem crítica e a remoção de desvantagem devem ser controlados manualmente ou por módulo.</li>\n<li>O Laser Rifle passa de 100/300 para 200/600 pés sem modificar o item original.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "heroic-sharpshooter",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "93",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 21,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Dexterity 20+",
+    "type": {
+      "value": "feat",
+      "subtype": "epic"
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic",
+      "sourcePage": "93",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_key": "!items!2f0e05ef4b51ebcd",
+  "_id": "2f0e05ef4b51ebcd",
+  "name": "Soulful Recovery",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Monk, p. 53.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Soulful Recovery<br />\n<strong>Identificador sugerido:</strong> <code>legendary-monk-soulful-recovery</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Monk, página 53<br />\n<strong>Ativação:</strong> Passiva, vinculada a Recover</p>\n<h3>Descrição para colar</h3>\n<p>Quando usa a ação Recover, você também recupera 5 Focus Points.</p>\n<p>Essa recuperação não pode elevar seus Focus Points acima do máximo.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Adicionar lembrete na atividade Recover.</li>\n<li>Recuperação manual de 5 Focus.</li>\n<li>Não criar uma ação separada.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "soulful-recovery",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "53",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 24,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "monk",
+      "sourcePage": "53",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 1200000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

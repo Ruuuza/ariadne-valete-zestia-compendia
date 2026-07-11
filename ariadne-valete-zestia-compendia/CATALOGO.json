@@ -1,0 +1,412 @@
+[
+  {
+    "pack": "global-rules",
+    "_id": "e88b6efd76b2660f",
+    "name": "Legendary Points",
+    "type": "feat",
+    "identifier": "legendary-points",
+    "page": "13",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "global-rules",
+    "_id": "5fec651ef79fbae1",
+    "name": "Recover",
+    "type": "feat",
+    "identifier": "recover",
+    "page": "13",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "global-rules",
+    "_id": "6fee08cab685409e",
+    "name": "Legendary Resistance",
+    "type": "feat",
+    "identifier": "legendary-resistance",
+    "page": "50/78",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "global-rules",
+    "_id": "126fb98468d74039",
+    "name": "Legendary AC",
+    "type": "feat",
+    "identifier": "legendary-ac",
+    "page": "15",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "global-rules",
+    "_id": "74dc5ae6532ada57",
+    "name": "Multiplier Attack — Regra",
+    "type": "feat",
+    "identifier": "multiplier-attack",
+    "page": "13",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "global-rules",
+    "_id": "56bcce73a79ea9fa",
+    "name": "Soul Damage — Regra",
+    "type": "feat",
+    "identifier": "soul-damage",
+    "page": "15",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "global-rules",
+    "_id": "6c458bb325586a0a",
+    "name": "Higher Magic — Regra",
+    "type": "feat",
+    "identifier": "higher-magic",
+    "page": "17",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "global-rules",
+    "_id": "492b16191346190e",
+    "name": "Impaired — Condição",
+    "type": "feat",
+    "identifier": "impaired",
+    "page": "16",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "d6e50f134a7dabca",
+    "name": "Heroic Sharpshooter",
+    "type": "feat",
+    "identifier": "heroic-sharpshooter",
+    "page": "93",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9ba68eb90afba474",
+    "name": "Hunter’s Eye",
+    "type": "feat",
+    "identifier": "hunter-s-eye",
+    "page": "93",
+    "activities": 0,
+    "effects": 1
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "f009d81eedf06e1a",
+    "name": "Absolute Precision",
+    "type": "feat",
+    "identifier": "absolute-precision",
+    "page": "93",
+    "activities": 3,
+    "effects": 0
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "1b35f7a4967b6f5e",
+    "name": "Armor Piercer",
+    "type": "feat",
+    "identifier": "armor-piercer",
+    "page": "93",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "77917f1b169316f8",
+    "name": "Fingers of Toth",
+    "type": "feat",
+    "identifier": "fingers-of-toth",
+    "page": "87",
+    "activities": 0,
+    "effects": 1
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "8ad2795cb53e4d4d",
+    "name": "Magical Geometry",
+    "type": "feat",
+    "identifier": "magical-geometry",
+    "page": "87",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "a23301dab52d1222",
+    "name": "Sharpened Magic",
+    "type": "feat",
+    "identifier": "sharpened-magic",
+    "page": "87",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "7f66964334bef077",
+    "name": "Arcane Shield",
+    "type": "feat",
+    "identifier": "arcane-shield",
+    "page": "87",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "426067f3a1f4add5",
+    "name": "Monk’s AC",
+    "type": "feat",
+    "identifier": "monk-s-ac",
+    "page": "50",
+    "activities": 0,
+    "effects": 3
+  },
+  {
+    "pack": "monk-features",
+    "_id": "8c0d0e6209607e4b",
+    "name": "World Strike",
+    "type": "feat",
+    "identifier": "world-strike",
+    "page": "50",
+    "activities": 3,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "524e867c3b32aa74",
+    "name": "Body, Mind, Soul — 5e",
+    "type": "feat",
+    "identifier": "body-mind-soul-5e",
+    "page": "50",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "27c6b4fd322f4c25",
+    "name": "Legendary Score Improvement",
+    "type": "feat",
+    "identifier": "legendary-score-improvement",
+    "page": "51",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "b6c793879dcf237c",
+    "name": "Wellspring of Ki",
+    "type": "feat",
+    "identifier": "wellspring-of-ki",
+    "page": "51",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "21cb01c039b74782",
+    "name": "Ki-Borne Awareness",
+    "type": "feat",
+    "identifier": "ki-borne-awareness",
+    "page": "52",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "db229b329a029ff6",
+    "name": "Masterful Deflection",
+    "type": "feat",
+    "identifier": "masterful-deflection",
+    "page": "52",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "57a5e14a8995e4d3",
+    "name": "Suppleness of Wind & River",
+    "type": "feat",
+    "identifier": "suppleness-of-wind-river",
+    "page": "53",
+    "activities": 0,
+    "effects": 2
+  },
+  {
+    "pack": "monk-features",
+    "_id": "280c3e79b5d7168f",
+    "name": "Reactive",
+    "type": "feat",
+    "identifier": "reactive",
+    "page": "53",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "32c8f74d4660d994",
+    "name": "Focus Beacon",
+    "type": "feat",
+    "identifier": "focus-beacon",
+    "page": "53",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "f4c2ae4f8eecb4ac",
+    "name": "Improved World Strike",
+    "type": "feat",
+    "identifier": "improved-world-strike",
+    "page": "53",
+    "activities": 2,
+    "effects": 0
+  },
+  {
+    "pack": "monk-features",
+    "_id": "2f0e05ef4b51ebcd",
+    "name": "Soulful Recovery",
+    "type": "feat",
+    "identifier": "soulful-recovery",
+    "page": "53",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "47a0e4924fa69548",
+    "name": "God’s Justice",
+    "type": "feat",
+    "identifier": "god-s-justice",
+    "page": "111",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "2ee079827c89c066",
+    "name": "Intervention",
+    "type": "feat",
+    "identifier": "intervention",
+    "page": "117",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "893eeb7b4fd84895",
+    "name": "Legendary Arcanisms",
+    "type": "feat",
+    "identifier": "legendary-arcanisms",
+    "page": "78",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "85d350b5abf68598",
+    "name": "Sacrificial Conduits",
+    "type": "feat",
+    "identifier": "sacrificial-conduits",
+    "page": "79",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "96cd920981de745c",
+    "name": "10th-Level Spellcasting",
+    "type": "feat",
+    "identifier": "10th-level-spellcasting",
+    "page": "80",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "585934c8a009cdb3",
+    "name": "Efficient Flow",
+    "type": "feat",
+    "identifier": "efficient-flow",
+    "page": "80",
+    "activities": 0,
+    "effects": 1
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "8efc900a4d1e74b5",
+    "name": "Greater Magicker",
+    "type": "feat",
+    "identifier": "greater-magicker",
+    "page": "80",
+    "activities": 0,
+    "effects": 1
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "ce2b7cde093a2da6",
+    "name": "Omniturgical Possibility",
+    "type": "feat",
+    "identifier": "omniturgical-possibility",
+    "page": "80",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "87c752e649533531",
+    "name": "Arcane Resilience",
+    "type": "feat",
+    "identifier": "arcane-resilience",
+    "page": "81",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "ae74df6b4c8a91c4",
+    "name": "Wizardly Recovery",
+    "type": "feat",
+    "identifier": "wizardly-recovery",
+    "page": "81",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "wizard-features",
+    "_id": "6c751582fca1af4a",
+    "name": "Memorized Spellbook",
+    "type": "feat",
+    "identifier": "memorized-spellbook",
+    "page": "81",
+    "activities": 0,
+    "effects": 0
+  },
+  {
+    "pack": "tenth-level-spells",
+    "_id": "c621359263f3ebce",
+    "name": "[10º] Greater Simulacrum",
+    "type": "spell",
+    "identifier": "greater-simulacrum",
+    "page": "127",
+    "activities": 1,
+    "effects": 0
+  },
+  {
+    "pack": "tenth-level-spells",
+    "_id": "5d827b7e50629f8f",
+    "name": "[10º] Allmage",
+    "type": "spell",
+    "identifier": "allmage",
+    "page": "123",
+    "activities": 1,
+    "effects": 0
+  }
+]

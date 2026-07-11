@@ -1,0 +1,122 @@
+{
+  "_key": "!items!8efc900a4d1e74b5",
+  "_id": "8efc900a4d1e74b5",
+  "name": "Greater Magicker",
+  "type": "feat",
+  "effects": [
+    {
+      "_key": "!items.effects!8efc900a4d1e74b5.56888183741fa131",
+      "_id": "56888183741fa131",
+      "name": "Greater Magicker — Spell DC +2",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.bonuses.spell.dc",
+            "value": 2,
+            "priority": 20,
+            "type": "add",
+            "phase": "initial"
+          }
+        ]
+      },
+      "statuses": [],
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "tint": "#ffffff",
+      "transfer": true,
+      "disabled": false,
+      "flags": {},
+      "description": "",
+      "origin": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.361",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783771200000,
+        "modifiedTime": 1783771200000,
+        "lastModifiedBy": null
+      },
+      "start": {
+        "combat": null,
+        "round": null,
+        "time": 0,
+        "turn": null,
+        "combatant": null,
+        "initiative": null
+      },
+      "showIcon": 1,
+      "folder": null
+    }
+  ],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Wizard, p. 80.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Greater Magicker<br />\n<strong>Identificador sugerido:</strong> <code>legendary-wizard-greater-magicker</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Wizard, página 80<br />\n<strong>Ativação:</strong> Passiva</p>\n<h3>Descrição para colar</h3>\n<p>Sua Spell Save DC aumenta em 2.</p>\n<p>Todas as suas magias contam como Higher Magic para as regras de Tiers of Magic, mesmo quando forem originalmente magias de círculo inferior.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Active Effect de Spell Save DC: +2.</li>\n<li>Chave possível: <code>system.bonuses.spell.dc</code>.</li>\n<li>Não aumentar spell attack.</li>\n<li>Adicionar <code>Higher Magic</code> à descrição das conjurações ou à ficha.</li>\n<li>No Wizard 24, com INT 24 e PB +8, a CD base esperada é 25 antes de itens.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "greater-magicker",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "80",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 23,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Wizard 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "wizard",
+      "sourcePage": "80",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 500000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

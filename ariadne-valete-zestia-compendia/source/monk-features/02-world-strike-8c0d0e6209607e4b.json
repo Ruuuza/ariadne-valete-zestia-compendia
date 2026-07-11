@@ -1,0 +1,323 @@
+{
+  "_key": "!items!8c0d0e6209607e4b",
+  "_id": "8c0d0e6209607e4b",
+  "name": "World Strike",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "1860a59a69597097": {
+        "type": "utility",
+        "_id": "1860a59a69597097",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "World Strike"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      },
+      "5f48a95f2b13c4bb": {
+        "type": "damage",
+        "_id": "5f48a95f2b13c4bb",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "World Strike — 4d8 × 5 Soul"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "damage": {
+          "parts": [
+            {
+              "number": null,
+              "denomination": 0,
+              "bonus": "",
+              "types": [],
+              "custom": {
+                "enabled": true,
+                "formula": "4d8 * 5"
+              },
+              "scaling": {
+                "mode": "",
+                "number": null,
+                "formula": ""
+              }
+            }
+          ],
+          "critical": {
+            "bonus": "",
+            "allow": false
+          }
+        }
+      },
+      "641b5531004d9a4c": {
+        "type": "damage",
+        "_id": "641b5531004d9a4c",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "World Strike — Crítico 6d8 × 5 Soul"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "damage": {
+          "parts": [
+            {
+              "number": null,
+              "denomination": 0,
+              "bonus": "",
+              "types": [],
+              "custom": {
+                "enabled": true,
+                "formula": "6d8 * 5"
+              },
+              "scaling": {
+                "mode": "",
+                "number": null,
+                "formula": ""
+              }
+            }
+          ],
+          "critical": {
+            "bonus": "",
+            "allow": false
+          }
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Monk, p. 50.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> World Strike<br />\n<strong>Identificador sugerido:</strong> <code>legendary-monk-world-strike</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Monk, página 50<br />\n<strong>Ativação:</strong> Ação<br />\n<strong>Custo:</strong> 1 LP<br />\n<strong>Alcance:</strong> Alcance do ataque desarmado ou arma corpo a corpo<br />\n<strong>Duração:</strong> Instantânea</p>\n<h3>Descrição para colar</h3>\n<p>Você canaliza sua maestria marcial em um único golpe amplificado por Focus.</p>\n<p>Use sua ação e gaste 1 Legendary Point para realizar um ataque desarmado ou um ataque com arma corpo a corpo contra uma criatura dentro do alcance.</p>\n<p>Em um acerto, o ataque causa 4d8 × 5 Soul damage. Esse ataque não recebe qualquer bônus adicional de dano.</p>\n<p>Em um acerto crítico, não dobre os dados. Em vez disso, cause 6d8 × 5 Soul damage.</p>\n<p>Você não pode usar Stunning Strike nesse ataque.</p>\n<p>Depois de acertar, pode gastar 8 Focus Points para forçar o alvo a realizar uma salvaguarda de Constituição CD 30. Em uma falha, o alvo fica Stunned até o final do próximo turno dele.</p>\n<h3>Configuração recomendada</h3>\n<p>Crie quatro atividades:</p>\n<p><strong>World Strike — Ataque</strong></p>\n<ul>\n<li>Ativação: ação.</li>\n<li>Consumo: 1 LP.</li>\n<li>Rolagem: ataque desarmado ou arma corpo a corpo existente.</li>\n</ul>\n<p><strong>World Strike — Dano</strong></p>\n<ul>\n<li>Fórmula: <code>4d8 * 5</code>.</li>\n<li>Tipo: Soul.</li>\n<li>Sem modificador.</li>\n</ul>\n<p><strong>World Strike — Crítico</strong></p>\n<ul>\n<li>Fórmula: <code>6d8 * 5</code>.</li>\n<li>Tipo: Soul.</li>\n<li>Sem modificador.</li>\n</ul>\n<p><strong>World Strike — Stun</strong></p>\n<ul>\n<li>Gatilho: depois de acertar.</li>\n<li>Consumo: 8 Focus Points.</li>\n<li>Salvaguarda: Constituição CD 30.</li>\n<li>Condição: Stunned.</li>\n<li>Duração: até o final do próximo turno do alvo.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "world-strike",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "50",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "monk",
+      "sourcePage": "50",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 200000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

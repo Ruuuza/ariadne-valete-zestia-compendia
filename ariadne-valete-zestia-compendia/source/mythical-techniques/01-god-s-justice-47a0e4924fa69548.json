@@ -1,0 +1,141 @@
+{
+  "_key": "!items!47a0e4924fa69548",
+  "_id": "47a0e4924fa69548",
+  "name": "God’s Justice",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "79b01d325b5f4e92": {
+        "type": "utility",
+        "_id": "79b01d325b5f4e92",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "God’s Justice"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Mythical Techniques, p. 111.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> God’s Justice<br />\n<strong>Identificador sugerido:</strong> <code>mythical-technique-gods-justice</code><br />\n<strong>Tipo:</strong> Feat — Epic / Mythical Technique<br />\n<strong>Escola:</strong> Ichimonji<br />\n<strong>Classes:</strong> Fighter, Monk, Paladin<br />\n<strong>Arma:</strong> Qualquer arma, ataque desarmado ou arma natural<br />\n<strong>Fonte:</strong> Página 111<br />\n<strong>Ativação:</strong> Ação<br />\n<strong>Custo:</strong> 1 LP<br />\n<strong>Alcance:</strong> 240 pés<br />\n<strong>Duração:</strong> Concentração, até 1 minuto</p>\n<h3>Descrição para colar</h3>\n<p>Você canaliza sua alma em um golpe inevitável e marca uma criatura a até 240 pés.</p>\n<p>Durante a duração, sempre que o alvo marcado realizar uma ação, ação bônus ou Extra Action, você pode usar sua reação para se teleportar para um espaço desocupado a até 60 pés dele. Esse teleporte funciona independentemente da distância atual entre vocês e pode atravessar planos de existência.</p>\n<p>Depois de se teleportar, você pode realizar um único ataque contra o alvo com vantagem.</p>\n<p>Em um acerto, o alvo deve realizar uma salvaguarda de Constituição contra sua Mythical Technique Save DC. Em uma falha, fica Stunned até o final do próximo turno dele. Caso seja imune a Stunned, recebe Impaired pelo mesmo período.</p>\n<p>O efeito termina antecipadamente se o alvo morrer.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Ativação inicial: ação.</li>\n<li>Consumo inicial: 1 LP.</li>\n<li>Alcance de marcação: 240 pés.</li>\n<li>Duração: concentração, 1 minuto.</li>\n<li>Aplicar efeito <code>Marked by God’s Justice</code> no alvo.</li>\n<li>Cada resposta usa uma reação, mas não gasta LP adicional.</li>\n<li>Teleporte de resposta: espaço livre a até 60 pés do alvo.</li>\n<li>Ataque: usar arma ou Unarmed Strike existente, com vantagem.</li>\n<li>Salvaguarda final:<ul>\n<li>Monk 21: Constitution CD 21.</li>\n<li>Monk 22–23: Constitution CD 22.</li>\n<li>Monk 24: Constitution CD 23.</li>\n</ul>\n</li>\n<li>Condição em falha: Stunned até o final do próximo turno do alvo.</li>\n<li>Imunidade a Stunned: aplicar Impaired.</li>\n<li>Reactive permite outra reação na rodada, mas não uma segunda God’s Justice na mesma rodada.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "god-s-justice",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "111",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 21,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk, Fighter or Paladin",
+    "type": {
+      "value": "feat",
+      "subtype": "epic"
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "technique",
+      "sourcePage": "111",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

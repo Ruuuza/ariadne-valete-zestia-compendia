@@ -1,0 +1,141 @@
+{
+  "_key": "!items!2ee079827c89c066",
+  "_id": "2ee079827c89c066",
+  "name": "Intervention",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "7bd93bd7a09ae32f": {
+        "type": "utility",
+        "_id": "7bd93bd7a09ae32f",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Intervention"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Mythical Techniques, p. 117.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Intervention<br />\n<strong>Identificador sugerido:</strong> <code>mythical-technique-intervention</code><br />\n<strong>Tipo:</strong> Feat — Epic / Mythical Technique<br />\n<strong>Escola:</strong> Sunyata<br />\n<strong>Classes:</strong> Monk, Paladin, Ranger<br />\n<strong>Fonte:</strong> Página 117<br />\n<strong>Ativação:</strong> Reação<br />\n<strong>Gatilho:</strong> Você ou um aliado a até 60 pés é escolhido como alvo de um ataque ou magia<br />\n<strong>Custo:</strong> 1 LP<br />\n<strong>Alcance:</strong> 60 pés<br />\n<strong>Duração:</strong> Instantânea</p>\n<h3>Descrição para colar</h3>\n<p>Quando você ou um aliado a até 60 pés é escolhido como alvo de um ataque ou magia, você esvazia a mente de toda hesitação e surge onde é necessário.</p>\n<p>Use sua reação e gaste 1 Legendary Point para se teleportar para um espaço desocupado a até 60 pés. Imediatamente depois, realize uma ação.</p>\n<p>A ação concedida por Intervention não pode ser usada para realizar Recover.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Ativação: reação.</li>\n<li>Consumo: 1 LP.</li>\n<li>Alcance: 60 pés.</li>\n<li>Teleporte: até 60 pés para espaço desocupado.</li>\n<li>Depois do teleporte, conceder uma ação manual.</li>\n<li>A ação pode ser usada para:<ul>\n<li>Attack.</li>\n<li>Cast a Spell.</li>\n<li>Legendary Shot.</li>\n<li>World Strike, gastando mais 1 LP.</li>\n</ul>\n</li>\n<li>A ação não pode ser Recover.</li>\n<li>Com Reactive, Intervention pode coexistir com outra reação em gatilho diferente.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "intervention",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "117",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 24,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk, Paladin or Ranger",
+    "type": {
+      "value": "feat",
+      "subtype": "epic"
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "technique",
+      "sourcePage": "117",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 200000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

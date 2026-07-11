@@ -1,0 +1,129 @@
+{
+  "_key": "!items!77917f1b169316f8",
+  "_id": "77917f1b169316f8",
+  "name": "Fingers of Toth",
+  "type": "feat",
+  "effects": [
+    {
+      "_key": "!items.effects!77917f1b169316f8.507549ca3d7541c5",
+      "_id": "507549ca3d7541c5",
+      "name": "Arcane Precision +3",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.bonuses.msak.attack",
+            "value": 3,
+            "priority": 20,
+            "type": "add",
+            "phase": "initial"
+          },
+          {
+            "key": "system.bonuses.rsak.attack",
+            "value": 3,
+            "priority": 20,
+            "type": "add",
+            "phase": "initial"
+          }
+        ]
+      },
+      "statuses": [],
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "tint": "#ffffff",
+      "transfer": true,
+      "disabled": false,
+      "flags": {},
+      "description": "",
+      "origin": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.361",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783771200000,
+        "modifiedTime": 1783771200000,
+        "lastModifiedBy": null
+      },
+      "start": {
+        "combat": null,
+        "round": null,
+        "time": 0,
+        "turn": null,
+        "combatant": null,
+        "initiative": null
+      },
+      "showIcon": 1,
+      "folder": null
+    }
+  ],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Arcane Marksman, p. 87.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Fingers of Toth<br />\n<strong>Identificador sugerido:</strong> <code>arcane-marksman-fingers-of-toth</code><br />\n<strong>Tipo:</strong> Feat — Epic<br />\n<strong>Pré-requisito:</strong> Spellcasting ou Pact Magic<br />\n<strong>Fonte:</strong> Arcane Marksman, página 87<br />\n<strong>Ativação:</strong> Passiva e integrada à conjuração</p>\n<h3>Descrição para colar</h3>\n<p>Você recebe +3 em rolagens de ataque mágico. Sua margem de crítico com ataques mágicos aumenta em 1.</p>\n<p>Quando conjura uma magia de 1º círculo ou superior, você pode conjurar, como parte da mesma ação, um cantrip cujo tempo de conjuração seja uma ação ou uma ação bônus. O cantrip não exige uma ação adicional, mas continua obedecendo seus demais requisitos.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Bônus de ataque mágico corpo a corpo: +3.</li>\n<li>Bônus de ataque mágico à distância: +3.</li>\n<li>Chaves de efeito possíveis:<ul>\n<li><code>system.bonuses.msak.attack</code></li>\n<li><code>system.bonuses.rsak.attack</code></li>\n</ul>\n</li>\n<li>Margem crítica ampliada: controle manual ou por módulo.</li>\n<li>Quickened Cantrip: não criar consumo; usar como lembrete no chat.</li>\n<li>O cantrip é lançado como parte da mesma ação da magia de nível.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "fingers-of-toth",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "87",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 21,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Spellcasting or Pact Magic",
+    "type": {
+      "value": "feat",
+      "subtype": "epic"
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic",
+      "sourcePage": "87",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 500000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

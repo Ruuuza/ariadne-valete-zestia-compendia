@@ -1,0 +1,68 @@
+{
+  "_key": "!items!96cd920981de745c",
+  "_id": "96cd920981de745c",
+  "name": "10th-Level Spellcasting",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Wizard, p. 80.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> 10th-Level Spellcasting<br />\n<strong>Identificador sugerido:</strong> <code>legendary-wizard-10th-level-spellcasting</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Wizard, página 80<br />\n<strong>Ativação:</strong> Passiva e regra de conjuração</p>\n<h3>Descrição para colar</h3>\n<p>No Wizard 22, você aprende uma magia de 10º círculo. No Wizard 24, aprende uma segunda magia de 10º círculo.</p>\n<p>Sempre que inicia a conjuração de uma magia de 10º círculo, deve gastar:</p>\n<ul>\n<li>A ação exigida pela magia.</li>\n<li>Um slot de 10º círculo.</li>\n<li>2 Legendary Points.</li>\n</ul>\n<p>As magias escolhidas para Zestia são:</p>\n<ul>\n<li>Wizard 22: Greater Simulacrum.</li>\n<li>Wizard 24: Allmage.</li>\n</ul>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Criar recurso <code>10th-Level Slot</code>, máximo 1.</li>\n<li>Recuperação: descanso longo.</li>\n<li>Cada magia consome:<ul>\n<li>1 slot de 10º.</li>\n<li>2 LP.</li>\n</ul>\n</li>\n<li>Quando o Foundry não aceitar nível 10:<ul>\n<li>Nomear <code>[10º] Greater Simulacrum</code>.</li>\n<li>Nomear <code>[10º] Allmage</code>.</li>\n<li>Configurar nível 9 apenas como compatibilidade visual.</li>\n<li>Usar o recurso personalizado para o slot real.</li>\n</ul>\n</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "10th-level-spellcasting",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "80",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 22,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Wizard 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "wizard",
+      "sourcePage": "80",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 300000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

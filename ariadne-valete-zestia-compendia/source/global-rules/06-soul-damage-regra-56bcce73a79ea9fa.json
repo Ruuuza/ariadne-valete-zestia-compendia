@@ -1,0 +1,68 @@
+{
+  "_key": "!items!56bcce73a79ea9fa",
+  "_id": "56bcce73a79ea9fa",
+  "name": "Soul Damage — Regra",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Regras gerais, p. 15.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Soul Damage — Regra<br />\n<strong>Identificador sugerido:</strong> <code>soul-damage-rule</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Regras gerais, página 15<br />\n<strong>Ativação:</strong> Passiva</p>\n<h3>Descrição para colar</h3>\n<p>Soul damage se manifesta como uma chama branca que fere diretamente a alma.</p>\n<p>Criaturas sem alma, incluindo Constructs e certos mortos-vivos corpóreos, podem ser imunes a Soul damage, a critério do mestre.</p>\n<p>Soul damage:</p>\n<ul>\n<li>Afeta criaturas no Plano Etéreo.</li>\n<li>Ignora pontos de vida temporários.</li>\n<li>Não pode ser resistido nem reduzido por meios normais.</li>\n<li>Continua afetando criaturas protegidas por imunidade geral a dano, salvo quando a criatura não possui alma ou uma regra declarar explicitamente o contrário.</li>\n</ul>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Como o dnd5e pode não possuir <code>soul</code> como tipo nativo, usar tipo customizado ou <code>untyped</code>.</li>\n<li>Sempre escrever <code>Soul</code> no rótulo da rolagem.</li>\n<li>Ignorar THP manualmente.</li>\n<li>O mestre decide imunidade de Constructs e mortos-vivos.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "soul-damage",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "15",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "global",
+      "sourcePage": "15",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 600000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

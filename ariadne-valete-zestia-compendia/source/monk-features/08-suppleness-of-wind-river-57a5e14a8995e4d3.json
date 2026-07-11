@@ -1,0 +1,189 @@
+{
+  "_key": "!items!57a5e14a8995e4d3",
+  "_id": "57a5e14a8995e4d3",
+  "name": "Suppleness of Wind & River",
+  "type": "feat",
+  "effects": [
+    {
+      "_key": "!items.effects!57a5e14a8995e4d3.f1bce2e8cf85af50",
+      "_id": "f1bce2e8cf85af50",
+      "name": "Monk 23 — +10 movimento e voo 40",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.movement.bonus",
+            "value": 10,
+            "priority": 20,
+            "type": "add",
+            "phase": "initial"
+          },
+          {
+            "key": "system.attributes.movement.fly",
+            "value": 40,
+            "priority": 20,
+            "type": "upgrade",
+            "phase": "initial"
+          }
+        ]
+      },
+      "statuses": [],
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "tint": "#ffffff",
+      "transfer": true,
+      "disabled": false,
+      "flags": {},
+      "description": "",
+      "origin": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.361",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783771200000,
+        "modifiedTime": 1783771200000,
+        "lastModifiedBy": null
+      },
+      "start": {
+        "combat": null,
+        "round": null,
+        "time": 0,
+        "turn": null,
+        "combatant": null,
+        "initiative": null
+      },
+      "showIcon": 1,
+      "folder": null
+    },
+    {
+      "_key": "!items.effects!57a5e14a8995e4d3.9988c762088be3b7",
+      "_id": "9988c762088be3b7",
+      "name": "Monk 24 — +20 movimento e voo 50",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.movement.bonus",
+            "value": 20,
+            "priority": 20,
+            "type": "add",
+            "phase": "initial"
+          },
+          {
+            "key": "system.attributes.movement.fly",
+            "value": 50,
+            "priority": 20,
+            "type": "upgrade",
+            "phase": "initial"
+          }
+        ]
+      },
+      "statuses": [],
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "tint": "#ffffff",
+      "transfer": true,
+      "disabled": true,
+      "flags": {},
+      "description": "",
+      "origin": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.361",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783771200000,
+        "modifiedTime": 1783771200000,
+        "lastModifiedBy": null
+      },
+      "start": {
+        "combat": null,
+        "round": null,
+        "time": 0,
+        "turn": null,
+        "combatant": null,
+        "initiative": null
+      },
+      "showIcon": 1,
+      "folder": null
+    }
+  ],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Monk, p. 53.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Suppleness of Wind &amp; River<br />\n<strong>Identificador sugerido:</strong> <code>legendary-monk-suppleness-wind-river</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Monk, página 53<br />\n<strong>Ativação:</strong> Passiva</p>\n<h3>Descrição para colar</h3>\n<p>Você aprende a caminhar sobre o próprio ar.</p>\n<p>No Monk 23, recebe deslocamento de voo de 40 pés e seu bônus de Unarmored Movement aumenta para +40 pés.</p>\n<p>No Monk 24, o voo aumenta para 50 pés e Unarmored Movement aumenta para +50 pés.</p>\n<p>Quando recebe de outra fonte um deslocamento de voo superior ao fornecido por esta característica, pode adicionar seu bônus de Unarmored Movement ao novo deslocamento de voo.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Monk 23:<ul>\n<li>Unarmored Movement: +40 pés.</li>\n<li>Fly: 40 pés.</li>\n</ul>\n</li>\n<li>Monk 24:<ul>\n<li>Unarmored Movement: +50 pés.</li>\n<li>Fly: 50 pés.</li>\n</ul>\n</li>\n<li>Substituir os valores anteriores; não acumular.</li>\n<li>A soma com outro voo superior depende de ajuste manual.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "suppleness-of-wind-river",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "53",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 23,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "monk",
+      "sourcePage": "53",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 800000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

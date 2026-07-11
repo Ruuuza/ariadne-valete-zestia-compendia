@@ -1,0 +1,122 @@
+{
+  "_key": "!items!585934c8a009cdb3",
+  "_id": "585934c8a009cdb3",
+  "name": "Efficient Flow",
+  "type": "feat",
+  "effects": [
+    {
+      "_key": "!items.effects!585934c8a009cdb3.699668c4d495a976",
+      "_id": "699668c4d495a976",
+      "name": "Efficient Flow — 2 concentrações",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.concentration.limit",
+            "value": 2,
+            "priority": 20,
+            "type": "override",
+            "phase": "initial"
+          }
+        ]
+      },
+      "statuses": [],
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "tint": "#ffffff",
+      "transfer": true,
+      "disabled": false,
+      "flags": {},
+      "description": "",
+      "origin": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.361",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783771200000,
+        "modifiedTime": 1783771200000,
+        "lastModifiedBy": null
+      },
+      "start": {
+        "combat": null,
+        "round": null,
+        "time": 0,
+        "turn": null,
+        "combatant": null,
+        "initiative": null
+      },
+      "showIcon": 1,
+      "folder": null
+    }
+  ],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Wizard, p. 80.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Efficient Flow<br />\n<strong>Identificador sugerido:</strong> <code>legendary-wizard-efficient-flow</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Wizard, página 80<br />\n<strong>Ativação:</strong> Passiva</p>\n<h3>Descrição para colar</h3>\n<p>Você pode conjurar várias magias que gastem slots no mesmo turno, ignorando a restrição usual de conjuração que impediria essa combinação, desde que possua ações, ações bônus, reações ou outras ações válidas para realizá-las.</p>\n<p>Você também pode manter concentração em uma magia adicional, totalizando duas concentrações simultâneas.</p>\n<p>Se sua concentração for quebrada, todas as magias nas quais estiver concentrando terminam.</p>\n<p>O número máximo de concentrações nunca pode ultrapassar 4, mesmo com várias fontes.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Definir limite de concentração como 2, se o módulo permitir.</li>\n<li>Sem módulo, aplicar dois efeitos de concentração e rolar uma única salvaguarda.</li>\n<li>Em falha, remover os dois efeitos.</li>\n<li>A característica não concede ações extras por si só.</li>\n<li>Quickened Cantrip, Intervention e demais fontes de ação continuam necessárias.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "efficient-flow",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "80",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 22,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Wizard 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "wizard",
+      "sourcePage": "80",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 400000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_key": "!items!492b16191346190e",
+  "_id": "492b16191346190e",
+  "name": "Impaired — Condição",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Regras gerais, p. 16.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Impaired<br />\n<strong>Identificador sugerido:</strong> <code>condition-impaired</code><br />\n<strong>Tipo:</strong> Feat ou condição personalizada<br />\n<strong>Fonte:</strong> Regras gerais, página 16<br />\n<strong>Ativação:</strong> Passiva enquanto aplicado</p>\n<h3>Descrição para colar</h3>\n<p>Uma criatura Impaired não pode realizar ações ou habilidades que custem 3 ou mais Legendary Points.</p>\n<p>A duração depende da habilidade que aplicou a condição. Um Legendary Foe normalmente pode encerrar Impaired no início do próprio turno gastando 1 Legendary Point, conforme as regras de Cleanse Effect da criatura.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Criar condição personalizada com ícone próprio.</li>\n<li>Não impede ações normais.</li>\n<li>Impede somente ações que custem 3 LP ou mais.</li>\n<li>God’s Justice aplica Impaired quando o alvo é imune a Stunned.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "impaired",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "16",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "global",
+      "sourcePage": "16",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 800000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

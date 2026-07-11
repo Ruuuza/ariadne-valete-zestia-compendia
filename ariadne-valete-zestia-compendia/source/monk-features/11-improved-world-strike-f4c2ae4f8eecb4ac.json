@@ -1,0 +1,251 @@
+{
+  "_key": "!items!f4c2ae4f8eecb4ac",
+  "_id": "f4c2ae4f8eecb4ac",
+  "name": "Improved World Strike",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "1ec618583eb1d6da": {
+        "type": "damage",
+        "_id": "1ec618583eb1d6da",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Improved World Strike — 7d8 × 5 Soul"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "damage": {
+          "parts": [
+            {
+              "number": null,
+              "denomination": 0,
+              "bonus": "",
+              "types": [],
+              "custom": {
+                "enabled": true,
+                "formula": "7d8 * 5"
+              },
+              "scaling": {
+                "mode": "",
+                "number": null,
+                "formula": ""
+              }
+            }
+          ],
+          "critical": {
+            "bonus": "",
+            "allow": false
+          }
+        }
+      },
+      "f529e53fe73269e2": {
+        "type": "damage",
+        "_id": "f529e53fe73269e2",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Improved World Strike — Crítico 9d8 × 5 Soul"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "damage": {
+          "parts": [
+            {
+              "number": null,
+              "denomination": 0,
+              "bonus": "",
+              "types": [],
+              "custom": {
+                "enabled": true,
+                "formula": "9d8 * 5"
+              },
+              "scaling": {
+                "mode": "",
+                "number": null,
+                "formula": ""
+              }
+            }
+          ],
+          "critical": {
+            "bonus": "",
+            "allow": false
+          }
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Monk, p. 53.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Improved World Strike<br />\n<strong>Identificador sugerido:</strong> <code>legendary-monk-improved-world-strike</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Monk, página 53<br />\n<strong>Ativação:</strong> Passiva</p>\n<h3>Descrição para colar</h3>\n<p>No Monk 24, o dano de World Strike aumenta.</p>\n<p>Em um acerto normal, World Strike causa 7d8 × 5 Soul damage.</p>\n<p>Em um acerto crítico, World Strike causa 9d8 × 5 Soul damage.</p>\n<p>As demais regras de World Strike permanecem: custo de 1 LP, nenhuma adição de bônus de dano e proibição de Stunning Strike no ataque.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Substituir as atividades antigas de dano:<ul>\n<li>Normal: <code>7d8 * 5</code>.</li>\n<li>Crítico: <code>9d8 * 5</code>.</li>\n</ul>\n</li>\n<li>Não manter simultaneamente as fórmulas de nível 20 e nível 24 como padrão.</li>\n<li>Pode manter as antigas desativadas apenas para histórico.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "improved-world-strike",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "53",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 24,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "monk",
+      "sourcePage": "53",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 1100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

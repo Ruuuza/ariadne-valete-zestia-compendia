@@ -1,0 +1,68 @@
+{
+  "_key": "!items!87c752e649533531",
+  "_id": "87c752e649533531",
+  "name": "Arcane Resilience",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Wizard, p. 81.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Arcane Resilience<br />\n<strong>Identificador sugerido:</strong> <code>legendary-wizard-arcane-resilience</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Wizard, página 81<br />\n<strong>Ativação:</strong> Passiva</p>\n<h3>Descrição para colar</h3>\n<p>Você possui resistência a dano causado por magias.</p>\n<p>Caso já possua resistência a dano de magias por outra fonte, essa proteção se amplia e você passa a possuir resistência a dano causado por todos os efeitos mágicos.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>O dnd5e não representa facilmente “resistência a dano de magias” como tipo de dano.</li>\n<li>Manter como lembrete textual e aplicar metade do dano manualmente.</li>\n<li>Não adicionar resistência a todos os tipos de dano indiscriminadamente.</li>\n<li>A versão ampliada só se aplica quando outra fonte já fornece resistência a dano de magias.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "arcane-resilience",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "81",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 24,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Wizard 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "wizard",
+      "sourcePage": "81",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 700000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

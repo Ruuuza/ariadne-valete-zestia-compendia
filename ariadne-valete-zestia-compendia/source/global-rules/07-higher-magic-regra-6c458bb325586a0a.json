@@ -1,0 +1,68 @@
+{
+  "_key": "!items!6c458bb325586a0a",
+  "_id": "6c458bb325586a0a",
+  "name": "Higher Magic — Regra",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Regras gerais, p. 17.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Higher Magic — Regra<br />\n<strong>Identificador sugerido:</strong> <code>higher-magic-rule</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Regras gerais, página 17<br />\n<strong>Ativação:</strong> Passiva</p>\n<h3>Descrição para colar</h3>\n<p>Magias e efeitos mágicos de 8º ou 9º círculo pertencem normalmente ao tier Higher Magic. Um efeito só pode modificar, encerrar, dissipar ou anular outro efeito mágico quando pertence a um tier igual ou superior ao efeito alvo.</p>\n<p>Greater Magicker faz com que todas as magias de Zestia contem como Higher Magic, mesmo quando forem de círculos inferiores.</p>\n<p>Magias de 10º círculo pertencem ao tier Epic Magic.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Não exige automação.</li>\n<li>Registrar <code>Higher Magic</code> na descrição das magias de Zestia após Wizard 23.</li>\n<li>Resolver Counterspell, Dispel Magic e efeitos semelhantes considerando os tiers.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "higher-magic",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "17",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "global",
+      "sourcePage": "17",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 700000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

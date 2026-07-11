@@ -1,0 +1,141 @@
+{
+  "_key": "!items!21cb01c039b74782",
+  "_id": "21cb01c039b74782",
+  "name": "Ki-Borne Awareness",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "186f2dff038285ba": {
+        "type": "utility",
+        "_id": "186f2dff038285ba",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Ki-Borne Awareness"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Legendary Monk, p. 52.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Ki-Borne Awareness<br />\n<strong>Identificador sugerido:</strong> <code>legendary-monk-ki-borne-awareness</code><br />\n<strong>Tipo:</strong> Feat — Class Feature<br />\n<strong>Fonte:</strong> Legendary Monk, página 52<br />\n<strong>Ativação:</strong> Ação bônus<br />\n<strong>Custo:</strong> 3 Focus, mais Focus opcional<br />\n<strong>Duração:</strong> 1 minuto ou até ficar Incapacitated</p>\n<h3>Descrição para colar</h3>\n<p>Use uma ação bônus e gaste 3 Focus Points para receber truesight com alcance de 30 pés.</p>\n<p>Ao ativar a característica, pode gastar Focus adicional. Para cada Focus Point adicional, aumente o alcance do truesight em 10 pés.</p>\n<p>O efeito dura 1 minuto ou até você ficar Incapacitated.</p>\n<p>No Monk 24, Focus Beacon remove o custo básico de 3 Focus. O aumento acima de 30 pés continua custando 1 Focus para cada 10 pés adicionais.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Ativação: ação bônus.</li>\n<li>Duração: 1 minuto.</li>\n<li>Consumo no Monk 22–23: 3 Focus.</li>\n<li>Consumo no Monk 24: 0 Focus para 30 pés.</li>\n<li>Aumento de alcance: manual.</li>\n<li>Aplicar modo de visão truesight no token quando possível.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "ki-borne-awareness",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "52",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 22,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "monk",
+      "sourcePage": "52",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 600000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

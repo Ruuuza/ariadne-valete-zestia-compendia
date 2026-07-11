@@ -1,0 +1,141 @@
+{
+  "_key": "!items!7f66964334bef077",
+  "_id": "7f66964334bef077",
+  "name": "Arcane Shield",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "61aaab2cce78515f": {
+        "type": "utility",
+        "_id": "61aaab2cce78515f",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Arcane Shield"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Fonte:</strong> Arcane Marksman, p. 87.</p><p><em>Adaptação PT-BR para uso privado. LP, Focus, reações especiais e slot de 10º círculo exigem controle manual.</em></p><p><strong>Nome no Foundry:</strong> Arcane Shield<br />\n<strong>Identificador sugerido:</strong> <code>arcane-marksman-arcane-shield</code><br />\n<strong>Tipo:</strong> Feat — Epic<br />\n<strong>Pré-requisito:</strong> Sharpened Magic<br />\n<strong>Fonte:</strong> Arcane Marksman, página 87<br />\n<strong>Ativação:</strong> Especial, ao causar force damage<br />\n<strong>Custo:</strong> Um slot de 5º círculo</p>\n<h3>Descrição para colar</h3>\n<p>Quando você causa force damage, pode gastar um slot de magia de 5º círculo para receber pontos de vida temporários iguais à metade do force damage causado.</p>\n<p>Pontos de vida temporários não se acumulam. Ao receber uma nova quantidade, escolha entre manter a quantidade atual ou substituí-la pela nova.</p>\n<h3>Configuração recomendada</h3>\n<ul>\n<li>Criar atividade utilitária <code>Arcane Shield</code>.</li>\n<li>Consumo: um slot de 5º círculo.</li>\n<li>Campo de pontos de vida temporários: preenchimento manual.</li>\n<li>Fórmula conceitual: <code>floor(force damage / 2)</code>.</li>\n<li>Para magias que atingem vários alvos, use o dano causado a uma única criatura, salvo decisão diferente do mestre.</li>\n</ul>\n</div>",
+      "chat": ""
+    },
+    "identifier": "arcane-shield",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "87",
+      "license": "",
+      "custom": "Alpha v1.2 — adaptação PT-BR privada",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 24,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Sharpened Magic",
+    "type": {
+      "value": "feat",
+      "subtype": "epic"
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic",
+      "sourcePage": "87",
+      "recommendedFor": "Valete & Zestia",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 800000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}
