@@ -1,0 +1,73 @@
+{
+  "_key": "!items!d4bb02aed24ad4cc",
+  "_id": "d4bb02aed24ad4cc",
+  "name": "Arcane Exemplar",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 78-81.</p><p>Arcane Exemplar</p><p>At 25th level, you gain an additional 9th-level spell slot (included on the class table), and you learn the ability to concentrate on an additional spell at a time. If your concentration is broken, all spells you were concentrating on end.</p><p>The number of spells you can concentrate on at a time can never exceed 4, even if you gain this same benefit from various sources.</p></div>",
+      "chat": ""
+    },
+    "identifier": "wizard-arcane-exemplar",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "78-81",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Wizard level 25",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "78-81",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Wizard",
+      "legendaryLevel": 25,
+      "originalFeatureName": "Arcane Exemplar",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

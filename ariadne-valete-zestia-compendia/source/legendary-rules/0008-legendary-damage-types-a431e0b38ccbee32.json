@@ -1,0 +1,69 @@
+{
+  "_key": "!items!a431e0b38ccbee32",
+  "_id": "a431e0b38ccbee32",
+  "name": "Legendary Damage Types",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 15-16.</p><p>Legendary Damage Types</p><p>Several new damage types appear in this book, exclusive to Legendary Foes and Characters.</p><p>Dark Damage. A blasphemous damage type appearing as black streaks of energy. When a creature takes Dark damage, its hit point maximum is reduced by the same amount for 24 hours. This reduction can be lifted early by Remove Curse, Greater Restoration, or a similar effect. A creature reduced to 0 hit points by Dark damage cannot be revived by any effect below 9th-level. Creatures that are vulnerable to necrotic damage are also vulnerable to Dark damage. This damage type cannot be resisted by effects that guard against spells or physical damage, only by features that explicitly grant resistance to it or to all damage.</p><p>Lethal Damage. A magical form of physical damage, appearing as a powerful red force around a weapon. Creatures vulnerable to bludgeoning, piercing, or slashing damage are also vulnerable to Lethal damage. Lethal damage from critical hits deals triple damage instead of double against creatures that are bloodied. Lethal damage dealt by a Multiplier Attack does not benefit from this triple damage, but instead increases the Multiplier attack’s critical calculation by 1 additional damage die; from 8d8 x 5 to 9d8 x5, for example.</p><p>Soul Damage. A fundamental form of damage appearing as white flame. Soulless creatures–such as constructs and certain corporeal undead–are immune to it, at the DM’s discretion. Attacks or spell effects that deal Soul Damage always affect creatures in the ethereal plane and bypass temporary hit points. Soul damage cannot be resisted or reduced by any means short of having no soul to wound–this also means that, even if a creature is immune to all damage as part of a spell, feature, or artifact, Soul damage will still affect it.</p><p>HERE BE LEGENDS</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-damage-types",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "15-16",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "15-16",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

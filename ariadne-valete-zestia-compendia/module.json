@@ -1,11 +1,14 @@
 {
-  "id": "ariadne-valete-zestia-compendia",
-  "title": "Ariadne — Valete & Zestia: Compêndios Lendários",
-  "description": "<p>Compêndios privados de regras, feats, características lendárias, Mythical Techniques e magias de 10º círculo para Valete & Zestia.</p><p>Não inclui armas ou equipamentos.</p>",
-  "version": "1.0.0",
+  "id": "ariadnes-book-of-legends-alpha-1-2",
+  "title": "Ariadne's Book of Legends - Complete Alpha v1.2 Compendiums",
+  "description": "<p>Complete private Foundry VTT conversion of Ariadne's Book of Legends Alpha v1.2. Includes legendary class progressions, individually importable class features, Kensei Techniques, Heroic Paths, Mythical Techniques, Greater Metamagic, Legendary Invocations, 10th-level spells, relics, reference actors, and a page-by-page English journal transcription.</p>",
+  "version": "1.3.0",
   "authors": [
     {
-      "name": "Rodrigo Ruza"
+      "name": "Codex of Strings (original source)"
+    },
+    {
+      "name": "Private Foundry conversion for Rodrigo Ruza"
     }
   ],
   "compatibility": {
@@ -26,45 +29,87 @@
   },
   "packs": [
     {
-      "name": "global-rules",
-      "label": "Ariadne — Regras Lendárias",
-      "path": "packs/global-rules",
+      "name": "legendary-rules",
+      "label": "Ariadne - Legendary Rules",
+      "path": "packs/legendary-rules",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "legendary-classes",
+      "label": "Ariadne - Legendary Classes 20-25",
+      "path": "packs/legendary-classes",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "legendary-class-features",
+      "label": "Ariadne - Individual Legendary Class Features",
+      "path": "packs/legendary-class-features",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "kensei-techniques",
+      "label": "Ariadne - Kensei Techniques",
+      "path": "packs/kensei-techniques",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "greater-metamagic",
+      "label": "Ariadne - Greater Metamagic",
+      "path": "packs/greater-metamagic",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "legendary-invocations",
+      "label": "Ariadne - Legendary Invocations",
+      "path": "packs/legendary-invocations",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "heroic-paths",
-      "label": "Ariadne — Heroic Paths",
+      "label": "Ariadne - Heroic Paths",
       "path": "packs/heroic-paths",
       "type": "Item",
       "system": "dnd5e"
     },
     {
-      "name": "monk-features",
-      "label": "Ariadne — Monk Lendário",
-      "path": "packs/monk-features",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
       "name": "mythical-techniques",
-      "label": "Ariadne — Mythical Techniques",
+      "label": "Ariadne - Mythical Techniques",
       "path": "packs/mythical-techniques",
       "type": "Item",
       "system": "dnd5e"
     },
     {
-      "name": "wizard-features",
-      "label": "Ariadne — Wizard Lendário",
-      "path": "packs/wizard-features",
+      "name": "epic-spells",
+      "label": "Ariadne - 10th-Level Epic Spells",
+      "path": "packs/epic-spells",
       "type": "Item",
       "system": "dnd5e"
     },
     {
-      "name": "tenth-level-spells",
-      "label": "Ariadne — Magias de 10º Círculo",
-      "path": "packs/tenth-level-spells",
+      "name": "legendary-items",
+      "label": "Ariadne - Legendary Items and Relics",
+      "path": "packs/legendary-items",
       "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "legendary-foes",
+      "label": "Ariadne - Legendary Foes and Forms",
+      "path": "packs/legendary-foes",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "book-reference",
+      "label": "Ariadne - Complete Book Reference",
+      "path": "packs/book-reference",
+      "type": "JournalEntry",
       "system": "dnd5e"
     }
   ]

@@ -1,0 +1,74 @@
+{
+  "_key": "!items!9f85530fe6b729a3",
+  "_id": "9f85530fe6b729a3",
+  "name": "Legendary Throwing",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 116.</p><p>Legendary Throwing</p><p>Passive, Durandal</p><p>Classes: Barbarian, Fighter Range: Self</p><p>Your throwing arm carries the force of legend behind it. The range of any thrown weapon you use is multiplied by 100. When you hit a creature with a thrown weapon, it must succeed on a Strength saving throw against your Mythical Technique save DC or be pushed a number of feet away from you equal to 5 times your Strength modifier and knocked prone. A creature pushed into a wall or solid surface takes an additional 5d10 bludgeoning damage. In addition, you gain the ability to throw creatures and objects you are grappling an incredible distance away. When you take the Attack action, you can replace an attack with a Fling.</p><p>Fling. One Medium or smaller object held or creature grappled by you is thrown up to 120 feet in a direction of your choice and knocked prone. If a thrown target strikes a solid surface, the target takes 10d6 bludgeoning damage. If the target is thrown at another creature, that creature must succeed on a Dexterity saving throw or take the same damage and be knocked prone. Flinging a creature ends your grapple.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-throwing",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "116",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian, Fighter",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "116",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "school": "Durandal",
+      "techniqueType": "Passive",
+      "weapon": "—",
+      "classes": "Barbarian, Fighter",
+      "legendaryPointCost": "See description"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

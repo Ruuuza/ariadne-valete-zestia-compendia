@@ -1,0 +1,69 @@
+{
+  "_key": "!items!a5839a45a877a7fa",
+  "_id": "a5839a45a877a7fa",
+  "name": "Difficulty Classes",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 15.</p><p>Difficulty Classes</p><p>There is beautiful math behind most interactions in the 5e and 5.5e system. Proficiency Bonus + Statistic Modifier + Number = DC. This formula is good enough for lower levels, but becomes quite cumbersome even before reaching the Legendary Levels.</p><p>Characters will mostly retain these sorts of Difficulty Class calculations, though some Mythical Techniques and 10th-level Spells have their own DCs.</p><p>Legendary Foes will have a plethora of different Difficulty Classes, depending on the feature that is being used.</p><p>Traps, encounter-based DCs, and other such cases should be determined on a case-by-case basis, much like you would in a non-legendary campaign. Maximum DCs, however, can easily reach beyond 30.</p><p>Legendary Difficulty Classes</p><p>Task Difficulty DC</p><p>Exceedingly Difficult 30</p><p>Legendary Feat 35</p><p>Divine Act 40+</p><p>Keep in mind that some rolls, skill checks in particular, can very well surpass 40, at which point the action may break the bounds of traditional game logic. There can always be situations that call for a DC 50 or 60 roll. Just remember, the DM always has the final say.</p><p>Stealth DC 40: The Rogue walks the transitive space between the material and ethereal dimensions, becoming impossible to track, even through divine means.</p><p>Athletics DC 50: The Barbarian lifts a mountain, keeping it over their shoulders, like Atlas holding up the world.</p><p>Performance DC 60: The Bard performs so beautifully, stars begin to weep, falling from their orbit and bombarding the material plane, if only to hear the music a little closer.</p></div>",
+      "chat": ""
+    },
+    "identifier": "difficulty-classes",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "15",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "15",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

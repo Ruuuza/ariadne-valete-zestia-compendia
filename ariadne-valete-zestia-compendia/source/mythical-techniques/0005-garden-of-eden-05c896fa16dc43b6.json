@@ -1,0 +1,147 @@
+{
+  "_key": "!items!05c896fa16dc43b6",
+  "_id": "05c896fa16dc43b6",
+  "name": "Garden of Eden",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "4ceab86430f51bb0": {
+        "_id": "4ceab86430f51bb0",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "minute",
+          "value": 1,
+          "condition": "Range: 15-foot-radius sphere centered on you",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Garden of Eden"
+        },
+        "duration": {
+          "value": "8",
+          "units": "hour",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "spec",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 112.</p><p>Garden of Eden</p><p>Channel, Ryuushinkan</p><p>Classes: Fighter, Monk, Paladin, Ranger Channeling Time: 1 minute Base LP Cost: 0 LP Range: 15-foot-radius sphere centered on you Duration: Concentration, up to 8 hours</p><p>You expand your soul outward, creating a peaceful spiritual garden in a 15-foot-radius sphere centered on yourself. You must not be disturbed during the channeling time for the Garden to manifest–if you take damage or lose concentration before the minute is complete, the technique fails. You can choose to make the garden visible, with sprouting ghostly vines and flowers, or invisible, with only a barely noticeable shimmer at the edge of the sphere. You can shape the Garden to resemble something other than vegetation, provided you find the apparition peaceful. Neither you nor your allies can interact with the invoked phantasms.</p><p>Once created, the Garden requires you to remain at its center in continuous meditation. If you move or are moved outside the sphere, the technique ends. While inside the sphere, you and your allies regain 10 hit points at the end of each of your turns. You become aware of</p><p>everything inside the Garden and gain truesight out to a range of 60 feet. While meditating at its center, you can take a short or long rest without sleeping, remaining always aware of your surroundings and cannot be surprised.</p><p>Spells and magical effects of 9th-level or lower cannot manifest inside the Garden or overlap with it unless you allow them. Creatures of your choice within the Garden gain a +5 bonus to their AC. The atmosphere inside is comfortable and dry, regardless of conditions outside.</p><p>When a hostile creature enters the Garden, you can use your reaction to make a number of attacks against it equal to your proficiency bonus from the center of the sphere, as if your weapon had a reach of 15 feet. These attacks are made at advantage.</p><p>Once you use this Mythical Technique, you cannot do so again until you finish a short or long rest. If you used it to take a rest, you cannot use it again for the next 8 hours.</p></div>",
+      "chat": ""
+    },
+    "identifier": "garden-of-eden",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "112",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter, Monk, Paladin, Ranger",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "112",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Ryuushinkan",
+      "techniqueType": "Channel",
+      "weapon": "—",
+      "classes": "Fighter, Monk, Paladin, Ranger",
+      "legendaryPointCost": "0 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_key": "!items!21f647470df4c234",
+  "_id": "21f647470df4c234",
+  "name": "Arcanism of the Outer Planes",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 72-77.</p><p>Arcanism of the Outer Planes</p><p>Starting when you reach 24th level, your Patron gifts you with a powerful arcanism that you can manifest into the world, a spell that best represents its energy and power. Depending on your Patron, you can cast one of the following 9th-level spells by expending 2 Legendary Points. Once you cast this spell, you cannot do so again until you finish a long rest. If you are playing a subclass other than the ones listed below, work with your DM to choose a 9th-level spell that best represents your Patron. Alternatively, choose one of the following.</p></div>",
+      "chat": ""
+    },
+    "identifier": "warlock-arcanism-of-the-outer-planes",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "72-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Warlock level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "72-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Warlock",
+      "legendaryLevel": 24,
+      "originalFeatureName": "Arcanism of the Outer Planes",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "_key": "!items!af4724b8e80b6216",
+  "_id": "af4724b8e80b6216",
+  "name": "Lotus Barrier",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "22d10397085bda80": {
+        "_id": "22d10397085bda80",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "you or a creature within range takes damage",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Lotus Barrier"
+        },
+        "duration": {
+          "value": "1",
+          "units": "turn",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "30",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 112.</p><p>Lotus Barrier</p><p>Strike, Ryuushinkan</p><p>Classes: Fighter, Monk, Paladin Channeling Time: 1 reaction, which you take when you or a creature within range takes damage Base LP Cost: 1 LP Range: 30 feet Duration: Until the end of your next turn</p><p>You conjure a barrier of soul energy around yourself or one ally within range. The barrier absorbs up to 200 points of damage and lasts until the end of your next turn. While the barrier holds, the protected creature cannot be forcefully moved, grappled, knocked prone, or displaced, and is immune to effects that would reduce it to 0 hit points or kill it outright. The barrier protects against the triggering damage and any secondary effects that would result from it, such as a poison or a magical condition. If the barrier is destroyed, any damage exceeding its remaining hit points is dealt to the protected creature as normal.</p><p>LP Cost. You can expend an additional LP to target one additional creature within range that is also affected by the same attack, creating an additional 200 hit points Lotus Barrier.</p></div>",
+      "chat": ""
+    },
+    "identifier": "lotus-barrier",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "112",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter, Monk, Paladin",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "112",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Ryuushinkan",
+      "techniqueType": "Strike",
+      "weapon": "—",
+      "classes": "Fighter, Monk, Paladin",
+      "legendaryPointCost": "1 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_key": "!items!ffacbbef41bfb621",
+  "_id": "ffacbbef41bfb621",
+  "name": "Legendary Monk - Level 23",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 50-53.</p><p>Level 23</p><p>Suppleness of Wind &amp; River</p><p>Beginning at 23rd level, you learn to step on air itself. You gain a fly speed equal to the speed gained by your Unarmored Movement feature (see Legendary Monk</p><p>table). In addition, your Unarmored Movement is increased by 10 feet, and again by another 10 feet when you reach 24th and 25th level.</p><p>In addition, whenever you gain a Fly speed greater than the speed granted by this feature, you can add your Unarmored Movement bonus to the new fly speed.</p><p>Reactive</p><p>Also at 23rd level, your unparalleled dexterity allows you to act with greater reflexes. You can take one additional reaction per round. You cannot take the same reaction twice in a round, and can only use one reaction per triggering action.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-monk-level-23",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "50-53",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "50-53",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Monk",
+      "legendaryLevel": 23
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

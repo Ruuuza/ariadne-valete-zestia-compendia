@@ -1,0 +1,73 @@
+{
+  "_key": "!items!032dc8efd69dc0f3",
+  "_id": "032dc8efd69dc0f3",
+  "name": "Legendary AC — Warlock",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 72-77.</p><p>Legendary AC</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC in any way, except by temporary AC increases or magical effects lasting 1 hour or less. Other spells and effects that increase your AC only affect your regular AC.</p></div>",
+      "chat": ""
+    },
+    "identifier": "warlock-legendary-ac",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "72-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Warlock level 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "72-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Warlock",
+      "legendaryLevel": 20,
+      "originalFeatureName": "Legendary AC",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

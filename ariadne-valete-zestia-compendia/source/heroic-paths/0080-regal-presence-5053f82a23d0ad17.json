@@ -1,0 +1,72 @@
+{
+  "_key": "!items!5053f82a23d0ad17",
+  "_id": "5053f82a23d0ad17",
+  "name": "Regal Presence",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 100.</p><p>Tier I: Regal Presence</p><p>Aura of Greatness. You emit an aura of commanding greatness in a 120-foot radius sphere centered on you. Friendly creatures that can see you within that radius can add your Charisma modifier to one ability check, attack roll, or saving throw. Once a creature has benefited from your Aura of Greatness, that creature cannot do so again until you finish a short or long rest.</p><p>Sovereign Will. Your spell save DC is increased by 1.</p></div>",
+      "chat": ""
+    },
+    "identifier": "regal-presence",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "100",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Sovereign",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "100",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Sovereign",
+      "stageType": "Tier I",
+      "stageOrder": 1
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

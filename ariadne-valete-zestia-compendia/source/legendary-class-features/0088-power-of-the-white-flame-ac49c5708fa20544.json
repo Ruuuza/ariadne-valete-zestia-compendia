@@ -1,0 +1,73 @@
+{
+  "_key": "!items!ac49c5708fa20544",
+  "_id": "ac49c5708fa20544",
+  "name": "Power of the White Flame",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 50-53.</p><p>Power of the White Flame</p><p>At 25th level, your soul expands and beams with the White Flame of mortalkind. Your Focus Points are increased to 30. Any feature or spell that would affect your soul, such as the Soul Strike Mythical Technique, automatically fails when targeting you, unless you choose to be affected. Your maximum hit points cannot be reduced in any way.</p><p>In addition, you learn to use your Focus to fuel your most powerful abilities. Instead of expending Legendary Points, you can choose to expend Focus points at a rate of 10 Focus points per Legendary Point.</p></div>",
+      "chat": ""
+    },
+    "identifier": "monk-power-of-the-white-flame",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "50-53",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk level 25",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "50-53",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Monk",
+      "legendaryLevel": 25,
+      "originalFeatureName": "Power of the White Flame",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

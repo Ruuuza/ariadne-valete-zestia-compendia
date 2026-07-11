@@ -1,0 +1,72 @@
+{
+  "_key": "!items!1cbffe30cf0dd406",
+  "_id": "1cbffe30cf0dd406",
+  "name": "Runic Awakening",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 98.</p><p>Heroic Perk: Runic Awakening</p><p>Prerequisite: Living Rune</p><p>Your runes expand across your body, granting you access to an additional Runic Boon from your Living Rune Heroic Feat.</p></div>",
+      "chat": ""
+    },
+    "identifier": "runic-awakening",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "98",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Runeblood",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "98",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Runeblood",
+      "stageType": "Heroic Perk",
+      "stageOrder": 2
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

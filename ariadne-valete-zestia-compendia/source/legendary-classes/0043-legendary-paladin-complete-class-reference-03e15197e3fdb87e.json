@@ -1,0 +1,71 @@
+{
+  "_key": "!items!03e15197e3fdb87e",
+  "_id": "03e15197e3fdb87e",
+  "name": "Legendary Paladin - Complete Class Reference",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 54-57.</p><p>Legendary Paladin</p><p>Within the most illustrious convents in the world, stalwart paladins share their quarters with luminous clerics. There is great respect between these professions, owing to how much they have in common, but there is a fundamental difference. Whilst a cleric draws power from devotion to a domain greater than themselves, a paladin grows his might internally, from the iron resolve contained in a promise–their sacred oath. This is, perhaps, why they’ve garnered a reputation for zealotry. The source of their power and actions is deeply, inextricably personal to them. If it weren’t so, radiance would not answer their call, their hands would not heal the sick, and their voice would not carry holy authority.</p><p>The sacred oath of a Legendary Paladin has become potent and overwhelming. The laws derived from their promise take hold in their vicinity, forcing their faithborne logic onto nearby beings. Those who follow a Legendary Paladin’s tenets will be rewarded with radiance and divine health, while those who defy them will find themselves cursed and castigated. Such is the extent to which their promise, which may seem a trifling thing to those who’ve pledged themselves to great and external forces, has become a real force in the world. Like the proclamations of a deity, the oath of a Legendary Paladin is enforced, not merely spoken or threatened. Beyond 20th level, the space around them functions with another fundamental law of reality–their own code, added to the likes of gravity and time.</p><p>As anyone who’s been graced by their allyship will tell you, it is practically impossible to surrender with the faith of a Legendary Paladin on your side. It is a warm hand on your shoulder, a bursting fire within your heart, a trembling in each muscle. Fighting alongside a holy warrior of this might is like sailing with the wind in your favor.</p><p>Legendary Resistance 1 3 15 4 3 3 3 2 — —</p><p>Legendary Paladin</p><p>Bonus Features Legendary Channel</p><p>Level Proficiency</p><p>20th +6 Legendary Smite, Legendary AC (Paladin),</p><p>Heroic Path (1), Legendary Score Improvement (1), Mythical Technique (1),</p><p>21st +6</p><p>Oathborn Miracle (6th Level)</p><p>22nd +7 Heroic Path (2), Aegis of Promise, Heroic</p><p>Aura, Unendurable Smite 2 4 16 4 3 3 3 2 1 —</p><p>Heroic Path (3), Legendary Score Improvement (2), Consecrated Oath, Greater Oathborn Miracle (7th Level),</p><p>23rd +7</p><p>Oathsworn Resolve</p><p>Heroic Path (4), Immortal Challenger,</p><p>24th +8</p><p>Improved Legendary Smite, Mythical</p><p>Technique (2)</p><p>25th +8 Heroic Path (5), Legendary Score Improvement (3), Legendary Aura 3 4 18 4 3 3 3 2 1 1</p><p>Level 20</p><p>Legendary Points</p><p>Starting at 20th level, you gain Legendary Points. Your level determines the number of points you have, as shown in the Legendary Points column of the Legendary Paladin table. You can take the Recover action on your turn to regain all expended Legendary Points. You can spend these points to fuel various features.</p><p>Legendary Resistance</p><p>Starting at 20th level, you can expend 1 Legendary Point when you fail a saving throw to succeed instead.</p><p>Legendary AC</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC in any way, except by temporary AC increases or magical effects lasting 1 hour or less. Other spells and effects that increase your AC only affect your regular AC.</p><p>Paladin’s AC. Increase your AC by 3. This bonus is increased by 1 when you reach 22nd and 24th level.</p><p>Legendary Smite</p><p>Also at 20th level, you learn to channel a singular oathborn strike. You can use your action and expend 1 Legendary Point to perform a Legendary Smite. Make a</p><p>— Spell Slots Per Spell Level</p><p>Prepared</p><p>— Points 1st 2nd 3rd 4th 5th 6th 7th</p><p>Divinity</p><p>Spells</p><p>1 4 16 4 3 3 3 2 1 —</p><p>2 4 17 4 3 3 3 2 1 1</p><p>3 4 17 4 3 3 3 2 1 1</p><p>single melee weapon attack against a creature within range. For this attack, the reach of your weapon is increased to 30 feet.</p><p>On a hit, the attack deals radiant damage rather than your weapon’s normal damage type. This attack does not benefit from any other bonus to its damage rolls. You can expend a spell slot alongside the Legendary Point to increase the damage of the strike, at a rate of 1d8 per spell slot level expended, as shown below.</p><p>Legendary Smite Damage</p><p>Spell Slot Expended Damage</p><p>None 3d8 x 5</p><p>1st level 4d8 x 5</p><p>2nd level 5d8 x 5</p><p>3rd level 6d8 x 5</p><p>4th level 7d8 x 5</p><p>5th level 8d8 x 5</p><p>6th level 9d8 x 5</p><p>7th level 10d8 x 5</p><p>When you score a critical hit with your Legendary Smite, you do not multiply the damage dice by 2, but instead add 2d8 to the equation.</p><p>Level 21</p><p>Heroic Path Advancement</p><p>At 21st level, you choose a Heroic Path you meet the prerequisites for and advance its first step. Each time you gain a level, you can advance a Heroic Path by one step, start a new Heroic Path, or, if specified as an option of the current step you’re on, jump from one Heroic Path into another.</p><p>Legendary Score Improvement</p><p>When you reach 21st level, and again at levels 23 and 25, increase one of your ability scores by 2 or two ability scores by 1. You cannot raise an ability score above 24 using this feature, unless another feature raised your maximum for that specific ability score beforehand.</p><p>Mythical Technique</p><p>At 21st level, you learn a Mythical Technique from the Mythical Techniques section. You learn an additional Mythical Technique when you reach 24th level.</p><p>Oathborn Miracle</p><p>Also at 21st level, your oath bestows upon you the ability to call upon a powerful divine effect. You gain a 6th-level spell slot. You can prepare spells of 6th level from the Cleric spell list. They count as Paladin spells for you.</p><p>Level 22</p><p>Heroic Aura</p><p>Starting at 22nd level, you and friendly creatures within 30 feet gain a +3 bonus to attack rolls while you are conscious.</p><p>Unendurable Smite</p><p>When you reach 22nd level, any Smite you perform, including Legendary Smite, ignores resistances to its damage type.</p><p>Aegis of Promise</p><p>When you reach 22nd level, you learn to call upon your Oath to shield your allies. As a bonus action, you can choose a willing creature within 30 feet of you to shield until the start of your next turn. When that creature is hit by an attack, it gains a bonus to its AC equal to your Charisma modifier against that attack, potentially causing it to miss.</p><p>The range of this feature is increased to 45 feet at 25th level.</p><p>Level 23</p><p>Oathsworn Resolve</p><p>At 23rd level, you increase your Charisma score by 2, up to a maximum of 24.</p><p>Consecrated Oath</p><p>When you reach 23rd level, the energy of your oath grants you the qualities of otherworldly beings. You gain truesight out to 30 feet and become resistant to radiant and necrotic damage.</p><p>Greater Oathborn Miracle</p><p>Starting at 23rd level, the strength of your oath bestows upon you an additional divine miracle to bring forth. You gain a 7th-level spell slot. You can prepare spells of 7th level from the Cleric spell list. They count as Paladin spells for you.</p><p>Level 24</p><p>Immortal Challenger</p><p>Beginning at 24th level, you can expend 2 Legendary Points as a bonus action to wreathe yourself in the fires of your oath, becoming invulnerable to all damage until the start of your next turn. This effect ends early if you are incapacitated.</p><p>For the duration, you gain a fly speed of 60 feet, or increase your existing fly speed by 60 feet if you already have one. Additionally, the first time you use your Divine Smite on that turn, it does not expend a spell slot.</p><p>You can use this feature a number of times equal to half your Charisma modifier (minimum of 1), and regain all uses when you finish a long rest.</p><p>Improved Legendary Smite</p><p>When you reach 24th level, your Legendary Smite’s range is increased to 45 feet. Regardless of whether the attack hits, all creatures in a 10-foot-wide line between you and the target, including the target, must make a Dexterity saving throw against your spell save DC, taking 70 (20d6) radiant damage on a failed save, or half as much damage on a successful one.</p><p>Level 25</p><p>Legendary Aura</p><p>At 25th level, the range of all your auras is increased to 45 feet. Whenever you use your Legendary Resistance feature, all allies within your aura that are also affected by the same effect automatically succeed on their saving throw.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-paladin-complete-class-reference",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "54-57",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-overview",
+      "sourcePage": "54-57",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Paladin",
+      "levels": "20-25"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

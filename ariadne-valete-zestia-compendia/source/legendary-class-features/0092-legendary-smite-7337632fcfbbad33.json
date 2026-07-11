@@ -1,0 +1,146 @@
+{
+  "_key": "!items!7337632fcfbbad33",
+  "_id": "7337632fcfbbad33",
+  "name": "Legendary Smite",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "34c6ccf0dfe4644c": {
+        "_id": "34c6ccf0dfe4644c",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Legendary Smite"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 54-57.</p><p>Legendary Smite</p><p>Also at 20th level, you learn to channel a singular oathborn strike. You can use your action and expend 1 Legendary Point to perform a Legendary Smite. Make a</p><p>— Spell Slots Per Spell Level</p><p>Prepared</p><p>— Points 1st 2nd 3rd 4th 5th 6th 7th</p><p>Divinity</p><p>Spells</p><p>1 4 16 4 3 3 3 2 1 —</p><p>2 4 17 4 3 3 3 2 1 1</p><p>3 4 17 4 3 3 3 2 1 1</p><p>single melee weapon attack against a creature within range. For this attack, the reach of your weapon is increased to 30 feet.</p><p>On a hit, the attack deals radiant damage rather than your weapon’s normal damage type. This attack does not benefit from any other bonus to its damage rolls. You can expend a spell slot alongside the Legendary Point to increase the damage of the strike, at a rate of 1d8 per spell slot level expended, as shown below.</p><p>Legendary Smite Damage</p><p>Spell Slot Expended Damage</p><p>None 3d8 x 5</p><p>1st level 4d8 x 5</p><p>2nd level 5d8 x 5</p><p>3rd level 6d8 x 5</p><p>4th level 7d8 x 5</p><p>5th level 8d8 x 5</p><p>6th level 9d8 x 5</p><p>7th level 10d8 x 5</p><p>When you score a critical hit with your Legendary Smite, you do not multiply the damage dice by 2, but instead add 2d8 to the equation.</p></div>",
+      "chat": ""
+    },
+    "identifier": "paladin-legendary-smite",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "54-57",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Paladin level 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "54-57",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Paladin",
+      "legendaryLevel": 20,
+      "originalFeatureName": "Legendary Smite",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

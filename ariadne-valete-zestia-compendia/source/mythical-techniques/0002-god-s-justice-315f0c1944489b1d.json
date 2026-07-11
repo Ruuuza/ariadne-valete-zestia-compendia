@@ -1,0 +1,147 @@
+{
+  "_key": "!items!315f0c1944489b1d",
+  "_id": "315f0c1944489b1d",
+  "name": "God’s Justice",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "326da6b99d198673": {
+        "_id": "326da6b99d198673",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "God’s Justice"
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "240",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 111.</p><p>God’s Justice</p><p>Strike, Ichimonji</p><p>Weapon: Any Classes: Fighter, Monk, Paladin Channeling Time: 1 action Base LP Cost: 1 LP Range: 240 feet Duration: Concentration, up to 1 minute</p><p>You channel your soul into a powerful and inevitable strike, marking a creature within range. For the duration, whenever the marked target takes an action, bonus action, or Extra Action, you can use your reaction to teleport to an unoccupied space within 60 feet of it, regardless of the distance between you–even across planes of existence. When you teleport in this way, you can make a single attack against the target with advantage. On a hit, the target must succeed on a Constitution saving throw against your Mythical Technique save DC or be stunned until the end of its next turn. If the target is immune to the stunned condition, it is impaired instead.</p><p>The effect ends early if the target dies.</p></div>",
+      "chat": ""
+    },
+    "identifier": "god-s-justice",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "111",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter, Monk, Paladin",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "111",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Ichimonji",
+      "techniqueType": "Strike",
+      "weapon": "Any",
+      "classes": "Fighter, Monk, Paladin",
+      "legendaryPointCost": "1 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

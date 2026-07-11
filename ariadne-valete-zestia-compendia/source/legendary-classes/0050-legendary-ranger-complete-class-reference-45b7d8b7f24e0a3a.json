@@ -1,0 +1,71 @@
+{
+  "_key": "!items!45b7d8b7f24e0a3a",
+  "_id": "45b7d8b7f24e0a3a",
+  "name": "Legendary Ranger - Complete Class Reference",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 58-61.</p><p>Legendary Ranger</p><p>The world is larger than most people ever see. They are born in a village, and they may die in a city, if they are adventurous. Everything in between is a road connecting known civilizations. The Ranger has spent their life in the space those roads never reach–the deep wilderness, the unmapped mountains, the forests that stretch beyond the horizon. They know what lives there, among the unknown. They know how it thinks. And after twenty levels of hunting the most dangerous game the Universe has to offer, they’ve crowned themselves the legitimate champions of vast, inconceivable lands, where creatures powerful and great have learned to fear and respect the Ranger’s step.</p><p>A Legendary Ranger has become the apex of the hunting grounds and earned that place one encounter at a time. These individuals are slayers of peerless skill, whose instincts and capacities far exceed those of any beast. They move through terrains forgotten and uncharted with the ease of someone who was never a stranger to it.</p><p>The Ranger has learned to inhabit the world completely, to think with its own vast logic, to use its geography the way other warriors may use armor or weapons. They have tracked quarry across planar boundaries. They have survived conditions that would kill anything less dedicated, less prepared, less stubborn. When a Legendary Ranger sets their sights on something, their relentless spirit carries them forward as steadfastly as an arrow cuts through air.</p><p>Now, beyond 20th level, their quarry may well be civilized–divine, even. But the sight of the Legendary Ranger’s bow being tensed, of the impassive, magicinundated red eyes behind it… will make them quiver like a cornered beast nonetheless.</p><p>Legendary Resistance 1 6 15 4 3 3 3 2</p><p>Bonus Features Legendary</p><p>Level Proficiency</p><p>20th +6 Incapacitating Strike, Legendary AC (Ranger),</p><p>Heroic Path (1), Legendary Score Improvement (1), Expert Hunter, Mythical</p><p>21st +6</p><p>Technique (1)</p><p>22nd +7 Heroic Path (2), Greater Awareness, Slayer’s</p><p>Mark, Two Extra Attacks 2 7 16 4 3 3 3 2</p><p>Heroic Path (3), Legendary Score Improvement (2), Killing Strikes, Mythical Technique (2), Unseen Tracker, Wisdom of the</p><p>23rd +7</p><p>Wild</p><p>24th +8 Heroic Path (4), Improved Incapacitating</p><p>Strike, Primeval Burst 3 7 17 4 3 3 3 2</p><p>Heroic Path (5), Legendary Score Improvement (3), Mythical Technique (3),</p><p>25th +8</p><p>Slayer of Legends</p><p>Level 20</p><p>Legendary Points</p><p>Starting at 20th level, you gain Legendary Points. Your level determines the number of points you have, as shown in the Legendary Points column of the Legendary Ranger table. You can take the Recover action on your turn to regain all expended Legendary Points. You can spend these points to fuel various features.</p><p>Legendary Resistance</p><p>Starting at 20th level, you can expend 1 Legendary Point when you fail a saving throw to succeed instead.</p><p>Incapacitating Strike</p><p>When you reach 20th level, you learn to channel your hunting prowess into a lethal, debilitating strike. You can use your action and expend 1 Legendary Point to make an attack roll against a creature within range. On a hit, you deal your normal weapon damage plus 40 Lethal damage, and the target must succeed on a Constitution saving throw against your spell save DC. On a failure, the target is incapacitated for a minute. If the creature is immune to the incapacitated condition, it is impaired instead. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p><p>— Spell Slots Per</p><p>Favored</p><p>Prepared</p><p>Spell Level — 1st 2nd 3rd 4th 5th</p><p>Enemy</p><p>Points</p><p>Spells</p><p>1 6 16 4 3 3 3 2</p><p>2 7 17 4 3 3 3 2</p><p>3 7 18 4 3 3 3 2</p><p>Legendary AC</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC in any way, except by temporary AC increases or magical effects lasting 1 hour or less. Other spells and effects that increase your AC only affect your regular AC.</p><p>Ranger’s AC. Increase your AC by 2. This bonus is increased by 1 when you reach 22nd and 24th level.</p><p>Level 21</p><p>Heroic Path Advancement</p><p>At 21st level, you choose a Heroic Path you meet the prerequisites for and advance its first step. Each time you gain a level, you can advance a Heroic Path by one step, start a new Heroic Path, or, if specified as an option of the current step you’re on, jump from one Heroic Path into another.</p><p>Legendary Score Improvement</p><p>When you reach 21st level, and again at levels 23 and 25, increase one of your ability scores by 2 or two ability scores by 1. You cannot raise an ability score above 24 using this feature, unless another feature raised your maximum for that specific ability score beforehand.</p><p>Expert Hunter (5e)</p><p>5e. Also at 21st level, your skill in hunting your favored enemy has translated into almost all quarry you hunt. When you finish a long rest, choose 3 additional favored enemy options. You can change these options after you finish a long rest. You gain a +3 bonus to attack and damage rolls against your favored enemies.</p><p>Expert Hunter (5.5e)</p><p>5.5e. Also at 21st level, your skill in hunting your enemies has deepened. You gain a +3 bonus to attack and damage rolls against targets marked by your Hunter’s Mark. In addition, you gain an extra use of your Hunter’s Mark, as shown in the Favored Enemy column in the Legendary Ranger table.</p><p>Mythical Technique</p><p>At 21st level, you learn a Mythical Technique from the Mythical Techniques section. You learn an additional Mythical Technique at 23rd and 25th levels.</p><p>Level 22</p><p>Two Extra Attacks</p><p>Beginning at 22nd level, you can attack three times when you take the Attack action on your turn.</p><p>Greater Awareness</p><p>Also at 22nd level, you have a +5 bonus to your Initiative rolls, and you cannot be surprised while conscious. You can use the Search action as a bonus action on your turn.</p><p>Slayer’s Mark</p><p>Also at 22nd level, you learn to tag your quarry with a deadly mark. As a bonus action, you can expend 1 Legendary Point to hone your senses on a creature within 500 feet. Your critical range against that creature is increased by 1 and you have advantage on attack rolls against it. You always know the creature’s location while in the same plane of existence as you. The mark remains for 8 hours, or until you mark another creature.</p><p>Level 23</p><p>Killing Strikes</p><p>Starting at 23rd level, your hunting skills and your magic have made you deadlier than any other at dispatching your foes. Your critical range is increased by 1. When you hit critically, you deal Lethal damage instead of your normal damage type. In addition, when you hit a creature with an attack and that creature has 50 or fewer hit points remaining, you can choose to reduce it to 0 hit points.</p><p>Wisdom of the Wild</p><p>At 23rd level, increase your Wisdom score by 2, up to a maximum of 24.</p><p>Unseen Tracker</p><p>Also at 23rd level, the nature spirits that accompany you become even better at hiding your trace. You are always under the effects of the nondetection spell and truesight cannot reveal you if you are invisible.</p><p>Level 24</p><p>Improved Incapacitating Strike</p><p>When you reach 24th level, your Incapacitating Strike’s Lethal damage is increased to 60, and the target is stunned on a failed save, or incapacitated on a successful one. If the target is immune to the stunned condition, it is impaired instead.</p><p>Primeval Burst</p><p>Also at 24th level, your critical range is increased by 1. When you score a critical hit, you can expend a 5th-level spell slot to imbue the attack with the power of the wild and deal an additional 100 points of Lethal damage. This extra damage is not doubled (or tripled) by the critical hit. If you have no 5th-level spell slots remaining, you can expend 1 Legendary Point instead.</p><p>Level 25</p><p>Slayer of Legends</p><p>Starting at 25th level, you have become the ultimate slayer, capable of taking down even the most storied foes. When you hit a creature marked by your Slayer’s Mark with a critical hit, you regain 1 Legendary Point. Once you regain a Legendary Point in this way, you cannot do so again until the end of your next turn.</p><p>5e. In addition, creatures of CR 20 or higher, or any character of 20th level or higher, count as Favored Enemies for you, even if they are of a creature type you have not chosen as your Favored Enemy.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-ranger-complete-class-reference",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "58-61",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-overview",
+      "sourcePage": "58-61",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Ranger",
+      "levels": "20-25"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

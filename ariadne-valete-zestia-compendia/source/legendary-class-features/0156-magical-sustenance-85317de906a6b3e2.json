@@ -1,0 +1,73 @@
+{
+  "_key": "!items!85317de906a6b3e2",
+  "_id": "85317de906a6b3e2",
+  "name": "Magical Sustenance",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 66-71.</p><p>Magical Sustenance</p><p>Also at 24th level, the magical energies flowing through your body sustain you indefinitely. You do not require air, food, or drink, and you cease to age.</p><p>In addition, as a bonus action, you can expend any number of Sorcery Points to heal yourself, regaining 10 hit points per Sorcery Point expended. Once you use this bonus action, you must finish a long rest before you can use it again.</p></div>",
+      "chat": ""
+    },
+    "identifier": "sorcerer-magical-sustenance",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "66-71",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Sorcerer level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "66-71",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Sorcerer",
+      "legendaryLevel": 24,
+      "originalFeatureName": "Magical Sustenance",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

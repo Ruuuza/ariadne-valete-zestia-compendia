@@ -1,0 +1,253 @@
+{
+  "_key": "!actors!360380ca8b1833b7",
+  "_id": "360380ca8b1833b7",
+  "name": "Vosculd, the Avenger",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 22,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 22
+      },
+      "dex": {
+        "value": 28,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 28
+      },
+      "con": {
+        "value": 23,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 23
+      },
+      "int": {
+        "value": 16,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 16
+      },
+      "wis": {
+        "value": 24,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 24
+      },
+      "cha": {
+        "value": 15,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 15
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 25,
+        "calc": "flat",
+        "formula": "",
+        "value": 25
+      },
+      "hp": {
+        "value": 920,
+        "max": 920,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": ""
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 0,
+        "swim": 0,
+        "walk": 60,
+        "units": "ft",
+        "hover": false
+      },
+      "senses": {
+        "darkvision": 0,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 120,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "",
+      "prof": 10
+    },
+    "details": {
+      "biography": {
+        "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 176-178.</p><p>Vosculd, the Avenger</p><p>Large undead, neutral evil</p><p>Armor Class 25 (natural armor)</p><p>Hit Points 920 (80d10 + 480)</p><p>Speed 60 ft.</p><p>STR DEX CON INT WIS CHA</p><p>22 (+6) 28 (+9) 23 (+6) 16 (+3) 24 (+7) 15 (+2)</p><p>Saving Throws Str +16, Dex +19, Con +16, Wis +17 Skills Acrobatics +19, Perception +17, Intimidation +12 Damage Resistances bludgeoning, piercing and slashing from nonmagical attacks Damage Immunities lightning, necrotic, poison Condition Immunities exhaustion, poisoned Senses blindsense 120 ft., passive Perception 27 Languages celestial, giant, camadarian, teng Recommended Level 20th - 21st</p><p>Proficiency Bonus +10</p><p>Limited Magic Immunity. Vosculd can’t be affected or detected by spells of 3rd level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.</p><p>Soul of Death. Vosculd has a piece of a divine domain in place of a soul. It is immune to spells, magical effects, and conditions that would manipulate its soul or reduce its maximum hit points.</p><p>Stormcast. Vosculd can tap into the lightning that animates it to cast spells. Wisdom is its spellcasting ability for these spells (spell save DC 25, +17 to hit with spell attacks).</p><p>At will: lightning bolt</p><p>3/day each: chain lightning</p><p>1/day each: storm of vengeance</p><p>Giant’s Lightning. Damage dealt by Vosculd ignores resistance to lightning damage.</p><p>Evasion. When Vosculd is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p><p>Blades of Belmite. Vosculd’s Arm Blade attacks are magical and deal an additional 26 (4d12) necrotic damage (included in the attack).</p><p>Master of Souls. When a mortal creature dies within 1000 feet of Vosculd, it can choose to capture the creature’s soul using a reaction. An unwilling soul can attempt to escape its grasp by succeeding on a DC 30 Charisma saving throw. Vosculd can choose to share its senses with a soul captured in this way, allowing it to see and hear as if they shared a body. It can also allow it to speak with its voice.</p><p>While Vosculd lives, souls captured by it can only be freed by its will or through a Wish spell cast at 10th level. Vosculd can choose to keep captured souls in complete unconsciousness or create an illusory environment for them to inhabit, which can take any shape Vosculd chooses but cannot exceed an area equal to a 15-foot-tall, 15-foot-wide cube. In this miniaturized afterlife, souls can be kept in luxury and relaxation, or in terrible torment. All captured souls are freed in the event of Vosculd’s destruction.</p><p>Soul Binder. Completing a 10-minute ritual, Vosculd can bind a mortal soul it captured to a new body. The body must have belonged to a humanoid of at least CR 5 or, if it had class levels, a total level of at least 5. The returned creature becomes a Revenant (5e SRD) or other type of undead, at the DM’s discretion. When the ritual ends, Vosculd can choose to control the creature, creating a thrall, or allow it to maintain its free will.</p><p>Splinters of Death. Vosculd carries within itself thirteen shards of the Divine Domain of Death. In the event of its demise, they will blossom from its corpse as pale, senescent roses, ready for another to claim. A Splinter of Death will only attune to a creature that embodies its values with exceptional depth. A creature that attempts to claim a Splinter forcefully must make a DC 25 Charisma saving throw, gaining control of the Splinter on a success, or taking 105 (6d6 × 5) force damage on a failure. The DC increases by 5 for each Splinter after the first, up to a maximum DC of 50. A creature that fails to claim Divinity in any way cannot attempt to do so again for the next 24 hours.</p><p>Psychic Fracture. Vosculd is vulnerable to psychic assault. When Vosculd takes 20 psychic damage or more, it gains one charge of Psychic Fracture.</p><p>1 Charge: Vosculd cannot use reactions.</p><p>2 Charges: Vosculd cannot use bonus actions.</p><p>3 Charges: Vosculd’s maximum speed is halved.</p><p>4 Charges: Vosculd is Impaired.</p><p>5 Charges: Vosculd is Stunned.</p><p>Vosculd loses all charges of Psychic Fracture at the end of each of its turns.</p><p>Legendary Foe</p><p>Vosculd has 3 Legendary Points (LP). It can use these points to fuel certain abilities. Once it uses a feature or action that consumes a Legendary Point, it cannot use that same ability again until the start of its next turn. Vosculd regains spent Legendary Points at the start of its turn.</p><p>Legendary Resistance. When Vosculd fails a saving throw, it can expend 1 Legendary Point to succeed instead.</p><p>Legendary Endurance. When Vosculd takes damage, it can expend 1 Legendary Point to reduce the damage taken by 100.</p><p>Cleanse Effect. If Vosculd starts its turn affected by a condition or magical effect of 7th level or lower, it can expend 1 Legendary Point to end the effect. If the effect or condition is of 8th or 9th level, or from a Mythical Technique, Vosculd must expend 2 Legendary Points to end that effect. Effects originating from a 10th-level spell cannot be cleansed in this way.</p><p>Actions</p><p>Multiattack. Vosculd makes three attacks: two with its Arm Blades and one with its Bite. It can forgo its Bite attack to cast a spell from its Stormcast list instead.</p><p>Arm Blades. Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 22 (2d12 + 9) slashing damage plus 26 (4d12) necrotic damage.</p><p>Bite. Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 20 (2d10 + 9) piercing damage. If the target is a creature, it must succeed on a DC 25 Constitution saving throw or be poisoned for the next minute. A creature poisoned in this way takes 45 (10d8) necrotic damage at the start of each of its turns.</p><p>Whirling Blades (Costs 2 LP). Vosculd performs a frenzied, spinning blade dance that lasts until the start of its next turn. While performing this dance, Vosculd’s AC is increased by 5. When the dance begins, creatures within 10 feet of it must make a DC 27 Dexterity saving throw, taking 26 (4d12) slashing damage and 52 (8d12) necrotic damage on a failed save, or half as much on a success. For the duration of the dance, a creature that enters that area for the first time on a turn must make the same saving throw or take the same damage. A creature can only be damaged by this effect once per turn. The dance ends early if Vosculd is stunned, incapacitated, or impaired.</p><p>Bonus Actions</p><p>Blitz. Vosculd magically moves up to 240 feet in a straight line to an unoccupied space it can see, momentarily becoming a bolt of savage lightning. While moving in this way, Vosculd can move through objects and creatures. Creatures within the area it traverses must make a DC 25</p><p>Dexterity saving throw, taking 21 (6d6) lightning damage on a failed save, or half as much on a successful one.</p><p>Consume Soul (Costs 1 LP). Vosculd consumes a soul it captured using its Master of Souls trait. It regains an amount of hit points equal to five times the total CR or character level of the destroyed soul, minimum of 10. A creature whose soul was destroyed in this way cannot be resurrected by any means short of a Wish spell cast at 10th level.</p><p>Reactions</p><p>Call of the Afterlife. As a reaction to a creature it can see rolling a death saving throw, Vosculd imposes a -10 penalty to the roll.</p><p>Capture Soul. Vosculd captures the soul of a creature that has died within 1000 feet of it as per its Master of Souls trait.</p><p>Censor Necromancy. When a spell of the Necromancy school is cast within 120 feet of Vosculd, it can use a reaction to nullify it. The spell slot and action used to cast it are still expended.</p><p>Extra Actions</p><p>Vosculd can take extra actions outside of its turn by expending Legendary Points, choosing from the options below. Only one extra action can be used at a time and only at the end of another creature’s turn.</p><p>Move (Costs 1 LP). Vosculd moves up to its maximum speed.</p><p>Bite (Costs 1 LP). Vosculd makes one Bite attack.</p><p>Death Stare (Costs 2 LP). Vosculd regards a creature within 120 feet with the sight of death itself. The creature becomes paralyzed for an hour. A creature can make a DC 25 Constitution saving throw at the start of each of its turns, ending the effect on itself on a success. Undead creatures are not affected by this ability.</p><p>Invoke Death (Costs 3 LP). Vosculd draws upon the power of its partial divinity, choosing one of the following effects:</p><p>Kill. All creatures within 60 feet of Vosculd are targeted by the Power Word Kill spell.</p><p>Wail. A torrent of wailing mortal souls is unleashed in a 120foot-radius sphere centered on Vosculd. Creatures within that area must succeed on a DC 25 Charisma saving throw or take 35 (10d6) necrotic damage and gain 1d4 + 1 levels of exhaustion. If a creature has 6 levels of exhaustion or more, it dies.</p><p>Raise. Vosculd casts the True Resurrection spell innately, requiring no material components. If Vosculd uses this option to resurrect a creature that has been dead for longer than one year, it cannot use Invoke Death until one week passes.</p><p>DM Notes</p><p>Vosculd is a Legendary Foe that has a varied and powerful offensive repertoire, but is comparatively meek in terms of defense. This makes timing and strategic thinking all the more important in a confrontation with it: the ability to deal devastating but non-incapacitating damage might result in fast casualties, once Vosculd gets its retort. Players facing it at the intended tier of play (20th to 21st level) will find deadly threat at every step of the confrontation. Preparation and proper DM warning are very important.</p><p>A Hazy Reckoning</p><p>Vosculd is a creature born not long ago, created in a blasphemous rite that endowed it with a melange of broken memories from Anubis, the massacred Gora Teng priests, some ritually sacrificed cultists of the Aurora desert, and a thousand mortals besides. Its soul thirsts for violent retribution. The force of its avenging will stands in direct contrast to its focus: with such varied and hazy enemies to bring a reckoning to, Vosculd has thus far contented itself with raising an army of undead to excoriate the guilty when the time comes.</p><p>Depending on which point of its vengeful crusade the party finds it in, Vosculd’s understanding of the world and the meaning of its objectives can vary greatly, creating possibilities for peaceful resolutions or more bitter battles. Vosculd’s willingness to suppress its killer instinct and establish dialogue will also depend on party composition, as it searches for any of those responsible for the many woes it has endured. The Returned</p><p>With the power of its partial divinity, Vosculd can build an army. Its Soul Binder trait and Invoke Death extra action allows it to not only resurrect the oldest creatures of your world, but also raise an army of undead thralls under its command. It can also, however, allow raised creatures their free will if it finds their motivations aligned with its own vengeful wishes.</p><p>Creatures resurrected by Vosculd that are left their free will may choose not to follow the Avenger, leading to interesting prelude encounters with deadly revenants.</p><p>This also means that the more time passes, the mightier Vosculd becomes, as the dead are raised to be part of the Avenger’s army.</p><p>Mechanics</p><p>Despite its general existential confusion, Vosculd is no fool. In battle, it will be keenly aware of the windows of opportunity afforded by its powerful array of abilities. Specifically, this means that Vosculd will try to use its many damage-dealing abilities to chip away at the party’s overall health until several of them are bloodied enough to be affected by Power Word Kill.</p><p>Some considerations will greatly aid an attentive party. Chief among them is space. Vosculd’s chip damage is best when dealt as an AoE, and denying it of that possibility will make it that much less effective. Stormcast and Blitz, for example, become much weaker when the party creates distance between its members and is careful not to provide Vosculd with an easily exploitable line. Another great boost to their chances can come via a fourth-level spell: Death Ward. This spell, easily cast on the entire party before the confrontation even begins, can save party members from one instance of Power Word Kill. Because of the Censor Necromancy reaction, it will be hard to reapply this effect once it’s gone. Finally, Vosculd has a weakness that is directly baked into its stat sheet: its mechanical vulnerability to psychic damage. If the party can find a way to deal a consistent amount of psychic damage, the difficulty of the fight can be reduced quite drastically, much like fighting a vampire using sunlight. Souls</p><p>It is up to you, as the DM, to determine how many powerful souls Vosculd has gathered before the party faces it. Consume Soul is the only way Vosculd can regain hit points during the fight, and the number of meaningful uses available–each consuming a CR 15-20 soul for 75 to 100 hit points of healing–can significantly affect the difficulty of the encounter.</p><p>This gives you a useful balancing lever mid-battle. You are not required to disclose how many souls Vosculd has in reserve; as far as the party is concerned, it could have an inexhaustible supply. If the fight is going too smoothly, a few additional CR 20 souls waiting to be consumed can restore the intended tension without changing any other aspect of the encounter. Do remember that it still takes Vosculd a bonus action to regain hit points in this way, and taking a couple instances of psychic damage can be enough to nullify the creature’s healing factor. Changing Flavor</p><p>Should your particular version of Vosculd not be a Frankenstein-esque monster animated by lightning, we recommend you change all instances of lightning damage in this stat sheet to necrotic damage. This is often enough to fit a role that frames Vosculd as a pure Lord of Undeath.</p></div>",
+        "public": ""
+      },
+      "alignment": "neutral evil",
+      "cr": 30,
+      "type": {
+        "value": "undead",
+        "subtype": "",
+        "swarm": "",
+        "custom": "Legendary Foe"
+      },
+      "source": {
+        "book": "Ariadne's Book of Legends",
+        "page": "176-178",
+        "license": "",
+        "custom": "Original en-US text from Alpha v1.2",
+        "rules": "2014",
+        "revision": 1
+      },
+      "environment": ""
+    },
+    "traits": {
+      "size": "large",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "all"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {},
+    "spells": {},
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-foe",
+      "sourcePages": "176-178",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference-statblock"
+    }
+  },
+  "prototypeToken": {
+    "name": "Vosculd, the Avenger",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 2,
+    "height": 2,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1
+    },
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  }
+}

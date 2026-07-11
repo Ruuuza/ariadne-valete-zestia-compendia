@@ -1,0 +1,72 @@
+{
+  "_key": "!items!9898a6a5b78a8761",
+  "_id": "9898a6a5b78a8761",
+  "name": "Phantom Strike",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 99.</p><p>Tier I: Phantom Strike</p><p>Shadow Step. As a bonus action, you can teleport up to 60 feet to an unoccupied space you can see, alongside anything you are wearing or carrying. You have advantage on the first attack you make before the end of your turn after using this feature.</p><p>Unseen Threat. You can use the Hide action as a bonus action. When you are hidden from a creature and hit it with an attack, it cannot use reactions until the end of its next turn.</p><p>Of Darkness. You gain darkvision out to a range of 30 feet, or extend your darkvision range by 30 feet if you already have it. Your darkvision is not impeded by magical darkness. While in dim light or darkness, you can attempt to hide from creatures that would normally perceive you through blindsense, darkvision or tremorsense.</p></div>",
+      "chat": ""
+    },
+    "identifier": "phantom-strike",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "99",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Shadowblade",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "99",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Shadowblade",
+      "stageType": "Tier I",
+      "stageOrder": 1
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

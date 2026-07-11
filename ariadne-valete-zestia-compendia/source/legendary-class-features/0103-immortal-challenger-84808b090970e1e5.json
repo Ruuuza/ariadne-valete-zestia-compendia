@@ -1,0 +1,73 @@
+{
+  "_key": "!items!84808b090970e1e5",
+  "_id": "84808b090970e1e5",
+  "name": "Immortal Challenger",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 54-57.</p><p>Immortal Challenger</p><p>Beginning at 24th level, you can expend 2 Legendary Points as a bonus action to wreathe yourself in the fires of your oath, becoming invulnerable to all damage until the start of your next turn. This effect ends early if you are incapacitated.</p><p>For the duration, you gain a fly speed of 60 feet, or increase your existing fly speed by 60 feet if you already have one. Additionally, the first time you use your Divine Smite on that turn, it does not expend a spell slot.</p><p>You can use this feature a number of times equal to half your Charisma modifier (minimum of 1), and regain all uses when you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "paladin-immortal-challenger",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "54-57",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Paladin level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "54-57",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Paladin",
+      "legendaryLevel": 24,
+      "originalFeatureName": "Immortal Challenger",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

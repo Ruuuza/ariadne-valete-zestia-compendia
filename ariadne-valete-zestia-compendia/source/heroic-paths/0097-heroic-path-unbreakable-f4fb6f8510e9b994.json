@@ -1,0 +1,71 @@
+{
+  "_key": "!items!f4fb6f8510e9b994",
+  "_id": "f4fb6f8510e9b994",
+  "name": "Heroic Path: Unbreakable",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 103.</p><p>Heroic Path: Unbreakable</p><p>Prerequisite: Barbarian, Fighter, Monk, or Paladin Tier I: Greater Toughness</p><p>Stalwart Body. You are immune to poison and disease, and you have advantage on Constitution saving throws.</p><p>Heroic Toughness. Your hit point maximum increases by an amount equal to three times your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 3 hit points.</p><p>Heroic Perk: Iron Stance</p><p>Prerequisite: Greater Toughness</p><p>You cannot be knocked prone, shoved, or moved against your will. You gain resistance to one non-legendary damage type of your choice. Tier II: Untarnished Blood</p><p>Prerequisite: Iron Stance</p><p>Cleanse Effect. You can use 1 LP at the start of your turn to end all conditions or harmful effects not created by mythical techniques or spells of 8th level or higher currently afflicting you.</p><p>Greater Health. Your hit point maximum cannot be reduced in any way, and you are immune to spells and effects that would immediately reduce your hit points to 0 or kill you outright.</p><p>Heroic Perk: Stone Body</p><p>Prerequisite: Untarnished Blood</p><p>You reduce all instances of damage by 5. You have a damage threshold of 20: whenever an instance of damage would deal 15 or less damage to you, you take no damage instead. Damage reductions and resistances are considered before determining the damage threshold of this perk.</p><p>Tier III: Unbreakable</p><p>Prerequisite: Stone Body</p><p>Unbreakable Resistance. When you fail a saving throw, you can choose to succeed instead. After you use this feature, you cannot use it again until you finish a long rest.</p><p>Unbreakable Endurance. When you take an instance of damage, it cannot exceed half of your maximum hit points. Damage in excess of that cap is nullified.</p><p>Path Connections Titan. Instead of the Iron Stance Heroic Perk, you can take the Unmatched Strength Perk, changing to the Titan path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-unbreakable",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "103",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "103",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Unbreakable",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

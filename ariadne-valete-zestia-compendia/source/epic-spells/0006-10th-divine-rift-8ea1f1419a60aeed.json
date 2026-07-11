@@ -1,0 +1,179 @@
+{
+  "_key": "!items!8ea1f1419a60aeed",
+  "_id": "8ea1f1419a60aeed",
+  "name": "[10th] Divine Rift",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "b1049145144ee403": {
+        "_id": "b1049145144ee403",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Divine Rift"
+        },
+        "duration": {
+          "value": "",
+          "units": "perm",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "120",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 126.</p><p>Divine Rift</p><p>10th-level conjuration</p><p>Classes: Cleric, Wizard Casting Time: 1 action Range: 120 feet Components: V, S, M (a rapier-sized ornamental needle worth at least 10.000 GP) Duration: Until dispelled</p><p>You speak a word of power, and the continuum of space is rearranged to create a passage between your location and another location anywhere in the cosmos. A rift, one inch thick and up to 20 feet tall and 20 feet long, appears centered in an unoccupied space of your choice within range, and another of the same size appears at a specific spot of your choice on the destination. This spell can connect two points between different planes of existence, even to dimensions unknown to you. If you are unfamiliar with the destination, the portal appears in an advantageous position near your intended point of arrival, though not exactly on target. If you attempt to connect your base with the castle of an evil overlord in another plane of existence, for example, the Divine Rift might appear outside the evil overlord’s stronghold, behind the cover of a forest wall.</p><p>If you are familiar with the destination point, the Divine Rift forms exactly where you choose.</p><p>Only creatures of your choice can use the rift. You can also designate a passcode that can be spoken to open or close the passage through it. Creatures that walk through the rift appear on the other side as if the two locations were contiguous.</p><p>You can only have one Divine Rift active at a time. If you cast this spell again, any previous Divine Rifts you have opened are dispelled. You can choose to close the Divine Rift at any point as an action.</p><p>This spell overcomes all restrictions for interplanar shifts, allowing travel anywhere within the universe, regardless of divine mandate. It can access unknown dimensions, from ancient demiplanes to heavily guarded tombs of old. A deity or creature of similar power is still capable of closing the rift by focusing their divine power, but can only do so after one minute has passed since the spell was cast.</p></div>",
+      "chat": ""
+    },
+    "identifier": "divine-rift",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "126",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "perm"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A rapier-sized ornamental needle worth at least 10,000 gp",
+      "consumed": false,
+      "cost": 10000,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material"
+    ],
+    "range": {
+      "value": "120",
+      "units": "ft"
+    },
+    "school": "con",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "126",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Cleric, Wizard",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

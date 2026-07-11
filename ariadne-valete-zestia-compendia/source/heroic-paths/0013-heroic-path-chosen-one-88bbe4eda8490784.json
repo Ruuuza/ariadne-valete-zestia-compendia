@@ -1,0 +1,71 @@
+{
+  "_key": "!items!88bbe4eda8490784",
+  "_id": "88bbe4eda8490784",
+  "name": "Heroic Path: Chosen One",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 89.</p><p>Heroic Path: Chosen One</p><p>No prerequisites Tier I: Fated</p><p>Spared by Destiny. When you take damage, you can use your reaction to ignore that instance of damage, as fate inexplicably intervenes, reserving you for a higher purpose. Once you use this feature, you cannot use it again until you finish a long rest.</p><p>Strings of Fate. When a creature within 60 feet of you makes an ability check, attack roll, or saving throw, you can use your reaction to influence the outcome. Roll 1d6 and apply the result as a bonus or penalty to the roll. You can choose to do so after the roll is made but before any of its results are announced. Heroic Perk: Convergence</p><p>Prerequisite: Fated</p><p>Fate bends the world towards you. As an action, you can declare a Convergence, a particular event that will happen in the next hour. This can be a general declaration, such as obtaining an item, reaching a location, or defeating a Legendary Foe–but it can also be a specific, immediate need, such as having the strength to jump over a chasm. While your Convergence is active, you can choose to give yourself, or a creature within 60 feet of you, advantage on an ability check, attack roll, or saving throw related to the Convergence you declared. Once you do so, the Convergence ends. You can only have one Convergence declared at a time. Tier II: Destined</p><p>Prerequisite: Fated, Convergence</p><p>Written in the Stars. Increase an ability score of your choice by 2. Your maximum for that score is increased by 2 as well.</p><p>Fated Criticality. When you make an attack against a target within range, you can turn a miss or regular hit into a critical hit. Alternatively, when you make an ability check or saving throw, you can treat the d20 roll as a 20. You can choose to do so after rolling but before any of the roll’s effects are announced. Once you use this ability, you must finish a long rest before you can do so again. Heroic Perk: Threads Unraveled</p><p>Prerequisite: Fated, Destined</p><p>Your connection to fate extends to those around you. When you use your Spared by Destiny ability, you can choose to extend the benefit to another creature within 60 feet that is taking the same instance of damage, as with an area of effect spell such as Fireball or Meteor Swarm. In addition, you now roll 1d8 instead of 1d6 when using your Strings of Fate feature.</p><p>Tier III: Chosen One</p><p>Prerequisite: Threads Unraveled, Destined</p><p>Another Chance. When an effect would kill you outright, or damage would reduce you to 0 hit points, you drop to 1 hit point instead. Once this feature triggers, it cannot trigger again for a minute.</p><p>Thrice Fated. You can use your Fated Criticality three times between long rests.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-chosen-one",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "89",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "89",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Chosen One",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

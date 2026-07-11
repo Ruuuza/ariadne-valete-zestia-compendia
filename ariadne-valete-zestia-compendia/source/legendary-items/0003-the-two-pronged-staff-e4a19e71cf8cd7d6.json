@@ -1,0 +1,198 @@
+{
+  "_key": "!items!e4a19e71cf8cd7d6",
+  "_id": "e4a19e71cf8cd7d6",
+  "name": "The Two-Pronged Staff",
+  "type": "weapon",
+  "effects": [],
+  "system": {
+    "activities": {
+      "372340cc95d6d867": {
+        "_id": "372340cc95d6d867",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast from the Two-Pronged Staff"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "10",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 202.</p><p>Special Equipment. The Hermit carries an artifact called The Two-Pronged Staff. The Staff is attuned to the Hermit in all his forms and scales to the Hermit’s current size. In the hands of anyone other than the Hermit, the Two-Pronged Staff is a +5 quarterstaff. If the Hermit is destroyed and his Divinity splintered as per the Divine Domain trait, the TwoPronged Staff can only attune to mortals who passed the Hermit’s Test.</p><p>Two-Pronged Staff. The Two-Pronged Staff has 10 charges. The Hermit can expend 1 or more charges to cast one of the following spells (DC 25): Teleport (1 charge), Divine Word (1 charge), Power Word Stun (2 charges), Imprisonment (3 charges), Divine Rift (5 charges), Rimley’s Pulse (5 charges).</p></div>",
+      "chat": ""
+    },
+    "identifier": "the-two-pronged-staff",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "202",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "artifact",
+    "identified": true,
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "type": {
+      "value": "",
+      "baseItem": ""
+    },
+    "damage": {
+      "base": {
+        "number": 1,
+        "denomination": 6,
+        "bonus": "5",
+        "types": [
+          "bludgeoning"
+        ],
+        "custom": {
+          "enabled": false,
+          "formula": ""
+        },
+        "scaling": {
+          "mode": "",
+          "number": null,
+          "formula": ""
+        }
+      },
+      "versatile": "1d8 + 5"
+    },
+    "properties": [
+      "mgc",
+      "ver"
+    ],
+    "proficient": null,
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "mastery": "",
+    "magicalBonus": 5,
+    "armor": {
+      "value": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "crew": {
+      "value": [],
+      "override": null
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-item",
+      "sourcePage": "202",
+      "language": "en-US",
+      "originalText": true,
+      "rarity": "Artifact",
+      "attunementSlots": 2,
+      "automation": "partial",
+      "charges": 10
+    }
+  },
+  "img": "icons/weapons/staves/staff-ornate-gold.webp",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "_key": "!actors!0bd7dcaed18ca88e",
+  "_id": "0bd7dcaed18ca88e",
+  "name": "The Lord of Anguish",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 33,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 33
+      },
+      "dex": {
+        "value": 18,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 18
+      },
+      "con": {
+        "value": 26,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 26
+      },
+      "int": {
+        "value": 5,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 5
+      },
+      "wis": {
+        "value": 20,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 20
+      },
+      "cha": {
+        "value": 22,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 22
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 25,
+        "calc": "flat",
+        "formula": "",
+        "value": 25
+      },
+      "hp": {
+        "value": 1850,
+        "max": 1850,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": ""
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 100,
+        "swim": 0,
+        "walk": 60,
+        "units": "ft",
+        "hover": false
+      },
+      "senses": {
+        "darkvision": 0,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 120,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "",
+      "prof": 11
+    },
+    "details": {
+      "biography": {
+        "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 188-191.</p><p>The Lord of Anguish</p><p>Gargantuan Dragon/Undead, chaotic neutral</p><p>Armor Class 25 (natural armor)</p><p>Hit Points 1850 (100d20 + 800)</p><p>Speed 60 ft., fly 150 ft. (hover)</p><p>STR DEX CON INT WIS CHA</p><p>33 (+11) 18 (+4) 26 (+8) 5 (-3) 20 (+5) 22 (+6)</p><p>Saving Throws Str +21, Con +18, Wis +15, Cha +16 Skills Athletics +21 Damage Resistances bludgeoning, cold, fire, lightning, piercing, slashing Damage Immunities necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks Condition Immunities poisoned, charmed, deafened, exhaustion, grappled, paralyzed, petrified, prone, stunned Senses blindsight 500 ft. (blind beyond this range), passive Perception 15 Recommended Level 22nd - 23rd</p><p>Proficiency Bonus +10</p><p>Limited Magic Immunity. The Lord of Anguish cannot be affected or detected by spells cast at 3rd level or lower unless it wishes to be. It has advantage on saving throws against other spells and magical effects.</p><p>Dragon/Undead. The Lord of Anguish is both a dragon and an undead. Spells and effects that target these creature types also affect the Lord of Anguish.</p><p>Semi-Ethereal. The Lord of Anguish is partly ethereal. It can move through other creatures and objects as if they were difficult terrain. It takes 22 (4d10) force damage if it ends its turn inside an object.</p><p>Reconstitution. Unless its soul is imprisoned within a powerful artifact or creature, the Lord of Anguish gains a new body 1d10 years after being destroyed, regaining all its hit points and becoming active again. The new body appears in a random location in the Ethereal plane.</p><p>Gargantuan Strikes. The Lord of Anguish’s attacks are magical. When the Lord of Anguish hits a target with an attack, creatures and objects within 15 feet of the target are also targeted by that attack. The attack roll remains the same for all targets.</p><p>Psychic Scar. The Lord of Anguish has disadvantage on saving throws against being frightened. If it takes 50 or more</p><p>damage in a single instance, it becomes frightened of its source for 1 minute or until the source is no longer within its blindsight range. The Lord of Anguish can willingly move towards the source of its fear while it is frightened, but must expend 2 feet of movement for every foot traveled.</p><p>Smother Terror. If the Lord of Anguish is frightened of a creature, its attacks deal an additional 30 psychic damage to that creature. While frightened, the Lord of Anguish will attempt to kill or swallow the source of its fear. If it succeeds, the frightened condition ends for the Lord of Anguish. If the Lord of Anguish is frightened of more than one source, it will target the nearest creature or object it is frightened of.</p><p>Legendary Foe</p><p>The Lord of Anguish has 4 Legendary Points (LP). It can use these points to fuel certain abilities. Once it uses a feature or action that consumes a Legendary Point, it cannot use that same ability again until the start of its next turn. The Lord of Anguish regains spent Legendary Points at the start of its turn.</p><p>Legendary Resistance. When the Lord of Anguish fails a saving throw, it can expend 1 Legendary Point to succeed instead.</p><p>Legendary Endurance. When the Lord of Anguish takes damage, it can expend 1 Legendary Point to reduce the damage taken by 100.</p><p>Cleanse Effect. If the Lord of Anguish starts its turn affected by a condition or magical effect of 7th level or lower, it can expend 1 Legendary Point to end the effect. If the effect or condition is of 8th or 9th level, or from a Mythical Technique, the Lord of Anguish must expend 2 Legendary Points to end that effect. Effects originating from a 10th-level spell cannot be cleansed in this way.</p><p>Phase Transition</p><p>The creature’s outer shell turns to black ash and dissipates in the wind, revealing a powerful red serpent underneath, two brilliant ruby eyes where the folds of its arm-covered maw end. It writhes in agony, yet its crimson gaze reveals a deadlier foe than before.</p><p>If the Lord of Anguish is reduced to 500 hit points or fewer, it is cleansed of all harmful conditions, regains 2 Legendary Points and gains the following additional traits.</p><p>Anguish Eternal. The Lord of Anguish is frightened of all creatures and objects it can see.</p><p>Rage of the Dynast. The Lord of Anguish gains a +5 bonus to hit with all its attacks and can make an additional Body Slam as part of its Multiattack action.</p><p>Actions Bonus Actions</p><p>Multiattack. The Lord of Anguish uses its Aura of Negative Emotion. It then makes three attacks: one with its ArmCovered Maw and two with its Body Slam.</p><p>Aura of Negative Emotion. Creatures within 60 feet of the Lord of Anguish must succeed on a DC 20 Wisdom saving throw or take 21 (6d6) psychic damage and be affected by a wave of negative emotion. Roll 1d6 to determine the effect.</p><p>1 - Anguish: The creature is frightened of the Lord of Anguish until the end of its next turn.</p><p>2 - Loathing: Until the end of its next turn, the creature’s attacks have a +5 to hit and damage rolls, but it becomes vulnerable to all damage for the same duration.</p><p>3 - Sloth: The creature’s speed is halved, and it can only take an action or a bonus action on its turn, but not both, until the end of its next turn.</p><p>4 - Envy: The creature must spend its next turn attempting to steal an object it considers precious that is currently in the possession of a creature within 120 feet. If there are no such objects or it fails to do so, it takes 35 (10d6) psychic damage.</p><p>5 - Sorrow: The creature is taken by a deep melancholy. It cannot regain hit points or be affected by beneficial magical effects such as haste or greater restoration until the end of its next turn.</p><p>6 - Shame: The creature’s speed becomes 0, and it cannot speak or communicate in any way until the end of its next turn. While affected by shame, it is unable to perform verbal components for spells.</p><p>If the Lord of Anguish is frightened, a creature affected by this aura must roll twice on the table of effects instead of once, re-rolling duplicates.</p><p>Arm-Covered Maw. Melee Weapon Attack: +21 to hit, reach 10 ft., one target. Hit 76 (10d12 + 11) bludgeoning damage, and the target is grappled and restrained (escape DC 29). If damage from this attack reduces a creature to 0 hit points, it is torn apart and swallowed by the Lord of Anguish, destroying its remains. The Lord of Anguish can have multiple creatures grappled in this way at a time.</p><p>Body Slam (-5). Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit 32 (4d12 + 6) bludgeoning damage.</p><p>Beam of Negative Emotion. The Lord of Anguish exhales a beam of devastating psychic energy in a 1,000-foot-long line that is 20 feet wide. Creatures within that area must make a DC 26 Dexterity saving throw, taking 65 (10d12) psychic damage and 65 (10d12) Dark damage on a failed save, or half as much on a successful one. Creatures that fail this saving throw are subjected to a random effect from the Aura of Negative Emotion list.</p><p>Ghost. The Lord of Anguish shifts into the ethereal plane until the start of its next turn. Any objects it is carrying and creatures it is grappling (swallowed or otherwise) shift with it.</p><p>Body Slam (Bonus Action). The Lord of Anguish makes a Body Slam attack.</p><p>Swallow (Costs 1 LP). The Lord of Anguish expends 1 Legendary Point to swallow all Huge or smaller creatures it is currently grappling. A swallowed creature is blinded and restrained; it has total cover against attacks and other effects outside the Lord of Anguish, and it takes 45 (10d8) Dark damage at the start of each of the Lord of Anguish’s turns. A swallowed creature ignores the Lord of Anguish’s damage resistances and has a +5 to hit and damage rolls against it.</p><p>If the Lord of Anguish takes 100 damage or more in a single turn from a creature inside it, it regurgitates all swallowed creatures, which fall prone in unoccupied spaces within 10 feet of the mouth. If the Lord of Anguish dies, its body disintegrates, and all swallowed creatures fall prone in unoccupied spaces within 50 feet of the Lord of Anguish’s remains.</p><p>Extra Actions</p><p>The Lord of Anguish can take extra actions outside of its turn by expending Legendary Points, choosing from the options below. Only one extra action can be used at a time and only at the end of another creature’s turn.</p><p>Onslaught (Costs 1 LP). The Lord of Anguish makes two Body Slam attacks.</p><p>Glide (Costs 1 LP). The Lord of Anguish moves up to its maximum speed in a direction of its choosing.</p><p>Brood (Costs 1 LP). The Lord of Anguish becomes frightened of a creature it can see within 600 feet of it.</p><p>Arm-Covered Maw (Costs 2 LP). The Lord of Anguish makes one Arm-Covered Maw attack.</p><p>Beam (Costs 2 LP). The Lord of Anguish uses its Beam of Negative Emotion.</p><p>Swallow (Costs 2 LP). The Lord of Anguish uses its Swallow bonus action.</p><p>Pulse of Anguish (Costs 4 LP). The Lord of Anguish’s body pulses with emotional energy, exuding crippling psychic waves in a 500-foot area around it. Creatures within that area must succeed on a DC 25 Wisdom saving throw or take 35 (10d6) psychic damage and be blinded, deafened, frightened, and incapacitated for one minute as they begin to weep black tears. Affected creatures can repeat the saving throw at the end of each of their turns, ending the conditions on themselves on a success. A casting of Greater Restoration or similar magic, such as a paladin’s Cleansing Touch, ends this effect. Swallowed creatures are not affected by this action.</p><p>DM Notes</p><p>The Lord of Anguish is one of our more straightforward Legendary Foes, with mechanics that are easy to run but still create a memorable battle. Its core gameplay revolves around the frightened condition; to this broken shade of a Dynast, being scared is not a bug, but a feature. Here are some notes about the stat sheet and how to run it.</p><p>Inflicting Anguish</p><p>The appropriately named Lord of Anguish is designed to be a psychological terror on the battlefield, dipping in and out of the ethereal plane while swallowing party members one by one and inflicting a myriad of bane-like effects. Lean into this! The battle against the dark serpent should feel like climbing out of a pit of negative emotion. But before climbing out, one must fall in, and Anguish applies such a sheer amount of harmful conditions that even the most abjuration and trumpcard-loaded parties will struggle not to fall for at least a couple.</p><p>It helps to portray the Lord of Anguish not as malicious but as a sad victim of unendurable psychic fracture. It can’t help but be afraid of everything, and it also can’t help but lay waste to its surroundings with its massive yet uncontrolled power. Obsession</p><p>Even though narratively, Anguish is terrified of everything at all times, it mechanically focuses most of its dread on one or two targets—those it is frightened of. In terms of power, being frightened is actually convenient for the Lord of Anguish: the movement restriction is weaker on it, and it grants a considerable damage boost thanks to its Smother Terror trait.</p><p>Anguish becomes frightened of the latest creature that damaged it significantly. Your players might use this to their advantage–let them! The Lord of Anguish can also become frightened of a creature willingly with its Brood extra action, which you can use in a pinch if the encounter would benefit from it.</p><p>Eat your Demons</p><p>The Lord of Anguish’s most powerful ability is its ArmCovered Maw attack. With its Gargantuan Strikes feature, it can hit multiple characters with a single bite attack and swallow them before its turn ends. The swallow mechanic is much more interactive than your typical swallow; though the players will take a considerable amount of damage while inside the Lord of Anguish, they will also deal more damage, bypassing resistances and gaining a bonus to hit against their foe.</p><p>Though being eaten is distressing, it is actually better to be inside the Lord of Anguish than outside, since a swallowed creature cannot be targeted by additional attacks. Do bear in mind that the damage taken from the Swallow is Dark damage, a legendary damage type that reduces a creature’s maximum hit points.</p><p>Vazan, Unleashed</p><p>When the Lord of Anguish sheds its black shell and enters its second phase, it becomes much deadlier. Body Slam attacks that might have been missing highAC characters will now regularly hit, and the frightened mechanic no longer allows characters to manipulate Anguish’s movement. The confrontation becomes a race to the death.</p><p>Cinematically communicate to your players the urgency of defeating Vazan as quickly as possible before they are overwhelmed.</p><p>Tiers of Play</p><p>The Lord of Anguish is a Paragon-tier Legendary Foe, meaning that it is meant to be faced by parties between the 22nd and 23rd level. These parties possess 10thlevel spells and a 2 LP maximum per character.</p><p>Legend</p><p>While not nearly at the level to face Anguish under normal circumstances, it is possible for a mechanically optimized, relic-bearing 20th-level party to emerge victorious against it if they play intelligently. Heavy casualties should be expected, though, as the damage output is exceedingly high, and its emotion-based abilities will likely drain several members of the party of their singular Legendary Point every round.</p><p>Having allies, such as powerful NPCs that can take the brunt of the Lord of Anguish’s attacks, can be a way to make this creature work for the Legend-tier of play. As with all Paragon-tier creatures, however, a party with only 1 LP to spend often falls short of these foes.</p><p>Paragon</p><p>With the advent of your players’ first 10th-level spells and second Legendary Point, the battle becomes a lot more viable. A spell such as Avatar alone can entirely change the course of the fight, with how well it works against a non-strategizing enemy. It is important for you to remember (and signal to the players) that party missteps remain potentially fatal. If a character has no means of teleportation or ethereal travel, for example, a combination of the Arm-Covered Maw action, Ghost bonus action and Dismbember extra action can take one party member out of the fight very fast. All of that can happen before the end of round 1! This tension is to be</p><p>expected from a Legendary Encounter, however, so be sure to pull no punches.</p><p>Ascended</p><p>In the final tier of legendary play covered by this book, the Lord of Anguish will have a hard time keeping up with the party. We recommend reserving this Legendary Encounter as a secondary story point in such cases, though it can be adapted to pose a greater threat if needed. To do so, we recommend giving the Lord of Anguish one more Legendary Point, a hit point boost of about 300, and more importantly, moving up the health needed for its Phase Transition to occur to the 1000 hit point mark.</p></div>",
+        "public": ""
+      },
+      "alignment": "chaotic neutral",
+      "cr": 30,
+      "type": {
+        "value": "dragon",
+        "subtype": "undead",
+        "swarm": "",
+        "custom": "Legendary Foe"
+      },
+      "source": {
+        "book": "Ariadne's Book of Legends",
+        "page": "188-191",
+        "license": "",
+        "custom": "Original en-US text from Alpha v1.2",
+        "rules": "2014",
+        "revision": 1
+      },
+      "environment": ""
+    },
+    "traits": {
+      "size": "grg",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "all"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {},
+    "spells": {},
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-foe",
+      "sourcePages": "188-191",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference-statblock"
+    }
+  },
+  "prototypeToken": {
+    "name": "The Lord of Anguish",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 4,
+    "height": 4,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1
+    },
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  }
+}

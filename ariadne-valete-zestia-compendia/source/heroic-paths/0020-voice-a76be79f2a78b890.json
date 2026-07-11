@@ -1,0 +1,145 @@
+{
+  "_key": "!items!a76be79f2a78b890",
+  "_id": "a76be79f2a78b890",
+  "name": "Voice",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "3bee417ccae37937": {
+        "_id": "3bee417ccae37937",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Voice"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 90.</p><p>Tier I: Voice</p><p>Irrepressible Voice. You can choose to make your voice be heard up to 300 feet, and it can be understood regardless of language. You cannot be magically silenced or otherwise prevented from speaking unless you are paralyzed, stunned, or unconscious. Magic cannot compel your speech in any way.</p><p>Proclamation. As an action, you speak a proclamation tied to your deity. You can also come up with your own proclamation, with a similar effect, at the DM’s discretion.</p><ul><li></li></ul><p>Allies who can hear you gain temporary hit points equal to your level and advantage on their next attack roll or saving throw.</p><ul><li></li></ul><p>Creatures of your choice that can hear you must succeed on a Wisdom saving throw against your spell save DC or be affected by the Command spell.</p><p>An ongoing 5th-level or lower spell or magical effect of your choice within 30 feet of you ends. +</p></div>",
+      "chat": ""
+    },
+    "identifier": "voice",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "90",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Herald",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "90",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "heroicPath": "Herald",
+      "stageType": "Tier I",
+      "stageOrder": 1
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

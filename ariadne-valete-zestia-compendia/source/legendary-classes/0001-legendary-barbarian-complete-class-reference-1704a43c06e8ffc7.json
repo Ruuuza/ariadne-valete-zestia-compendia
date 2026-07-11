@@ -1,0 +1,71 @@
+{
+  "_key": "!items!1704a43c06e8ffc7",
+  "_id": "1704a43c06e8ffc7",
+  "name": "Legendary Barbarian - Complete Class Reference",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 28-31.</p><p>Legendary Barbarian</p><p>The old stories speak of warriors who could stop an army with a roar, whose fury summoned storms, whose blood ran so hot that it melted the steel that dared cut them. Those stories have a true, brutal basis in the Legendary Barbarians of the past… and the present.</p><p>A Legendary Barbarian is rage given form, purpose, and permanence. Unlike the fleeting anger of a soldier in the heat of battle, their rage has been burning since the first time the world tried to break them–to no avail. Every scar they carry is a mark of their endurance, every enemy defeated another verse of a saga written in ash and blood.</p><p>Few forces in the cosmos are as terrifying or as straightforward as a Legendary Barbarian. Where others have spent their adventuring careers accumulating spells, sophisticated maneuvers, and arcane contingencies, the Barbarian has channeled their potential into a body that can weather any blow, and answer in kind. At 20th level, that dedication has compounded into something that defies the logic of the physical world. A mortal is not supposed to withstand the forces that routinely assail a Legendary Barbarian, nor be able to summon the overwhelming strength that permeates each of their strikes. They thunder forward on the battlefield, walking catastrophes whose path you must part from, or be torn apart yourself. To mighty immortals used to crudely asserting their physical dominance over meek mortals, they are the ultimate blight. To their legendary companions, they are an unfailing assurance: even if they should all fall, the living tempest by their side will fall last, and ensure the enemy pays dearly for their victory.</p><p>20th +6 Devastating Strike, Legendary AC, Legendary Resistance 1 6 +4 4</p><p>Technique, Primordial Champion 1 6 +4 5</p><p>Legendary Rage 2 7 +5 5</p><p>Legendary Barbarian</p><p>Level Proficiency Features Legendary</p><p>21st +6 Heroic Path (1), Legendary Score Improvement (1), Mythical</p><p>22nd +7 Heroic Path (2), Bulwark of Constitution (1), Barbaric Leap,</p><p>23rd +7 Heroic Path (3), Legendary Score Improvement (2),</p><p>Challenging Roar, Crushing Critical 2 7 +5 5</p><p>24th +8 Heroic Path (4), Bulwark of Constitution (2), Improved Devastating Strike, Effortless Resistance, Mythical Technique 3 8 +6 6</p><p>25th +8 Heroic Path (5), Legendary Score Improvement (3), Aura of</p><p>Endurance, Improved Legendary Rage 3 8 +6 6</p><p>Level 20</p><p>Legendary Points</p><p>Starting at 20th level, you gain Legendary Points. Your level determines the number of points you have, as shown in the Legendary Points column of the Legendary Barbarian table. You can take the Recover action on your turn to regain all expended Legendary Points. You can spend these points to fuel various features.</p><p>Legendary Resistance</p><p>Starting at 20th level, you can expend 1 Legendary Point when you fail a saving throw to succeed instead.</p><p>Devastating Strike</p><p>When you reach 20th level, you learn to channel your immense strength into a singular, devastating strike. You can use your action and expend 1 Legendary Point to make a melee weapon attack roll against a target within range. On a hit, you deal 5d12 x 5 damage of the weapon’s type. This attack does not benefit from any bonus to its damage. On a critical hit, you do not multiply the damage dice by 2, but instead deal 7d12 x 5 weapon damage.</p><p>A creature hit by Devastating Strike must succeed on a Constitution saving throw against your Strength score or become Impaired for a minute.</p><p>5.5e: If you use Reckless Attack on your Devastating Strike, you can forgo any Advantage on the attack roll. The Multiplier Attack must not have Disadvantage. If the attack hits, you add 1 die to the Devastating Strike’s damage equation, and you can cause two Brutal Strike effects of your choice. If the attack misses, you can</p><p>Points Rages Rage Damage</p><p>Weapon Mastery</p><p>expend 1 use of your Rage to reroll the attack. You must use the new roll.</p><p>Legendary AC</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC in any way, except by temporary AC increases or magical effects lasting 1 hour or less. Other spells and effects that increase your AC only affect your regular AC.</p><p>Level 21</p><p>Heroic Path Advancement</p><p>At 21st level, you choose a Heroic Path you meet the prerequisites for and advance its first step. Each time you gain a level, you can advance a Heroic Path by one step, start a new Heroic Path, or, if specified as an option of the current step you’re on, jump from one Heroic Path into another.</p><p>Legendary Score Improvement</p><p>When you reach 21st level, and again at levels 23 and 25, increase one of your ability scores by 2 or two ability scores by 1. You cannot raise an ability score above 24 using this feature, unless another feature raised your maximum for that specific ability score beforehand.</p><p>Primordial Champion</p><p>Also at 21st level, your maximum for your Strength and Constitution scores becomes 30.</p><p>Mythical Technique</p><p>At 21st level, you learn a Mythical Technique from the Mythical Techniques section. You learn an additional Mythical Technique when you reach 24th level.</p><p>5.5e: Whenever you learn a Mythical Technique, you gain an additional Weapon Mastery.</p><p>Level 22</p><p>Bulwark of Constitution</p><p>Beginning at 22nd level, increase your Constitution score by 2. You increase your Constitution score by an additional 2 when you reach 24th level.</p><p>Barbaric Leap</p><p>Also at 22nd level, you learn to use your strength to your benefit when crossing large distances. You leap into the skies, descending onto a point you can see within 500 feet of you. All creatures within 20 feet of that point when you land must succeed on a Dexterity saving throw against your Strength score, taking 45 (10d8) bludgeoning damage and being knocked prone on a failed save, or taking half as much damage and not being knocked prone on a successful one. When using this feature, you don’t take fall damage when falling 500 feet or less.</p><p>LP Cost. You can use this feature as a bonus action on your turn. If you do so, you expend 1 Legendary Point.</p><p>Legendary Rage</p><p>Whenever you enter a rage, you can expend 1 Legendary Point to gain 100 temporary hit points that last for a minute. Once you use this feature, you cannot do so again until you finish a long rest.</p><p>5.5e: When using your Legendary Rage, you can expend additional Rage uses to increase the temporary hit points you gain. For each Rage use you expend, you gain an additional 20 temporary hit points, up to a maximum of 100. This cap is removed when you gain the Improved Legendary Rage feature at 25th level.</p><p>Also, when you reach 22nd level, and again at 24th level, you gain an additional use of your Rage feature.</p><p>Level 23</p><p>Challenging Roar</p><p>Starting at 23rd level, your challenging presence is impossible to ignore, even for legends. As a bonus action, you can unleash a primal roar. Each creature of your choice within 30 feet must succeed on a Wisdom saving throw against a DC equal to your Strength score or be frightened of you for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p><p>Creatures immune to the frightened condition must make this saving throw regardless. On a failure, the</p><p>creature is beckoned by your challenge and compelled to attack you until the end of its next turn. While compelled in this way, a creature cannot make attack rolls against a creature other than you if you are within range and a valid target. If the creature cannot reach you with its attacks or is otherwise unable to damage you, it may target another creature instead.</p><p>LP Cost. You can use this feature at the end of another creature’s turn by expending 1 Legendary Point.</p><p>Crushing Critical</p><p>Also at 23rd level, your critical hits can put even the greatest foes out of commission. When you score a critical hit, the target must succeed on a Constitution saving throw against your Strength score. On a failure, they are stunned until the end of their next turn. If the target is immune to the Stunned condition, it is Impaired instead for the same duration.</p><p>Level 24</p><p>Effortless Resistance</p><p>Beginning at 24th level, the first time you use your Legendary Resistance feature in between long rests, you do not expend a Legendary Point. Additionally, you can use the Legendary Resistance feature any number of times in a round, as long as you have the Legendary Points to fuel them.</p><p>Improved Devastating Strike</p><p>When you reach 24th level, your Devastating Strike damage calculation is increased to 8d12 x 5, or 10d12 x 5 on a critical hit.</p><p>Level 25</p><p>Aura of Endurance</p><p>Starting at 25th level, you gain the ability to extend your endurance to all who march into battle with you. As a bonus action, you can expend 1 Legendary Point to create an Aura of Endurance that lasts for a minute. Choose a damage type from the following: acid, cold, fire, lightning, or thunder. You and all allied creatures within 15 feet of you cannot be critically hit, become resistant to bludgeoning, piercing, and slashing damage, and are immune to the chosen damage type for the duration. You can only choose one damage type at a time. If you want to change the chosen damage type, you must expend a Legendary Point and use a bonus action on your turn.</p><p>Improved Legendary Rage</p><p>Also at 25th level, you can expend any number of Legendary Points when you use your Legendary Rage feature. For each LP expended, you gain an additional 100 temporary hit points.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-barbarian-complete-class-reference",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "28-31",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-overview",
+      "sourcePage": "28-31",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Barbarian",
+      "levels": "20-25"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

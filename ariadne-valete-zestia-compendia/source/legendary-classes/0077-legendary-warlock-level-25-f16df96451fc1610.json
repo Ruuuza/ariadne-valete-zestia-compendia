@@ -1,0 +1,71 @@
+{
+  "_key": "!items!f16df96451fc1610",
+  "_id": "f16df96451fc1610",
+  "name": "Legendary Warlock - Level 25",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 72-77.</p><p>Level 25</p><p>Supernatural Intervention</p><p>Beginning at 25th level, the scale of your service to your patron has earned you the right to invoke its personal help, if only momentarily. You can call upon your patron’s supernatural intervention by using your action and expending 2 Legendary Points. An Avatar of your patron (as per the Avatar statblock on page 125) appears in an unoccupied space within 120 feet of you. Your patron can speak through it, and it has a telepathy range of 120 feet. If you are in combat, it acts on your initiative count. While within 500 feet of your patron’s avatar, you and your allies are immune to the charmed and frightened conditions.</p><p>Your patron’s avatar remains for 24 hours or until it is destroyed. Once you have beseeched your patron’s supernatural intervention, you must wait 7 days before you can call upon it again.</p><p>Legendary Eldritch Invocations</p><p>Blade of Perdition</p><p>Prerequisite: Level 20+ Warlock, Thirsting Blade Invocation</p><p>The Extra Attack granted by your Thirsting Blade invocation confers three extra attacks rather than one. Once per turn, when you hit a creature with a weapon attack, you can expend a spell slot to deal additional damage equal to twice your level as Dark damage.</p><p>Death Guard</p><p>Prerequisite: Level 20+ Warlock</p><p>You learn the Death Ward spell. You can cast it on yourself without expending a spell slot.</p><p>Legendary Blast</p><p>Prerequisite: Level 20+ Warlock, a Warlock Cantrip That Deals Damage</p><p>Choose a warlock cantrip that deals damage with a casting time of 1 action. When you cast that cantrip, you can expend 1 Legendary Point to perform a Legendary Blast instead. When you do so, you make only one spell attack with a range of 120 feet. On a hit, you deal 4d10 x 5 force damage. On a critical hit, you do not multiply the damage by 2, but instead deal 6d10 x 5 force damage.</p><p>When you hit with this special attack, you inflict any additional effects normally applied by your cantrip. If you possess Eldritch Invocations that modify your cantrip’s range, they also modify your Legendary Blast. Legendary Blast counts as a higher-tier effect for the purposes of Tiers of Magic.</p><p>In addition, when you cast your chosen cantrip, you ignore any Limited Magic Immunity that would render a creature immune to cantrip-level spells.</p><p>Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p><p>Patron’s Awareness</p><p>Prerequisite: Level 20+ Warlock</p><p>You gain truesight out to 30 feet. If you already have truesight, its range increases by 30 feet. In addition, you gain blindsight equal to your truesight range.</p><p>When you roll Initiative, your result cannot be lower than 30, as your patron’s foresight compels you to act.</p><p>Quickened Blast</p><p>Prerequisite: Level 20+ Warlock, a Warlock Cantrip That Deals Damage</p><p>Choose a warlock cantrip that deals damage with a casting time of 1 action. That cantrip now has a casting time of 1 bonus action instead. If you use the chosen cantrip to perform a Legendary Blast, you can perform that Legendary Blast as a bonus action.</p><p>Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p><p>Shield of Dead Gods</p><p>Prerequisite: Level 20+ Warlock</p><p>Your AC becomes 30. You cannot further increase your AC by any means, except through temporary AC increases or magical effects lasting 1 hour or less.</p><p>Warlock’s Servant</p><p>Prerequisite: Level 20+ Warlock</p><p>Choose a creature of CR 10 or lower whose type is related to your Patron, as determined by your DM. That creature becomes your servant. As an action, you can summon it in an unoccupied space within 60 feet of you. It is an ally to you and your companions, rolls its own Initiative, and acts on its own turn. The servant remains for 1 hour or until it is destroyed or dismissed. When reduced to 0 hit points or dismissed, it disappears, leaving behind anything it was wearing or carrying. Your servant’s presence counts as a higher-tier magical effect for the purposes of Tiers of Magic.</p><p>Once you summon your servant, you cannot do so again until you finish a long rest. You can change your chosen servant whenever you gain a Legendary Warlock level, provided the new creature meets the prerequisites.</p><p>Patron’s Technique</p><p>Prerequisite: Level 22+ Warlock</p><p>Your patron confides in you a Mythical Technique of your choice from the Paladin or Rogue list.</p><p>Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible Mythical Technique.</p><p>Soul Blast</p><p>Prerequisite: Level 22+ Warlock, a Warlock Cantrip That Deals Damage</p><p>Choose a warlock cantrip that deals damage. That cantrip gains one additional damage die and deals Soul damage instead of its normal damage type.</p><p>If you use the chosen cantrip to perform a Legendary Blast, your Legendary Blast deals 6d10 x 5 Soul damage. On a critical hit, you do not multiply the damage by 2, but instead deal 8d10 x 5 Soul damage.</p><p>Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p><p>Strike of the Covenant</p><p>Prerequisite: Level 22+ Warlock, Thirsting Blade Invocation</p><p>The strength of your patron manifests in a single eldritch strike. You can use your action and expend 1 Legendary Point to perform a Strike of the Covenant. Make a single melee weapon attack against a creature within range, with the reach of your weapon increased to 30 feet. You have a +10 bonus to hit on this attack.</p><p>On a hit, the attack deals 10d8 x 5 radiant or necrotic damage (your choice) instead of your weapon’s normal damage. This attack does not benefit from any other bonus to its damage rolls. On a critical hit, you do not multiply the damage dice by 2, but instead deal 13d8 x 5 radiant or necrotic damage (your choice). You regain hit points equal to half the damage dealt.</p><p>Once you perform a Strike of the Covenant, you cannot do so again until you finish a short or long rest.</p><p>Warlock’s Champion</p><p>Prerequisite: Level 22+ Warlock, Warlock’s Servant Invocation</p><p>Your servant can remain for up to 8 hours, and its CR can be up to 16. You can retain a lower CR servant if you choose, and work with your DM to bring it up to a fitting CR 16 stat block.</p><p>Warp Gate</p><p>Prerequisite: Level 22+ Warlock</p><p>You can cast Teleport at will, targeting only yourself and one additional willing creature, without expending a spell slot.</p><p>Prison of Realms Beyond</p><p>Prerequisite: level 24+ Warlock</p><p>You can expend 2 Legendary Points to cast the Imprisonment spell innately, without expending a spell slot. If you do so, Imprisonment has a casting time of 1 action for you. Once you use this feature, you cannot do so again until you finish a long rest.</p><p>Warlock’s Wish</p><p>Prerequisite: level 24+ Warlock</p><p>You can expend 2 Legendary Points to cast the Wish spell at 9th level innately, without expending a spell slot. If you do so, you do not suffer the repercussions of casting the Wish spell. Once you use this feature, you cannot use it again for 30 days.</p><p>Patron’s Relic</p><p>Prerequisite: Level 25+ Warlock</p><p>Your patron creates a Relic-level magic item and bestows it upon you. Work with your DM to determine its nature.</p><p>Warlock’s Chosen</p><p>Prerequisite: Level 25+ Warlock, Warlock’s Champion Invocation</p><p>Your servant remains at your side indefinitely until destroyed or dismissed. If destroyed, you cannot summon it again until you finish a long rest. Your servant’s CR can be up to 21. You can retain a lower CR servant if you choose, and work with your DM to bring it up to a fitting CR 21 stat block.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-warlock-level-25",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "72-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Warlock level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "72-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Warlock",
+      "legendaryLevel": 25
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

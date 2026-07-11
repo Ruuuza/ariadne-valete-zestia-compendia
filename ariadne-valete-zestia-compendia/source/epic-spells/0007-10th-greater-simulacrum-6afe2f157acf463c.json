@@ -1,0 +1,180 @@
+{
+  "_key": "!items!6afe2f157acf463c",
+  "_id": "6afe2f157acf463c",
+  "name": "[10th] Greater Simulacrum",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "88464ba3b83c5264": {
+        "_id": "88464ba3b83c5264",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Greater Simulacrum"
+        },
+        "duration": {
+          "value": "1",
+          "units": "hour",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "120",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "4",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 127.</p><p>Greater Simulacrum</p><p>10th-level illusion</p><p>Classes: Wizard Casting Time: 1 action Range: 120 feet Components: V, S, M (a shadow caught in a bottle, a handful of snow from Tartarus, a shard of glass from the City of Mirrors, and a pinch of salt sprinkled in the air) Duration: Concentration, up to 1 hour</p><p>You shape an illusory duplicate of up to four creatures within range. The duplicates are shadowy forms, partially real, and can take actions and be affected as a normal creature would. The illusions use all the statistics of the creatures they duplicate, except that they are Constructs and can have a maximum of 300 hit points. A duplicate forms with all of the target’s equipment, except for Artifacts and Relics.</p><p>These duplicates do not possess the ability to cast 10th-level spells nor use features or abilities that expend more than 2 Legendary Points at a time. They otherwise have all the abilities of their real counterparts, mimicking their targets’ capabilities with uncanny precision. A simulacrum cannot create another simulacrum nor recover Legendary Points.</p><p>The simulacri are friendly to you and creatures you designate. They obey your mental commands (no action required), moving and acting in accordance with your wishes. The duplicates act after their real counterparts in the initiative order. The simulacri lack the ability to learn or become more powerful. They cannot learn new spells, gain class levels, or recover spent resources.</p><p>The simulacri last for an hour, until they are reduced to 0 hit points, or until your concentration ends, at which point they de-materialize into fading wisps of shadow. When a simulacrum is destroyed, any lingering effects it has created disappear alongside it.</p></div>",
+      "chat": ""
+    },
+    "identifier": "greater-simulacrum",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "127",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A trapped shadow, Tartarus snow, City of Mirrors glass, and salt",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material",
+      "concentration"
+    ],
+    "range": {
+      "value": "120",
+      "units": "ft"
+    },
+    "school": "ill",
+    "target": {
+      "affects": {
+        "count": "4",
+        "type": "creature",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "127",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Wizard",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

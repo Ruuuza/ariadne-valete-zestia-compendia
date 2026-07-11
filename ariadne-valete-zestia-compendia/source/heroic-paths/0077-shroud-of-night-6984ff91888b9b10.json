@@ -1,0 +1,72 @@
+{
+  "_key": "!items!6984ff91888b9b10",
+  "_id": "6984ff91888b9b10",
+  "name": "Shroud of Night",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 99.</p><p>Heroic Perk: Shroud of Night</p><p>Prerequisite: Living Shadow, Phantom Strike</p><p>You can cast the Darkness spell innately and at will, requiring no material components. Dexterity is your spellcasting ability for this spell. As a bonus action, you can extend your inner shadow outward in a 60-foot radius, turning the area to magical darkness for 1 minute. Creatures of your choice within this darkness can see through it.</p></div>",
+      "chat": ""
+    },
+    "identifier": "shroud-of-night",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "99",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Shadowblade",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "99",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Shadowblade",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

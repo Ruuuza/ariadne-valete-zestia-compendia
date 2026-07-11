@@ -1,0 +1,71 @@
+{
+  "_key": "!items!66af7cde260cf317",
+  "_id": "66af7cde260cf317",
+  "name": "Heroic Path: Hierophant",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 91.</p><p>Heroic Path: Hierophant</p><p>Prerequisite: Bard, Cleric, or Druid Tier I: Exalted Presence</p><p>Amplified Boons. When you use a class feature that targets willing creatures, such as Bardic Inspiration or Channel Divinity, you can target twice the number of creatures the feature normally allows. All creatures must be within the feature’s range.</p><p>Spell Holding. When you take the Ready action to prepare a spell, you may hold that spell for up to 1 minute without releasing it, maintaining concentration as normal. The spell slot is not expended unless the trigger occurs and the spell is successfully cast. If your concentration ends before the trigger occurs, the spell’s energy dissipates back into your conduits without expending the slot. Heroic Perk: Hierophant’s Sanctuary</p><p>Prerequisite: Exalted Presence</p><p>You emit a permanent aura of protection in a 30-foot radius sphere centered on you. Friendly creatures within the area have a bonus to their saving throws equal to half your proficiency bonus (rounded down). When a friendly creature within the area is reduced to 0 hit points but not killed outright, you can use your reaction to have them be reduced to 1 hit point instead. Tier II: Perfected Boons</p><p>Prerequisite: Hierophant’s Sanctuary</p><p>Transcendent Healing. When you cast a spell that restores hit points, each target regains additional hit points equal to your spellcasting ability modifier + your proficiency bonus. Healing spells you cast also remove one condition of your choice from each target among the following: blinded, charmed, deafened, frightened, or poisoned.</p><p>Delegated Concentration. When you cast a concentration spell that targets or benefits a willing creature, that creature can maintain concentration on the spell on your behalf. If their concentration is broken, the spell ends. If the creature takes damage, they roll the Constitution saving throw to maintain concentration using their own statistics.</p><p>Amplified Magic. When you cast a spell that targets willing creatures, you can target twice the number of creatures the spell normally allows. All creatures must be within the spell’s range. Heroic Perk: Chooser of Conduits</p><p>Prerequisite: Exalted Presence, Perfected Boons</p><p>Spells you hold with your Spell Holding ability can be released by your allies. When you have a spell held, you can designate a willing creature you can touch as its</p><p>conduit. The conduit begins holding the spell in your stead. You lose the ability to release the spell with your designated trigger. The conduit can release the held spell using their action on their turn, originating from them but using your spell save DC and spell attack bonus. If the spell requires concentration, the conduit is the one that must maintain it. Tier III: Hierophant</p><p>Prerequisite: Exalted Presence, Hierophant’s Sanctuary, Perfected Boons, Chooser of Conduits</p><p>Great Guide. Your Amplified Boons and Amplified Magic features now allow you to target three times the number of creatures a spell or feature normally allows. The range of your Hierophant’s Sanctuary aura expands to 60 feet.</p><p>Word of Creation. As an action, you speak a word of creation, replicating the effects of any spell of 9th level or lower that you are familiar with. Once you use this ability, you cannot do so again until you finish a long rest.</p><p>Path Connections Herald. Instead of the Hierophant’s Sanctuary Heroic Perk, you can take the Divine Arrival Perk, changing to the Herald path.</p><p>Sovereign. Instead of the Hierophant’s Sanctuary Heroic Perk, you can take the Greater Charms Perk, changing to the Sovereign path.</p><p>Third Eye. Instead of the Chooser of Conduits Heroic Perk, you can take the Ascended Mind Perk, changing to the Third Eye path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-hierophant",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "91",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "91",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Hierophant",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

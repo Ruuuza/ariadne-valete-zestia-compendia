@@ -1,0 +1,69 @@
+{
+  "_key": "!items!a5ebb4414b685152",
+  "_id": "a5ebb4414b685152",
+  "name": "Building a Legendary Character",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 21-22.</p><p>Building a Legendary Character</p><p>To begin a Legendary Campaign, you must have a 20thlevel character. Depending on the scope of your campaign, you might want to start at a certain legendary level. The following section will help guide you through the process for each Legendary Tier.</p><p>When creating Legendary Characters, it is recommended to meet up with your group and work through the complexities of both high-level D&amp;D and the new Legendary Levels together. Always best to have your fellow players and DM to help!</p><p>20th Level</p><p>Before delving into the first Legendary Tier of play, you must have a 20th-level character ready. If you already have one from a previous/ongoing campaign, you’re all set! Check in with your DM to determine any additional features—such as magic items and special abilities—and to establish your character’s scope and story. If you want to make any mechanical adjustments, such as changing subclasses, feats, or other choices made during the leveling process, now is the time to do so. If you have a multiclassed character, we recommend using this moment to re-center it into a single class, possibly compensating for flavor losses with feats, items, or special abilities.</p><p>If you need to create a 20th-level character from scratch, there are two ways to do it.</p><p>1st-20th. Create a 1st-level character following the rules of your chosen edition. Advance the character until they reach 20th-level. Customize the character as you see fit as if you were gaining the levels one by one. Work with your DM to determine what additional equipment and treasure your character might have encountered in their adventures.</p><p>Take your time building your legend. You are not simply making mechanical choices–each spell gained, each feat taken, each subclass feature represents what your character required or wished for at that moment in their lives, what the challenges they faced drew out of them. Think about each level, especially if you intend to play this character throughout a somewhat long Legendary Campaign.</p><p>We recommend not focusing too much on a preset build you might have found on the internet that expects a certain unruly class combination of you that only makes sense when you are already starting at 20th level. Multiclassing is allowed, of course, but remember, your character would likely not have taken two levels of fighter, three levels of rogue, and a level of barbarian just to access a broken combo that they wouldn’t even get to use before 18th level.</p><p>Quick Start. Use the following method to create a quick base for your Legendary Character–this method is best for one-off characters and playtests. The list below is streamlined as much as possible, making it a good way to jump directly into the Legendary Levels.</p><p>1. Choose a Class and a subclass</p><p>2. Assign the following Ability Scores: 9, 12, 13, 16, 18,</p><p>20. Choose 2 additional feats (or ability score improvements) to round up the character’s statistics. This creates an above-average character ready to face the Legendary Levels.</p><p>3. Determine the Character’s hit points: Maximum</p><p>Class Hit Dice (x1) + Average Class Hit Dice (x19) + Constitution Modifier (x20).</p><p>4. Round up your character creation by settling</p><p>customizable features such as Class options and Spells. When writing down the plethora of abilities your character possesses, prioritize those features that will see more use at higher levels–does the Hide In Plain Sight ranger feature deserve space in your very crowded stat sheet? Probably not, but who are we to judge?</p><p>5. With the approval of your DM, choose one Rare</p><p>Magic Item, one Very Rare Magic Item, and one Legendary Magic Item gathered throughout your adventures. No rings of three wishes, please.</p><p>6. Check in with your DM for any additional</p><p>adjustments, power-ups, or special features your Legend might possess.</p><p>Multiclassing</p><p>Multiclassed characters are a sizeable minority in nonlegendary campaigns. Each Legendary Class, however, builds upon its existing class, meaning you need 20 levels of Barbarian to access a Barbarian’s 21st level. To not discourage non-Legendary multiclassing in character creation, the following rules apply.</p><p>Legendary. If your total character level is 20, you gain the 20th-level Legendary Features of the class you have the most levels in, but not the capstone feature present in the non-Legendary leveling table. This means you gain access to 1 Legendary Point, a Legendary Point Class feature, and the Legendary Resistance feature. A Fighter, for example, will be able to perform a Perfect Strike and use a Legendary Resistance, but will not have the Extra Attack (x3) feature gained at regular 20th level.</p><p>Legendary Catch-Up. Whenever you gain a Legendary Level, you can choose to instead gain 2 levels of the class you have the most levels in, up to 20th level.</p><p>Despite these rules, multiclassed characters will be weaker at the Legendary Levels than their single-class counterparts, especially if their dip into other classes is sizeable. We recommend transforming multiclassed characters into a single class when transitioning into a Legendary Campaign. This supplement has a progression system called Heroic Paths (Chapter II), where former multiclassers can make up for lost customization!</p><p>Legend, Paragon, Ascended</p><p>Perhaps your campaign (or one-shot!) requires characters of a specific Legendary Level. When playing within a given Legendary Tier, we recommend starting at the lowest level of that tier: 20th, 22nd, or 24th. Each jump between Legendary Tiers significantly changes the flow of gameplay. Depending on the game you are playing, however, the DM might ask you to jump all the way up to 25th level!</p><p>To create a character at a specific Legendary Level, first follow the instructions for building a 20th-level character, then advance one level at a time alongside your DM until you reach your desired level. Each Legendary Level should be marked by an event—an important milestone that propels your character into new horizons.</p><p>Depending on the Legendary Tier, characters might possess additional magic items, features, and powerups.</p><p>Preparing for Gameplay</p><p>A Legendary Character can do a lot of things. This can be overwhelming, especially in character creation. For the best experience possible, we recommend you stick to a class you’ve played before. Though the Legendary Levels add some interesting mechanics, they are a direct evolution of the gameplay loop you’ve been</p><p>following since 1st level. The more familiar you are with your character before embarking on this journey, the better!</p><p>This is not to say you can’t experiment and throw yourself into the depths of an entirely new class–just be prepared to reference your non-Legendary abilities a lot! There are many features the average D&amp;D player has never played with before. In the higher levels, that will affect your gameplay a lot. Diamond Soul / Disciplined Survivor, the Monk’s 14th-level feature, becomes an incredibly valuable ability, especially when saving throws determine much of what you can or cannot do on your following turns…</p><p>DM Notes: About Player Balance You might have heard that high-level D&amp;D is a balancing nightmare. Players have too many options, and stat blocks often struggle to keep up. This book presents a selection of capital-L Legendary Foes designed to challenge even the best-prepared parties, while also teaching you how to use non-legendary foes to create engaging encounters. In addition, the systems introduced here aim to curb gamebreaking exploits and provide a framework that allows the DM to improvise, maintain immersion, and raise the stakes regardless of how powerful the characters become.</p><p>Perhaps your party, hardened by a years-long campaign, has accrued a wealth of abilities, unique magic items, and storydriven boons, making them more (or in rare occasions, less!) powerful than what is implied for non-legendary characters created through this section. Adjusting the party’s overall balance against the world is relatively straightforward (see Chapter V for more information)– always try to err on the side of the players when preparing a character for a Legendary Campaign.</p><p>Has the rogue gained a reputation for slaying powerful archmages over the years? Consider granting them the Mage Slayer feat. Has the fighter earned the respect of the dwarven clans after saving them from a hoarding dragon? Reward them with a powerful magic weapon. Has the sorcerer reached the pinnacle of their power, restoring an ancient bloodline? Allow them a unique, story-driven magical ability. These small adjustments won’t disrupt the overall flow of the game, but they can mean the world to your players.</p><p>What requires careful attention, however, is the perceived balance within the party itself. This is already important in non-legendary play—few players enjoy being consistently overshadowed by a rogue with exceptional ability scores and a trove of magic items. At Legendary levels, this concern becomes even more critical. While the party as a whole may exceed or fall short of the expected power curve presented in this book, each character should feel equally impactful within the group, if not in every encounter or session, at least overall through the campaign.</p></div>",
+      "chat": ""
+    },
+    "identifier": "building-a-legendary-character",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "21-22",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "21-22",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

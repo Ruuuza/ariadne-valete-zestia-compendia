@@ -1,0 +1,72 @@
+{
+  "_key": "!items!18c542012b296865",
+  "_id": "18c542012b296865",
+  "name": "Dread Master",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 96.</p><p>Tier I: Dread Master</p><p>Dread Aura. You radiate an aura of oppressive darkness in a 30-foot radius. Creatures of your choice that start their turn within the aura must succeed on a Wisdom saving throw against your spell save DC or be frightened of you for one minute. An affected creature can repeat the saving throw at the start of each of its turns, ending the effect on itself on a success. A creature that succeeds on this saving throw is immune to your Dread Aura for the next 24 hours.</p><p>Dark Authority. You can use an action to attempt to subdue a creature you can see within 60 feet. The creature must succeed on a Charisma saving throw against your spell save DC or be compelled to do your bidding for 1 minute, as if under the effects of the Dominate Monster spell. While under this effect, the creature is aware it is being controlled but cannot resist. A creature that is frightened of you automatically fails this saving throw. Creatures immune to the frightened condition are not affected by this feature. You can only have one creature controlled through this feature at a time.</p></div>",
+      "chat": ""
+    },
+    "identifier": "dread-master",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "96",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Overlord",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "96",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Overlord",
+      "stageType": "Tier I",
+      "stageOrder": 1
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

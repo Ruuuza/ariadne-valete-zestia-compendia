@@ -1,0 +1,72 @@
+{
+  "_key": "!items!0977c8ffaf02a658",
+  "_id": "0977c8ffaf02a658",
+  "name": "Knowledge of Ages",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 101.</p><p>Tier I: Knowledge of Ages</p><p>Living Memory. You have advantage on Nature, Survival, Medicine, and Perception checks. You may use Wisdom in place of Intelligence for any knowledge check related to the natural world, history of places, or ancient creatures.</p><p>Sage’s Intercession. As a bonus action on your turn, you can invigorate an allied creature you can see within 30 feet by giving them a piece of mystical advice. That creature can add your Wisdom modifier to an attack roll, ability check, or saving throw they make before the start of your next turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "knowledge-of-ages",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "101",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Third Eye",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "101",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Third Eye",
+      "stageType": "Tier I",
+      "stageOrder": 1
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

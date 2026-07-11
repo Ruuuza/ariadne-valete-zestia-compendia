@@ -1,33 +1,29 @@
-# Ariadne — Valete & Zestia: Compêndios Lendários
+# Ariadne's Book of Legends - Complete Alpha v1.2 Compendiums
 
-Compatibilidade-alvo: Foundry VTT 14 e dnd5e 5.3.3.
+Target compatibility: Foundry VTT 14 / dnd5e 5.3.3.
 
-## Instalação
+## Installation
 
-1. Faça backup do mundo e feche o Foundry.
-2. Extraia a pasta `ariadne-valete-zestia-compendia` em `{User Data}/Data/modules/`.
-3. Reinicie o Foundry e ative o módulo em **Manage Modules**.
-4. Abra **Compendium Packs** e arraste os documentos desejados para Valete & Zestia.
-5. Siga `ORDEM-DE-PROGRESSAO.md`.
+1. Back up the world and stop Foundry VTT.
+2. Extract the folder `ariadnes-book-of-legends-alpha-1-2` into `{Foundry User Data}/Data/modules/`.
+3. Restart Foundry VTT and enable the module under Manage Modules.
+4. Open Compendium Packs.
 
-## Conteúdo
+## Included packs
 
-- 8 regras lendárias.
-- 8 Heroic Path feats.
-- 12 características de Monk.
-- 2 Mythical Techniques.
-- 9 características de Wizard.
-- 2 magias de 10º círculo.
-- Total: 41 documentos `Item`.
+- Legendary Rules
+- Legendary Classes 20-25
+- Individual Legendary Class Features
+- Kensei Techniques
+- Greater Metamagic
+- Legendary Invocations
+- Heroic Paths
+- Mythical Techniques
+- 10th-Level Epic Spells
+- Legendary Items and Relics
+- Legendary Foes and Forms
+- Complete Book Reference
 
-Não existem itens `weapon`, `equipment`, `consumable`, `tool`, `loot` ou `container`. O inventário de equipamentos não é modificado.
+The Complete Book Reference pack contains every PDF page as original en-US extracted text. Structured mechanical entries preserve the original wording in their descriptions. Some advanced rules require manual adjudication because dnd5e does not natively implement Legendary Points, 10th-level slots, higher tiers of magic, Soul/Lethal/Dark damage, multiple reactions, or several Legendary Foe mechanics.
 
-## Magias de 10º círculo
-
-O dnd5e usa níveis nativos de magia de 0 a 9. Por compatibilidade, as magias aparecem como nível 9 com prefixo `[10º]` e flags que registram o nível real, custo de 2 LP e uso de slot personalizado.
-
-## Automação
-
-Bônus simples de AC, iniciativa, Perception, ataques mágicos, Spell DC, concentração, movimento e voo possuem Active Effects. LP, Focus, Soul damage, duas reações, teleporte, condições especiais e slot de 10º círculo permanecem manuais.
-
-O PDF original não está incluído.
+The original PDF is included under `assets/reference/` for private reference.

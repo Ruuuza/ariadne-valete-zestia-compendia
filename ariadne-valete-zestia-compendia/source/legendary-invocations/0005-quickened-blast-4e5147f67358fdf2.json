@@ -1,0 +1,144 @@
+{
+  "_key": "!items!4e5147f67358fdf2",
+  "_id": "4e5147f67358fdf2",
+  "name": "Quickened Blast",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "548d561d723a2d60": {
+        "_id": "548d561d723a2d60",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Quickened Blast"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 76-77.</p><p>Quickened Blast</p><p>Prerequisite: Level 20+ Warlock, a Warlock Cantrip That Deals Damage</p><p>Choose a warlock cantrip that deals damage with a casting time of 1 action. That cantrip now has a casting time of 1 bonus action instead. If you use the chosen cantrip to perform a Legendary Blast, you can perform that Legendary Blast as a bonus action.</p><p>Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p></div>",
+      "chat": ""
+    },
+    "identifier": "quickened-blast",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "76-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Level 20+ Warlock, a Warlock Cantrip That Deals Damage",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-invocation",
+      "sourcePage": "76-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Warlock",
+      "invocation": true
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

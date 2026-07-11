@@ -1,0 +1,69 @@
+{
+  "_key": "!items!649d1cbfa7c18da1",
+  "_id": "649d1cbfa7c18da1",
+  "name": "Magic and Tiers of Magic",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 17.</p><p>Magic</p><p>Magic and magical effects are the backbone of any balanced campaign at higher levels. To help DMs and Players alike gauge which spell would take precedence over which other, or how a certain magical effect would interact with an ongoing spell, we’ve created a scale of magic to categorize the relative strength of magic in your Legendary Campaign. It’s a simple enough system that helps rule things on the fly and maintain immersion.</p><p>Magical Effects. Many creatures and classes utilize powerful effects that could be considered magic, yet aren’t specifically leveled. To know how a Mythical Technique or high-level Artifact would interact with these features, the DM must assign a level to that magical effect. Each level implies a different tier of magic. If a feature in this book refers to a certain magic tier, such as Common-tier, Higher-tier, or Epic-tier, it refers to the level brackets mentioned below. These Tiers of Magic allow you to judge whether or not Scáthach’s Scythe of Doom could destroy a Force Cage, for example (the answer is yes!).</p><p>Level Tier Spell Example Effect Example</p><p>1st to 7thlevel</p><p>Class and Monster Features, Up to Very</p><p>Common Dimension</p><p>Door</p><p>Rare Magic Items</p><p>8th and 9thlevel</p><p>Higher Foresight Mythical Technique, Legendary Magic Item</p><p>Divine Mandates, Artifacts, Fundamental</p><p>10thlevel Epic Greater Simulacrum</p><p>Laws</p><p>Counterspell, Dispel Magic, End Magic, Cleanse Effect. The characters and foes in high-level games tend to have a lot of tools at their disposal when it comes to ending magical effects, countering spells, and interrupting casters.</p><p>With the higher ability scores this book allows, countering a 9th-level spell with a 3rd-level casting of Counterspell is not that difficult, and Dispel Magic, even at 3rd-level, may very well end a character’s Foresight spell. There is a discrepancy between the resource expended and the gameplay effect.</p><p>Our solution is a new rule that affects not only the Legendary Levels, but also the rest of the leveling process (if you’re brave enough).</p><p>Tiers of Magic</p><p>A spell or magical effect can only modify, end, or otherwise affect another spell or magical effect if it is from a tier of magic equal to or higher than the target magic.</p><p>This mainly affects Counterspell and Dispel Magic, but it can also be used to quantify and determine the strength of any type of magic, such as the toughness of an ancient barrier or the anti-magical properties of an alien material.</p><p>End Magic and Cleanse Effect, features many Legendary Foes possess, also follow this rule, needing an increased spend in LP to affect greater levels of magic.</p><p>HERE BE LEGENDS</p></div>",
+      "chat": ""
+    },
+    "identifier": "magic-and-tiers-of-magic",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "17",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "17",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

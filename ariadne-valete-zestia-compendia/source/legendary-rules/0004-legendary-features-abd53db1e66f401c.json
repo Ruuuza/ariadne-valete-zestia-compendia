@@ -1,0 +1,69 @@
+{
+  "_key": "!items!abd53db1e66f401c",
+  "_id": "abd53db1e66f401c",
+  "name": "Legendary Features",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 13-14.</p><p>Legendary Features</p><p>Classes and Foes have some features to spend LP on. Let’s discuss some of them.</p><p>Legendary Resistance</p><p>When you fail a saving throw, you can expend 1 Legendary Point to succeed instead.</p><p>At 20th level, to mark just how powerful the characters have become—and to have a shot at defeating our Legendary Foes—every class gains access to the Legendary Resistance feature. This is a much-needed addition, allowing us to still use the powerful spells and abilities of high-level D&amp;D without the fear of save-ordie mechanics.</p><p>Because LPs serve to fuel your best abilities in these legendary levels, expending a Legendary Resistance means not using a certain offensive capability, and overusing your LPs on dealing damage, for example, can leave you vulnerable to retaliation. We’ve found it to be a dynamic game of risk/reward, which turns a fairly arbitrary, bland feature like Legendary Resistances into a fun mechanic that both DM and players interact with.</p><p>Multiplier Attacks</p><p>Special actions and attacks that deal high amounts of damage use a multiplier instead of a set number of dice. Most of these attacks are fueled by LP and are called Multiplier Attacks.</p><p>Depending on the class or creature, they deal a number of dice times 5 or 10. The damage output of a Multiplier Attack is around 100 to 250 points of damage, with some exceptions going higher or lower. Multiplier attacks are epic, effective ways for characters and creatures to deal damage in a simple, easy-tocalculate manner.</p><p>Limitations. Multiplier attacks follow certain caveats. Multiplier Attacks do not benefit from any bonus to their damage beyond their calculation. A critical hit from a Multiplier Attack never duplicates the damage calculation, but rather increases it by a set number of dice, specified in each Multiplier Attack. Any effects that would allow a creature to reroll damage dice do not apply to Multiplier Attacks.</p><p>You can still do the math! Some tables prefer rolling ludicrous amounts of dice once in a while. You can always change the multiplier equations for a set number of dice; for example, the Perfect Strike Fighter feature deals 5d8 x 5 points of damage. That’s 25d8, if you prefer rolling!</p><p>HERE BE LEGENDS</p><p>Mythical Techniques</p><p>Martials also gain access to certain Mythical Techniques, some of which require LP. These powerful actions allow them to act outside of their turn, deal incredible damage, or invoke a certain unique effect.</p><p>5.5e: Some classes gain additional Weapon Masteries whenever they gain a Mythical Technique.</p><p>Class Features</p><p>Classes gain special ways of spending LP. These are generally more situational, but remain powerful and unique. Most of the time, Legendary Resistance and Multiplier Attacks will be a more effective way of spending LP during combat. These class features change the way a character interacts with the world around them, and can also change the tide of battle if used at the proper time. When they hit, they really hit.</p><p>10th-level spells</p><p>Full casters gain access to legendary 10th-level spells, arcanisms of such magnitude that they alter the very fabric of reality. To cast a 10th-level spell, a caster must use their Action on their turn and expend 2 Legendary Points. This is the most LP-intensive action a character can take, and leaves the casters with much fewer options until they find a way to recover LP.</p><p>Legendary Foes follow the same rules and sometimes have additional restrictions when it comes to casting mighty 10th-level spells.</p><p>Legendary Foes</p><p>The LP System also applies to our Legendary Foes and some of their minions. Legendary Points are used to take Extra Actions, use Legendary Resistances and Endurances, and perform especially powerful abilities during their turn.</p><p>Unless otherwise stated, Legendary Foes must also contend with the same restriction as the characters when casting 10th-level spells, and sometimes have additional restrictions, such as phase transitions, casting times, and material components.</p><p>As a DM, be very transparent with the amount of LP the Foes have at any given moment; your players must be able to strategize depending on what the villain is capable of.</p><p>Legendary Recovery. At the start of each of the Legendary Foe’s turns, it regains all spent LP.</p><p>HERE BE LEGENDS</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-features",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "13-14",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "13-14",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

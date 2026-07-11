@@ -1,0 +1,71 @@
+{
+  "_key": "!items!e9cb55351f22aa9f",
+  "_id": "e9cb55351f22aa9f",
+  "name": "Legendary Paladin - Level 23",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 54-57.</p><p>Level 23</p><p>Oathsworn Resolve</p><p>At 23rd level, you increase your Charisma score by 2, up to a maximum of 24.</p><p>Consecrated Oath</p><p>When you reach 23rd level, the energy of your oath grants you the qualities of otherworldly beings. You gain truesight out to 30 feet and become resistant to radiant and necrotic damage.</p><p>Greater Oathborn Miracle</p><p>Starting at 23rd level, the strength of your oath bestows upon you an additional divine miracle to bring forth. You gain a 7th-level spell slot. You can prepare spells of 7th level from the Cleric spell list. They count as Paladin spells for you.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-paladin-level-23",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "54-57",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Paladin level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "54-57",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Paladin",
+      "legendaryLevel": 23
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

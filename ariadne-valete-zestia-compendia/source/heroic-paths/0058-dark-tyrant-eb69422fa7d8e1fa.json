@@ -1,0 +1,72 @@
+{
+  "_key": "!items!eb69422fa7d8e1fa",
+  "_id": "eb69422fa7d8e1fa",
+  "name": "Dark Tyrant",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 96.</p><p>Tier II: Dark Tyrant</p><p>Prerequisite: Thrall</p><p>Crushing Will. Your spell save DC is increased by 2. When a creature succeeds on a saving throw against one of your spells, it takes psychic damage equal to your spellcasting ability modifier + your proficiency bonus as your dark will lashes out against its defiance. A creature can only be affected by this feature once per turn.</p><p>Edict of Domination. When you cast a spell that charms or frightens a creature, you can choose to make the effect permanent until dispelled, rather than using</p><p>the spell’s normal duration. If you choose to do so and the spell’s full normal duration elapses, you are no longer required to maintain concentration on it to extend its effects. If your concentration ends before the full duration elapses, the effects end as normal.</p></div>",
+      "chat": ""
+    },
+    "identifier": "dark-tyrant",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "96",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Overlord",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "96",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Overlord",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

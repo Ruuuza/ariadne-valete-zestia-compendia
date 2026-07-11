@@ -1,0 +1,180 @@
+{
+  "_key": "!items!0fedb61aaf047c1b",
+  "_id": "0fedb61aaf047c1b",
+  "name": "[10th] Apocalypse",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "93a146e7e127e7a5": {
+        "_id": "93a146e7e127e7a5",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "hour",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Apocalypse"
+        },
+        "duration": {
+          "value": "8",
+          "units": "hour",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "10",
+          "units": "mi",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 124.</p><p>Apocalypse</p><p>10th-level evocation</p><p>Classes: Cleric, Druid, Warlock, Wizard Casting Time: 1 hour Range: 10 miles Components: V, S, M (a handful of earth from the body of Geb, a living flame from the plane of fire, a gust of wind from Zephyr’s courtyard, and a gallon of silver water from the fountains of Atlantis) Duration: Concentration, up to 8 hours</p><p>You open a rift to the four elemental planes, commanding the elements to create an apocalyptic natural disaster capable of laying waste to a city. When you finish casting this spell, the elements surround you, and a 10-foot radius beam of energy descends from the heavens to illuminate you for the duration. The beam sheds bright light out to 60 feet, and dim light for another 60 feet. For the duration of the spell, you levitate 60 feet off the ground and must use your action every turn to channel the elements. If you move or are moved outside of the energy beam, or you lose concentration, the spell ends. This spell can only be cast under an open sky. At the start of each of your turns for the duration of this spell, choose one of the following effects to take place in a location of your choosing within range.</p><p>Earth. A terrible earthquake ravages the land. Choose a point within range. A powerful seismic disruption occurs in a 200-foot-radius circle centered on that point. Hundreds of fissures open in the area, swallowing whatever is on the surface, leaving only a crater in the earth. Each creature within the area must make a Dexterity saving throw, taking 10d6 bludgeoning damage on a failure and falling prone into the crater, or half as much on a success and not falling prone. A creature that can fly automatically succeeds this saving throw. The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature’s concentration is broken.</p><p>The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you use this effect, and each time you choose this effect again until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure’s height must make a Dexterity saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The GM can adjust the DC according to the nature of the rubble. On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.</p><p>Air. You create four violent tornadoes that assail the area. Choose four points you can see within range.</p><p>Tornadoes appear in 15-foot radius, 120-feet tall cylinders centered on each point. The tornadoes move up to 30 feet at the start of each of your turns in a random direction and last for one minute. You can use this effect again to choose the direction of the tornadoes, or to create four tornadoes in new locations, replacing the previous four. Any creature that starts its turn within a tornado must make a Strength saving throw. On a failed save, the creature takes 5d6 bludgeoning damage and is pushed 20 feet in a random direction and 30 feet up. On a successful save, the creature takes half as much damage and isn’t pushed. Flying creatures make this saving throw with disadvantage. Objects that weigh up to 200 pounds are also pushed around by the tornado. A creature that is pushed in this manner lands prone and takes 6d6 bludgeoning damage.</p><p>Water. Torrential rain assails a 400-foot-radius circle centered on a point you can see within range, drowning the area in a matter of minutes. The area becomes lightly obscured. All creatures within it must succeed on a Strength saving throw or be swept up by the water and moved 60 feet in a direction determined by the flow of the current. A creature that fails this saving throw by 5 or more is pulled under the water and starts drowning if it breathes air.</p><p>Fire. You summon a pillar of radiance and flame in a 30-foot radius, 200-feet-tall cylinder centered on a point within range. Each creature within the area must make a Dexterity saving throw, taking 8d8 fire damage and 8d8 radiant damage on a failed save, or half as much on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried. Objects ignited by the flames of this spell burn at twice the normal rate and require twice as much water to put out.</p></div>",
+      "chat": ""
+    },
+    "identifier": "apocalypse",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "124",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "hour",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "8",
+      "units": "hour"
+    },
+    "level": 9,
+    "materials": {
+      "value": "Earth from Geb, living fire, wind from Zephyr’s courtyard, and silver water from Atlantis",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material",
+      "concentration"
+    ],
+    "range": {
+      "value": "10",
+      "units": "mi"
+    },
+    "school": "evo",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "124",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Cleric, Druid, Warlock, Wizard",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

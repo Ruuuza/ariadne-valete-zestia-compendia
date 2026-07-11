@@ -1,0 +1,705 @@
+{
+  "_key": "!journal!4e8e8f5c70aa803a",
+  "_id": "4e8e8f5c70aa803a",
+  "name": "II - Heroic Paths",
+  "pages": [
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.a86b85f33547083e",
+      "_id": "a86b85f33547083e",
+      "name": "p. 82 - II",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 82</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">II\n\nheroic\nPATHS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 82,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.dacf766b0b480711",
+      "_id": "dacf766b0b480711",
+      "name": "p. 83 - Page 83",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 83</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\"></pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 83,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.f4235207082e7449",
+      "_id": "f4235207082e7449",
+      "name": "p. 84 - Your Legendary Path",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 84</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Your Legendary Path\n\nA\n\nBarbarian who has spent their life on the\nfront lines of a celestial war develops much\ndifferently from one who has hunted titans\nacross the elemental planes. A Wizard who\nhas perfected their casting to turn enemies\nto cinders with fiery blasts is very unlike\nanother who has devoted their studies to\ndark celestial bodies and is now able to conjure\nminiature black holes. We created Heroic Paths to give\nthese distinctions a mechanical identity, representing\nthe specific history and interests of a character rather\nthan the general arc of their class archetype.\n\nHeroic Paths are a series of features that bring varied\nbenefits, build upon each other in steps (one per level,\nstarting at level 21), and sometimes connect, allowing\nyou to jump between paths. Each has a specific flavor\nand mechanical identity–it’s a progression system like\nregular class levels, except that you get to choose them\nnow, twenty-one levels into the fray. Deepen the flavor\nof your class, your chosen mythical techniques or spells,\nor go a new direction! As long as you meet the\nprerequisites, your Heroic Path is yours to define.\n\nYour Legendary Subclass\nSubclasses are one of the most varied and “custom” parts\nof any D&amp;D game–between obscure sourcebooks, thirdparty material, and your own homebrew content, no two\ntables look the same, even when the base classes are\nindeed the same. Writing a book that accounts for all of that\nis unrealistic, especially considering the licensing\nrestrictions around third-party subclass content. Heroic\nPaths are our answer to that problem: a flexible layer of\nprogression that works alongside whatever subclass your\ncharacter already has. Think about your Heroic Path as your\nLegendary Subclass! We recommend choosing a Heroic Path\nthat complements your subclass’s flavor.\n\nThe Anatomy of Heroic Paths\n\nEach Heroic Path is composed of two types of benefits:\nHeroic Feats, the more powerful of the two, and\nHeroic Perks, which connect them. You advance a\nstep in a Heroic Path each time you gain a level, starting\nat the 21st. You can also start a new Heroic Path you\nmeet the prerequisites for, or branch out into another\nHeroic Path when the step you’re on allows it. By the\nend of the Legendary Levels, you will have made 5\nsteps.\n\nHeroic Feat. Each Heroic Path is made up of 5 steps.\nSteps 1, 3, and 5 are Heroic Feats–meaningful features\nthat will typically affect how your character plays in\ncombat. Heroic Feats are divided into three Tiers: each\nTier is considerably stronger than the last. A Tier I\nHeroic Feat is unlocked at step 1, a Tier II at step 3, and\na Tier III at step 5. Put simply, the further up a Heroic\nPath a Feat is, the stronger it will be.\n\nHeroic Perk. Steps 2 and 4 of every Heroic Path are\nHeroic Perks–smaller benefits which often allow your\ncharacter to jump between Heroic Paths.\n\nWhen planning your progression, consider that\ngetting up to the highest steps will reward you with\nmightier choices down the line. It might be tempting to\njust start a new Heroic Path each time you level up, but\nthat might end up hindering your plans in the long run.\n\nHeroic Path Progression\n\nLevel\nSteps Taken\n\n21st\n1\n\n22nd\n2\n\n23rd\n3\n\n24th\n4\n\n25th\n5</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 84,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.7b29a61beaca1f1d",
+      "_id": "7b29a61beaca1f1d",
+      "name": "p. 85 - The Full Picture",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 85</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">The Full Picture\n\nWhen choosing a Heroic Path, consider the Heroic\nFeats you hope to reach by the end of your progression.\nNot all Legendary Campaigns will run to 25th level, so a\nbenefit you are building toward may never arrive. Some\ncombinations will also prove stronger in certain\ncampaigns, depending on what your DM puts in front of\nyou. That said, do not stress over making the most\noptimized choice at every level. Whenever you level up,\nthink about how your character is growing within the\nstory you are telling. A flavorful choice will almost\nalways serve you better than a “perfect” one.\n\nHeroic Paths are highly modular. With each new step,\nyou can advance your current path or start a fresh one.\nBy the end of a standard 23rd-level campaign, for\nexample, you will have advanced 3 steps–enough to\nreach a Tier 2 Heroic Feat in a single path, or spread\nacross three different paths for three Tier 1 Heroic\nFeats. A full 25th-level progression unlocks 5 steps,\nenough to reach Tier 3 in a single path or build a wide\nnetwork of smaller benefits that synergize with one\nanother.\n\nRemember that even building upon a single path\nallows for choice. Just because you started the\nSovereign Heroic Path doesn’t mean you have to finish\nit–you can always pivot into the Overlord Heroic Path at\nthe intersections offered by certain Heroic Perks.\n\nPrerequisites &amp; Branching Out\n\nEach Heroic Path has certain prerequisites. Whatever\nprerequisites are noted at the beginning of a Heroic\nPath must be met to choose any step of said Heroic\nPath. This means that, if you are accessing a Heroic\nPath from a connected Heroic Perk, you must meet the\nrequirements of the new Heroic Path to do so.\n\nSome Heroic Paths Prerequisites are class-specific–\nonly certain Legendary Classes may access those paths.\nThis means your character requires at least 20 levels of\nthat class to access it. Some are stat-based, meaning a\ncertain score is required for you to step into the Heroic\nPath. And some have no prerequisites at all, meaning\nany class can take them whenever they choose.\n\nEach step of a Heroic Path, be it Perk or Feat,\nrequires the previous step of that Heroic Path, unless\nyou are accessing the Heroic Path through a connected\nHeroic Perk from a different Heroic Path.\n\nCustom Heroic Paths\n\nHeroic Paths are designed to be modular and settingagnostic. If you want to create a path that reflects a\nparticular legend, culture, or character archetype in\nyour world, the following principles will help you keep it\nbalanced with the existing roster.\n\nIdentity. What fantasy does this path serve? Every path\nin this chapter has a clear identity that does not overlap\nwith another. Before building, check the existing paths\nand confirm your concept occupies its own mechanical\n\nand narrative space. Sometimes, minor tweaks to\nexisting paths will serve you better than building from\nscratch.\n\nTier Scaling. Tier I features should be meaningful but\nrelatively modest–lesser improvements to abilities,\nsituational advantages, or a single strong passive. Tier II\nshould introduce a meaningful shift in how the\ncharacter plays, comparable to a new level of the fourth\ntier in non-Legendary D&amp;D. Tier III should feel like the\nculmination of the path’s identity, powerful enough to\njustify the full step-by-step investment–it should carry\nabout the same impact as the strongest mythical\ntechniques, only with lesser costs to take advantage of.\n\nHeroic Perks. Perks sit between Tiers and should do\nthree things: add a smaller benefit that reinforces the\npath’s identity, create flavor, and optionally serve as a\nbridge into a connected path. A Perk that is too\npowerful overshadows the Heroic Feats it surrounds.\n\nPrerequisites. Be deliberate about who can access\nyour path. Class-based prerequisites create focused,\nflavorful paths (more like subclasses), while stat-based\nprerequisites are more flexible. No-prerequisite paths\nshould be constructed with a slightly lower power\nceiling, since they are available to every character\nregardless of class or build.\n\nBenchmarking. Compare your Tier I to other Tier I\nfeatures, your Tier II to other Tier II features, and your\nTier III to other Tier III capstones. This will help you\nremain close to the expected power output of Legendary\nCharacters!\n\nPath Examples\nPure Pathing. A 25th-level Sorcerer has elected to follow the\nPath of the Primordial, spending each Heroic Path\nAdvancement in their chosen path and reaching the\nPrimordial Tier III Heroic Feat.\n\nMulti-Pathing. A 24th-level Fighter has advanced the Warlord\nHeroic Path until the Tier II Combat Master Heroic Feat and\nhas one step left. Knowing one of their main weaknesses is\ntheir lack of mobility, they choose to initiate the Limitless\nPath, granting them the Lightness Tier I Heroic Feat.\n\nCross-Pathing. A 23rd-level Barbarian took their first step in the\nTitan path, gaining the Overwhelming Might Tier I Heroic\nFeat, before choosing to pivot into the Unbreakable Heroic\nPath with their next step, gaining the Iron Stance Heroic Perk.\nThen, following the progression of the Unbreakable Heroic\nPath, they gain the Untarnished Blood Tier II Heroic Feat at\nlevel 23.\n\nNo Pathing. A 23rd-level Paladin has chosen to start three\nseparate Heroic Paths–Nightingale, Chosen One, and\nUnbreakable–gaining the Spellblade, Fated, and Greater\nToughness feats, all Tier I. No steps beyond the first in any of\nthem!</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 85,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.6a1b4bf6495727f4",
+      "_id": "6a1b4bf6495727f4",
+      "name": "p. 86 - Heroic Paths",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 86</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Paths\n\nThe following is a list of all Heroic Paths available as of\nthis Alpha release. Each Heroic Path is named after its\nTier III Heroic Feat, but, as mentioned before, can\nbranch into other paths. Take the time to evaluate all\nyour options when you level up!\n\nWhen you gain a Heroic Perk, you can use it as an\nentry point into a connected Heroic Path, provided you\n\nHeroic Paths\n\nName\nPrerequisites\nConnected Paths\n\nArcane Marksman\nSpellcasting or Pact Magic\nArchmagus, Legendary Psion\n\nArchmagus\nSpellcasting or Pact Magic\nArcane Marksman, Third Eye\n\nChosen One\nNone\nNone\n\nHerald\nBard, Cleric, Paladin, or Warlock\nSovereign, Overlord\n\nHierophant\nBard, Cleric, or Druid\nHerald, Sovereign, Third Eye\n\nLegendary Psion\nIntelligence 20+\nArchmagus, Arcane Marksman\n\nLegendary Sniper\nDexterity 20+\nWarlord\n\nLimitless\nDexterity 20+\nWarlord\n\nNightingale\nSpellcasting or Pact Magic\nArcane Marksman, Shadowblade\n\nOverlord\nSpellcasting or Pact Magic\nSovereign\n\nPrimordial\nSpellcasting or Pact Magic\nNone\n\nRuneblood\nBarbarian, Druid, or Ranger\nUnbreakable\n\nShadowblade\nDexterity 20+\nLegendary Sniper, Warlord\n\nSovereign\nBard, Sorcerer, or Warlock\nOverlord\n\nThird Eye\nWisdom 20+\nArchmagus, Herald\n\nTitan\nStrength 20+\nUnbreakable, Warlord\n\nUnbreakable\nBarbarian, Fighter, Paladin, or Monk\nTitan\n\nWarlord\nStrength or Dexterity 20+\nNone\n\nmeet its prerequisites at the time of entry. Even if you’ve\nstepped into a Heroic Perk that connects to other\nHeroic Paths, you won’t always be able to branch into\nthem–you must meet the destination path’s\nprerequisites. This may motivate you to use your\nLegendary Score Improvements in a certain way! Pay\nattention not only to the pathing, but also to the\nprerequisites you’ll need to meet to actually bear out\nyour plan.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 86,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.d5612092efa70000",
+      "_id": "d5612092efa70000",
+      "name": "p. 87 - Heroic Path: Arcane Marksman",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 87</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Arcane Marksman\n\nPrerequisite: Spellcasting or Pact Magic\nTier I: Fingers of Toth\n\nArcane Precision. You have a +3 bonus to spell attack\nrolls. Additionally, your critical range for spell attacks is\nincreased by 1.\n\nQuickened Cantrip. When you cast a spell of 1st level\nor higher, you can cast a cantrip with a casting time of 1\naction or 1 bonus action as part of the same action used\nto cast the leveled spell.\n\nHeroic Perk: Magical Geometry\n\nPrerequisite: Fingers of Toth\n\nYour critical range for spell attacks is increased by 1.\nWhen you score a critical hit with a spell attack, the\ntarget cannot take reactions until the start of its next\nturn, as the precision of the strike disrupts its ability to\nrespond.\nTier II: Sharpened Magic\n\nPrerequisite: Magical Geometry\n\nArcane Damage. Whenever you deal damage with a\nspell of 5th-level or lower, you can choose to change the\ndamage type of the spell to force damage for the\npurpose of overcoming resistances.\n\nBurst of Magic. When you deal damage with a spell,\nyou can choose to deal maximum damage with that\nspell. Once you use this feature, you cannot use it again\nuntil you finish a long rest.\nHeroic Perk: Arcane Shield\n\nPrerequisite: Sharpened Magic\n\nWhen you deal force damage, you can expend a 5thlevel spell slot to gain an amount of temporary hit points\nequal to half the amount of force damage dealt.\nTier III: Arcane Marksman\n\nPrerequisite: Sharpened Magic, Arcane Shield\n\nSeeking Magic. Your spell attacks cannot be made at\ndisadvantage. When you cast a spell that requires a\nspell attack roll, you can choose to treat the d20 roll as a\n15 before adding your attack bonus. Once you use this\nfeature, you cannot do so again until the start of your\nnext turn. In addition, your critical range for spell\nattacks is increased by 1.\n\nArcane Damage Mastery. When you deal force\ndamage, you can expend a spell slot to deal an\nadditional amount of force damage equal to the spell\nslot expended x 5. You can now change the damage type\nof all your spells to force damage, regardless of their\nlevel.\n\nPath Connections\nArchmagus. Instead of the Magical Geometry Heroic Perk,\nyou can take the Erudition Perk, changing to the Archmagus\npath.\n\nLegendary Psion. Instead of the Magical Geometry Heroic\nPerk, you can take the Mind Tricks Perk, changing to the\nLegendary Psion path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 87,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.32d20a7a3a14e212",
+      "_id": "32d20a7a3a14e212",
+      "name": "p. 88 - Heroic Path: Archmagus",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 88</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Archmagus\n\nPrerequisites: Spellcasting or Pact Magic.\nTier I: Arcane Savant\n\nSpell Resistance. You have resistance to damage from\nspells.\n\nGreater Magic. Your spell save DC is increased by 1.\n\nHeroic Perk: Erudition\n\nPrerequisite: Arcane Savant\n\nYou automatically identify the school, casting time,\nmaximum duration and general effects of spells being\ncast within 60 feet of you, or ongoing spells whose\neffects you can sense. When you are forced to make a\nsaving throw against a spell you’ve identified in this\nway, you can use your reaction to gain advantage on the\nroll. Additionally, you learn 3 spells of up to 7th level\nfrom any spellcasting list. They count as spells of your\nclass for you.\n\nTier II: Expanded Magic\n\nPrerequisite: Erudition\n\nStalwart Concentration. When you roll a Constitution\nsaving throw to maintain concentration on spells, the\nDC cannot exceed 30. You add your spellcasting ability\nmodifier to saving throws made to maintain\nconcentration on spells.\n\nUnendurable Magic. Your spell save DC is increased\nby 1.\n\nHeroic Perk: Arcane Mastery\n\nPrerequisite: Expanded Magic\n\nWhen you cast a spell, that spell cannot be nullified by\nmagic of 7th level or lower.\n\nTier III: Archmagus\n\nPrerequisite: Arcane Mastery\n\nAscended Magic. Your spell save DC is increased by 2.\n\nInexhaustible Conduits. You can use Legendary\nPoints to cast lesser spells. You can expend 1\nLegendary Point to cast a spell up to 3rd level and 2\nLegendary Points to cast a spell up to 7th level.\n\nPath Connections\nArcane Marksman. Instead of the Erudition Heroic Perk, you\ncan take the Magical Geometry Perk, changing to the Arcane\nMarksman path.\n\nThird Eye. Instead of the Arcane Mastery Heroic Perk, you\ncan take the Ascended Mind Heroic Perk, changing to the\nThird Eye path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 88,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.5652c565fa1f3479",
+      "_id": "5652c565fa1f3479",
+      "name": "p. 89 - Heroic Path: Chosen One",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 89</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Chosen One\n\nNo prerequisites\nTier I: Fated\n\nSpared by Destiny. When you take damage, you can\nuse your reaction to ignore that instance of damage, as\nfate inexplicably intervenes, reserving you for a higher\npurpose. Once you use this feature, you cannot use it\nagain until you finish a long rest.\n\nStrings of Fate. When a creature within 60 feet of you\nmakes an ability check, attack roll, or saving throw, you\ncan use your reaction to influence the outcome. Roll\n1d6 and apply the result as a bonus or penalty to the\nroll. You can choose to do so after the roll is made but\nbefore any of its results are announced.\nHeroic Perk: Convergence\n\nPrerequisite: Fated\n\nFate bends the world towards you. As an action, you can\ndeclare a Convergence, a particular event that will\nhappen in the next hour. This can be a general\ndeclaration, such as obtaining an item, reaching a\nlocation, or defeating a Legendary Foe–but it can also\nbe a specific, immediate need, such as having the\nstrength to jump over a chasm. While your Convergence\nis active, you can choose to give yourself, or a creature\nwithin 60 feet of you, advantage on an ability check,\nattack roll, or saving throw related to the Convergence\nyou declared. Once you do so, the Convergence ends.\nYou can only have one Convergence declared at a time.\nTier II: Destined\n\nPrerequisite: Fated, Convergence\n\nWritten in the Stars. Increase an ability score of your\nchoice by 2. Your maximum for that score is increased\nby 2 as well.\n\nFated Criticality. When you make an attack against a\ntarget within range, you can turn a miss or regular hit\ninto a critical hit. Alternatively, when you make an\nability check or saving throw, you can treat the d20 roll\nas a 20. You can choose to do so after rolling but before\nany of the roll’s effects are announced. Once you use\nthis ability, you must finish a long rest before you can do\nso again.\nHeroic Perk: Threads Unraveled\n\nPrerequisite: Fated, Destined\n\nYour connection to fate extends to those around you.\nWhen you use your Spared by Destiny ability, you can\nchoose to extend the benefit to another creature within\n60 feet that is taking the same instance of damage, as\nwith an area of effect spell such as Fireball or Meteor\nSwarm. In addition, you now roll 1d8 instead of 1d6\nwhen using your Strings of Fate feature.\n\nTier III: Chosen One\n\nPrerequisite: Threads Unraveled, Destined\n\nAnother Chance. When an effect would kill you\noutright, or damage would reduce you to 0 hit points,\nyou drop to 1 hit point instead. Once this feature\ntriggers, it cannot trigger again for a minute.\n\nThrice Fated. You can use your Fated Criticality three\ntimes between long rests.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 89,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.52f807fda68b39d4",
+      "_id": "52f807fda68b39d4",
+      "name": "p. 90 - Heroic Path: Herald",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 90</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Herald\n\nPrerequisites: Bard, Cleric, Paladin, or Warlock\nTier I: Voice\n\nIrrepressible Voice. You can choose to make your\nvoice be heard up to 300 feet, and it can be understood\nregardless of language. You cannot be magically\nsilenced or otherwise prevented from speaking unless\nyou are paralyzed, stunned, or unconscious. Magic\ncannot compel your speech in any way.\n\nProclamation. As an action, you speak a proclamation\ntied to your deity. You can also come up with your own\nproclamation, with a similar effect, at the DM’s\ndiscretion.\n\n+\n\nAllies who can hear you gain temporary hit points\nequal to your level and advantage on their next\nattack roll or saving throw.\n\n+\n\nCreatures of your choice that can hear you must\nsucceed on a Wisdom saving throw against your\nspell save DC or be affected by the Command spell.\n\nAn ongoing 5th-level or lower spell or magical effect\nof your choice within 30 feet of you ends.\n+\n\nHeroic Perk: Divine Arrival\n\nPrerequisite: Voice\n\nYou can choose to make yourself known whenever you\nenter a settlement, battlefield, or planar domain. The\nrange at which you can announce yourself is an amount\nof miles equal to your total character level. Creatures\ninstinctively know something important and divine has\narrived. You can force creatures of CR 5 or lower to flee,\ngather near your position, or pray at your coming. The\nDM determines exactly how creatures respond to your\narrival based on their nature, disposition and your\nintent.\nTier II: Omen Incarnate\n\nPrerequisite: Divine Arrival\n\nPower of the Voice. Your spell save DC is increased\nby 2 for spells that have verbal components.\n\nEdict. As an action, you can speak a single sentence\naloud, dictating a new rule of creation. Choose one of\nthe following effects that applies in a 60-foot radius\ncentered on yourself for the next minute. You can also\ncome up with your own edict, with a similarly powerful\neffect, at the DM’s discretion. Once you use this ability,\nyou cannot do so again until you finish a long rest.\n\nEdict of Bane: Creatures of your choice have\ndisadvantage on all saving throws.\n+\n\n+\n\nEdict of Sanctuary: Allies gain resistance to all\ndamage. They gain immunity to damage types they\nwere already resistant to.\n\n+\n\nEdict of Forbiddance: A specific course of action\n(fleeing, lying, attacking a specific creature) cannot\nbe performed. If a creature attempts to take the\naction regardless, it must succeed on a Wisdom\nsaving throw against your spell save DC or take\n10d6 psychic damage and be unable to take their\ndesired action. Creatures that succeed on this saving\nthrow become immune to your Edict of Forbiddance\nfor the next 24 hours.\n\nHeroic Perk: Words Beyond Worlds\n\nPrerequisite: Omen Incarnate\n\nYou ignore material and somatic components when\ncasting spells. As a bonus action, you can send a mental\nmessage to a creature of your choice, regardless of\ndistance and even across planes of existence. The\ncreature hears a message of your choice in its mind,\nrecognizes you as the sender if it knows you, and can\nanswer in a like manner immediately if you choose to\nallow it. This feature enables creatures with Intelligence\nscores of at least 3 to understand the meaning of your\nmessage. Creatures that don’t consider you an enemy\nare motivated to heed your message and its intent–\nwarnings will be taken seriously, and requests will be\nacquiesced unless exceedingly difficult or costly to their\nrecipient.\nTier III: Herald\n\nPrerequisite: Words Beyond Worlds\n\nImmortal Echo. You are immune to the frightened and\ncharmed conditions. If you fall unconscious or die but\nyour body is not destroyed, your voice continues to echo,\nallowing you to speak and cast spells as if you were\nconscious until the end of your next turn. If you are\ndying, this effect also stabilizes you at the end of that\nturn.\n\nWord of Creation. As an action, you speak a word of\ncreation, replicating the effects of any spell of 9th level\nor lower that you are familiar with. Once you use this\nability, you cannot do so again until you finish a long\nrest.\n\nPath Connections\n\nSovereign. Instead of the Divine Arrival Heroic Perk, you can\ntake the Greater Charms Perk, changing to the Sovereign\npath.\n\nOverlord. Instead of the Divine Arrival Heroic Perk, you can\ntake the Thrall Perk, changing to the Overlord path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 90,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.3eec7d7f17a8f546",
+      "_id": "3eec7d7f17a8f546",
+      "name": "p. 91 - Heroic Path: Hierophant",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 91</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Hierophant\n\nPrerequisite: Bard, Cleric, or Druid\nTier I: Exalted Presence\n\nAmplified Boons. When you use a class feature that\ntargets willing creatures, such as Bardic Inspiration or\nChannel Divinity, you can target twice the number of\ncreatures the feature normally allows. All creatures\nmust be within the feature’s range.\n\nSpell Holding. When you take the Ready action to\nprepare a spell, you may hold that spell for up to 1\nminute without releasing it, maintaining concentration\nas normal. The spell slot is not expended unless the\ntrigger occurs and the spell is successfully cast. If your\nconcentration ends before the trigger occurs, the spell’s\nenergy dissipates back into your conduits without\nexpending the slot.\nHeroic Perk: Hierophant’s\nSanctuary\n\nPrerequisite: Exalted Presence\n\nYou emit a permanent aura of protection in a 30-foot\nradius sphere centered on you. Friendly creatures\nwithin the area have a bonus to their saving throws\nequal to half your proficiency bonus (rounded down).\nWhen a friendly creature within the area is reduced to 0\nhit points but not killed outright, you can use your\nreaction to have them be reduced to 1 hit point instead.\nTier II: Perfected Boons\n\nPrerequisite: Hierophant’s Sanctuary\n\nTranscendent Healing. When you cast a spell that\nrestores hit points, each target regains additional hit\npoints equal to your spellcasting ability modifier + your\nproficiency bonus. Healing spells you cast also remove\none condition of your choice from each target among\nthe following: blinded, charmed, deafened, frightened,\nor poisoned.\n\nDelegated Concentration. When you cast a\nconcentration spell that targets or benefits a willing\ncreature, that creature can maintain concentration on\nthe spell on your behalf. If their concentration is broken,\nthe spell ends. If the creature takes damage, they roll\nthe Constitution saving throw to maintain concentration\nusing their own statistics.\n\nAmplified Magic. When you cast a spell that targets\nwilling creatures, you can target twice the number of\ncreatures the spell normally allows. All creatures must\nbe within the spell’s range.\nHeroic Perk: Chooser of Conduits\n\nPrerequisite: Exalted Presence, Perfected Boons\n\nSpells you hold with your Spell Holding ability can be\nreleased by your allies. When you have a spell held, you\ncan designate a willing creature you can touch as its\n\nconduit. The conduit begins holding the spell in your\nstead. You lose the ability to release the spell with your\ndesignated trigger. The conduit can release the held\nspell using their action on their turn, originating from\nthem but using your spell save DC and spell attack\nbonus. If the spell requires concentration, the conduit is\nthe one that must maintain it.\nTier III: Hierophant\n\nPrerequisite: Exalted Presence, Hierophant’s\nSanctuary, Perfected Boons, Chooser of Conduits\n\nGreat Guide. Your Amplified Boons and Amplified\nMagic features now allow you to target three times the\nnumber of creatures a spell or feature normally allows.\nThe range of your Hierophant’s Sanctuary aura expands\nto 60 feet.\n\nWord of Creation. As an action, you speak a word of\ncreation, replicating the effects of any spell of 9th level\nor lower that you are familiar with. Once you use this\nability, you cannot do so again until you finish a long\nrest.\n\nPath Connections\nHerald. Instead of the Hierophant’s Sanctuary Heroic Perk,\nyou can take the Divine Arrival Perk, changing to the Herald\npath.\n\nSovereign. Instead of the Hierophant’s Sanctuary Heroic\nPerk, you can take the Greater Charms Perk, changing to the\nSovereign path.\n\nThird Eye. Instead of the Chooser of Conduits Heroic Perk,\nyou can take the Ascended Mind Perk, changing to the Third\nEye path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 91,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.11c6c5b0151f3609",
+      "_id": "11c6c5b0151f3609",
+      "name": "p. 92 - Heroic Path: Legendary Psion",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 92</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Legendary Psion\n\nPrerequisite: An Intelligence score of 20 or higher\nTier I: Awakened Mind\n\nExpanded Intellect. Your Intelligence score increases\nby 2, as does your Intelligence score maximum.\n\nPsychic Deflection. When you take psychic damage,\nyou can use your reaction to nullify it. Optionally, you\ncan redirect it toward a creature you can see within 60\nfeet. It must succeed on an Intelligence saving throw\nagainst a DC equal to 8 + your Intelligence modifier +\nyour proficiency bonus or take the full instance damage\nin your stead.\n\nTelekinetic. You are always under the effects of the\nTelekinesis spell. Intelligence is your spellcasting ability\nfor resolving contests against creatures you target with\nyour telekinetic grip. The range of your telekinesis is\n120 feet rather than 60 feet, and you can target up to\ntwo creatures or objects simultaneously.\nHeroic Perk: Mind Tricks\n\nPrerequisite: Awakened Mind\n\nYou can cast the Suggestion spell at will without\nexpending a spell slot. You cannot be affected by spells\nor magical effects that would sense your emotions or\nread your thoughts. When a creature attempts to read\nyour thoughts or emotions, you can present false\nthoughts or feelings. The mind reader can notice their\nfalseness by succeeding on a DC 30 Wisdom (Insight)\ncheck.\nTier II: Telekinetic Master\n\nPrerequisite: Mind Tricks\n\nAscended Intellect. Your Intelligence score increases\nby 2, as does your Intelligence score maximum.\n\nMind Fortress. Your mind becomes an impenetrable\nfortress. You are immune to any effect that would\ncharm, frighten, or make you act against your will.\nWhen a creature targets you with such an effect, it must\nsucceed on an Intelligence saving throw against a DC\nequal to 8 + your Intelligence modifier + your\nproficiency bonus or take 10d8 psychic damage as the\nattempt rebounds.\n\nPsionic Field. You can add your Intelligence modifier\nto your AC calculations. When a creature within 30 feet\nof you makes an attack, you can use your reaction to sap\ntheir focus, giving them disadvantage on the attack.\nWhen a projectile of Small size or smaller passes within\n30 feet of you, you can use your reaction to stop the\nprojectile, causing it to fall to the ground.\nHeroic Perk: Psionic Hub\n\nPrerequisite: Telekinetic Master\n\nWhile you are conscious, allies of your choice within\n600 feet share a telepathic link. Linked creatures can\ncommunicate silently and freely, cannot be surprised\nwhile conscious, and have advantage on Intelligence,\nWisdom, and Charisma saving throws.\nTier III: Legendary Psion\n\nPrerequisite: Psionic Hub\n\nPsionic Supremacy. You and allies of your choice\nwithin 30 feet of you are immune to psychic damage.\n\nGreater Psionic Field. Your mind radiates a\npermanent Psionic Field in a 30-foot radius centered on\nyou. All creatures of your choice within your Psionic\nField can add your Intelligence modifier to their AC\ncalculations. As a bonus action, you can send a psychic\nblast to a creature within the Psionic Field. That\ncreature must succeed on an Intelligence saving throw\nagainst a DC equal to 8 + your Intelligence modifier +\nyour proficiency bonus or take 8d8 psychic damage and\nbe stunned until the end of their next turn.\n\nPath Connections\nArchmagus. Instead of the Mind Tricks Heroic Perk, you can\ntake the Erudition Perk, changing to the Archmagus path.\n\nArcane Marksman. Instead of the Mind Tricks Heroic Perk,\nyou can take the Magical Geometry Perk, changing to the\nArcane Marksman path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 92,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.ef45ee3671a27ea5",
+      "_id": "ef45ee3671a27ea5",
+      "name": "p. 93 - Heroic Path: Legendary Sniper",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 93</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Legendary Sniper\n\nPrerequisite: A Dexterity score of 20 or higher\nTier I: Heroic Sharpshooter\n\nSniper’s Range. While using a ranged weapon, you\ndouble its normal and long range. Your ranged weapon\nattacks ignore half and three-quarters cover.\n\nPinning Shot. Once per round, when you hit a Huge or\nsmaller creature with a ranged weapon attack, you can\nchoose to pin them. The creature’s speed is reduced by\n20 feet until the end of its next turn.\n\nGreater Accuracy. Your ranged weapon attacks\ncannot be made at disadvantage, and your critical range\nis increased by 1 for attacks made with ranged\nweapons.\nHeroic Perk: Hunter’s Eye\n\nPrerequisite: Heroic Sharpshooter\n\nYou have a +5 bonus to your Wisdom (Perception)\nchecks and Initiative rolls. You can see in lightly\nobscured areas, such as those created by fog, heavy rain\nand dim light as if they were clear.\nTier II: Absolute Precision\n\nPrerequisite: Hunter’s Eye\n\nPenetrating Shots. Your ranged weapon attacks\nignore resistance to piercing damage.\n\nLegendary Shot (Multiplier Attack). You can use\nyour action to perform a Legendary Shot. Make a single\nranged weapon attack against a creature within range.\nOn a hit, the target takes 4d8 x 5 of the weapon’s\ndamage type. This attack does not benefit from any\nbonus to its damage. On a critical hit, you do not\nmultiply the damage dice by 2, but instead deal 6d8 x 5\nweapon damage. This Multiplier Attack does not expend\nLegendary Points when used.\nHeroic Perk: Armor Piercer\n\nPrerequisite: Absolute Precision\n\nOnce per round, when you hit a creature with a ranged\nweapon attack, you can choose to expose a weak point\nin their defenses. The creature’s AC is reduced by 5\nuntil the end of your next turn.\n\nTier III: Legendary Sniper\n\nPrerequisite: Armor Piercer, Absolute Precision\n\nUnfaltering Pulse. When you make a ranged weapon\nattack, you can choose to treat the d20 roll as a 15\nbefore adding your attack bonus.\n\nDouble Shot. Once per round, when you make a\nranged weapon attack, you can expend 1 LP to make\ntwo identical attacks instead of one. You can choose to\ntarget the same creature twice or target different\n\ncreatures within 60 feet of each other. This feature can\nbe used on your Legendary Shot ability and Mythical\nTechniques performed by making a ranged weapon\nattack.\n\nPath Connections\nWarlord. Instead of the Hunter’s Eye Heroic Perk, you can\ntake the Defensive Proficiency Perk, changing to the Warlord\npath.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 93,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.9a91092b6560c929",
+      "_id": "9a91092b6560c929",
+      "name": "p. 94 - Heroic Path: Limitless",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 94</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Limitless\n\nPrerequisite: A Dexterity Score of 20 or higher\nTier I: Lightness\n\nUnbridled Step. You gain a fly speed equal to your\nwalking speed, as you become capable of running on\nany surface, including air. You cannot take damage as a\nresult of falling unless you are restrained or\nincapacitated.\n\nUnpinnable. You have advantage on saving throws and\nability checks against being grappled or restrained.\nHeroic Perk: Greater Speed\n\nPrerequisite: Lightness\n\nYour maximum walking speed is doubled. Whenever\nyou take the Dash action, your AC is increased by 2 until\nthe start of your next turn.\nTier II: Celerity\n\nPrerequisite: Greater Speed\n\nPhasing Step. You can move through Medium or\nsmaller objects and creatures as if they were difficult\nterrain. If you end your turn inside an object or creature,\nyou are pushed to the nearest unoccupied space and\ntake 20 force damage.\n\nBeyond Restraint. You cannot be grappled,\nrestrained, shoved, or knocked prone unless you are\nincapacitated.\n\nOpening Act. When you roll initiative, you can choose\nto ignore the result of the roll and act on initiative count\n30 (winning ties) instead.\nHeroic Perk: Unstoppable Movement\n\nPrerequisite: Celerity\n\nYou don’t provoke opportunity attacks when moving in\nand out of an enemy’s range. Whenever you take the\nDisengage action, your AC is increased by 3 until the\nstart of your next turn. Creatures you are carrying\nbenefit from this AC increase.\n\nTier III: Limitless\n\nPrerequisite: Unstoppable Movement\n\nExtra Turn. At Initiative count 10, you can take an\nextra turn. Your extra turn has the following limitations:\nyou can use either a bonus action or an action but not\nboth, your speed is halved, you cannot use the Recover\naction, and you cannot use abilities that consume 2 or\nmore Legendary Points.\n\nFlash Speed. You can choose to spend your entire turn\nmoving. When you do so, you spend your action, bonus\naction, and movement on your turn to gain a special\nFlash Speed equal to 10 times your walking speed. You\ncan continue using this speed as long as you take no\n\nother action other than moving on your turn. You can\nstill use reactions while using your Flash Speed.\n\nPath Connections\nWarlord. Instead of the Unstoppable Movement Heroic Perk,\nyou can take the Perfect Body Perk, changing to the Warlord\npath.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 94,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.fd3679932aa3c752",
+      "_id": "fd3679932aa3c752",
+      "name": "p. 95 - Heroic Path: Nightingale",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 95</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Nightingale\n\nPrerequisite: Spellcasting or Pact Magic\nTier I: Spellblade\n\nArcane Edge. When you hit a creature with a melee\nweapon attack, you can channel magical energy through\nthe blade. The attack deals force damage instead of its\nusual damage type, and the creature has disadvantage\non its first saving throw against a spell you cast before\nthe end of your next turn.\n\nSpell &amp; Blade. When you cast a spell, you can make\none melee weapon attack against a creature within your\nmelee range as a bonus action.\n\nSpellstrike. When you cast a spell of 5th level or lower\nthat requires a spell attack roll, you can deliver it\nthrough a melee weapon attack instead. Make one\nmelee weapon attack roll. On a hit, the attack deals its\nnormal damage, and the spell takes effect without\nrequiring a separate attack roll. You can only use\nSpellstrike once per round.\nHeroic Perk: Spellblade’s Retort\n\nPrerequisite: Spellblade\n\nYour movement does not provoke opportunity attacks.\nWhen a creature misses you with a melee attack, you\ncan use your reaction to immediately make one melee\nweapon attack or cast a spell of 5th level or lower that\ntargets only that creature.\nTier II: Arcane Duelist\n\nPrerequisite: Spellblade’s Retort\n\nSpellblade Mastery. You can deliver any spell of 5th\nlevel or lower that has a casting time of one action or\none bonus action through your Spellstrike, not just\nspells that would require an attack roll. When you do so,\nthe spell only affects the target you hit, even if it is an\narea spell or a spell that targets multiple creatures.\nSpells delivered through Spellstrike that would\nnormally require a saving throw instead take full effect\nautomatically on a hit. Subsequent saving throws\nbeyond the first one, such as those required by the\nFlesh to Stone spell, are rolled as normal. A creature\nthat possesses Legendary Points or Legendary\nResistances can expend 1 Legendary Point to avoid\nbeing affected by a spell delivered through Spellstrike.\n\nParrying Cast. When you take the Dodge action, you\ncan cast a spell of 5th level or lower as part of that same\naction.\nHeroic Perk: Lethal Cadence\n\nPrerequisite: Arcane Duelist\n\nYour Dexterity score increases by 2, as does your\nmaximum for that score. When you use your Spellstrike\nfeature, you can make an additional attack as part of the\n\nCast a Spell action. In addition, you can take the Dodge\naction as a bonus action on your turn.\nTier III: Nightingale\n\nPrerequisite: Arcane Duelist, Lethal Cadence\n\nNightingale’s Prowess. You can deliver spells of up to\n7th level through your Spellstrike that have a casting\ntime of one action or bonus action.\n\nArcane Arsenal. Whenever you use your Spellstrike\nfeature, a phantom duplicate of the weapon you used for\nthe attack materializes and orbits you. You can have a\nmaximum of 6 phantom weapons active simultaneously.\nEach phantom weapon lasts for 1 minute or until\ndismissed.\n\nYou can use your phantom weapons in two ways:\n\n+\n\nLaunch: As a bonus action, you launch a number of\nphantom weapons of your choice at a target within\n60 feet. Each weapon makes a separate attack using\nthe same attack bonus and damage profile as the\nweapon that created it. A phantom weapon deals\nforce damage instead of its normal type. After\nmaking the attack, the phantom weapon is\nconsumed and disappears.\n\n+\n\nSpellforge: As a bonus action, you consume any\nnumber of phantom weapons to cast a spell without\nexpending a spell slot. The level of the spell you can\ncast equals the number of phantom weapons\nconsumed–consuming 3 phantom weapons casts a\nspell of 3rd level, consuming 5 phantom weapons\ncasts a spell of 5th level, and so on. You must know\nor have prepared the spell you wish to cast, and you\nmust have the required components.\n\nPath Connections\n\nArcane Marksman. Instead of the Spellblade’s Retort Heroic\nPerk, you can take the Magical Geometry Perk, changing to\nthe Arcane Marksman path.\n\nShadowblade. Instead of the Spellblade’s Retort Heroic Perk,\nyou can take the Death Mark Perk, changing to the\nShadowblade path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 95,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.1d7d4907d5682d39",
+      "_id": "1d7d4907d5682d39",
+      "name": "p. 96 - Heroic Path: Overlord",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 96</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Overlord\n\nPrerequisite: Spellcasting or Pact Magic\nTier I: Dread Master\n\nDread Aura. You radiate an aura of oppressive\ndarkness in a 30-foot radius. Creatures of your choice\nthat start their turn within the aura must succeed on a\nWisdom saving throw against your spell save DC or be\nfrightened of you for one minute. An affected creature\ncan repeat the saving throw at the start of each of its\nturns, ending the effect on itself on a success. A creature\nthat succeeds on this saving throw is immune to your\nDread Aura for the next 24 hours.\n\nDark Authority. You can use an action to attempt to\nsubdue a creature you can see within 60 feet. The\ncreature must succeed on a Charisma saving throw\nagainst your spell save DC or be compelled to do your\nbidding for 1 minute, as if under the effects of the\nDominate Monster spell. While under this effect, the\ncreature is aware it is being controlled but cannot resist.\nA creature that is frightened of you automatically fails\nthis saving throw. Creatures immune to the frightened\ncondition are not affected by this feature. You can only\nhave one creature controlled through this feature at a\ntime.\nHeroic Perk: Thrall\n\nPrerequisite: Dread Master\n\nWhen a creature dies within 60 feet of you, you can use\nyour reaction to raise it as a thrall under your command.\nA thrall uses the creature’s original stat block, but its\nmaximum hit points are halved, and it cannot use\nlegendary actions, legendary resistances, or legendary\npoints .\n\nYou can have an unlimited number of thralls of CR 5\nor lower active simultaneously. You can only maintain\none thrall of CR 6 or higher at a time–raising a new one\nimmediately dismisses the previous. Creatures of CR 25\nor higher cannot be raised as thralls.\n\nThralls act on your initiative count immediately after\nyou and obey your commands without question. A thrall\ncrumbles to dust when it is reduced to 0 hit points or\nafter 24 hours. You can also dismiss a thrall as a free\naction.\nTier II: Dark Tyrant\n\nPrerequisite: Thrall\n\nCrushing Will. Your spell save DC is increased by 2.\nWhen a creature succeeds on a saving throw against\none of your spells, it takes psychic damage equal to your\nspellcasting ability modifier + your proficiency bonus as\nyour dark will lashes out against its defiance. A creature\ncan only be affected by this feature once per turn.\n\nEdict of Domination. When you cast a spell that\ncharms or frightens a creature, you can choose to make\nthe effect permanent until dispelled, rather than using\n\nthe spell’s normal duration. If you choose to do so and\nthe spell’s full normal duration elapses, you are no\nlonger required to maintain concentration on it to\nextend its effects. If your concentration ends before the\nfull duration elapses, the effects end as normal.\n\nHeroic Perk: Soul Harvest\n\nPrerequisite: Thrall, Dark Tyrant\n\nWhen a creature of CR 25 or lower dies within 60 feet\nof you, you can use your reaction to trap its soul within a\ncontainer of your choosing, preventing it from passing\nonto the afterlife. You can hold a number of souls equal\nto your spellcasting ability modifier simultaneously.\n\nAt any time, you can release a trapped soul to raise it\nas a Thrall, manifesting it in a spectral body. Thralls\nraised this way are immune to all nonmagical damage.\nWhen a spectral Thrall is destroyed within 60 feet of\nyou, you can use your reaction to recapture its soul,\nreturning it to your container and allowing you to raise\nit again later.\n\nSoul Harvest also improves your existing Thrall\ncapabilities in the following ways: you can have one\nadditional Thrall of CR 6 or higher active\nsimultaneously, and all your Thralls last for a maximum\nof 1 week instead of 24 hours.\nTier III: Overlord\n\nPrerequisite: Thrall, Soul Harvest\n\nEnfeebling Terror. Creatures that are frightened by\nyou are also Impaired for the duration.\n\nApotheosis. Once per long rest, as an action, you\nundergo a terrifying transformation, channeling the full\ndepth of your dark power. For 1 minute, you gain the\nfollowing benefits:\n\nYour spells and class features ignore immunity to\nthe frightened condition for the duration.\n+\n\nWhen you cast a spell that deals damage, it deals\nmaximum damage instead of rolling.\n+\n\n+\n\nWhen a creature dies within 120 feet of you, you can\nchoose to automatically raise it as a thrall without\nrequiring a reaction, ignoring your normal thrall\nlimit for the duration. Thralls raised in this manner\ncrumble to dust when your Apotheosis ends.\n\nPath Connections\nSovereign. Instead of the Thrall Heroic Perk, you can take the\nGreater Charms Perk, changing to the Sovereign path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 96,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.86901aa018dde0f7",
+      "_id": "86901aa018dde0f7",
+      "name": "p. 97 - Heroic Path: Primordial",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 97</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Primordial\n\nPrerequisite: Spellcasting or Pact Magic\nTier I: Elemental Awakening\n\nPrimordial Element. When you gain this Heroic Feat,\nchoose one of the following damage types: acid, cold, fire,\nlightning, or thunder. This is your Primordial Element.\n\nElemental Attunement. You gain immunity to your\nPrimordial Element. Your spells and class features that\ndeal damage of your Primordial Element ignore\nresistance, and treat immunity as if it were resistance.\nHeroic Perk: Elemental Mastery\n\nPrerequisite: Elemental Awakening\n\nYou can replace the damage type of any spell you cast\nwith your Primordial Element. When you deal damage of\nyour Primordial Element, the spell gains one of the\nfollowing modifiers, depending on your element, applied\nto any creature that fails its saving throw or is hit by the\nspell. A creature can only be affected once per round by\none of these effects.\n\nAcid: The creature’s AC is reduced by 3 until the start of\nyour next turn.\n\nCold: The creature’s speed is reduced by 15 feet until the\nend of its next turn.\n\nFire: The creature takes an additional 3d10 fire damage\nat the start of its next turn.\n\nLightning: The creature cannot take reactions until the\nend of its next turn.\n\nThunder: The creature must succeed on a Strength saving\nthrow against your spell save DC or be pushed up to 30\nfeet away from you and knocked prone.\nTier II: Conduit\n\nPrerequisite: Elemental Mastery\n\nPrimordial Absorption. When you take damage of your\nPrimordial Element, you regain an amount of hit points\nequal to half the damage dealt, up to a maximum of 100\nhit points regained in this way between long rests.\n\nPrana Overchanneling. When you deal damage of your\nPrimordial Element, you can expend a spell slot of 5th\nlevel or higher to deal maximum damage instead of\nrolling.\nHeroic Perk: Form of the Elements\n\nPrerequisite: Conduit\n\nYou gain a fly speed of 60 feet, propelled by your element–\njets of flame, arcs of lightning, a howling wind, or a\ntorrent of acid. While flying, you emit your Primordial\nElement in a 15-foot radius centered on you. Creatures of\nyour choice within this area take 3d8 of your Primordial\nElement’s damage type at the start of your turn.\n\nTier III: Primordial\n\nPrerequisite: Form of the Elements\n\nAncient Power. Your spellcasting ability score increases\nby 2, as does your maximum for that score. The damage\ndice of all spells you cast that deal damage of your\nPrimordial Element are increased by one die category, up\nto d12s–d4s becomes d6s, d6s becomes d8s, d8s\nbecomes d10s, and d10s becomes d12s.\n\nCataclysm. As an action on your turn, you can unleash\nthe full, uncontrolled fury of your element. :Acid:\nCorrosive Deluge: A torrent of acid falls in a 60-foot radius\ncentered on a point you can see within 120 feet. Creatures\nin that area must make a Dexterity saving throw against\nyour spell save DC, taking 15d8 acid damage and having\ntheir AC reduced by 3 until they finish a long rest, or\ntaking half damage and suffering no AC reduction on a\nsuccess.\n\nCold: Absolute Zero: A wave of killing frost erupts from\nyou in a 60-foot radius sphere. Creatures in that area\nmust make a Constitution saving throw against your spell\nsave DC, taking 10d8 cold damage and being petrified\nuntil the end of their next turn on a failed save, or taking\nonly half damage and having their maximum speed halved\nuntil the end of their next turn on a success.\n\nFire: Conflagration: A pillar of elemental fire descends in\na 30-foot radius, 120-foot high cylinder centered on a\npoint you can see within 120 feet. Creatures in that area\nmust make a Dexterity saving throw against your spell\nsave DC. On a failed save, they take 15d8 fire damage and\nare set burning, taking an additional 5d8 fire damage at\nthe start of each of their turns for 1 minute or until they\ndouse the flames by being submerged in water or\nspending an action rolling on the ground. On a success,\nthey take half the initial damage and do not start burning.\n\nLightning: Stunning Storm: Lightning erupts from you,\narching between each creature of your choice you can see\nwithin 120 feet. Each target must make a Dexterity saving\nthrow against your spell save DC, taking 10d8 lightning\ndamage and being stunned until the end of their next turn\non a failed save, or taking half as much damage and not\nbeing stunned on a success.\n\nThunder: World Shatter: A concussive wave of thunder\ntears outward from you in a 90-foot cone in front of you.\nCreatures in that area must make a Constitution saving\nthrow against your spell save DC. On a failed save, they\ntake 15d8 thunder damage, are knocked prone, and are\ndeafened for the next 24 hours. On a successful save, they\ntake only half damage, aren’t knocked prone, and are\ndeafened until the end of their next turn. Structures and\nobjects in the area take maximum damage.\n\nOnce you use this feature, you cannot use it again until\nyou finish a long rest.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 97,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.2c0215e28dd84cc4",
+      "_id": "2c0215e28dd84cc4",
+      "name": "p. 98 - Heroic Path: Runeblood",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 98</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Runeblood\n\nPrerequisite: Barbarian, Druid, or Ranger\nTier I: Living Rune\n\nRunic Body. Ancient runes of power have drawn\nthemselves across your skin, manifested by the primal\npower flowing through you. You gain resistance to one of\nthe following damage types: acid, cold, fire, lightning,\nnecrotic, poison, radiant, or thunder. These resistances\napply to alternative forms, such as the ones created by the\nWild Shape class feature. Additionally, your unarmed\nstrikes and natural weapon attacks become magical.\n\nRunic Boon. You gain one of the following runic boons,\nwhich is always active.\n\nRune of the Heart: If you start your turn with less than\nhalf your total hit points, you regain 10 hit points.\n+\n\nRune of the Wind: You gain a fly speed of 50 feet.\n+\n\n+\n\nRune of the Deep: You gain a swim speed equal to your\nwalking speed, can breathe underwater, and have\nresistance to cold damage.\n\n+\n\nRune of the Earth: You cannot be knocked prone or\nmoved against your will. You gain resistance to\nbludgeoning damage.\n\nRune of the Flame: You become immune to fire damage.\n+\n\nRune of the Dead: You become immune to necrotic\ndamage.\n+\n\n+\n\nRune of the Void: You gain darkvision out to a range of\n120 feet. This darkvision is not impeded by magical\ndarkness. The first time you damage a creature in a\nround of combat, it must succeed on a DC 25\nConstitution saving throw or be unable to regain hit\npoints until the start of your next turn.\n\nHeroic Perk: Runic Awakening\n\nPrerequisite: Living Rune\n\nYour runes expand across your body, granting you access to\nan additional Runic Boon from your Living Rune Heroic\nFeat.\n\nTier II: Runic Conduit\n\nPrerequisite: Living Rune, Runic Awakening\n\nAncient Warding. The runes etched into your skin protect\nyou from the forces that shaped them. When a creature\ntargets you with a spell of 5th level or lower, you can use\nyour reaction to absorb it, nullifying its effects for you. Once\nyou absorb a spell in this way, you cannot do so again until\nthe start of your next turn.\n\nRunic Sense. Your runes allow you to sense the magical\nproperties of nearby effects and objects as if you were\nalways under the Detect Magic spell.\n\nRunic Boon. You gain an additional Runic Boon from\nyour Living Rune feat.\n\nHeroic Perk: Greater Runes\n\nPrerequisite: Runic Conduit\n\nYour chosen runes from your Living Rune feat gain\nimproved effects, replacing the previous one.\n\nGreater Rune of the Heart: You regain 10 hit points at\nthe start of each of your turns.\n+\n\nGreater Rune of the Wind: You gain a fly speed of 100\nfeet.\n+\n\n+\n\nGreater Rune of the Deep: You gain a swim speed\nequal to thrice your walking speed, can breathe\nunderwater, and have immunity to cold damage.\n\n+\n\nGreater Rune of the Earth: You cannot be knocked\nprone, shoved or moved. You gain resistance to\nbludgeoning, piercing, and slashing damage.\n\n+\n\nGreater Rune of the Flame: You become immune to\nfire damage. When you take fire damage, you regain\nan amount of hit points equal to half the fire damage\ntaken.\n\n+\n\nGreater Rune of the Dead: You become immune to\nnecrotic damage and resistant to dark damage. When\nyou take necrotic damage, you regain an amount of hit\npoints equal to half the necrotic damage taken.\n\n+\n\nGreater Rune of the Void: You gain darkvision out to a\nrange of 180 feet. This darkvision is not impeded by\nmagical darkness and you can perceive color\nirrespective of lighting conditions. The first time you\ndamage a creature in a round of combat, it must\nsucceed on a DC 30 Constitution saving throw or be\nunable to regain hit points until the start of your next\nturn.\n\nTier III: Runeblood\n\nPrerequisite: Greater Runes\n\nWorld Rune. You gain access to two additional Greater\nRunic Boons from your Greater Runes heroic perk, for a\ntotal of 5.\n\nLimited Magic Immunity. You cannot be affected or\ndetected by spells and magical effects of 7th-level or lower\nunless you wish to be.\n\nPath Connections\nUnbreakable. Instead of the Greater Runes Heroic Perk, you\ncan take the Stone Body Perk, changing to the Unbreakable\npath.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 98,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.9c1ce892055fdaca",
+      "_id": "9c1ce892055fdaca",
+      "name": "p. 99 - Heroic Path: Shadowblade",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 99</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Shadowblade\n\nPrerequisite: Dexterity Score of 20 or higher\nTier I: Phantom Strike\n\nShadow Step. As a bonus action, you can teleport up\nto 60 feet to an unoccupied space you can see,\nalongside anything you are wearing or carrying. You\nhave advantage on the first attack you make before the\nend of your turn after using this feature.\n\nUnseen Threat. You can use the Hide action as a\nbonus action. When you are hidden from a creature and\nhit it with an attack, it cannot use reactions until the end\nof its next turn.\n\nOf Darkness. You gain darkvision out to a range of 30\nfeet, or extend your darkvision range by 30 feet if you\nalready have it. Your darkvision is not impeded by\nmagical darkness. While in dim light or darkness, you\ncan attempt to hide from creatures that would normally\nperceive you through blindsense, darkvision or\ntremorsense.\nHeroic Perk: Death Mark\n\nPrerequisite: Phantom Strike\n\nYou can use a bonus action to Death Mark a creature\nyou can see within 60 feet. While Death Marked, you\nalways know the creature’s exact location regardless of\ndistance, even across planes of existence. Your attacks\nagainst a Death Marked creature ignore damage\nresistances, and the creature cannot benefit from\ninvisibility or concealment against you. A Death Mark\nlasts until the creature dies, you mark a new target, or\nthe creature is targeted by a remove curse spell or\nsimilar magic.\nTier II: Living Shadow\n\nPrerequisite: Death Mark\n\nOne With Darkness. While in dim light or darkness,\nyou can use a bonus action to become invisible. This\ninvisibility lasts until the start of your next turn and ends\nif you attack or cast a spell.\n\nGhost Form. As a bonus action, you can become\nincorporeal until the start of your next turn. While\nincorporeal, you can move through creatures and\nobjects as if they were difficult terrain, you have\nresistance to all nonmagical damage, and you cannot be\ngrappled, restrained, shoved or knocked prone. If you\nend your turn inside a solid object, you take 6d6 force\ndamage and are pushed to the nearest unoccupied\nspace.\n\nNerve Strike. When you hit creature that cannot see\nyou and isn’t a Construct with a weapon attack, you can\nchoose to target a precise anatomical point. The\ncreature must succeed on a Constitution saving throw\nagainst a DC equal to 8 + your proficiency bonus + your\nDexterity modifier or be stunned until the end of its next\n\nturn. Once you use this feature, you cannot do so again\nuntil the start of your next turn.\nHeroic Perk: Shroud of Night\n\nPrerequisite: Living Shadow, Phantom Strike\n\nYou can cast the Darkness spell innately and at will,\nrequiring no material components. Dexterity is your\nspellcasting ability for this spell. As a bonus action, you\ncan extend your inner shadow outward in a 60-foot\nradius, turning the area to magical darkness for 1\nminute. Creatures of your choice within this darkness\ncan see through it.\nTier III: Shadowblade\n\nPrerequisite: Shroud of Night\n\nDeath From Nowhere. When you hit a creature that\ncannot see you with a melee weapon attack, you can\ncause the attack to deal double damage. You can use\nthis feature once per turn.\n\nPhantom Dodge. You do not cast a shadow or a\nreflection unless you choose to do so. As a reaction\nwhen you are hit by an attack or damaged by an effect,\nyou can collapse into shadow entirely, causing the\nattack to miss or the damage to be avoided and\nteleporting you up to 30 feet to an unoccupied space you\ncan see that is in dim light or darkness. If there are no\neligible spaces to teleport to, you cannot use this\nreaction.\n\nPath Connections\nLegendary Sniper. Instead of the Death Mark Heroic Perk,\nyou can take the Hunter’s Eye Perk, changing to the\nLegendary Sniper path.\n\nWarlord. Instead of the Death Mark Heroic Perk, you can\ntake the Defensive Proficiency Perk, changing to the Warlord\npath.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 99,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.52bbd60499bba373",
+      "_id": "52bbd60499bba373",
+      "name": "p. 100 - Heroic Path: Sovereign",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 100</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Sovereign\n\nPrerequisite: Bard, Sorcerer, Paldin, or Warlock\nTier I: Regal Presence\n\nAura of Greatness. You emit an aura of commanding\ngreatness in a 120-foot radius sphere centered on you.\nFriendly creatures that can see you within that radius\ncan add your Charisma modifier to one ability check,\nattack roll, or saving throw. Once a creature has\nbenefited from your Aura of Greatness, that creature\ncannot do so again until you finish a short or long rest.\n\nSovereign Will. Your spell save DC is increased by 1.\nHeroic Perk: Greater Charms\n\nPrerequisite: Regal Presence\n\nYour spells and class features ignore immunity to the\ncharmed condition.\nTier II: Crowned\n\nPrerequisite: Greater Charms\n\nUnassailable Mind. You are immune to the charmed\nand frightened conditions. When a creature attempts to\ncharm or frighten you, you become aware of the attempt\nand can identify the source.\n\nDecree. As a bonus action, you issue a Decree to a\ncreature you can see within 60 feet. The creature must\nsucceed on a Wisdom saving throw against your spell\nsave DC or be compelled to follow a single course of\naction on its next turn, as if under the effect of the\nSuggestion spell, limited to one turn. A creature that\nsucceeds on this saving throw is immune to your\nDecree for the next 24 hours.\n\nPresence of Command. Your presence commands\nabsolute social authority. You are always treated as the\nhighest-ranking individual in any non-hostile social\nsituation, regardless of titles, wealth, or station.\nCreatures that would ordinarily refuse to speak with you\nare compelled to hear what you have to say regardless\nof their apprehensions. You always benefit from\nadvantage on Charisma (Persuasion, Deception and\nIntimidation) checks.\nHeroic Perk: Powerful Presence\n\nPrerequisite: Crowned\n\nYour Charisma score increases by 2, as does your\nmaximum for that score. Your spells and class features\nignore immunities to the frightened condition.\nTier III: Sovereign\n\nPrerequisite: Powerful Presence\n\nAbsolute Authority. When a creature within 120 feet\nof you makes a saving throw against one of your spells\nor class features, you can use your reaction to force it to\n\nfail on that saving throw. Once you use this feature, you\ncannot do so again until you finish a short or long rest.\n\nCourt of One. You are permanently under the effects\nof the Glibness spell. This effect cannot be dispelled.\nAdditionally, creatures of your choice of CR 10 or lower\nthat lay eyes upon you for the first time between long\nrests are charmed by you for the next 24 hours, during\nwhich they regard you as their sovereign, follow your\ncommands, and will not willingly act against your\ninterests. This effect ends for a creature if you or your\nallies deal damage to it.\n\nPath Connections\nOverlord. Instead of the Greater Charms Heroic Perk, you\ncan take the Thrall Perk, changing to the Overlord path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 100,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.afa383d9626479ad",
+      "_id": "afa383d9626479ad",
+      "name": "p. 101 - Heroic Path: Third Eye",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 101</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Third Eye\n\nPrerequisites: A Wisdom score of 20 or higher\nTier I: Knowledge of Ages\n\nLiving Memory. You have advantage on Nature,\nSurvival, Medicine, and Perception checks. You may\nuse Wisdom in place of Intelligence for any knowledge\ncheck related to the natural world, history of places, or\nancient creatures.\n\nSage’s Intercession. As a bonus action on your turn,\nyou can invigorate an allied creature you can see within\n30 feet by giving them a piece of mystical advice. That\ncreature can add your Wisdom modifier to an attack\nroll, ability check, or saving throw they make before the\nstart of your next turn.\nHeroic Perk: Soul of the World\n\nPrerequisite: Knowledge of Ages\n\nYou cannot be surprised while you are conscious. You\nautomatically notice any changes in weather, terrain, or\necosystems within 1 mile. You can understand, read,\nand write all languages. You can communicate with\nbeasts, elementals, monstrosities, and other natural\ncreatures as though you shared a language. They\ninstinctively recognize you as an eminence and hold\ncertain reverence for you, though they are under no\ncompulsion to heed you if they judge your words\nunsound or are otherwise hostile toward them.\nTier II: Great Keeper\n\nPrerequisite: Soul of the World\n\nPrimordial Intellect. You gain proficiency on\nIntelligence, Wisdom, and Charisma saving throws.\n\nRegain Sense. As a bonus action on your turn, you can\nend a single condition affecting you or an ally within 30\nfeet among the following: charmed, frightened, stunned,\nor any condition originating from a spell of the\nEnchantment school.\n\nWisdom of the Keeper. You learn one 8th-level spell\nand one 9th-level spell from any class list. Wisdom is\nyour spellcasting ability for these spells.\nHeroic Perk: Ascended Mind\n\nPrerequisite: Great Keeper\n\nYour Intelligence, Wisdom, and Charisma scores are\nincreased to 20, unless they are already higher without\nthis benefit. Scores that are already above 20 instead\nincrease by 1, up to a maximum of 24.\n\nTier III: Third Eye\n\nPrerequisite: Ascended Mind\n\nForesight. Your great Wisdom allows you to predict the\nnear future. You are always under the effects of the\nForesight spell. This effect cannot be dispelled.\n\nPath Connections\nArchmagus. Instead of the Soul of the World Heroic Perk, you\ncan take the Erudition Perk, changing to the Archmagus\npath.\n\nHerald. Instead of the Ascended Mind Heroic Perk, you can\ntake the Words Beyond Worlds Perk, changing to the Herald\npath.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 101,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.bda5d382a5599060",
+      "_id": "bda5d382a5599060",
+      "name": "p. 102 - Heroic Path: Titan",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 102</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Titan\n\nPrerequisite: A Strength score of 20 or higher\nTier I: Overwhelming Might\n\nTitanic Force. When you make an unarmed strike or\nan attack with a melee weapon you are proficient with,\nyou ignore resistance to its damage type. Your critical\nrange is increased by 1 for attacks that use Strength.\n\nDisplacing Strikes. When you hit a creature with a\nmelee attack and that creature has a Strength score\nlower than yours, you can choose to knock the creature\nprone or push the creature 15 feet away. You can push\nthe creature another 15 feet away for each size category\nsmaller compared to you.\n\nHeroic Perk: Unmatched Strength\n\nPrerequisite: Overwhelming Might\n\nYour Strength score increases by 2. 30 is your new\nmaximum for that score. You always have advantage on\nStrength saving throws, ability checks, and contests.\nYour carrying capacity is multiplied by 10, and you can\nmomentarily drag, push, pull, or carry impossible\nweights–structures, ships, or crumbling mountainsides–\nwith a successful Athletics check with a DC at DM’s\ndiscretion.\n\nTier II: Giant’s Wrath\n\nPrerequisite: Unmatched Strength\n\nShockwave. When you hit a creature with a melee\nattack, your attack sends a shockwave in a 15-foot\nradius sphere centered on the target. Each creature in\nthat area other than you, including the target creature,\nmust succeed on a Dexterity saving throw with a DC\nequal to 8 + your Strength modifier + your proficiency\nbonus or take half the damage of the original attack as\nthunder damage. The additional damage of the\nshockwave cannot exceed 50.\n\nUnmovable. You cannot be knocked prone, shoved, or\ngrappled by creatures with a lower Strength score than\nyou.\nHeroic Perk: Siege Monster\n\nPrerequisite: Giant’s Wrath\n\nYour attacks deal triple damage to objects and\nstructures.\nTier III: Titan\n\nPrerequisite: Siege Monster\n\nMythic Strength. Your Strength score increases by 4.\n34 is your new maximum for that score. Your size\ncategory is increased by one, up to a maximum of Huge.\n\nBreaker. When you hit a creature that has 100 hit\npoints or less with a melee attack, they must succeed on\n\na Constitution saving throw with a DC equal to half the\ndamage dealt by the attack or be reduced to 0 hit points.\n\nDeath Grip. You can grapple a creature with your\nbonus action. You can grapple creatures of any size.\nWhen you successfully grapple a creature that has a\nConstitution score of 19 or lower, you can use an action\nto reduce the creature to 0 hit points.\n\nPath Connections\nUnbreakable. Instead of the Unmatched Strength Heroic\nPerk, you can take the Iron Stance Perk, changing to the\nUnbreakable path.\n\nWarlord. Instead of the Siege Monster Heroic Perk, you can\ntake the Perfect Body Perk, changing to the Warlord path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 102,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.a5201afe4f8a3c0d",
+      "_id": "a5201afe4f8a3c0d",
+      "name": "p. 103 - Heroic Path: Unbreakable",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 103</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Unbreakable\n\nPrerequisite: Barbarian, Fighter, Monk, or Paladin\nTier I: Greater Toughness\n\nStalwart Body. You are immune to poison and disease,\nand you have advantage on Constitution saving throws.\n\nHeroic Toughness. Your hit point maximum increases\nby an amount equal to three times your level when you\ngain this feat. Whenever you gain a level thereafter, your\nhit point maximum increases by an additional 3 hit\npoints.\n\nHeroic Perk: Iron Stance\n\nPrerequisite: Greater Toughness\n\nYou cannot be knocked prone, shoved, or moved against\nyour will. You gain resistance to one non-legendary\ndamage type of your choice.\nTier II: Untarnished Blood\n\nPrerequisite: Iron Stance\n\nCleanse Effect. You can use 1 LP at the start of your\nturn to end all conditions or harmful effects not created\nby mythical techniques or spells of 8th level or higher\ncurrently afflicting you.\n\nGreater Health. Your hit point maximum cannot be\nreduced in any way, and you are immune to spells and\neffects that would immediately reduce your hit points to\n0 or kill you outright.\n\nHeroic Perk: Stone Body\n\nPrerequisite: Untarnished Blood\n\nYou reduce all instances of damage by 5. You have a\ndamage threshold of 20: whenever an instance of\ndamage would deal 15 or less damage to you, you take\nno damage instead. Damage reductions and resistances\nare considered before determining the damage\nthreshold of this perk.\n\nTier III: Unbreakable\n\nPrerequisite: Stone Body\n\nUnbreakable Resistance. When you fail a saving\nthrow, you can choose to succeed instead. After you use\nthis feature, you cannot use it again until you finish a\nlong rest.\n\nUnbreakable Endurance. When you take an instance\nof damage, it cannot exceed half of your maximum hit\npoints. Damage in excess of that cap is nullified.\n\nPath Connections\nTitan. Instead of the Iron Stance Heroic Perk, you can take\nthe Unmatched Strength Perk, changing to the Titan path.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 103,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.decb2c26833e5eaa",
+      "_id": "decb2c26833e5eaa",
+      "name": "p. 104 - Heroic Path: Warlord",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 104</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Heroic Path: Warlord\n\nPrerequisite: A Strength or Dexterity score of 20 or\nhigher.\nTier I: Elite Skirmisher\n\nAdvantaged Strike. You have advantage on the first\nattack you make on your turn.\n\nDeflection. As a reaction when you or a creature\nwithin range of your currently equipped melee weapon\nis targeted by an attack, you can attempt to deflect it.\nMake a weapon attack. If the result is higher than the\ntriggering strike’s attack roll, the attack misses as you\ndeflect it.\nHeroic Perk: Technique Student\n\nPrerequisite: Elite Skirmisher\n\nYou learn a Mythical Technique available to your class.\nIf you have no Mythical Techniques available to your\nclass, you learn the Reality Slash Mythical Technique.\nTier II: Combat Master\n\nPrerequisite: Technique Student\n\nDefensive Proficiency. While wielding a melee\nweapon, increase your AC by 3.\n\nGreater Critical. Your critical range is increased by 1.\nWhen you score a critical hit, your attack ignores\nresistances to its damage type.\n\nPerfected Saves. You gain proficiency in Strength,\nDexterity, and Constitution saving throws.\nHeroic Perk: Perfect Body\n\nPrerequisite: Combat Master\n\nYour Strength, Dexterity, and Constitution scores are\nincreased to 20, unless they are already higher without\nthis benefit. Scores that are already above 20 instead\nincrease by 1, up to a maximum of 24.\nTier III: Warlord\n\nPrerequisite: Perfect Body\n\nMythical Technique. You learn a Mythical Technique\nof your choice from any class’s list.\n\nTechnique Savant. Whenever you use a Mythical\nTechnique that expends 2 or more Legendary Points,\nyou expend 1 less Legendary Point when you use that\ntechnique.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 104,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!4e8e8f5c70aa803a.9c42882bb24eba2c",
+      "_id": "9c42882bb24eba2c",
+      "name": "p. 105 - Page 105",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 105</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\"></pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 105,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    }
+  ],
+  "categories": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "book-reference",
+      "sourcePages": "82-105",
+      "language": "en-US",
+      "originalText": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  }
+}

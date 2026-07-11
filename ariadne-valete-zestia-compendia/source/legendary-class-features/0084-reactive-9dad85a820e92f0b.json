@@ -1,0 +1,73 @@
+{
+  "_key": "!items!9dad85a820e92f0b",
+  "_id": "9dad85a820e92f0b",
+  "name": "Reactive",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 50-53.</p><p>Reactive</p><p>Also at 23rd level, your unparalleled dexterity allows you to act with greater reflexes. You can take one additional reaction per round. You cannot take the same reaction twice in a round, and can only use one reaction per triggering action.</p></div>",
+      "chat": ""
+    },
+    "identifier": "monk-reactive",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "50-53",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "50-53",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Monk",
+      "legendaryLevel": 23,
+      "originalFeatureName": "Reactive",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

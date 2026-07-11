@@ -1,0 +1,72 @@
+{
+  "_key": "!items!e36193d4d4d46ed5",
+  "_id": "e36193d4d4d46ed5",
+  "name": "Armor Piercer",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 93.</p><p>Heroic Perk: Armor Piercer</p><p>Prerequisite: Absolute Precision</p><p>Once per round, when you hit a creature with a ranged weapon attack, you can choose to expose a weak point in their defenses. The creature’s AC is reduced by 5 until the end of your next turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "armor-piercer",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "93",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Legendary Sniper",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "93",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Legendary Sniper",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

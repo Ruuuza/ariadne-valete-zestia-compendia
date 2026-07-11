@@ -1,0 +1,73 @@
+{
+  "_key": "!items!72d321a0f6661eeb",
+  "_id": "72d321a0f6661eeb",
+  "name": "Bulwark of Constitution",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 28-31.</p><p>Bulwark of Constitution</p><p>Beginning at 22nd level, increase your Constitution score by 2. You increase your Constitution score by an additional 2 when you reach 24th level.</p></div>",
+      "chat": ""
+    },
+    "identifier": "barbarian-bulwark-of-constitution",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "28-31",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "28-31",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Barbarian",
+      "legendaryLevel": 22,
+      "originalFeatureName": "Bulwark of Constitution",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

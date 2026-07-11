@@ -1,0 +1,69 @@
+{
+  "_key": "!items!e341c2dd9bf25e41",
+  "_id": "e341c2dd9bf25e41",
+  "name": "Mythical Technique Mechanics",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 108-110.</p><p>Techniques of Old</p><p>T</p><p>o martials and half-casters–warriors, as we call them–Mythical Techniques are the ultimate power-up. They are ancient arts of great warriors of old who fought powerful archmages, divine celestials, and indescribable horrors from beyond the veil. These are the tools of the sword saints, undying barbarians, and unholy assassins of history, passed down from generation to generation, and now within your grasp.</p><p>In the Universe of Strings, each Mythical Technique is a storied art polished over the course of centuries. They manifest as shapes of one’s soul, channeling a stream of energy so powerful that only those who have trained their body to the limit can attempt to perform them. Most often, Mythical Techniques are the result of a particular mortal’s determination and resolve. The work of a hero who, out of necessity or conviction, broke the mold of what is typically possible. Mythical Schools</p><p>Much like spells, Mythical Techniques are divided into schools. Mythical Technique Schools have a particular flavor to them, and in our setting, a history behind each discovery and master. If you are not playing in the Universe of Strings, consider adapting the schools and reflavoring the techniques to fit the lore of your game’s Universe.</p><p>Technique Mechanics</p><p>Mythical Techniques are not as powerful as the storied 10th-level spells, but as is often the case with Warrior features, they can be used more often. Some Mythical Techniques don’t even require rest, and are always available to those who have mastered them.</p><p>Each Warrior Class gains its Mythical Techniques at specific levels, as detailed in its class descriptions. Mythical Techniques are powerful abilities that only a select few warriors ever achieve. They have certain limitations:</p><ul><li></li></ul><p>You can only perform a Mythical Technique with a weapon you are proficient with. Some Mythical Techniques require a certain weapon or type of weapon to be performed, specified in the Weapon line of each technique. Techniques that don’t have that line do not require a weapon to be channeled. Techniques that say “Any” in that line can be channeled with any weapon, unarmed strikes, and natural weapons.</p><p>Unless otherwise stated, you can only perform one Mythical Technique per turn. +</p><p>Like spells, Mythical Techniques sometimes require concentration. If your concentration is broken, the effects of the Mythical Technique end. Some of your Mythical Techniques require your target to make a saving throw to resist the technique’s effects. The saving throw DC is calculated as follows:</p><p>Mythical Technique save DC = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).</p><p>Custom Mythical Techniques</p><p>We highly encourage you to develop your own Mythical Techniques! These represent the legendary skills of your setting’s finest warriors, and can also serve as a means to give a particular character at your table their signature ability. Players are encouraged to think, both in the case of 10th-level spells and Mythical Techniques, on what their own imprint in history would look like. Of course, Mythical Techniques are comparatively easier to add than apocalypse-level arcanisms. We recommend sticking to the following principles when creating Mythical Techniques.</p><p>Power. How effective is your Mythical Technique? What effects that are already in the game is the Mythical Technique trying to emulate? What is the closest ability that resembles this Mythical Technique? A Mythical Technique should resemble a spell between 7th and 9th level, depending on its ease of use and cost.</p><p>Uses. How many uses does this Mythical Technique have? Does it expend Legendary Points? How difficult is it to perform? The more powerful a Mythical Technique, the harder it should be to set up. A Mythical Technique similar to an 8th or 9th-level spell should have either limited uses, an LP cost, or take several turns to set up. A weaker Mythical Technique, closer to a 6th or 7thlevel spell in power, can be used without expending resources other than the action needed to channel them.</p><p>Opportunity Cost Take into consideration the opportunity cost of using a Mythical Technique when balancing its power. A 22nd-level Fighter using Reality Slash deals 15d6 Lethal damage across a 300-foot line–an average of 52 Lethal damage to every creature in it. That same Fighter, using their action to perform a Multiplier Attack, might deal significantly more damage to a single target. Reality Slash is the right call when there are five enemies in a line, or when lethal damage is needed to bypass a resistance.</p><p>Mythical Techniques are not always the strongest option, but they allow for greater flexibility.</p><p>Mythical Techniques</p><p>The following is a list of all Mythical Techniques available to Legendary Characters, separated by Mythical School. Class restrictions are not made between schools, but between techniques themselves.</p><p>LP Costs. Each Mythical Technique lists a Base LP Cost. A Base LP Cost of 0 means the technique can be performed freely on your turn, without expending Legendary Points. A Base LP Cost greater than 0 means the technique always requires that expenditure to perform. Many techniques also list an optional LP Cost, which unlocks additional functionality – most commonly, the ability to use the technique as an Extra Action at the end of another creature’s turn, or to enhance the technique’s effects beyond their base parameters.</p><p>Learning Techniques. Mythical Techniques are learned through your class, as detailed in each class’s description. Unless a Heroic Path, class feature, or your DM explicitly grants you access to a technique outside your class list, you cannot learn it. If you are building a custom character concept that seems to call for a technique from another class’s list, speak to your DM! There’s always a way to make it work.</p><p>Mythical Technique Types</p><p>Each Mythical Technique belongs to one of the following types, noted in its description. Certain types have specific interactions with other effects and features.</p><p>Strike. Techniques that immediately release, often requiring an attack roll.</p><p>Mobility. Techniques that allow for extraordinary movement or repositioning.</p><p>Infusion. Techniques that infuse a weapon you are carrying with a powerful enchantment for a duration. You can only have one Mythical Technique infusion on a weapon at a time.</p><p>Channel. Techniques that require channeling or preparation, often with a longer casting time.</p><p>Passive. Techniques that enhance the character passively, without requiring activation.</p><p>Name School Type Weapon Classes</p><p>Anatomical Control Sunyata Channel — Monk, Paladin, Ranger</p><p>Apparate Sunyata Mobility — Monk, Ranger</p><p>Blasphemous Hand Dainsleif Strike Unarmed Strike Barbarian, Fighter, Monk</p><p>Cloak and Dagger Vorpal Mobility Any Fighter, Rogue</p><p>Critical Edge Vorpal Infusion Any light weapon Fighter, Rogue</p><p>Divine Parry Ryuushinkan Channel Any Fighter, Monk</p><p>Mythical Techniques</p><p>Divine Severance Zulfiqar Strike Any slashing melee weapon Fighter, Paladin, Ranger</p><p>Earthbreaker Durandal Strike — Barbarian, Fighter</p><p>Garden of Eden Ryuushinkan Channel — Fighter, Monk, Paladin, Ranger</p><p>God’s Justice</p></div>",
+      "chat": ""
+    },
+    "identifier": "mythical-technique-mechanics",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "108-110",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "108-110",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

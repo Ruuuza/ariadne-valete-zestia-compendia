@@ -1,0 +1,71 @@
+{
+  "_key": "!items!6122ead792c6c13e",
+  "_id": "6122ead792c6c13e",
+  "name": "Heroic Path: Third Eye",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 101.</p><p>Heroic Path: Third Eye</p><p>Prerequisites: A Wisdom score of 20 or higher Tier I: Knowledge of Ages</p><p>Living Memory. You have advantage on Nature, Survival, Medicine, and Perception checks. You may use Wisdom in place of Intelligence for any knowledge check related to the natural world, history of places, or ancient creatures.</p><p>Sage’s Intercession. As a bonus action on your turn, you can invigorate an allied creature you can see within 30 feet by giving them a piece of mystical advice. That creature can add your Wisdom modifier to an attack roll, ability check, or saving throw they make before the start of your next turn. Heroic Perk: Soul of the World</p><p>Prerequisite: Knowledge of Ages</p><p>You cannot be surprised while you are conscious. You automatically notice any changes in weather, terrain, or ecosystems within 1 mile. You can understand, read, and write all languages. You can communicate with beasts, elementals, monstrosities, and other natural creatures as though you shared a language. They instinctively recognize you as an eminence and hold certain reverence for you, though they are under no compulsion to heed you if they judge your words unsound or are otherwise hostile toward them. Tier II: Great Keeper</p><p>Prerequisite: Soul of the World</p><p>Primordial Intellect. You gain proficiency on Intelligence, Wisdom, and Charisma saving throws.</p><p>Regain Sense. As a bonus action on your turn, you can end a single condition affecting you or an ally within 30 feet among the following: charmed, frightened, stunned, or any condition originating from a spell of the Enchantment school.</p><p>Wisdom of the Keeper. You learn one 8th-level spell and one 9th-level spell from any class list. Wisdom is your spellcasting ability for these spells. Heroic Perk: Ascended Mind</p><p>Prerequisite: Great Keeper</p><p>Your Intelligence, Wisdom, and Charisma scores are increased to 20, unless they are already higher without this benefit. Scores that are already above 20 instead increase by 1, up to a maximum of 24.</p><p>Tier III: Third Eye</p><p>Prerequisite: Ascended Mind</p><p>Foresight. Your great Wisdom allows you to predict the near future. You are always under the effects of the Foresight spell. This effect cannot be dispelled.</p><p>Path Connections Archmagus. Instead of the Soul of the World Heroic Perk, you can take the Erudition Perk, changing to the Archmagus path.</p><p>Herald. Instead of the Ascended Mind Heroic Perk, you can take the Words Beyond Worlds Perk, changing to the Herald path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-third-eye",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "101",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "101",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Third Eye",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

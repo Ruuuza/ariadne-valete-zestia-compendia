@@ -1,0 +1,71 @@
+{
+  "_key": "!items!762a671a4b55320c",
+  "_id": "762a671a4b55320c",
+  "name": "Legendary Barbarian - Level 25",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 28-31.</p><p>Level 25</p><p>Aura of Endurance</p><p>Starting at 25th level, you gain the ability to extend your endurance to all who march into battle with you. As a bonus action, you can expend 1 Legendary Point to create an Aura of Endurance that lasts for a minute. Choose a damage type from the following: acid, cold, fire, lightning, or thunder. You and all allied creatures within 15 feet of you cannot be critically hit, become resistant to bludgeoning, piercing, and slashing damage, and are immune to the chosen damage type for the duration. You can only choose one damage type at a time. If you want to change the chosen damage type, you must expend a Legendary Point and use a bonus action on your turn.</p><p>Improved Legendary Rage</p><p>Also at 25th level, you can expend any number of Legendary Points when you use your Legendary Rage feature. For each LP expended, you gain an additional 100 temporary hit points.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-barbarian-level-25",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "28-31",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "28-31",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Barbarian",
+      "legendaryLevel": 25
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

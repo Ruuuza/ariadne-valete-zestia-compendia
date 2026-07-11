@@ -1,0 +1,72 @@
+{
+  "_key": "!items!63657034796eddf2",
+  "_id": "63657034796eddf2",
+  "name": "Runic Conduit",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 98.</p><p>Tier II: Runic Conduit</p><p>Prerequisite: Living Rune, Runic Awakening</p><p>Ancient Warding. The runes etched into your skin protect you from the forces that shaped them. When a creature targets you with a spell of 5th level or lower, you can use your reaction to absorb it, nullifying its effects for you. Once you absorb a spell in this way, you cannot do so again until the start of your next turn.</p><p>Runic Sense. Your runes allow you to sense the magical properties of nearby effects and objects as if you were always under the Detect Magic spell.</p><p>Runic Boon. You gain an additional Runic Boon from your Living Rune feat.</p></div>",
+      "chat": ""
+    },
+    "identifier": "runic-conduit",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "98",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Runeblood",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "98",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Runeblood",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

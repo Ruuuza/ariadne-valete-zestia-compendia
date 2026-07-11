@@ -1,0 +1,144 @@
+{
+  "_key": "!items!003bf669f1856d67",
+  "_id": "003bf669f1856d67",
+  "name": "Rokkaku’s Sixteen Strikes",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "50db719729568037": {
+        "_id": "50db719729568037",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "Range: Weapon range or reach",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Rokkaku’s Sixteen Strikes"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "spec",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 48-49.</p><p>Rokkaku’s Sixteen Strikes</p><p>Strike, Zulfiqar</p><p>Classes: Fighter Channeling Time: 1 action Range: Weapon range or reach Duration: Instantaneous LP Cost: 2 LP</p><p>You infuse your weapon with a phantom echo of your own fighting spirit, and in a single devastating moment, every strike you could possibly deliver is realized at once.</p><p>As an action, you perform up to 16 special weapon attacks against targets within range. On a hit, each strike deals 20 Lethal damage.</p><p>These attacks do not benefit from Mythical Technique Infusions. On a critical hit, the damage for an attack is not doubled, but rather increases to 25. If the creature is bloodied and Lethal damage takes effect, the damage is not tripled; each critical strike deals 30 damage instead. These attacks do not benefit from any other bonus to their damage.</p><p>You can divide these attacks freely among any number of targets within range.</p><p>If you perform this technique with a ranged weapon, the maximum number of attacks is reduced to 12.</p></div>",
+      "chat": ""
+    },
+    "identifier": "rokkaku-s-sixteen-strikes",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "48-49",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Legendary Fighter level 25",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "kensei-technique",
+      "sourcePage": "48-49",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Fighter",
+      "techniqueTier": "Kensei Technique"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

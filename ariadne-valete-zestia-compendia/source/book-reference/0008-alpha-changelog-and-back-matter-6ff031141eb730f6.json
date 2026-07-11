@@ -1,0 +1,201 @@
+{
+  "_key": "!journal!6ff031141eb730f6",
+  "_id": "6ff031141eb730f6",
+  "name": "Alpha Changelog and Back Matter",
+  "pages": [
+    {
+      "_key": "!journal.pages!6ff031141eb730f6.7cd0e4ad5bc6d3c2",
+      "_id": "7cd0e4ad5bc6d3c2",
+      "name": "p. 208 - Welcome back, adventurers! This is a summary of all changes made in the sec",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 208</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Welcome back, adventurers! This is a summary of all changes made in the second Alpha update. It focuses mainly on\nCharacters and 5.5e compatibility. Remember to submit your feedback through the Google Form–feedback sent\nthrough other channels has a high chance of being missed!\n\nChangelog Alpha v.1.2\n\nHere be Legends\n\nGeneral text improvements throughout the chapter.\n\nEdition Compatibility. [NEW] Added edition\ncompatibility note.\n\nMultiplier Attack Limitations. [NEW] Added a\nlimitations section to avoid confusion on Multiplier\n\nLegendary Characters\n\nNow 5.5e compatible! New features everywhere to account for changes between editions. Maybe we missed something\nabout 5.5e! Do point it out on the forms document.\n\nBarbarian\n\nDevastating Strike. [REWORKED] Now deals less\ndamage but Impairs a target. Brutal Strike integration\nfrom 5.5e!\n\nLegendary Rage. [NEW] New feature, Legendary\nRage!\n\nLegendary Endurance. [REMOVED] No longer a\nPlayer Character feature.\n\nBarbaric Leap. [NEW] Formerly an exclusive\nBarbarian Mythical Technique from the Durandal\nschool, now a staple of all Barbarians to increaase\nmobility.\n\nEarthbreaker. [REMOVED] Replaced by Barbaric\nLeap. Earthbreaker is now a Mythical Technique from\nthe Durandal school!\n\nChallenging Roar. [BUFFED] Now compels creatures\nto attack the Barbarian but has reduced range.\n\nEffortless Resistance. Now gained at 24th level\ninstead of at 22nd.\nBard\n\nLegendary Inspiration. Increased range but lowered\nits effectiveness.\n\nMasterful Inspiration. [NEW] Bardic Inspiration die\nnow 1d20 at 23rd level and above. Bardic Inspiration\ncan be used to cast spells as a bonus action, freeing up\nthe action economy of the Bard.\n\nMaster of All Trades. [REMOVED] Replaced by\nAbsolute Inspiration.\nCleric\n\nBurst of Divinity. [NERFED] Now requires an action\ninstead of a bonus action, but has a x5 multiplier\n\nCHANGELOG\n\nAttacks.\n\nLethal Damage. Does not affect Multiplier Attacks in\nthe same way, but rather adds a die to the Multiplier\nAttack’s equation.\n\ninstead of a x4 multiplier for both healing and damage.\n\nWarded by a Higher Power. [NERFED] Now breaks\nupon casting any spell instead of only damaging spells.\n\nBlessed Recovery. [BUFFED] Now regains all\nchannel divinity uses.\nDruid\n\nVerdant Crown. [BUFFED] Now gives a much-needed\nspellcasting bonus to concentration-type druid builds!\nMay be too strong, as it comes quite early in the\nprogression.\n\nWild Shape. 5.5e wild shape integrations on several\nabilities (Improved Legendary Forms, Final Form)\n\nRejuvenating Recovery. [BUFFED] Now restores a\nuse of Wild Shape.\nFighter [Major Changes]\n\nPerfect Strike. [REWORKED] Now scales with\nforgone attacks.\n\nImproved Second Wind. [BUFFED] More uses in line\nwith 5.5e design. Still powerful in 5e.\n\nLegendary Warrior. Moved to 22nd level.\n\nQuality Build. [REMOVED] Confusing feature, not\nflavored for all fighters.\n\nLegendary Athlete. [REMOVED] Not impactful\nenough and confusing, especially on a class with so\nmany Mythical Technique options.\n\nLegendary Action. Now available at 23rd level, but\nless effective (or more, depending on your ruling) when\nit comes to attacks. Can only be used once per round.\n\nPowerful Reserve. [NEW] New 24th level feature.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 208,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!6ff031141eb730f6.66e62cb2ff2568fb",
+      "_id": "66e62cb2ff2568fb",
+      "name": "p. 209 - Extra Attack x4. [REMOVED] Fighter can no longer",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 209</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Extra Attack x4. [REMOVED] Fighter can no longer\nattack 5 times at 25th level. Difficult to balance,\ndisregarded the importance of Multiplier Attacks.\n\nKensei Technique. [NEW] Added Kensei Techniques\nback into the game! Previous iteration of this feature\nconflicted with Warlord Heroic Path.\nMonk [Major Changes]\n\nBody, Soul, Mind. Added 5.5e feature (Body and\nMind) to 5e monks at 20th level, along with Superior\nDefense. General 5.5e compatibility across the class.\n\nWorld Strike. Now deals Soul damage.\n\nKi-Borne Awareness. [BUFFED] Now grants\ntruesight, lasts for a minute.\n\nMythical Techniques. [NERFED] Monk no longer has\naccess to 3 Mythical Techniques, but rather 2. Balanced\nfor 5.5e Monks.\n\nInstinct of Deflection. [REMOVED] Didn’t come into\nplay at all; couldn’t be adapted for 5.5e compatibility.\n\nMasterful Deflection. [NEW] New feature. LP\nSpender that allows the Monk to resist incoming\ndamage (akin to a Legendary Endurance).\n\nSupleness of Wind &amp; River. [REWORKED] Now\nallows the Monk to fly. Previous version never came\ninto play.\n\nReactive. [NEW] Monk gains an additional reaction at\n23rd level. Powerful effect, allows for greater deflection.\nPaladin\n\nLegendary Smite. [REWORKED] Now scales with\nspell slot expended, like a true smite should.\n\nOathborn Miracle/Greater Oathborn Miracle.\n[BUFFED] Paladin now has 6th and 7th-level spell\nslots.\n\nImmortal Challenger. [NEW] Powerful high-level LP\nspender for the Paladin.\n\nRanger [Major Changes]\n\nIncapacitating Strike. [NEW] Slaying strike replaced\nby Incapacitating strike. More focused on control and\nLethal damage. Critical hit on a bloodied creature is still\npotentially better than other Multiplier Attacks.\n\nExpert Hunter. Different features for different editions.\n\nSlayer’s Mark. Now applies Hunter’s Mark for 5.5e\ncompatibility.\n\nGreater Awareness. [NEW] Replaces Greater\nPrimeval Awareness.\n\nKilling Strikes. Now a 23rd level feature. Gives lethal\ndamage on a critical hit.\n\nFrontierless Ranger. [REMOVED] For 5.5e\ncompatibility.\n\nUnseen Tracker. [REWORKED] Now grants\nnondetection and synergizes with the Invisible condition\n(5.5e)\n\nPrimeval Burst. [BUFFED] Is now added to the\ndamage of an attack instead of replacing it.\n\nFavored Strike. [REMOVED] Added into Slayer of\nLegends\nRogue [Major Changes]\n\nMortal Blow. [REWORKED] In line with the feedback\nreceived by a certain anonymous backer, Mortal Blow\nnow folded into Sneak Attack progression.\n\nLegendary Sneak Attack. [NEW] Greater Sneak\nAttack scaling.\n\nHeightened Senses. Adapted for 5.5e.\n\nIrrepressible Mind. [REWORKED] No longer\ninteracts with Legendary Resistances.\n\nReactive. [NEW] Same feature as the Monk! Allows for\ngreater use of Legendary Reaction.\n\nSneak Attack Master. [NEW] Replaces Improved\nMortal Blow. Allows for 2 Mortal Blows in a single\nround, and one additional Sneak Attack during the\nRogue’s turn.\n\nCunning Recovery. [NEW] Rogue can now use\nCunning Action while recovering.\n\nAsbolute Finesse. Moved to 24th level.\nSorcerer\n\nImproved Sorcery. [NEW] New feature. Brings 5e and\n5.5e in line.\n\nGreater Metamagic Master. [NEW] Up to 2 G.\nMetamagic options in a single spell and 10th-level spell\nquality addition.\n\nSorcerous Restoarion. [NEW] Sorcerer recovers\nSorcery Points with their Recover action, giving them\nvirtually infinite lower level spell slots outside of\ncombat.\n\nMagical Sustenance. [NEW] Gives Sorcerers a\npowerful sustain tool.\n\nWellspring of Arcana. [REWORKED] Now gives 1\nfree use of Greater Metamagic per turn.\n\nUnendurable Spell. [BUFFED] Now makes one\ntarget fail a saving throw automatically.\n \n\nCHANGELOG</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 209,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!6ff031141eb730f6.507458cfd884a065",
+      "_id": "507458cfd884a065",
+      "name": "p. 210 - Warlock [MAJOR CHANGES]",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 210</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Warlock [MAJOR CHANGES]\n\nLegendary Invocations. [NEW] Highly requested\nfeature. Go nuts. They might be too powerful; we’ll have\nto playtest them.\n\nPersistent Arcahnum. [REWORKED] No longer a\nrandom spell slot generator!\n\nPatron’s Influence. Moved to 22nd level, buffed to be\nCharisma instead of a flat modifier!\n\nPatron’s Predilection. [BUFFED] Now allows the\nWarlock to avoid an instance of damage entirely. This\ncan be combo’d with Theoprastus’ Flux, which is now\navailable to warlocks also. If someone pulls that off,\nplease send me a message.\n\nEldritch Invocation Savant. [NEW] Tired of not\nbeing able to change your invocations? Here, you can\n\nHeroic Paths\n\nSome changes indeed! Balance updates mainly.\n\nChosen One. [NERFED] Convergence only lasts for 1\nhour and gives 1 advantage, not 3. Chosen One (tier III)\nnerfed in both its features.\n\nShadowblade. [BUFFED] Death From Nowhere 500\ndamage cap removed… Don’t make me regret this?\n\nMythical Techniques\n\nMythical Techniques Table. All techniques are easy\nto reference in this table. Remmeber to check the\nweapon requirements! You cannot use Critical Edge\nwith a ranged weapon and have Legendary Sniper grant\nyou crits on all weapon attacks.\n\nSoul Strike. [NERFED] Now costs 2 LP.\n\nWhite Flame. [REWORKED] Not really flavorful in a\nschool meant for singular strikes. Reworked to grant\nSoul damage to a single attack, even a Multiplier Attack.\n\nDivine Parry. [BUFFED] No longer requires\nconcentration.\n\nBlasphemous Hand. [BUFFED] Now available to\nBarbarians. Deals 20d6 damage instead of 15d6 and\ngrants full damage temporary hit point barrier!\n\nEarthbreaker. [NEW] Replaces Barbaric Leap!\n\nObliterating Strike. [NERFED] Alright, too many\nObliterating Strike crazy combos. They are fun, but they\nshould not be easy to pull off. You can now use this\ntechnique only ONCE per day! Use it well…\n\nAnatomical Control. [BUFFED] Rephrased to\nencourage use before battle. No longer requires\n\nCHANGELOG\n\nnow customize your warlock to your heart’s content! On\na serious note, this might need some playtesting,\nsounds fun but it may break some games.\n\nSupernatural Intervention. [REWORKED] Now\nlasts for an entire day, so you can summon your patron\nbefore a battle, but can only be used once per week.\nWizard\n\nEfficient Flow. [BUFFED] Now grants an additional\nconcentration. Yeah, go nuts.\n\n*** Greater Magicker.*** [NEW] Increases spell save DC\nand makes your magic harder to modify!\n\nMemorized Spellbook. [NEW] I’m really happy with\nthis one. It just feels like something only a Wizard\nwould do.\n\nWarlord. [NERFED] Nerfed across the board, but also\nbuffed! Technique Student Heroic Perk now an easy\nway to get a new Mythical Technique at 22nd level for\nmany classes that don’t have them. Warlord final\nfeature has been reduced in effectiveness, no longer will\nyou have 0-cost Mythical Techniques.\n\nConcentration!\n\nApparate. Now available to Rangers.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 210,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!6ff031141eb730f6.0ec8e06b37a1fd49",
+      "_id": "0ec8e06b37a1fd49",
+      "name": "p. 211 - Just one change; Lord of Anguish’s Pulse of Anguish, its most powerful abil",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 211</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Just one change; Lord of Anguish’s Pulse of Anguish, its most powerful ability, now costs 4 LP. Yes, a heavy change to\nmake, but that ability does go off as intended; it can very well stop a party dead in its tracks, allowing for the Lord of\nAnguish to recover its LP regardless. It wiped a couple of playtester parties…\n\nEpic Magic\n\nMinor wordingadjustments to several spells.\n\nTheophrastus’ Flux. [BUFFED] Someone did the\nmath, and this spell was not very good per action spent.\nIt is now much more powerful if it reaches full charge,\n\nLegendary Foes\n\nWhat’s in the Works?\n\nNew section! Here are some of the things that I couldn’t quite finish or that are upcoming in future versions of the\nAlpha! We discuss design choices and future BoL content on our Discord almost every Thursday!\n\nLegendary Characters. Starblade and Shaper are still pending! We want to first have a very solid base on all\nLegendary Characters before we add our own homebrew classes.\n\nHeroic Paths. Heroic Paths need a thorough look, especially some of the least-playtested ones. Heroic Paths will\nprobably have their own Alpha update, focused on adding more Heroic Paths and creating many more connections\nbetween paths, if possible. We’ve found that not many people jump between paths. Perhaps it isn’t a very sought-after\nfeature.\n\nMythical Techniques. Several new Mythical Technique schools are in the works. Will probably have its own update!\nMythical Techniques are still not quite where we want them to be: some people have created absolutely broken\ncombos that annihilate even the Hermit (with over 2000+ damage), while others have mentioned that some Mythical\nTechniques are not very usable during combat. We have to tune them a bit more!\n\nEpic Magic. I’ve had very few comments about Epic Magic. Mostly, these spells seem to be very hard to pull off, but\nvery rewarding, with some exceptions. That is our goal! A future update will add more Epic Spells.\n\nThe Legendary Game. Pretty much covered! Maybe a few sections will be added in the future on how to improvise\nand adapt to a Legendary Party that may break all rules.\n\nLegendary Foes. Many Legendary Foes already in the works! 5 new foes have been completed in the last few weeks,\nand all of them possess a new “Difficulty Scaling” section, for DMs with truly unhinged parties. We want these fights\nto be hard, after all! Think of it as the Challenge mode of the book. We may add a scaling to reduce a Foe’s power level,\nalso.\n\nRelics. In the works!\n\nAppendices. Also in the works!\n\nbut restricts the caster’s turns heavily. Pull it off, and\nyou’ll be a hero!\n\nTrue Wish. Minor wording adjustments.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 211,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!6ff031141eb730f6.fe385abdfffcd056",
+      "_id": "fe385abdfffcd056",
+      "name": "p. 212 - Hey guys! Marce here. I’ve been working on the balance of this book for a w",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 212</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Hey guys! Marce here. I’ve been working on the balance of this book for a while now, even before we launched the\nKickstarter. Your help has been invaluable – thank you, genuinely.\n\nThis v1.2 brings sweeping changes to many of the classes, with a focus on 5.5e compatibility across the board. That\nmany changes means the game might actually be more unbalanced than before, which is a sentence I never thought I’d\nhave to write. Most of what you’ll find across the document is aimed at ensuring each class identity carries properly\ninto the legendary levels, so if your Fighter suddenly feels like a completely different beast, that’s intentional. Probably.\n\nFighters, Monks, Rangers, Rogues, and Warlocks got MAJOR changes. This means they need playtesting BADLY.\nConsider rolling one of these classes in your next Alpha adventure!\n\nI want to thank our incredible playtesters, who have been running mock legendary battles in the Discord server and\ncatching things we never would have caught on our own: Yogurttank (an editor of the book, actually!), Kalamish,\nFaction (AKA Barbatos), Jayded, Spacebattler, Orfian, Seaburn, Ghostbot, Skyvrr, Memes4Life, Sol, aajack4484,\ndodojesus, Kuro, Bun, and many others (very sorry if I am forgetting someone here!!). Y’all are the reason this book is\ngetting better. Come join us on the server if you want to give more detailed feedback–the main action is always there.\n\nDev Notes – Alpha v.1.2\n\nThere’s one particular anonymous playtester who has been playing with our Legendary Rules since before we even\nlaunched this Kickstarter. They created an incredibly detailed 50-page PDF dissertation of each part of the Alpha,\nsimply named “Book of Legends Feedback Stuff” which greatly helped me put some things in perspective and conduct\nsome of these changes. I want to thank that person, especially!\n\nJust know, dear reader, that if you are ever in the mood to write a 60-page anonymous paper on every facet of this\nbook, I will be reading it thoroughly! Send it to our Support inbox.\n\nThere is still plenty to refine before this Alpha is ready to move forward. Keep finding those broken combinations!\nWe’re going to make the best book ever.\n\n– Marce, from the Codex of Strings\n\nP.S: I made a copy of the previous feedback form to separate responses from the first two Alpha versions and this one.\nFeel free to send a new survey, even if you already gave your feedback previously! Click or scan the QR code to leave\ncomments about the Alpha v.1.2 version.\n\nCHANGELOG\n\nClick Here or scan the QR code\n\nto leave your feedback!</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 212,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!6ff031141eb730f6.bd1a18e58be75dc1",
+      "_id": "bd1a18e58be75dc1",
+      "name": "p. 213 - A L P H A  V . 1 . 2",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 213</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">A L P H A  V . 1 . 2</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 213,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    }
+  ],
+  "categories": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "book-reference",
+      "sourcePages": "208-213",
+      "language": "en-US",
+      "originalText": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "_key": "!items!5d5bf8e84486556d",
+  "_id": "5d5bf8e84486556d",
+  "name": "Unbreakable Stance",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "158b41038cb12ec6": {
+        "_id": "158b41038cb12ec6",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Unbreakable Stance"
+        },
+        "duration": {
+          "value": "1",
+          "units": "round",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 116.</p><p>Unbreakable Stance</p><p>Channel, Durandal</p><p>Classes: Barbarian, Monk, Paladin Channeling Time: 1 action Base LP Cost: 0 LP Range: Self Duration: 1 round</p><p>You bolster yourself with unbreakable might, flowing from your soul to every last fiber of your body. You regain 1 Legendary Point and become resistant to all non-legendary damage except force, poison, and psychic until the start of your next turn. For the duration, your speed becomes 0 and you cannot be shoved or knocked prone against your will. You must be standing on solid ground to use this Mythical Technique.</p><p>LP Cost. You can expend 1 Legendary Point to instead become immune to all non-legendary damage and resistant to dark, force, lethal, poison, psychic and soul damage for the duration.</p></div>",
+      "chat": ""
+    },
+    "identifier": "unbreakable-stance",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "116",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian, Monk, Paladin",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "116",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Durandal",
+      "techniqueType": "Channel",
+      "weapon": "—",
+      "classes": "Barbarian, Monk, Paladin",
+      "legendaryPointCost": "0 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_key": "!items!b7fa9ae5b83c64d8",
+  "_id": "b7fa9ae5b83c64d8",
+  "name": "Greater Runes",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 98.</p><p>Heroic Perk: Greater Runes</p><p>Prerequisite: Runic Conduit</p><p>Your chosen runes from your Living Rune feat gain improved effects, replacing the previous one.</p><p>Greater Rune of the Heart: You regain 10 hit points at the start of each of your turns. +</p><p>Greater Rune of the Wind: You gain a fly speed of 100 feet. +</p><ul><li></li></ul><p>Greater Rune of the Deep: You gain a swim speed equal to thrice your walking speed, can breathe underwater, and have immunity to cold damage.</p><ul><li></li></ul><p>Greater Rune of the Earth: You cannot be knocked prone, shoved or moved. You gain resistance to bludgeoning, piercing, and slashing damage.</p><ul><li></li></ul><p>Greater Rune of the Flame: You become immune to fire damage. When you take fire damage, you regain an amount of hit points equal to half the fire damage taken.</p><ul><li></li></ul><p>Greater Rune of the Dead: You become immune to necrotic damage and resistant to dark damage. When you take necrotic damage, you regain an amount of hit points equal to half the necrotic damage taken.</p><ul><li></li></ul><p>Greater Rune of the Void: You gain darkvision out to a range of 180 feet. This darkvision is not impeded by magical darkness and you can perceive color irrespective of lighting conditions. The first time you damage a creature in a round of combat, it must succeed on a DC 30 Constitution saving throw or be unable to regain hit points until the start of your next turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "greater-runes",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "98",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Runeblood",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "98",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Runeblood",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

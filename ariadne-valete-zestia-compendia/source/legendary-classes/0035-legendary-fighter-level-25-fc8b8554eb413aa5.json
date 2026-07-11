@@ -1,0 +1,71 @@
+{
+  "_key": "!items!fc8b8554eb413aa5",
+  "_id": "fc8b8554eb413aa5",
+  "name": "Legendary Fighter - Level 25",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 44-49.</p><p>Level 25</p><p>Kensei Technique</p><p>At 25th level, you learn one Kensei Technique–a more powerful version of a Mythical Technique. Kensei Techniques follow the same rules as Mythical Techniques, as detailed in Part III, with one exception: once you use a Kensei Technique, you cannot do so again until you finish a long rest.</p><p>The following techniques are available exclusively to Legendary Fighters. Each represents the absolute pinnacle of a particular martial school. A Fighter who learns a Kensei Technique has gone beyond what the school was designed to</p><p>teach. Kensei Techniques follow all the same rules as Mythical Techniques, but can only be used once per long rest,</p><p>Kensei Techniques</p><p>The School of Mastery</p><p>regardless of their LP cost.</p><p>Death of the Soul</p><p>Strike, Ichimonji</p><p>Classes: Fighter Channeling Time: 1 action Range: Weapon range, up to 60 feet Duration: Instantaneous LP Cost: 3 LP</p><p>You channel your soul into your weapon, releasing twin bursts of white flame. Make two weapon attacks against either one target or two separate targets within range.</p><p>Soul Strike. On a hit, the attack deals Soul damage instead of its normal damage type and the target’s soul is expelled from its body, casting it into the Ethereal Plane. The body falls unconscious and cannot be awakened while the soul remains separated.</p><p>The expelled soul appears within 5 feet of its body on the Ethereal Plane, retaining the creature’s full statistics. It can act on each of its turns but is confined to the Ethereal Plane and can only affect creatures and objects there. At the start of each of its turns, the soul can attempt to return to its body by succeeding on a Charisma saving throw against your Mythical Technique DC. On a success, the soul returns and the creature regains consciousness. Damage dealt to the soul is also dealt to the body, but damage dealt to the body does not affect the soul. When body and soul are reunited, the creature’s hit points become whichever of the two counts is lower. If the body is destroyed before the soul returns, the soul is lost in the Ethereal and cannot return unless the body is resurrected. If neither body nor soul has been destroyed after 1 minute, the soul snaps back automatically.</p><p>Creatures with no soul–such as certain Constructs and Undead–are unaffected by this technique. This technique can hit a creature in the ethereal plane.</p><p>Double Strike. If both attacks target the same creature and both hit, that creature must make a Charisma saving throw against your Mythical Technique DC. On a failure, its soul is not merely expelled–it is destroyed entirely. The creature dies instantly. Nothing short of a Wish spell cast at 10th level can restore a soul destroyed in this way.</p><p>Kensei’s Justice</p><p>Strike, Ichimonji</p><p>Classes: Fighter Channeling Time: 1 action Range: Unlimited Duration: Concentration, up to 1 minute LP Cost: 2 LP</p><p>You channel your soul into a powerful and inevitable strike, marking a creature within range. For the duration, whenever the marked target takes an action, bonus action, or Extra Action, you can use your reaction to teleport to an unoccupied space within 60 feet of it, regardless of the distance between you–even across planes of existence. When you teleport in this way, you can make a single attack against the target with advantage.</p><p>On a hit, the target takes an additional 110 (20d10) Soul damage and must succeed on a Constitution saving throw against your Mythical Technique save DC or be stunned until the end of its next turn. If the target is immune to the stunned condition, it is impaired instead.</p><p>The effect ends early if the target dies.</p><p>Imprisonment. If this attack reduces the target to 0 hit points, its soul becomes bound inside your weapon as per the Imprisonment spell, to be released upon a condition of your choosing.</p><p>Rokkaku’s Sixteen Strikes</p><p>Strike, Zulfiqar</p><p>Classes: Fighter Channeling Time: 1 action Range: Weapon range or reach Duration: Instantaneous LP Cost: 2 LP</p><p>You infuse your weapon with a phantom echo of your own fighting spirit, and in a single devastating moment, every strike you could possibly deliver is realized at once.</p><p>As an action, you perform up to 16 special weapon attacks against targets within range. On a hit, each strike deals 20 Lethal damage.</p><p>These attacks do not benefit from Mythical Technique Infusions. On a critical hit, the damage for an attack is not doubled, but rather increases to 25. If the creature is bloodied and Lethal damage takes effect, the damage is not tripled; each critical strike deals 30 damage instead. These attacks do not benefit from any other bonus to their damage.</p><p>You can divide these attacks freely among any number of targets within range.</p><p>If you perform this technique with a ranged weapon, the maximum number of attacks is reduced to 12.</p><p>Greater Lotus Barrier</p><p>Strike, Ryuushinkan</p><p>Classes: Fighter Channeling Time: 1 reaction, which you take when you or a creature within 30 feet of you takes damage Range: 30 feet Duration: 1 round LP Cost: 2 LP</p><p>You project a barrier of pure soul-energy that encompasses you and up to 7 allies within range, interposing itself between them and all harm. The barrier absorbs damage directed at any protected creature and can withstand up to 1,000 points of damage total before breaking. It lasts until the end of your next turn.</p><p>For the duration, each creature protected by the Lotus Barrier cannot be forcibly moved, grappled, knocked prone, or displaced. They are immune to any effect that would reduce them to 0 hit points or kill them outright. The barrier protects against the triggering damage, against any secondary effects that damage would cause–such as a poison or a magical condition– and against the effects of other Mythical Techniques, including other Kensei Techniques.</p><p>If the barrier is destroyed, any damage in excess of the barrier’s remaining threshold is dealt to the creature or creatures targeted by the source that destroyed it.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-fighter-level-25",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "44-49",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "44-49",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Fighter",
+      "legendaryLevel": 25
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

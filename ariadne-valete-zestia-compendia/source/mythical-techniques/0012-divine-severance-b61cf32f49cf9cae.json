@@ -1,0 +1,147 @@
+{
+  "_key": "!items!b61cf32f49cf9cae",
+  "_id": "b61cf32f49cf9cae",
+  "name": "Divine Severance",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "00540c2f7d6e8a02": {
+        "_id": "00540c2f7d6e8a02",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "Range: Weapon range",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Divine Severance"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "spec",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 115.</p><p>Divine Severance</p><p>Strike, Zulfiqar</p><p>Weapon: Any slashing melee weapon Classes: Fighter, Paladin, Ranger Channeling Time: 1 action Base LP Cost: 2 LP Range: Weapon range Duration: Instantaneous</p><p>You create a slashing attack able to undo the bindings of divine laws, infernal contracts, fey curses, and even the holy promise that spawned life in the universe. Make a weapon attack against a target within range. On a hit, the creature must make a Charisma saving throw, taking 5d8 x 10 Soul damage on a failed save, or half as much on a successful one. On a critical hit, you do not multiply the damage dice by 2, but instead deal 8d8 x 10 Soul damage.</p><p>This attack slices through the soul, reducing the target’s hit point maximum by an amount equal to the damage taken. This reduction lasts for 24 hours or until the creature is targeted by a greater restoration spell or similar effect.</p><p>In addition, a creature that fails this saving throw by 5 or more must succeed on a Dexterity saving throw against your Mythical Technique save DC or have a part of themselves lost forever. Choose a non-vital body part. The creature can no longer use that part, even if no apparent wound appears on its physical form. The soul of that body part can only be restored by healing magic of 9th level or higher.</p><p>This attack can cut through anything. It can sever promises, destroy magic, and expel divine will, creating an effect similar to a 9th-level casting of dispel magic, or other forms of severance – destroying unbreakable chains, unmaking devil contracts, releasing souls from a vow. The DM determines the extent of this effect in each case. Some powerful effects may require more than one strike to break apart.</p><p>One Use. Once you use this Mythical Technique, you cannot do so again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "divine-severance",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "115",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter, Paladin, Ranger",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "115",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Zulfiqar",
+      "techniqueType": "Strike",
+      "weapon": "Any slashing melee weapon",
+      "classes": "Fighter, Paladin, Ranger",
+      "legendaryPointCost": "2 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

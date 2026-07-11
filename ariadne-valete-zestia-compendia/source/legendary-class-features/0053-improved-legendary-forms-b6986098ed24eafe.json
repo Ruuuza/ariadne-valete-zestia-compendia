@@ -1,0 +1,73 @@
+{
+  "_key": "!items!b6986098ed24eafe",
+  "_id": "b6986098ed24eafe",
+  "name": "Improved Legendary Forms",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 40-43.</p><p>Improved Legendary Forms</p><p>Also at 22nd level, the Challenge Rating limit of your Legendary Forms is increased to 15.</p><p>5.5e: You gain an additional use of your Wild Shape feature. When you reach 24th level, you gain an additional use.</p></div>",
+      "chat": ""
+    },
+    "identifier": "druid-improved-legendary-forms",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "40-43",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Druid level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "40-43",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Druid",
+      "legendaryLevel": 22,
+      "originalFeatureName": "Improved Legendary Forms",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

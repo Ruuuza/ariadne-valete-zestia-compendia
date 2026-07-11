@@ -1,0 +1,73 @@
+{
+  "_key": "!items!795d7d011c5afc80",
+  "_id": "795d7d011c5afc80",
+  "name": "Greater Magicker",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 78-81.</p><p>Greater Magicker</p><p>Also at 23rd level, your understanding of magic makes your spells even harder to resist. Increase your Spell Save DC by 2. Your magic always counts as Higher magic, even if it is Lower, for the purposes of Tiers of Magic.</p></div>",
+      "chat": ""
+    },
+    "identifier": "wizard-greater-magicker",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "78-81",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Wizard level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "78-81",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Wizard",
+      "legendaryLevel": 23,
+      "originalFeatureName": "Greater Magicker",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

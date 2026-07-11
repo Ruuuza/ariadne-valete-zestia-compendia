@@ -1,0 +1,73 @@
+{
+  "_key": "!items!9f9437f82dd76823",
+  "_id": "9f9437f82dd76823",
+  "name": "Legendary Resistance — Bard",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 32-35.</p><p>Legendary Resistance</p><p>Starting at 20th level, you can expend 1 Legendary Point when you fail a saving throw to succeed instead.</p></div>",
+      "chat": ""
+    },
+    "identifier": "bard-legendary-resistance",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "32-35",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Bard level 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "32-35",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Bard",
+      "legendaryLevel": 20,
+      "originalFeatureName": "Legendary Resistance",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

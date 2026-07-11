@@ -1,0 +1,71 @@
+{
+  "_key": "!items!8cbcbb690fdab2cc",
+  "_id": "8cbcbb690fdab2cc",
+  "name": "Legendary Bard - Complete Class Reference",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 32-35.</p><p>Legendary Bard</p><p>The greatest Bards who ever lived did not die in battle, but in a theater’s stage, mid-performance, at the ripe old age of two hundred and twelve–and the audience wept for days. They died in their last epic adventure, ensuring their place in the annals of history before turning to golden dust. They died taking the secrets of the Universe to the grave, after decades of using them to shape our understanding of existence in service of their goals. Their songs outlasted the kingdoms they exalted. Their name survived long after none could speak the language that spawned it. Somewhere, on a plane most mortals will never visit, someone is still humming their melodies, unaware of the power behind each word composed in an Age past.</p><p>That is what a Legendary Bard is. A phenomenon. The kind of figure that civilizations build statues to, religions quietly absorb, and tyrants try to silence or desperately attempt to hire. A Legendary Bard commands the interest even of Gods, because they understand something most do not: a story well told is more durable than anything. Empires may have fractured, and adventurer-kings lost their power. Yet their stories remain. Who sang those songs? Who wrote those epics? Someone who knew that, by definition, a legend is not a person, but a tale.</p><p>At 20th level, the Bard’s performances reshape the emotional truth of a moment, bending the will of kings, steadying the nerves of armies, and unraveling the certainty of enemies far superior. There are planar lords who have ruled for millennia and never commanded a room the way a Legendary Bard can.</p><p>It may take a magma-blooded barbarian to lift a mountain, but it takes a bard to make anyone else believe it ever happened–even if it didn’t happen. After all, what is a tale without its teller?</p><p>— Spell Slots Per Spell Level — Points 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th</p><p>1 1d12 5 22 4 3 3 3 3 2 2 1 1 —</p><p>Bonus Features Legendary Bardic</p><p>Level Proficiency</p><p>Die</p><p>Legendary Inspiration, Legendary AC, Legendary</p><p>20th +6</p><p>Resistance</p><p>Heroic Path (1), Legendary Score Improvement (1), Note of</p><p>1 1d12 5 23 4 3 3 3 3 2 2 1 1 —</p><p>21st +6</p><p>Rebuttal</p><p>Heroic Path (2), 10thLevel Spell (1), Twinned</p><p>2 1d12 5 23 4 3 3 3 3 2 2 1 1 1</p><p>22nd +7</p><p>Inspiration</p><p>Heroic Path (3), Legendary Score Improvement (2), Masterful Inspiration,</p><p>2 1d20 5 24 4 3 3 3 3 3 2 1 1 1</p><p>23rd +7</p><p>Song of Legend</p><p>Heroic Path (4), Inspirational Recovery,</p><p>24th +8</p><p>3 1d20 5 24 4 3 3 3 3 3 3 1 1 1</p><p>Symphony of Arcana,</p><p>10th-Level Spell (2)</p><p>Heroic Path (5), Legendary Score Improvement (3), Hymn</p><p>25th +8</p><p>3 1d20 5 25 4 3 3 3 3 3 3 2 1 1</p><p>of Legend</p><p>Level 20 Legendary Inspiration</p><p>Legendary Points</p><p>Starting at 20th level, you gain Legendary Points. Your level determines the number of points you have, as shown in the Legendary Points column of the Legendary Bard table. You can take the Recover action on your turn to regain all expended Legendary Points. You can spend these points to fuel various features.</p><p>Legendary Resistance</p><p>Starting at 20th level, you can expend 1 Legendary Point when you fail a saving throw to succeed instead.</p><p>Legendary AC</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC in any way, except by temporary AC increases or magical effects lasting 1 hour or less. Other spells and effects that increase your AC only affect your regular AC.</p><p>Cantrips</p><p>Prepared</p><p>Known</p><p>Spells</p><p>Also at 20th level, you gain the ability to inspire legends. As a bonus action on your turn, you can expend 1 Legendary Point and a use of your Bardic Inspiration to inspire a creature within 120 feet. The creature regains 1 Legendary Point and becomes inspired as per your Bardic Inspiration feature.</p><p>Level 21</p><p>Heroic Path Advancement</p><p>At 21st level, you choose a Heroic Path you meet the prerequisites for and advance its first step. Each time you gain a level, you can advance a Heroic Path by one step, start a new Heroic Path, or, if specified as an option of the current step you’re on, jump from one Heroic Path into another.</p><p>Legendary Score Improvement</p><p>When you reach 21st level, and again at levels 23 and 25, increase one of your ability scores by 2 or two ability scores by 1. You cannot raise an ability score above 24 using this feature, unless another feature raised your maximum for that specific ability score beforehand.</p><p>Note of Rebuttal</p><p>Also at 21st level, your knowledge of the arcane has given you considerable insight into how to control the enemy. When a creature within 60 feet of you casts a spell or makes an attack, you can use your reaction and expend 1 Legendary Point to perform a Note of Rebuttal. If the creature is casting a spell, you cast Counterspell at 7th level without expending a spell slot. If the creature is making an attack, you speak a word of power that overwhelms the mind, interrupting the attack.</p><p>Level 22</p><p>10th-Level Spell</p><p>At 22nd level, you learn a single 10th-level spell. You learn an additional 10th-level spell at 24th level. When you start casting a 10th-level spell, you must expend 2 Legendary Points alongside the required action and spell slot.</p><p>Twinned Inspiration</p><p>Starting at 22nd level, your inspiration has become even stronger. When you use your Bardic Inspiration, you can inspire one additional creature within range. In addition, when you use your Legendary Inspiration, you can choose to expend an extra Legendary Point to target one additional creature.</p><p>Level 23</p><p>Masterful Inspiration</p><p>Beginning at 23rd level, your Bardic Die becomes a d20. In addition, whenever you use your Bardic Inspiration, you can cast a spell of 5th level or lower with a casting time of one action or bonus action as part of the same bonus action.</p><p>Song of Legend</p><p>Also at 23rd level, you learn to give a legendary performance that enhances your allies and intimidates your enemies. As an action on your turn, you can play one of the following powerful melodies:</p><ul><li></li></ul><p>Respite: You and up to 10 allies who can hear you within 60 feet gain an amount of temporary hit points equal to five times your Charisma modifier.</p><ul><li></li></ul><p>Tragedy: Creatures of your choice that can hear you within 60 feet must succeed on a Wisdom saving throw or become frightened of you until the end of their next turn. A creature that is immune to the frightened condition is Impaired for a minute instead.</p><ul><li></li></ul><p>Valor: You and allies that can hear you within 60 feet gain a +3 to attack and damage rolls until the end of your next turn.</p><p>Level 24</p><p>Symphony of Arcana</p><p>Beginning at 24th level, your knowledge of the world and the secrets of magic exceeds even that of wizards. You learn four spells of 8th level or lower from any class, as per your Magical Secrets feature.</p><p>Inspirational Recovery</p><p>Also at 24th level, when you use the Recover action, you regain 1d4 + 1 uses of your Bardic Inspiration feature.</p><p>Level 25</p><p>Hymn of Legend</p><p>Starting at 25th level, your Song of Legend becomes more powerful.</p><ul><li></li></ul><p>Recovery: When you use the Respite option, you and up to 4 creatures within range regain 1 Legendary Point.</p><ul><li></li></ul><p>Catastrophe: When you use the Tragedy option, creatures of your choice within the area take an amount of psychic damage equal to five times your Charisma modifier and must succeed on a Constitution saving throw against your spell save DC. On a failure, they are stunned until the end of their next turn.</p><ul><li></li></ul><p>Zeal: When you use the Valor option, you can expend 1 Legendary Point to give you and up to 4 creatures within range that can hear you an additional action on their next turn. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object actions.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-bard-complete-class-reference",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "32-35",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-overview",
+      "sourcePage": "32-35",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Bard",
+      "levels": "20-25"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

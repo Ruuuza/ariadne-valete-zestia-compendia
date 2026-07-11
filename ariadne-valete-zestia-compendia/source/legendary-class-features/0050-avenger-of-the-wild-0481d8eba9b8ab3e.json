@@ -1,0 +1,146 @@
+{
+  "_key": "!items!0481d8eba9b8ab3e",
+  "_id": "0481d8eba9b8ab3e",
+  "name": "Avenger of the Wild",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "313ef401e7a47d89": {
+        "_id": "313ef401e7a47d89",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Avenger of the Wild"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 40-43.</p><p>Avenger of the Wild</p><p>Also at 21st level, your attunement to the wild allows you to call upon natural disasters. As an action, you can expend a Wild Shape use to cast one of the following spells once per day without expending a spell slot: Earthquake, Incendiary Cloud, or Sunburst. Once you use this feature to cast one of these spells, you cannot use it to cast the same spell again until you finish a long rest.</p><p>LP Cost. You can use this feature at the end of another creature’s turn by expending 1 Legendary Point.</p></div>",
+      "chat": ""
+    },
+    "identifier": "druid-avenger-of-the-wild",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "40-43",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Druid level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "40-43",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Druid",
+      "legendaryLevel": 21,
+      "originalFeatureName": "Avenger of the Wild",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

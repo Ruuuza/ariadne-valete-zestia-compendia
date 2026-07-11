@@ -1,0 +1,71 @@
+{
+  "_key": "!items!2513dcc2e79d80d9",
+  "_id": "2513dcc2e79d80d9",
+  "name": "Legendary Rogue - Complete Class Reference",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 62-65.</p><p>Legendary Rogue</p><p>Somewhere in the foundations of empires, holy orders, and great noble houses, there is always a task that must be done covertly, kept separate from the legitimate circles of society, yet as vital as any politician’s speech or warlord’s sword. Something, often times unseemly or even dishonorable, must be done about a document, a truth, a person. Someone with a unique set of skills and a particular relationship with visibility must be called to act under the shadows.</p><p>A Legendary Rogue has been that someone for their entire lives, and the secrets they carry could end dynasties. They have moved through the courts of kings and the dens of demon lords with equal fluency, leaving no trace except the consequences of their passing– which are always significant, and while too great to be a coincidence, too perfectly orchestrated for anyone to suspect their hand.</p><p>The great powers of the Universe announce themselves. The rogue, on the other hand, has built an entire philosophy around the opposite, and above 20th level, that subtelty has become an invisible blade upon the throats of all who interest them. A promise here, a word there, and often, a blade in the dark; these are the tools of a power unseen and unheard, always under the surface until the precise moment to strike. Proclamation begets resistance. True dominion is silent.</p><p>At this tier, a Legendary Rogue is a supernaturally dexterous, almost limitless being, making the exceedingly unlikely seem natural. A dagger that finds the gap in an all-knowing creature’s defense. A gaze that unveils the nature of a hidden plot with the slimmest of evidence. Reflexes so perfected, they weave through the most perilous attacks and magical threats. Every act is guided by a lifetime spent changing the course of history, building the foundations of the present and the future… without anyone knowing about it. The legacy of a rogue does not include their name.</p><p>Sneak Attack Features Legendary</p><p>20th +6 10d6 Mortal Blow, Legendary AC, Legendary Resistance 1</p><p>21st +6 12d6 Heroic Path (1), Legendary Score Improvement (1), Intrepid Attack,</p><p>Legendary Sneak Attack, Mythical Technique (1) 1</p><p>Level Proficiency</p><p>Bonus</p><p>22nd +7 14d6 Heroic Path (2), Heightened Senses, Improved Cunning Action, Perfected</p><p>23rd +7 16d6 Heroic Path (3), Legendary Reaction, Legendary Score Improvement (2),</p><p>Mythical Technique (2), Irrepressible Mind, Reactive 2</p><p>24th +8 18d6 Heroic Path (4), Absolute Finesse, Cunning Recovery, Sneak Attack Master 3</p><p>25th +8 20d6 Heroic Path (5), Legendary Score Improvement (3), Mythical Technique (3),</p><p>Level 20</p><p>Legendary Points</p><p>Starting at 20th level, you gain Legendary Points. Your level determines the number of points you have, as shown in the Legendary Points column of the Legendary Rogue table. You can take the Recover action on your turn to regain all expended Legendary Points. You can spend these points to fuel various features.</p><p>Legendary Resistance</p><p>Starting at 20th level, you can expend 1 Legendary Point when you fail a saving throw to succeed instead.</p><p>Legendary AC</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC in any way, except by temporary AC increases or magical effects lasting 1 hour or less. Other spells and effects that increase your AC only affect your regular AC.</p><p>Mortal Blow</p><p>When you reach 20th level, you learn to utilize your stealth to perform a single mortal strike. When you use your Sneak Attack feature, you can expend 1 Legendary Point to perform a Mortal Blow. If you do so, your Sneak Attack Damage is multiplied by 3, as shown in the following table. While using Mortal Blow, your Sneak Attack damage cannot increase beyond the equation shown below and the attack does not benefit from any other bonus to its damage rolls. On a critical</p><p>Points</p><p>Talent, Untouchable 2</p><p>Reliable Luck 3</p><p>hit, the weapon damage is doubled as usual, but you do not multiply the Sneak Attack damage dice by 2, but instead add 4d6 to the equation.</p><p>Mortal Blow Damage</p><p>Level Damage Equation Critical Hit</p><p>20th 10d6 x 3 14d6 x 3</p><p>21st 12d6 x 3 16d6 x 3</p><p>22nd 14d6 x 3 18d6 x 3</p><p>23rd 16d6 x 3 20d6 x 3</p><p>24th 18d6 x 3 22d6 x 3</p><p>25th 20d6 x 3 24d6 x 3</p><p>Unlike other Multiplier Attacks, Mortal Blow is not an action and is added to the regular damage of the weapon attack with which it is performed. As long as you are performing a Sneak Attack and you have Legendary Points to spare, you can use Mortal Blow. Once you perform a Mortal Blow, you cannot do so again until the start of your next turn.</p><p>Level 21</p><p>Heroic Path Advancement</p><p>At 21st level, you choose a Heroic Path you meet the prerequisites for and advance its first step. Each time you gain a level, you can advance a Heroic Path by one step, start a new Heroic Path, or, if specified as an option of the current step you’re on, jump from one Heroic Path into another.</p><p>Legendary Score Improvement</p><p>When you reach 21st level, and again at levels 23 and 25, increase one of your ability scores by 2 or two ability scores by 1. You cannot raise an ability score above 24 using this feature, unless another feature raised your maximum for that specific ability score beforehand.</p><p>Mythical Technique</p><p>At 21st level, you learn a Mythical Technique from the Mythical Techniques section. You learn an additional Mythical Technique at 23rd and 25th level.</p><p>Intrepid Attack</p><p>Also at 21st level, you can use a bonus action to gain advantage on your next attack until the end of your turn. If you already have advantage from another source and you use your Intrepid Attack, you can roll an additional d20 as part of the attack and choose the highest from the three dice. While using Intrepid Attack, you cannot have disadvantage on the attack roll by any means.</p><p>Legendary Sneak Attack</p><p>At 21st level, your sneak attack becomes even deadlier as you increase in power. Your Sneak Attack damage is increased by 2d6, and you ignore resistance(s) to the damage type(s) of your weapon when you use your Sneak Attack. Your Sneak Attack damage further increases by 2d6 at 22nd, 23rd, 24th, and 25th levels.</p><p>Level 22</p><p>Untouchable</p><p>Starting at 22nd level, you have become so proficient at avoiding strikes that hitting you is considered a feat of legend. Whenever you use your Uncanny Dodge feature, instead of halving the damage, you make an attack that would hit you miss instead.</p><p>Improved Cunning Action</p><p>Beginning at 22nd level, your velocity in certain acts makes them seem almost an afterthought. You can use your bonus action to take the Attack (one weapon attack only), Dodge, or Search actions, or attempt to escape from a grapple.</p><p>Perfected Talent</p><p>Also at 22nd level, your talents are so refined, they are never short of extraordinary. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 14 or lower as a 15. In addition, your Intelligence score increases by 2, up to a maximum of 24.</p><p>Heightened Senses</p><p>5e. Also at 22nd level, the range of your Blindsense feature increases to 60 feet.</p><p>5.5e. Also at 22nd level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 60 feet of you.</p><p>Level 23</p><p>Irrepressible Mind</p><p>Beginning at 23rd level, you have a +10 bonus to Intelligence saving throws, and you become immune to the charmed condition.</p><p>Reactive</p><p>Also at 23rd level, your unparalleled dexterity allows you to act with greater reflexes. You can take one additional reaction per round. You cannot take the same reaction twice in a round, and can only use one reaction per triggering action.</p><p>Legendary Reaction</p><p>Beginning at 23rd level, whenever a creature within 5 feet of you moves, makes an attack, or casts a spell, you can use your reaction to take any of the actions listed in your Cunning Action and Improved Cunning Action features.</p><p>Level 24</p><p>Sneak Attack Master</p><p>When you reach 24th level, you can use your Sneak Attack one additional time per turn, as long as you meet its requirements. In addition, you can perform your Mortal Blow one additional time per round. Once you have performed 2 Mortal Blows, you cannot do so again until the start of your next turn.</p><p>Cunning Recovery</p><p>Also at 24th level, when you take the Recover action, you can take any of the actions listed in your Cunning Action and Improved Cunning Action features as part of the same action.</p><p>Absolute Finesse</p><p>When you reach 24th level, your skill and finesse have become unmatched. Increase your Dexterity score by 2. Your maximum for your Dexterity score is now 30.</p><p>Level 25</p><p>Reliable Luck</p><p>At 25th level, your skill and training become such that it seems your good fortune can never run out, for you are its very origin. You can use your Stroke of Luck feature three times instead of one in between short or long rests.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-rogue-complete-class-reference",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "62-65",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-overview",
+      "sourcePage": "62-65",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Rogue",
+      "levels": "20-25"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

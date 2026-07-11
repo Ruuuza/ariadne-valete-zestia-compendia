@@ -1,0 +1,72 @@
+{
+  "_key": "!items!2d951372ed92a7b9",
+  "_id": "2d951372ed92a7b9",
+  "name": "Overwhelming Might",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 102.</p><p>Tier I: Overwhelming Might</p><p>Titanic Force. When you make an unarmed strike or an attack with a melee weapon you are proficient with, you ignore resistance to its damage type. Your critical range is increased by 1 for attacks that use Strength.</p><p>Displacing Strikes. When you hit a creature with a melee attack and that creature has a Strength score lower than yours, you can choose to knock the creature prone or push the creature 15 feet away. You can push the creature another 15 feet away for each size category smaller compared to you.</p></div>",
+      "chat": ""
+    },
+    "identifier": "overwhelming-might",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "102",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Titan",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "102",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Titan",
+      "stageType": "Tier I",
+      "stageOrder": 1
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

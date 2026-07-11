@@ -1,0 +1,72 @@
+{
+  "_key": "!items!113f03dfec35a13b",
+  "_id": "113f03dfec35a13b",
+  "name": "Perfect Body",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 104.</p><p>Heroic Perk: Perfect Body</p><p>Prerequisite: Combat Master</p><p>Your Strength, Dexterity, and Constitution scores are increased to 20, unless they are already higher without this benefit. Scores that are already above 20 instead increase by 1, up to a maximum of 24.</p></div>",
+      "chat": ""
+    },
+    "identifier": "perfect-body",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "104",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Warlord",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "104",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Warlord",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

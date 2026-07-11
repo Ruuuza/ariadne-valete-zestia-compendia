@@ -1,0 +1,73 @@
+{
+  "_key": "!items!81707129ebe78e32",
+  "_id": "81707129ebe78e32",
+  "name": "Improved Sorcery",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 66-71.</p><p>Improved Sorcery</p><p>5e. The magic of your bloodline has become everpresent. Your spell save DC is increased by 1, and you have Advantage on the attack rolls of Sorcerer spells you cast. In addition, you can use up to 2 Metamagic options on each spell you cast, and you can use 1 Metamagic option on each of your turns without spending Sorcery Points on it.</p><p>5.5e. You are always under the effects of your Innate Sorcery feature.</p></div>",
+      "chat": ""
+    },
+    "identifier": "sorcerer-improved-sorcery",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "66-71",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Sorcerer level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "66-71",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Sorcerer",
+      "legendaryLevel": 21,
+      "originalFeatureName": "Improved Sorcery",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

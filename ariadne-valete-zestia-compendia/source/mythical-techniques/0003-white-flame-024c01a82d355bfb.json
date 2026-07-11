@@ -1,0 +1,147 @@
+{
+  "_key": "!items!024c01a82d355bfb",
+  "_id": "024c01a82d355bfb",
+  "name": "White Flame",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "73c3ffe63cf730e0": {
+        "_id": "73c3ffe63cf730e0",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "White Flame"
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 111.</p><p>White Flame</p><p>Infusion, Ichimonji</p><p>Weapon: Any Classes: Fighter, Monk, Paladin Channeling Time: 1 bonus action Base LP Cost: 0 LP Range: Self Duration: Concentration, up to 1 minute</p><p>You infuse your next weapon attack, unarmed strike, or Multiplier Attack with the white flame of your soul, burning with a light that strikes deeper than flesh. For the duration, the next weapon attack or unarmed strike you make deals soul damage instead of its normal damage type.</p></div>",
+      "chat": ""
+    },
+    "identifier": "white-flame",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "111",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter, Monk, Paladin",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "111",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Ichimonji",
+      "techniqueType": "Infusion",
+      "weapon": "Any",
+      "classes": "Fighter, Monk, Paladin",
+      "legendaryPointCost": "0 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

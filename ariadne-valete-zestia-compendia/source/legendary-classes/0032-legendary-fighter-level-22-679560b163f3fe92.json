@@ -1,0 +1,71 @@
+{
+  "_key": "!items!679560b163f3fe92",
+  "_id": "679560b163f3fe92",
+  "name": "Legendary Fighter - Level 22",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 44-49.</p><p>Level 22</p><p>Perfect Defense</p><p>Beginning at 22nd level, as long as you are wielding a weapon, you reduce the damage from weapon attacks by 10. In addition, whenever you are subject to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed and only half damage if you fail.</p><p>Legendary Warrior</p><p>Starting at 22nd level, you have learned the ways of battle and have proven yourself a legendary warrior. You learn 2 additional fighting styles from any class. You cannot be disarmed or forced to drop your weapon, and you become immune to the frightened condition.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-fighter-level-22",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "44-49",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "44-49",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Fighter",
+      "legendaryLevel": 22
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

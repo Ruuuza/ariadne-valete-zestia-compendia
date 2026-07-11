@@ -1,0 +1,179 @@
+{
+  "_key": "!items!ae50da61e9bc8263",
+  "_id": "ae50da61e9bc8263",
+  "name": "[10th] Rimley’s Pulse",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "a4d33871513141fe": {
+        "_id": "a4d33871513141fe",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Rimley’s Pulse"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "radius",
+            "size": "5280",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 130.</p><p>Rimley’s Pulse</p><p>10th-level abjuration</p><p>Classes: Bard, Sorcerer, Wizard Casting Time: 1 action Range: Self (1 mile radius) Components: V, S, M (a finely tuned platinum chime worth at least 10.000 GP) Duration: Instantaneous</p><p>You release a disrupting, high-pitched musical note that reverberates in a 1-mile radius. An audible hum fills the area, and every ongoing magical effect of 9th level or lower is instantly dispelled. Spellcasters in the area lose concentration on any spell they maintain. Magic items in the area that aren’t legendary, artifacts, or relics lose their magical properties and become mundane. A creature attuned to one or more affected items can make a single Charisma saving throw; on a success, those items retain their magic.</p><p>Constructs animated by magic that doesn’t originate from a deity or an artifact must succeed on a Constitution saving throw or be destroyed.</p></div>",
+      "chat": ""
+    },
+    "identifier": "rimley-s-pulse",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "130",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A finely tuned platinum chime worth at least 10,000 gp",
+      "consumed": false,
+      "cost": 10000,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material"
+    ],
+    "range": {
+      "value": null,
+      "units": "self"
+    },
+    "school": "abj",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "radius",
+        "size": "5280",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "130",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Bard, Sorcerer, Wizard",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

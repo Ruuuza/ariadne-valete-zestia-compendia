@@ -1,0 +1,145 @@
+{
+  "_key": "!items!598a45390b487254",
+  "_id": "598a45390b487254",
+  "name": "Omen Incarnate",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "80912b8f41903aa2": {
+        "_id": "80912b8f41903aa2",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Omen Incarnate"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 90.</p><p>Tier II: Omen Incarnate</p><p>Prerequisite: Divine Arrival</p><p>Power of the Voice. Your spell save DC is increased by 2 for spells that have verbal components.</p><p>Edict. As an action, you can speak a single sentence aloud, dictating a new rule of creation. Choose one of the following effects that applies in a 60-foot radius centered on yourself for the next minute. You can also come up with your own edict, with a similarly powerful effect, at the DM’s discretion. Once you use this ability, you cannot do so again until you finish a long rest.</p><p>Edict of Bane: Creatures of your choice have disadvantage on all saving throws. +</p><ul><li></li></ul><p>Edict of Sanctuary: Allies gain resistance to all damage. They gain immunity to damage types they were already resistant to.</p><ul><li></li></ul><p>Edict of Forbiddance: A specific course of action (fleeing, lying, attacking a specific creature) cannot be performed. If a creature attempts to take the action regardless, it must succeed on a Wisdom saving throw against your spell save DC or take 10d6 psychic damage and be unable to take their desired action. Creatures that succeed on this saving throw become immune to your Edict of Forbiddance for the next 24 hours.</p></div>",
+      "chat": ""
+    },
+    "identifier": "omen-incarnate",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "90",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Herald",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "90",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "heroicPath": "Herald",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_key": "!items!97384192851ad8d8",
+  "_id": "97384192851ad8d8",
+  "name": "Heroic Path: Legendary Psion",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 92.</p><p>Heroic Path: Legendary Psion</p><p>Prerequisite: An Intelligence score of 20 or higher Tier I: Awakened Mind</p><p>Expanded Intellect. Your Intelligence score increases by 2, as does your Intelligence score maximum.</p><p>Psychic Deflection. When you take psychic damage, you can use your reaction to nullify it. Optionally, you can redirect it toward a creature you can see within 60 feet. It must succeed on an Intelligence saving throw against a DC equal to 8 + your Intelligence modifier + your proficiency bonus or take the full instance damage in your stead.</p><p>Telekinetic. You are always under the effects of the Telekinesis spell. Intelligence is your spellcasting ability for resolving contests against creatures you target with your telekinetic grip. The range of your telekinesis is 120 feet rather than 60 feet, and you can target up to two creatures or objects simultaneously. Heroic Perk: Mind Tricks</p><p>Prerequisite: Awakened Mind</p><p>You can cast the Suggestion spell at will without expending a spell slot. You cannot be affected by spells or magical effects that would sense your emotions or read your thoughts. When a creature attempts to read your thoughts or emotions, you can present false thoughts or feelings. The mind reader can notice their falseness by succeeding on a DC 30 Wisdom (Insight) check. Tier II: Telekinetic Master</p><p>Prerequisite: Mind Tricks</p><p>Ascended Intellect. Your Intelligence score increases by 2, as does your Intelligence score maximum.</p><p>Mind Fortress. Your mind becomes an impenetrable fortress. You are immune to any effect that would charm, frighten, or make you act against your will. When a creature targets you with such an effect, it must succeed on an Intelligence saving throw against a DC equal to 8 + your Intelligence modifier + your proficiency bonus or take 10d8 psychic damage as the attempt rebounds.</p><p>Psionic Field. You can add your Intelligence modifier to your AC calculations. When a creature within 30 feet of you makes an attack, you can use your reaction to sap their focus, giving them disadvantage on the attack. When a projectile of Small size or smaller passes within 30 feet of you, you can use your reaction to stop the projectile, causing it to fall to the ground. Heroic Perk: Psionic Hub</p><p>Prerequisite: Telekinetic Master</p><p>While you are conscious, allies of your choice within 600 feet share a telepathic link. Linked creatures can communicate silently and freely, cannot be surprised while conscious, and have advantage on Intelligence, Wisdom, and Charisma saving throws. Tier III: Legendary Psion</p><p>Prerequisite: Psionic Hub</p><p>Psionic Supremacy. You and allies of your choice within 30 feet of you are immune to psychic damage.</p><p>Greater Psionic Field. Your mind radiates a permanent Psionic Field in a 30-foot radius centered on you. All creatures of your choice within your Psionic Field can add your Intelligence modifier to their AC calculations. As a bonus action, you can send a psychic blast to a creature within the Psionic Field. That creature must succeed on an Intelligence saving throw against a DC equal to 8 + your Intelligence modifier + your proficiency bonus or take 8d8 psychic damage and be stunned until the end of their next turn.</p><p>Path Connections Archmagus. Instead of the Mind Tricks Heroic Perk, you can take the Erudition Perk, changing to the Archmagus path.</p><p>Arcane Marksman. Instead of the Mind Tricks Heroic Perk, you can take the Magical Geometry Perk, changing to the Arcane Marksman path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-legendary-psion",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "92",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "92",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Legendary Psion",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "_key": "!items!f3aa367a9070f5d1",
+  "_id": "f3aa367a9070f5d1",
+  "name": "Soul Wound",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "59592cc00cdcee84": {
+        "_id": "59592cc00cdcee84",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Soul Wound"
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "60",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 114.</p><p>Soul Wound</p><p>Strike, Dainsleif</p><p>Weapon: Any Classes: Fighter, Ranger, Rogue Channeling Time: 1 action Base LP Cost: 1 LP Range: Weapon range/reach, up to 60 feet Duration: Concentration, up to 1 minute</p><p>You make a single attack with the power to wound a creature’s soul and deprive it of its most powerful features. Make a weapon attack or unarmed strike against a creature within range. On a hit, the target must succeed on a Charisma saving throw against your Mythical Technique save DC or be unable to teleport, leave its current plane of existence, use Mythical Techniques, or cast spells of 8th-level or higher for the duration. On a successful save, the target is unaffected.</p><p>If the target has no Mythical Techniques or spell slots of 8th-level or higher, it cannot use its most powerful action or feature for the duration instead. A dragon, for example, cannot use its Breath Weapon. The DM has final say on which feature this wound impedes.</p><p>A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p><p>A Terrible Hell It is said that those who are slain by the Dainsleif technique are condemned to an eternity of torment. This is not true. The souls of those destroyed by the Dainsleif are returned, in time, to the White Flame, as shattered pieces of a whole. There is no consciousness after the Death of the Soul.</p><p>Those who channel the Dainsleif, however, taint their soul with blasphemy, and the hate of all who came before. It was a mortal, not a God, who created these techniques, channeling the powers of Rhox and Set into a red mélange of murder and bloodshed. Unlike her legacy, her identity has been lost to time. The Teng, perhaps in shame, ensured her name would never be spoken again.</p></div>",
+      "chat": ""
+    },
+    "identifier": "soul-wound",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "114",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter, Ranger, Rogue",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "114",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Dainsleif",
+      "techniqueType": "Strike",
+      "weapon": "Any",
+      "classes": "Fighter, Ranger, Rogue",
+      "legendaryPointCost": "1 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

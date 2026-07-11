@@ -1,0 +1,73 @@
+{
+  "_key": "!items!41630c547176af50",
+  "_id": "41630c547176af50",
+  "name": "Note of Rebuttal",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 32-35.</p><p>Note of Rebuttal</p><p>Also at 21st level, your knowledge of the arcane has given you considerable insight into how to control the enemy. When a creature within 60 feet of you casts a spell or makes an attack, you can use your reaction and expend 1 Legendary Point to perform a Note of Rebuttal. If the creature is casting a spell, you cast Counterspell at 7th level without expending a spell slot. If the creature is making an attack, you speak a word of power that overwhelms the mind, interrupting the attack.</p></div>",
+      "chat": ""
+    },
+    "identifier": "bard-note-of-rebuttal",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "32-35",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Bard level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "32-35",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Bard",
+      "legendaryLevel": 21,
+      "originalFeatureName": "Note of Rebuttal",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

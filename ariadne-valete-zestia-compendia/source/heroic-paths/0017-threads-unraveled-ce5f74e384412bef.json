@@ -1,0 +1,72 @@
+{
+  "_key": "!items!ce5f74e384412bef",
+  "_id": "ce5f74e384412bef",
+  "name": "Threads Unraveled",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 89.</p><p>Heroic Perk: Threads Unraveled</p><p>Prerequisite: Fated, Destined</p><p>Your connection to fate extends to those around you. When you use your Spared by Destiny ability, you can choose to extend the benefit to another creature within 60 feet that is taking the same instance of damage, as with an area of effect spell such as Fireball or Meteor Swarm. In addition, you now roll 1d8 instead of 1d6 when using your Strings of Fate feature.</p></div>",
+      "chat": ""
+    },
+    "identifier": "threads-unraveled",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "89",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Chosen One",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "89",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Chosen One",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

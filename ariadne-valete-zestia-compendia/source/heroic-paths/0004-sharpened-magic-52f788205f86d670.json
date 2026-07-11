@@ -1,0 +1,72 @@
+{
+  "_key": "!items!52f788205f86d670",
+  "_id": "52f788205f86d670",
+  "name": "Sharpened Magic",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 87.</p><p>Tier II: Sharpened Magic</p><p>Prerequisite: Magical Geometry</p><p>Arcane Damage. Whenever you deal damage with a spell of 5th-level or lower, you can choose to change the damage type of the spell to force damage for the purpose of overcoming resistances.</p><p>Burst of Magic. When you deal damage with a spell, you can choose to deal maximum damage with that spell. Once you use this feature, you cannot use it again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "sharpened-magic",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "87",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Arcane Marksman",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "87",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Arcane Marksman",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

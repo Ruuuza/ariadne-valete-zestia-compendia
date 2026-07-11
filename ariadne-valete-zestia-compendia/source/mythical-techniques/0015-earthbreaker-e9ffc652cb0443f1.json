@@ -1,0 +1,147 @@
+{
+  "_key": "!items!e9ffc652cb0443f1",
+  "_id": "e9ffc652cb0443f1",
+  "name": "Earthbreaker",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "1fa39470d5cd5aed": {
+        "_id": "1fa39470d5cd5aed",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "Range: 100-foot-radius circle centered on you",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Earthbreaker"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "spec",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 116.</p><p>Earthbreaker</p><p>Strike, Durandal</p><p>Classes: Barbarian, Fighter Channeling Time: 1 action Base LP Cost: 0 LP Range: 100-foot-radius circle centered on you Duration: Instantaneous</p><p>You channel the force of your soul through your legs and into the earth itself, creating a tremor that rips through the ground in a 100-foot-radius circle centered on you. The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must succeed on a Constitution saving throw against your Mythical Technique DC or have their concentration broken. Each creature other than yourself on the ground in the area must succeed on a Dexterity saving throw against your Mythical Technique DC or be knocked prone. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area. If a structure drops to 0 hit points, it collapses, potentially damaging nearby creatures.</p><p>LP Cost. You can use this Mythical Technique as a bonus action by expending 1 Legendary Point.</p></div>",
+      "chat": ""
+    },
+    "identifier": "earthbreaker",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "116",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian, Fighter",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "116",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Durandal",
+      "techniqueType": "Strike",
+      "weapon": "—",
+      "classes": "Barbarian, Fighter",
+      "legendaryPointCost": "0 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

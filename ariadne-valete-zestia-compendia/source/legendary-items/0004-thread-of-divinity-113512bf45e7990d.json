@@ -1,0 +1,65 @@
+{
+  "_key": "!items!113512bf45e7990d",
+  "_id": "113512bf45e7990d",
+  "name": "Thread of Divinity",
+  "type": "loot",
+  "effects": [],
+  "system": {
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 202.</p><p>Thread of Divinity</p><p>The Hermit is a shard of an elder god and carries divinity in its purest, unbroken form. In the event of the Hermit’s demise, the mysterious divine domain he carries will splinter into 1d4 + 1 Threads of Divinity. These Threads will immediately be sent across the cosmos to key locations determined by the Hermit through hidden cosmic currents. Mortals who have passed the Hermit’s Trial and are living become aware of the exact location of the Threads of Divinity. At the moment of the Hermit’s demise, all Clerics that gain power from him lose their connection to the divine and must worship another deity.</p></div>",
+      "chat": ""
+    },
+    "identifier": "thread-of-divinity",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "202",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "artifact",
+    "identified": true,
+    "type": {
+      "value": "trinket",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "divine-fragment",
+      "sourcePage": "202",
+      "language": "en-US",
+      "originalText": true,
+      "quantityGenerated": "1d4 + 1",
+      "automation": "reference"
+    }
+  },
+  "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "_key": "!items!2540aa853ff4bf89",
+  "_id": "2540aa853ff4bf89",
+  "name": "Hateful Blade",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "f1be5bc5df6378b6": {
+        "_id": "f1be5bc5df6378b6",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Hateful Blade"
+        },
+        "duration": {
+          "value": "1",
+          "units": "hour",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 114.</p><p>Hateful Blade</p><p>Infusion, Dainsleif</p><p>Weapon: Any melee weapon Classes: Barbarian, Fighter, Ranger, Rogue Channeling Time: 1 action Base LP Cost: 3 LP Range: Self Duration: 1 hour, or until dismissed</p><p>You infuse your weapon with an enchantment of Malice and Hate, a blasphemous art that demands blood. For the duration, weapon attacks you make with the infused weapon deal maximum damage, and its damage type becomes Dark. This infusion does not affect Multiplier Attacks nor other Mythical Techniques. If you end your turn without having dealt damage to a creature other than yourself with the infused weapon, you take 10d10 Dark damage as the weapon turns its hunger inward. If you kill a creature with this technique, that creature cannot be returned to life by any means short of a 10thlevel spell.</p><p>One Use. Once you use this Mythical Technique, you cannot do so again until you finish a short or long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "hateful-blade",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "114",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian, Fighter, Ranger, Rogue",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "114",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Dainsleif",
+      "techniqueType": "Infusion",
+      "weapon": "Any melee weapon",
+      "classes": "Barbarian, Fighter, Ranger, Rogue",
+      "legendaryPointCost": "3 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

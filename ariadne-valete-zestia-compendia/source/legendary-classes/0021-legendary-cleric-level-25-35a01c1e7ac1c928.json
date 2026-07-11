@@ -1,0 +1,71 @@
+{
+  "_key": "!items!35a01c1e7ac1c928",
+  "_id": "35a01c1e7ac1c928",
+  "name": "Legendary Cleric - Level 25",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 36-39.</p><p>Level 25</p><p>Divine Indemnity</p><p>At 25th level, your God grants you control over the powers of protection they have bestowed upon your blessed self.</p><p>You can expend 2 Legendary Points and use your action to give a creature within 60 feet of you immunity to all damage for up to 1 minute. You can only protect one creature in this manner at a time. The protection breaks if the target creature is ever farther than 500 feet away from you or on a different plane of existence. This counts as a magical effect of 9th level for the purposes of Tiers of Magic and uses your concentration.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-cleric-level-25",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "36-39",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Cleric level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "36-39",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Cleric",
+      "legendaryLevel": 25
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

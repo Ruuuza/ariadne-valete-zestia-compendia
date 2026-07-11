@@ -1,0 +1,73 @@
+{
+  "_key": "!items!605a0165a88c67a1",
+  "_id": "605a0165a88c67a1",
+  "name": "Awakened Bloodline",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 66-71.</p><p>Awakened Bloodline</p><p>Also at 21st level, your arcane essence reveals a previously dormant facet of its power. Choose one of the following features to be your Awakened Bloodline benefit:</p><p>Absorption. When you succeed on a saving throw against a spell or magical effect, you gain 30 temporary hit points.</p><p>Primordial Elements. Whenever you deal acid, cold, fire, lightning, necrotic, poison, radiant, or thunder damage, you can change the type of that damage to any other type on the list</p><p>Enfeebling Presence. Creatures of your choice within 60 feet of you have a -2 penalty to attack rolls and saving throws while you are conscious.</p><p>Arcanophilia. You have a +3 bonus to saving throws against spells and magical effects.</p></div>",
+      "chat": ""
+    },
+    "identifier": "sorcerer-awakened-bloodline",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "66-71",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Sorcerer level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "66-71",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Sorcerer",
+      "legendaryLevel": 21,
+      "originalFeatureName": "Awakened Bloodline",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

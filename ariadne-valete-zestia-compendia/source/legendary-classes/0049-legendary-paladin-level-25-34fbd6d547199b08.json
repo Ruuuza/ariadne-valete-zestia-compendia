@@ -1,0 +1,71 @@
+{
+  "_key": "!items!34fbd6d547199b08",
+  "_id": "34fbd6d547199b08",
+  "name": "Legendary Paladin - Level 25",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 54-57.</p><p>Level 25</p><p>Legendary Aura</p><p>At 25th level, the range of all your auras is increased to 45 feet. Whenever you use your Legendary Resistance feature, all allies within your aura that are also affected by the same effect automatically succeed on their saving throw.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-paladin-level-25",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "54-57",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Paladin level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "54-57",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Paladin",
+      "legendaryLevel": 25
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

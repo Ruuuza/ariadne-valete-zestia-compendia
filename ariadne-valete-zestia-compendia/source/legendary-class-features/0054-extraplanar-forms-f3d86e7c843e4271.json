@@ -1,0 +1,73 @@
+{
+  "_key": "!items!f3d86e7c843e4271",
+  "_id": "f3d86e7c843e4271",
+  "name": "Extraplanar Forms",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 40-43.</p><p>Extraplanar Forms</p><p>Beginning at 23rd level, you gain the ability to transform into greater forms as part of your wild shape. When you use your Wild Shape, you can expend 2 Legendary Points to turn into any aberration, celestial, or fiend you have seen before of a Challenge Rating of 19 or lower. You transform into an average example of that creature, one without any class levels or the Spellcasting trait. You can’t use any legendary actions, legendary resistances, or lair actions of the new form.</p></div>",
+      "chat": ""
+    },
+    "identifier": "druid-extraplanar-forms",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "40-43",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Druid level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "40-43",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Druid",
+      "legendaryLevel": 23,
+      "originalFeatureName": "Extraplanar Forms",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

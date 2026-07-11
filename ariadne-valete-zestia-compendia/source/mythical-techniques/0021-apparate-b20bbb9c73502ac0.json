@@ -1,0 +1,147 @@
+{
+  "_key": "!items!b20bbb9c73502ac0",
+  "_id": "b20bbb9c73502ac0",
+  "name": "Apparate",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "07b4b2edcbaec675": {
+        "_id": "07b4b2edcbaec675",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Apparate"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "500",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 117.</p><p>Apparate</p><p>Mobility, Sunyata</p><p>Classes: Monk, Ranger Channeling Time: 1 action Base LP Cost: 0 LP Range: 500 feet Duration: Instantaneous</p><p>You focus your soul and body to modify your position in space with only a thought, stepping through the void between places. You teleport to an unoccupied space you can see within 500 feet. You can bring one willing creature within 5 feet of you along.</p><p>LP Cost. You can use this Mythical Technique at the end of another creature’s turn by expending 1 Legendary Point.</p></div>",
+      "chat": ""
+    },
+    "identifier": "apparate",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "117",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk, Ranger",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "117",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Sunyata",
+      "techniqueType": "Mobility",
+      "weapon": "—",
+      "classes": "Monk, Ranger",
+      "legendaryPointCost": "0 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

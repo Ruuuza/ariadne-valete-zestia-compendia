@@ -1,0 +1,147 @@
+{
+  "_key": "!items!043f39de196baaee",
+  "_id": "043f39de196baaee",
+  "name": "Cloak and Dagger",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "eac3817cff885b2c": {
+        "_id": "eac3817cff885b2c",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cloak and Dagger"
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 113.</p><p>Cloak and Dagger</p><p>Mobility, Vorpal</p><p>Weapon: Any Classes: Fighter, Rogue Channeling Time: 1 bonus action Base LP Cost: 1 LP Range: Self Duration: Concentration, up to 1 minute</p><p>You channel the power of your soul to slip between the planes, vanishing from the material world entirely. You enter the ethereal plane for up to 1 minute. While ethereal, you have a fly speed of 60 feet, resistance to all damage except psychic and force, and cannot be perceived by creatures on the material plane. You can move freely through the ethereal, observing the material plane as you go.</p><p>At any point during the effect, you can use a bonus action to choose a point you can see on the material plane within 60 feet and tear back through the veil, appearing in the nearest unoccupied space to that point. Your first weapon attack or unarmed strike after returning deals Lethal damage instead of its normal damage type and has advantage.</p></div>",
+      "chat": ""
+    },
+    "identifier": "cloak-and-dagger",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "113",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter, Rogue",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "113",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Vorpal",
+      "techniqueType": "Mobility",
+      "weapon": "Any",
+      "classes": "Fighter, Rogue",
+      "legendaryPointCost": "1 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

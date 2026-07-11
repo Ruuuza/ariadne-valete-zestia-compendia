@@ -1,0 +1,71 @@
+{
+  "_key": "!items!7b3619c7e2dada8b",
+  "_id": "7b3619c7e2dada8b",
+  "name": "Heroic Path: Arcane Marksman",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 87.</p><p>Heroic Path: Arcane Marksman</p><p>Prerequisite: Spellcasting or Pact Magic Tier I: Fingers of Toth</p><p>Arcane Precision. You have a +3 bonus to spell attack rolls. Additionally, your critical range for spell attacks is increased by 1.</p><p>Quickened Cantrip. When you cast a spell of 1st level or higher, you can cast a cantrip with a casting time of 1 action or 1 bonus action as part of the same action used to cast the leveled spell.</p><p>Heroic Perk: Magical Geometry</p><p>Prerequisite: Fingers of Toth</p><p>Your critical range for spell attacks is increased by 1. When you score a critical hit with a spell attack, the target cannot take reactions until the start of its next turn, as the precision of the strike disrupts its ability to respond. Tier II: Sharpened Magic</p><p>Prerequisite: Magical Geometry</p><p>Arcane Damage. Whenever you deal damage with a spell of 5th-level or lower, you can choose to change the damage type of the spell to force damage for the purpose of overcoming resistances.</p><p>Burst of Magic. When you deal damage with a spell, you can choose to deal maximum damage with that spell. Once you use this feature, you cannot use it again until you finish a long rest. Heroic Perk: Arcane Shield</p><p>Prerequisite: Sharpened Magic</p><p>When you deal force damage, you can expend a 5thlevel spell slot to gain an amount of temporary hit points equal to half the amount of force damage dealt. Tier III: Arcane Marksman</p><p>Prerequisite: Sharpened Magic, Arcane Shield</p><p>Seeking Magic. Your spell attacks cannot be made at disadvantage. When you cast a spell that requires a spell attack roll, you can choose to treat the d20 roll as a 15 before adding your attack bonus. Once you use this feature, you cannot do so again until the start of your next turn. In addition, your critical range for spell attacks is increased by 1.</p><p>Arcane Damage Mastery. When you deal force damage, you can expend a spell slot to deal an additional amount of force damage equal to the spell slot expended x 5. You can now change the damage type of all your spells to force damage, regardless of their level.</p><p>Path Connections Archmagus. Instead of the Magical Geometry Heroic Perk, you can take the Erudition Perk, changing to the Archmagus path.</p><p>Legendary Psion. Instead of the Magical Geometry Heroic Perk, you can take the Mind Tricks Perk, changing to the Legendary Psion path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-arcane-marksman",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "87",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "87",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Arcane Marksman",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,4313 @@
+[
+  {
+    "pack": "legendary-rules",
+    "_id": "23c76cbbb043e30f",
+    "name": "Legendary Tiers of Play",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "10",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "a7075ddc6a3f324c",
+    "name": "Progression",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "11-12",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "647bb93cc44aaea7",
+    "name": "Legendary Point System",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "13-14",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "abd53db1e66f401c",
+    "name": "Legendary Features",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "13-14",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "fb6b3ed85e1d33b1",
+    "name": "LP outside of Combat",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "14",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "a5839a45a877a7fa",
+    "name": "Difficulty Classes",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "15",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "3f826f8f8a080326",
+    "name": "Armor Class",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "15",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "a431e0b38ccbee32",
+    "name": "Legendary Damage Types",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "15-16",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "5d227fb35125875f",
+    "name": "Action Priority",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "16",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "df17f2e4e0d55f1f",
+    "name": "Incapacitations",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "16",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "649d1cbfa7c18da1",
+    "name": "Magic and Tiers of Magic",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "17",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "a5ebb4414b685152",
+    "name": "Building a Legendary Character",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "21-22",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "ff85d7787e8d95ea",
+    "name": "Becoming Legendary",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "23-25",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "fb3cf849baaac5f0",
+    "name": "Legendary Warriors",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "27",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "e75e78badf2d97d4",
+    "name": "Legendary Casters",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "27",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "2be4714adaf6c32e",
+    "name": "Heroic Path Rules",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "84-85",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "e341c2dd9bf25e41",
+    "name": "Mythical Technique Mechanics",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "108-110",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-rules",
+    "_id": "f13d11cd5aeddcf8",
+    "name": "Epic Magic Rules",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "120-122",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "1704a43c06e8ffc7",
+    "name": "Legendary Barbarian - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "94d9d4379b670ee3",
+    "name": "Legendary Barbarian - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "bec1f76adb9ca815",
+    "name": "Legendary Barbarian - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "92dd8014daf04120",
+    "name": "Legendary Barbarian - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "68af8d0931a34268",
+    "name": "Legendary Barbarian - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "d2176cc315edb4f7",
+    "name": "Legendary Barbarian - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "762a671a4b55320c",
+    "name": "Legendary Barbarian - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "8cbcbb690fdab2cc",
+    "name": "Legendary Bard - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "d4529f9a1e63f90c",
+    "name": "Legendary Bard - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "d11a1dedb43a66f9",
+    "name": "Legendary Bard - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "341537120c3bc7a0",
+    "name": "Legendary Bard - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "04f88eadf93f8cd6",
+    "name": "Legendary Bard - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "7ba0d932aefc7fdd",
+    "name": "Legendary Bard - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "a27e92144341c281",
+    "name": "Legendary Bard - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "a7f3c02a6c8841ce",
+    "name": "Legendary Cleric - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "44dcccfaa6249e2a",
+    "name": "Legendary Cleric - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "89ac1ee6a398ff5c",
+    "name": "Legendary Cleric - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "0ac6c5645c3ef6cf",
+    "name": "Legendary Cleric - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "7098f7a34e76728a",
+    "name": "Legendary Cleric - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "3af0972cc73f9832",
+    "name": "Legendary Cleric - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "35a01c1e7ac1c928",
+    "name": "Legendary Cleric - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "8d6feee6a5394074",
+    "name": "Legendary Druid - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "0fd9d0bf916cdcec",
+    "name": "Legendary Druid - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "6ea815803e9194e4",
+    "name": "Legendary Druid - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "88c516f95ee96e13",
+    "name": "Legendary Druid - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "f1cbf1da00daf45c",
+    "name": "Legendary Druid - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "064f83ce82ba5c21",
+    "name": "Legendary Druid - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "1893c8f5bcd63c7f",
+    "name": "Legendary Druid - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "f6158a29eddcc853",
+    "name": "Legendary Fighter - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "43b123043f5840db",
+    "name": "Legendary Fighter - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "8de088f3791de6b0",
+    "name": "Legendary Fighter - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "679560b163f3fe92",
+    "name": "Legendary Fighter - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "0da63e03b2b0f483",
+    "name": "Legendary Fighter - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "e5c62e3901097a26",
+    "name": "Legendary Fighter - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "fc8b8554eb413aa5",
+    "name": "Legendary Fighter - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "aebdf2895bd74a4b",
+    "name": "Legendary Monk - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "3a9dba1162935a09",
+    "name": "Legendary Monk - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "89ce166f503c1cf5",
+    "name": "Legendary Monk - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "a4cef444776d5bc5",
+    "name": "Legendary Monk - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "ffacbbef41bfb621",
+    "name": "Legendary Monk - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "9d06b8d0f38f081d",
+    "name": "Legendary Monk - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "3b72d53a4d1ac850",
+    "name": "Legendary Monk - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "03e15197e3fdb87e",
+    "name": "Legendary Paladin - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "94a98757c554c03e",
+    "name": "Legendary Paladin - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "258c3e91acc1d13f",
+    "name": "Legendary Paladin - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "6e0cfb1a1c8a3ca1",
+    "name": "Legendary Paladin - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "e9cb55351f22aa9f",
+    "name": "Legendary Paladin - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "b62762365c72ce68",
+    "name": "Legendary Paladin - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "34fbd6d547199b08",
+    "name": "Legendary Paladin - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "45b7d8b7f24e0a3a",
+    "name": "Legendary Ranger - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "83482d298b481f87",
+    "name": "Legendary Ranger - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "3ab18c6fe4ea13c2",
+    "name": "Legendary Ranger - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "84ad050e2287ce02",
+    "name": "Legendary Ranger - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "9ada1ab4e77b54d6",
+    "name": "Legendary Ranger - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "0bc182a05f252951",
+    "name": "Legendary Ranger - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "07960fd3e21c3656",
+    "name": "Legendary Ranger - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "2513dcc2e79d80d9",
+    "name": "Legendary Rogue - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "8fb109fff4648e35",
+    "name": "Legendary Rogue - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "814e066a9db12a62",
+    "name": "Legendary Rogue - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "0b1d4afc5321fb4b",
+    "name": "Legendary Rogue - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "7e18cbe4416252ea",
+    "name": "Legendary Rogue - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "516977a440c6e784",
+    "name": "Legendary Rogue - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "987da6f5e532c852",
+    "name": "Legendary Rogue - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "86c2413a1b55b7e0",
+    "name": "Legendary Sorcerer - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "b8837b087dc0dd58",
+    "name": "Legendary Sorcerer - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "5d0f36eacef5fe9e",
+    "name": "Legendary Sorcerer - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "0f8fad2db277a87f",
+    "name": "Legendary Sorcerer - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "5b9f8ea4a4df8e58",
+    "name": "Legendary Sorcerer - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "d449f8f4daa3249c",
+    "name": "Legendary Sorcerer - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "5a86862623cd9ff3",
+    "name": "Legendary Sorcerer - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "36c7045622f5609b",
+    "name": "Legendary Warlock - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "321c0d0de9818cde",
+    "name": "Legendary Warlock - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "c1323d1db0060ef0",
+    "name": "Legendary Warlock - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "cfef69d60ce17f08",
+    "name": "Legendary Warlock - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "7f68ec63141c63bb",
+    "name": "Legendary Warlock - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "a2d4e391ea7196cc",
+    "name": "Legendary Warlock - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "f16df96451fc1610",
+    "name": "Legendary Warlock - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "d284c5d3d18f3a25",
+    "name": "Legendary Wizard - Complete Class Reference",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "e18d4dd609a59618",
+    "name": "Legendary Wizard - Level 20",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "78d60ea1be34de0e",
+    "name": "Legendary Wizard - Level 21",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "c2837594cc788953",
+    "name": "Legendary Wizard - Level 22",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "459506a1cc7d8e9b",
+    "name": "Legendary Wizard - Level 23",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "8a9e630550cc2df5",
+    "name": "Legendary Wizard - Level 24",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-classes",
+    "_id": "f9966f917e727e4c",
+    "name": "Legendary Wizard - Level 25",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "a0788ba41b3ccd52",
+    "name": "Legendary Points — Barbarian",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "6cbb93fbb0b070b7",
+    "name": "Legendary Resistance — Barbarian",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "744555dca5dd3e6f",
+    "name": "Devastating Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "6ba9f2d0228a42f8",
+    "name": "Legendary AC — Barbarian",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "a7d47852f5983a78",
+    "name": "Heroic Path Advancement — Barbarian",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "feecaf70812aa6ac",
+    "name": "Legendary Score Improvement — Barbarian",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "ff96479448abdc84",
+    "name": "Primordial Champion",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "4f3718ec21fe1151",
+    "name": "Mythical Technique — Barbarian",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "72d321a0f6661eeb",
+    "name": "Bulwark of Constitution",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "6a1346b82c1690f7",
+    "name": "Barbaric Leap",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "987253b9c22d66d4",
+    "name": "Legendary Rage",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "3a5c50abfb22e800",
+    "name": "Challenging Roar",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "828ea85438706e4c",
+    "name": "Crushing Critical",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "f9f0452e715ae8c2",
+    "name": "Effortless Resistance",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "142f7c8fd54e716b",
+    "name": "Improved Devastating Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d828de4628d452d4",
+    "name": "Aura of Endurance",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "4b44b519073829ce",
+    "name": "Improved Legendary Rage",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "28-31",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "51f7eefc27583a8e",
+    "name": "Legendary Points — Bard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "9f9437f82dd76823",
+    "name": "Legendary Resistance — Bard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "87c9f00aed1bcecc",
+    "name": "Legendary AC — Bard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "591a82edd5697146",
+    "name": "Heroic Path Advancement — Bard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "67b64b0710e92c5a",
+    "name": "Legendary Score Improvement — Bard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "41630c547176af50",
+    "name": "Note of Rebuttal",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8e6c08d1f1401af5",
+    "name": "10th-Level Spell — Bard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "61fc2b487371c6bf",
+    "name": "Twinned Inspiration",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "af1025a98ba00375",
+    "name": "Masterful Inspiration",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "aa34ba5b964a4708",
+    "name": "Song of Legend",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "205bc405f44982b6",
+    "name": "Symphony of Arcana",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "58d4c97e31af3464",
+    "name": "Inspirational Recovery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d191466b35c90952",
+    "name": "Hymn of Legend",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "32-35",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "e151552fcdfc4059",
+    "name": "Legendary Points — Cleric",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "9f98960179355eae",
+    "name": "Legendary Resistance — Cleric",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "6038f8742652acd4",
+    "name": "Legendary AC — Cleric",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "2ba842f6f941a4dd",
+    "name": "Burst of Divinity",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "408ebb096da8bd8c",
+    "name": "Heroic Path Advancement — Cleric",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "c4801b11ea696150",
+    "name": "Legendary Score Improvement — Cleric",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8df0ad379d2829aa",
+    "name": "Warded by a Higher Power",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "bfc639d70a8bdbf0",
+    "name": "10th-Level Spell — Cleric",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "29ad97426079b2b0",
+    "name": "Divine Mandate",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "330d6bfbf43fc535",
+    "name": "Heraldic Favor",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "dbfafa2215521536",
+    "name": "Fountain of Grace",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "f5f2daf4ce3f4fcb",
+    "name": "Blessed Recovery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "f820ea7833517214",
+    "name": "Divine Indemnity",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "36-39",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "0048b58e191a6962",
+    "name": "Legendary Points — Druid",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8bb7c81aa4903778",
+    "name": "Legendary Resistance — Druid",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "672db75af688b83c",
+    "name": "Legendary AC — Druid",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "437bda8ec744ca50",
+    "name": "Legendary Forms",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d6d9052ca320310e",
+    "name": "Heroic Path Advancement — Druid",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "1102a0d37a59a6b5",
+    "name": "Legendary Score Improvement — Druid",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "0481d8eba9b8ab3e",
+    "name": "Avenger of the Wild",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "498b7cde8dbef81a",
+    "name": "10th-Level Spell — Druid",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "ebc0c7f8496fd365",
+    "name": "Verdant Crown",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "b6986098ed24eafe",
+    "name": "Improved Legendary Forms",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "f3d86e7c843e4271",
+    "name": "Extraplanar Forms",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "30e2d9cd58b37041",
+    "name": "Archdruid’s Resilience",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "cc2b50c82a1770cc",
+    "name": "Rejuvenating Recovery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "cd90a6b7bf95340b",
+    "name": "Final Form",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "40-43",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "0615a7c0a315b49f",
+    "name": "Legendary Points — Fighter",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "f8a5ed820fac1b54",
+    "name": "Legendary Resistance — Fighter",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "f4867e6692682959",
+    "name": "Legendary AC — Fighter",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "319744a28e546e22",
+    "name": "Perfect Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "3ab439f97dbea3f3",
+    "name": "Heroic Path Advancement — Fighter",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "744086a8e948d1a4",
+    "name": "Legendary Score Improvement — Fighter",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "46ffb05d86fba821",
+    "name": "Mythical Technique — Fighter",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "5eb69f048f89d40f",
+    "name": "Improved Second Wind",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "c08018115fbc59dc",
+    "name": "Perfect Defense",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "fdb08a80305714ff",
+    "name": "Legendary Warrior",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "ffbeb94f3e2d8753",
+    "name": "Legendary Action",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "86fef53ad6c4dea7",
+    "name": "Masterful Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "1d890104992c7206",
+    "name": "Powerful Reserve",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "621b4465a7dbc4c7",
+    "name": "Kensei Technique",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "44-49",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "7cc15ad255ca7bc7",
+    "name": "Legendary Points — Monk",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "ebb31663a31f1cfc",
+    "name": "Legendary Resistance — Monk",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "e6e1b54914e98404",
+    "name": "Legendary AC — Monk",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "2878d298051f4a5c",
+    "name": "World Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "4d18c8b2bc1952ad",
+    "name": "Body, Mind, Soul (5e)",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "1d97619769085f79",
+    "name": "Heroic Path Advancement — Monk",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "4c2f605e0de14bc5",
+    "name": "Legendary Score Improvement — Monk",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d960140383d44673",
+    "name": "Wellspring of Ki",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "50174f93dacf40d5",
+    "name": "Mythical Technique — Monk",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "a218f5ff90496d28",
+    "name": "Ki-Borne Awareness",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "eeca10cb46ce6ad6",
+    "name": "Masterful Deflection",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8205157351ed4e5c",
+    "name": "Suppleness of Wind & River",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "9dad85a820e92f0b",
+    "name": "Reactive",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "290e8476d058e74c",
+    "name": "Focus Beacon",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "2887f7f517237572",
+    "name": "Improved World Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "90e1b2331a360ac6",
+    "name": "Soulful Recovery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "ac49c5708fa20544",
+    "name": "Power of the White Flame",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "50-53",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "353365098bb01408",
+    "name": "Legendary Points — Paladin",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "60b5d6014af8a428",
+    "name": "Legendary Resistance — Paladin",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8b6cd78545a1225d",
+    "name": "Legendary AC — Paladin",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "7337632fcfbbad33",
+    "name": "Legendary Smite",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "bf7934587dbad513",
+    "name": "Heroic Path Advancement — Paladin",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "9cffc899d91addb4",
+    "name": "Legendary Score Improvement — Paladin",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "df9886d2948a3733",
+    "name": "Mythical Technique — Paladin",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "dac5a203f2e1bec0",
+    "name": "Oathborn Miracle",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "3e6d4f59c10c8313",
+    "name": "Heroic Aura",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "831ca432ce2d5da9",
+    "name": "Unendurable Smite",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d546774d0240c293",
+    "name": "Aegis of Promise",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "06992cb709d92e9d",
+    "name": "Oathsworn Resolve",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "cc866b53fa856f92",
+    "name": "Consecrated Oath",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "b1ace77d0b905ce6",
+    "name": "Greater Oathborn Miracle",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "84808b090970e1e5",
+    "name": "Immortal Challenger",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "95ec798aeb8e7487",
+    "name": "Improved Legendary Smite",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "7a32e3aad4a1d06c",
+    "name": "Legendary Aura",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "54-57",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "9b951da55e5b1b76",
+    "name": "Legendary Points — Ranger",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "c41e81f3d2ebfe63",
+    "name": "Legendary Resistance — Ranger",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "bcfbe4fd29e13435",
+    "name": "Incapacitating Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "176bb109de453a1e",
+    "name": "Legendary AC — Ranger",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "ed37dda52570991f",
+    "name": "Heroic Path Advancement — Ranger",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "73a7b993b7ffda0c",
+    "name": "Legendary Score Improvement — Ranger",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "5dacacf34d7e3f22",
+    "name": "Expert Hunter (5e)",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "03882208a854f500",
+    "name": "Expert Hunter (5.5e)",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "6b74b7b68ecdad17",
+    "name": "Mythical Technique — Ranger",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "c8b86d1675f76781",
+    "name": "Two Extra Attacks",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "db9176c59432e213",
+    "name": "Greater Awareness",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "a82255ca2dcbd242",
+    "name": "Slayer’s Mark",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "be91cb102e28140f",
+    "name": "Killing Strikes",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "4f1ac36b1f3228b8",
+    "name": "Wisdom of the Wild",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "74a2c4385a352a55",
+    "name": "Unseen Tracker",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d8cb23f369f8c611",
+    "name": "Improved Incapacitating Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "e78ee336ff479342",
+    "name": "Primeval Burst",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "32e94aba7d5d5239",
+    "name": "Slayer of Legends",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "58-61",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8a12b06d28deaf2d",
+    "name": "Legendary Points — Rogue",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "eff65b10632120e7",
+    "name": "Legendary Resistance — Rogue",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "c8d90c535a2b01b8",
+    "name": "Legendary AC — Rogue",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "e203615c5f14d28a",
+    "name": "Mortal Blow",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8733cccf4c3aa75f",
+    "name": "Heroic Path Advancement — Rogue",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8e609cb46eee6396",
+    "name": "Legendary Score Improvement — Rogue",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "e79af947e276cb2c",
+    "name": "Mythical Technique — Rogue",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "0b35eb7433d07ea8",
+    "name": "Intrepid Attack",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "adc062ec0ffc8e4f",
+    "name": "Legendary Sneak Attack",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "461150d54a64ddef",
+    "name": "Untouchable",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "3fb422406de6c368",
+    "name": "Improved Cunning Action",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "480b986974b91f7b",
+    "name": "Perfected Talent",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "751a3eac3ac48af1",
+    "name": "Heightened Senses",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "907c331c583804d0",
+    "name": "Irrepressible Mind",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "35553c8e6ce7f287",
+    "name": "Reactive",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "82f98355e32a2fd3",
+    "name": "Legendary Reaction",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "ca431589a987ca4e",
+    "name": "Sneak Attack Master",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "732599f4c36a0424",
+    "name": "Cunning Recovery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "bff617c9ae168284",
+    "name": "Absolute Finesse",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "fc94746163f1d278",
+    "name": "Reliable Luck",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "62-65",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "59200a61354aa859",
+    "name": "Legendary Points — Sorcerer",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "6deec098206a4bbd",
+    "name": "Legendary Resistance — Sorcerer",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "930557a325a11fd6",
+    "name": "Greater Metamagic",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "4caf24ab2a87665f",
+    "name": "Legendary AC — Sorcerer",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d10d879638575658",
+    "name": "Heroic Path Advancement — Sorcerer",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "63218bc38d3a6163",
+    "name": "Legendary Score Improvement — Sorcerer",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "605a0165a88c67a1",
+    "name": "Awakened Bloodline",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "81707129ebe78e32",
+    "name": "Improved Sorcery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "1731cd52909966cb",
+    "name": "10th-Level Spell — Sorcerer",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "eb370ab51d0bf2b3",
+    "name": "Limited Magic Immunity",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8f416f90b821d7d7",
+    "name": "Greater Metamagic Master",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "40adbd8d28bffcee",
+    "name": "Sorcerous Restoration",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "85317de906a6b3e2",
+    "name": "Magical Sustenance",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "daa5f237230aa070",
+    "name": "Wellspring of Arcana",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "66-71",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d5fce1dea2c1c22a",
+    "name": "Legendary Points — Warlock",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "a24bd59aba7dabdc",
+    "name": "Legendary Resistance — Warlock",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "7c3a574adaccb7e3",
+    "name": "Legendary Invocations",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "032dc8efd69dc0f3",
+    "name": "Legendary AC — Warlock",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "868687e70ac70294",
+    "name": "Heroic Path Advancement — Warlock",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "a1477661b0e06cf8",
+    "name": "Legendary Score Improvement — Warlock",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "bfd38389f96e916f",
+    "name": "Persistent Arcanum",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "3c439029b46185cc",
+    "name": "Legendary Arcanum",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "6a7fa760b4eeb739",
+    "name": "Patron’s Influence",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "13989f5308a8482f",
+    "name": "Patron’s Predilection",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "7efe94b215bea0c6",
+    "name": "Eldritch Invocation Savant",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "21f647470df4c234",
+    "name": "Arcanism of the Outer Planes",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "32a9bc82c4a05c87",
+    "name": "Patron’s Arcanism",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "5f17d7efe20c009f",
+    "name": "Supernatural Intervention",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "72-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "73895e88c0febce8",
+    "name": "Legendary Points — Wizard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "3cc1f6853d1af633",
+    "name": "Legendary Resistance — Wizard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "80179ec6bd75880f",
+    "name": "Legendary AC — Wizard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "e6055f839e507a07",
+    "name": "Legendary Arcanisms",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "110e4a440ae881a9",
+    "name": "Heroic Path Advancement — Wizard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "3e1c0152b6b30fef",
+    "name": "Legendary Score Improvement — Wizard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "4cc270d3fd18d233",
+    "name": "Sacrificial Conduits",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "8cfc871e71f1a644",
+    "name": "10th-Level Spell — Wizard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "4898717b461b4049",
+    "name": "Efficient Flow",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "b063c25051ddbabc",
+    "name": "Omniturgical Possibility",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "795d7d011c5afc80",
+    "name": "Greater Magicker",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "589b9cb3447de214",
+    "name": "Arcane Resilience",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "a422168b75aea07e",
+    "name": "Wizardly Recovery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "ba007dddf2104edb",
+    "name": "Memorized Spellbook",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "d4bb02aed24ad4cc",
+    "name": "Arcane Exemplar",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "78-81",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-class-features",
+    "_id": "b34ec3f27d90762a",
+    "name": "Legendary Inspiration",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "34",
+    "originalText": true
+  },
+  {
+    "pack": "kensei-techniques",
+    "_id": "5382b26ba48e10bd",
+    "name": "Death of the Soul",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "48-49",
+    "originalText": true
+  },
+  {
+    "pack": "kensei-techniques",
+    "_id": "f91b40d86b93af7e",
+    "name": "Kensei’s Justice",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "48-49",
+    "originalText": true
+  },
+  {
+    "pack": "kensei-techniques",
+    "_id": "003bf669f1856d67",
+    "name": "Rokkaku’s Sixteen Strikes",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "48-49",
+    "originalText": true
+  },
+  {
+    "pack": "kensei-techniques",
+    "_id": "36f56fa88041ee39",
+    "name": "Greater Lotus Barrier",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "48-49",
+    "originalText": true
+  },
+  {
+    "pack": "greater-metamagic",
+    "_id": "fc09a5be965302e8",
+    "name": "Dominant Spell",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "70",
+    "originalText": true
+  },
+  {
+    "pack": "greater-metamagic",
+    "_id": "30adfb2a593ad0e8",
+    "name": "Metamorphed Spell",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "70",
+    "originalText": true
+  },
+  {
+    "pack": "greater-metamagic",
+    "_id": "dbef691a3ad878de",
+    "name": "Unendurable Spell",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "70",
+    "originalText": true
+  },
+  {
+    "pack": "greater-metamagic",
+    "_id": "7ceb9e2783ffe44c",
+    "name": "Overchanneled Spell",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "70",
+    "originalText": true
+  },
+  {
+    "pack": "greater-metamagic",
+    "_id": "c94f3999e6e17545",
+    "name": "Omnified Spell",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "70",
+    "originalText": true
+  },
+  {
+    "pack": "greater-metamagic",
+    "_id": "a876efb75bbc3f9c",
+    "name": "Echoed Spell",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "70",
+    "originalText": true
+  },
+  {
+    "pack": "greater-metamagic",
+    "_id": "6844751ea78c615e",
+    "name": "Incapacitating Spell",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "70",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "671001e23c5bb7f0",
+    "name": "Blade of Perdition",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "a1db7c1f3ab301d4",
+    "name": "Death Guard",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "b590052d77e01129",
+    "name": "Legendary Blast",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "41ec1bee08b5a1b5",
+    "name": "Patron’s Awareness",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "4e5147f67358fdf2",
+    "name": "Quickened Blast",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "d6aa6f59766b8596",
+    "name": "Shield of Dead Gods",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "4c1fe6f8d095d216",
+    "name": "Warlock’s Servant",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "f31b177bd3933bf7",
+    "name": "Patron’s Technique",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "fdb72b941f0319a3",
+    "name": "Soul Blast",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "7a9952df8cb8b830",
+    "name": "Strike of the Covenant",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "984c2b07cf8c497c",
+    "name": "Warlock’s Champion",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "6c31ece1c639bc7e",
+    "name": "Warp Gate",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "042b69c512b5ee23",
+    "name": "Prison of Realms Beyond",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "d2b3c2dd733446e0",
+    "name": "Warlock’s Wish",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "2b2f9146b77adc1d",
+    "name": "Patron’s Relic",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-invocations",
+    "_id": "2e4397bb87f565f4",
+    "name": "Warlock’s Chosen",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "76-77",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "7b3619c7e2dada8b",
+    "name": "Heroic Path: Arcane Marksman",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "87",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "2794831e651b8de9",
+    "name": "Fingers of Toth",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "87",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "2b307136ddc1da28",
+    "name": "Magical Geometry",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "87",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "52f788205f86d670",
+    "name": "Sharpened Magic",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "87",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "5fda1e3459b1edf9",
+    "name": "Arcane Shield",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "87",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "b488580f37b19481",
+    "name": "Arcane Marksman",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "87",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "af094661a820e466",
+    "name": "Heroic Path: Archmagus",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "88",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "c76055a024e5d8ce",
+    "name": "Arcane Savant",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "88",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "1460c49e3eb06924",
+    "name": "Erudition",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "88",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "4b44632653ef87ea",
+    "name": "Expanded Magic",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "88",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "f2aebf360e685ca9",
+    "name": "Arcane Mastery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "88",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "45dec712c8c94627",
+    "name": "Archmagus",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "88",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "88bbe4eda8490784",
+    "name": "Heroic Path: Chosen One",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "89",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9deb3f39a1dbc3b5",
+    "name": "Fated",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "89",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "78505cb4deaf9166",
+    "name": "Convergence",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "89",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "3a6604e2b556d0d1",
+    "name": "Destined",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "89",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "ce5f74e384412bef",
+    "name": "Threads Unraveled",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "89",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "97e47b4c8b394310",
+    "name": "Chosen One",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "89",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "ef4d561def19811b",
+    "name": "Heroic Path: Herald",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "90",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "a76be79f2a78b890",
+    "name": "Voice",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "90",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "908d34539525e4be",
+    "name": "Divine Arrival",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "90",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "598a45390b487254",
+    "name": "Omen Incarnate",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "90",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "8945a8ca33d3bc57",
+    "name": "Words Beyond Worlds",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "90",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "e01f3699701bdcdb",
+    "name": "Herald",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "90",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "66af7cde260cf317",
+    "name": "Heroic Path: Hierophant",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "91",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "15360f7ab344fcc5",
+    "name": "Exalted Presence",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "91",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "aff0d328437104fb",
+    "name": "Hierophant’s",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "91",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "d205f54100bbfc54",
+    "name": "Perfected Boons",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "91",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "a79a86a4861edf8f",
+    "name": "Chooser of Conduits",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "91",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "ba4a33e30d6ea71e",
+    "name": "Hierophant",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "91",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "97384192851ad8d8",
+    "name": "Heroic Path: Legendary Psion",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "92",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "24205a5d197e7043",
+    "name": "Awakened Mind",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "92",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9f2419d12cba413f",
+    "name": "Mind Tricks",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "92",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "cd92821c7577256e",
+    "name": "Telekinetic Master",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "92",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "a82e6deb5327dc4c",
+    "name": "Psionic Hub",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "92",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "b7796c05fd26d85d",
+    "name": "Legendary Psion",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "92",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "5c03797a200beedf",
+    "name": "Heroic Path: Legendary Sniper",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "93",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "bd2ee50f4b7bede7",
+    "name": "Heroic Sharpshooter",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "93",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "dec2e6df25777b33",
+    "name": "Hunter’s Eye",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "93",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "c85a7ead4bc7c0ef",
+    "name": "Absolute Precision",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "93",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "e36193d4d4d46ed5",
+    "name": "Armor Piercer",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "93",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "51d960a98ea2b32c",
+    "name": "Legendary Sniper",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "93",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9c44183ac13d0cb6",
+    "name": "Heroic Path: Limitless",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "94",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "86f78dfc1c3a3be1",
+    "name": "Lightness",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "94",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "ba4e1323b4190a02",
+    "name": "Greater Speed",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "94",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "a177dabd4a228f62",
+    "name": "Celerity",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "94",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "0f9fbb2af8df78fe",
+    "name": "Unstoppable Movement",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "94",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "da4577b7d5bea065",
+    "name": "Limitless",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "94",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "0d25e75682d6a963",
+    "name": "Heroic Path: Nightingale",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "95",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "dd935e9cabd140c3",
+    "name": "Spellblade",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "95",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "92377b1bab9e4507",
+    "name": "Spellblade’s Retort",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "95",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "660190742aa4e773",
+    "name": "Arcane Duelist",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "95",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "8168b22b4616a129",
+    "name": "Lethal Cadence",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "95",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "eb9fb33c795a4f9b",
+    "name": "Nightingale",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "95",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "ee998fc4d9722a30",
+    "name": "Heroic Path: Overlord",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "96",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "18c542012b296865",
+    "name": "Dread Master",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "96",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9e165ff1ce79ad7b",
+    "name": "Thrall",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "96",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "eb69422fa7d8e1fa",
+    "name": "Dark Tyrant",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "96",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "c0f13a50b65303f7",
+    "name": "Soul Harvest",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "96",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "0d3aeef085cefdf8",
+    "name": "Overlord",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "96",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "4fe366b4b917346f",
+    "name": "Heroic Path: Primordial",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "97",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "6758e3591544d511",
+    "name": "Elemental Awakening",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "97",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "af980905d825c745",
+    "name": "Elemental Mastery",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "97",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "d920ae715e00c108",
+    "name": "Conduit",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "97",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "19498a186419488c",
+    "name": "Form of the Elements",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "97",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "104e8c99607b5d35",
+    "name": "Primordial",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "97",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "3bf0bf30e2db8b58",
+    "name": "Heroic Path: Runeblood",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "98",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "c3d9c79009b864f9",
+    "name": "Living Rune",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "98",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "1cbffe30cf0dd406",
+    "name": "Runic Awakening",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "98",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "63657034796eddf2",
+    "name": "Runic Conduit",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "98",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "b7fa9ae5b83c64d8",
+    "name": "Greater Runes",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "98",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9b65775eb12bbe28",
+    "name": "Runeblood",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "98",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "ec59307191860300",
+    "name": "Heroic Path: Shadowblade",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "99",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9898a6a5b78a8761",
+    "name": "Phantom Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "99",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "421e8bd49cb03640",
+    "name": "Death Mark",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "99",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "595ee841d6062912",
+    "name": "Living Shadow",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "99",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "6984ff91888b9b10",
+    "name": "Shroud of Night",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "99",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "849309a1ce842e1c",
+    "name": "Shadowblade",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "99",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "97cf5539caba76b4",
+    "name": "Heroic Path: Sovereign",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "100",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "5053f82a23d0ad17",
+    "name": "Regal Presence",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "100",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "611226cacae5fb0e",
+    "name": "Greater Charms",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "100",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "862a6b1d0bea5814",
+    "name": "Crowned",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "100",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "e11d1c6f1c62f922",
+    "name": "Powerful Presence",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "100",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "89041ac11c2b2a43",
+    "name": "Sovereign",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "100",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "6122ead792c6c13e",
+    "name": "Heroic Path: Third Eye",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "101",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "0977c8ffaf02a658",
+    "name": "Knowledge of Ages",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "101",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "bafd71ce6dfd7b6e",
+    "name": "Soul of the World",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "101",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9ea1d94b450e28c8",
+    "name": "Great Keeper",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "101",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "4937089552329726",
+    "name": "Ascended Mind",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "101",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "a3dcc956baa8851f",
+    "name": "Third Eye",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "101",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "9ceb148c937075b8",
+    "name": "Heroic Path: Titan",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "102",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "2d951372ed92a7b9",
+    "name": "Overwhelming Might",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "102",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "20f1fd67c689470d",
+    "name": "Unmatched Strength",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "102",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "fc994402bde0651f",
+    "name": "Giant’s Wrath",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "102",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "ebb56719e4cb504c",
+    "name": "Siege Monster",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "102",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "c439879ead6ad13e",
+    "name": "Titan",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "102",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "f4fb6f8510e9b994",
+    "name": "Heroic Path: Unbreakable",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "103",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "f2840b17a75a89f4",
+    "name": "Greater Toughness",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "103",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "076d109b1fa59fd3",
+    "name": "Iron Stance",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "103",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "e6eb232afd1ce760",
+    "name": "Untarnished Blood",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "103",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "56332777b440ec59",
+    "name": "Stone Body",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "103",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "d695e4276a815188",
+    "name": "Unbreakable",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "103",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "6a0636cb9135a011",
+    "name": "Heroic Path: Warlord",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "104",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "b2e6c6ab2176fee7",
+    "name": "Elite Skirmisher",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "104",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "477b56fe5537212d",
+    "name": "Technique Student",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "104",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "1320779bf61bf3b8",
+    "name": "Combat Master",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "104",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "113f03dfec35a13b",
+    "name": "Perfect Body",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "104",
+    "originalText": true
+  },
+  {
+    "pack": "heroic-paths",
+    "_id": "8c4d9c1b9fa8a8c6",
+    "name": "Warlord",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "104",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "8c9440d6213fba4b",
+    "name": "Soul Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "111",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "315f0c1944489b1d",
+    "name": "God’s Justice",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "111",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "024c01a82d355bfb",
+    "name": "White Flame",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "111",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "08ef432db6e13186",
+    "name": "Divine Parry",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "112",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "05c896fa16dc43b6",
+    "name": "Garden of Eden",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "112",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "af4724b8e80b6216",
+    "name": "Lotus Barrier",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "112",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "043f39de196baaee",
+    "name": "Cloak and Dagger",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "113",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "d6aecb0714276d6a",
+    "name": "Critical Edge",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "113",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "12890df1953709fe",
+    "name": "Blasphemous Hand",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "114",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "f3aa367a9070f5d1",
+    "name": "Soul Wound",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "114",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "2540aa853ff4bf89",
+    "name": "Hateful Blade",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "114",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "b61cf32f49cf9cae",
+    "name": "Divine Severance",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "115",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "c4e68ed2073fe920",
+    "name": "Reality Slash",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "115",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "b0441368b7ca0123",
+    "name": "Step of Disjuncture",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "115",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "e9ffc652cb0443f1",
+    "name": "Earthbreaker",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "116",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "9f85530fe6b729a3",
+    "name": "Legendary Throwing",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "116",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "5d5bf8e84486556d",
+    "name": "Unbreakable Stance",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "116",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "e698d60e9553d20c",
+    "name": "Obliterating Strike",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "116",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "99b87caf7c21b7c2",
+    "name": "Anatomical Control",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "117",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "e15a333fd53c4e31",
+    "name": "Intervention",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "117",
+    "originalText": true
+  },
+  {
+    "pack": "mythical-techniques",
+    "_id": "b20bbb9c73502ac0",
+    "name": "Apparate",
+    "documentType": "Item",
+    "itemType": "feat",
+    "sourcePage": "117",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "f1f3bbf64df506e4",
+    "name": "[10th] Abjure",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "123",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "ba5433c05b225ad3",
+    "name": "[10th] Allmage",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "123",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "0fedb61aaf047c1b",
+    "name": "[10th] Apocalypse",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "124",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "19d98afb3fe67a48",
+    "name": "[10th] Avatar",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "125",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "2ce43fcc97166890",
+    "name": "[10th] Cloak of Barbatos",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "126",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "8ea1f1419a60aeed",
+    "name": "[10th] Divine Rift",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "126",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "6afe2f157acf463c",
+    "name": "[10th] Greater Simulacrum",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "127",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "5fbbc9b9863f95e6",
+    "name": "[10th] Horde to Stone",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "128",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "78879e5b71dd63f0",
+    "name": "[10th] Killing Winds",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "128",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "0ada06f9ee36e522",
+    "name": "[10th] Mass Foresight",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "128",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "c9f48bea88428c93",
+    "name": "[10th] Miracle",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "129",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "e4389e3f48c6c0b8",
+    "name": "[10th] Patron’s Blast",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "129",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "ae50da61e9bc8263",
+    "name": "[10th] Rimley’s Pulse",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "130",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "7fa92deb8ac95901",
+    "name": "[10th] Theophrastus’ Flux",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "130",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "569848ca2a55d531",
+    "name": "[10th] True Wish",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "131",
+    "originalText": true
+  },
+  {
+    "pack": "epic-spells",
+    "_id": "3a9755e48770a0e7",
+    "name": "[10th] Wrath of Nature",
+    "documentType": "Item",
+    "itemType": "spell",
+    "sourcePage": "132",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-items",
+    "_id": "0d9d1224da751183",
+    "name": "Vazan’s Terror",
+    "documentType": "Item",
+    "itemType": "weapon",
+    "sourcePage": "187",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-items",
+    "_id": "635bcbdf6811e38c",
+    "name": "Paracelsion’s Philosopher’s Stone",
+    "documentType": "Item",
+    "itemType": "loot",
+    "sourcePage": "166",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-items",
+    "_id": "e4a19e71cf8cd7d6",
+    "name": "The Two-Pronged Staff",
+    "documentType": "Item",
+    "itemType": "weapon",
+    "sourcePage": "202",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-items",
+    "_id": "113512bf45e7990d",
+    "name": "Thread of Divinity",
+    "documentType": "Item",
+    "itemType": "loot",
+    "sourcePage": "202",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-foes",
+    "_id": "8f5846a61abe026b",
+    "name": "Grand Alchemist Paracelsion",
+    "documentType": "Actor",
+    "itemType": "npc",
+    "sourcePage": "166-169",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-foes",
+    "_id": "360380ca8b1833b7",
+    "name": "Vosculd, the Avenger",
+    "documentType": "Actor",
+    "itemType": "npc",
+    "sourcePage": "176-178",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-foes",
+    "_id": "0bd7dcaed18ca88e",
+    "name": "The Lord of Anguish",
+    "documentType": "Actor",
+    "itemType": "npc",
+    "sourcePage": "188-191",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-foes",
+    "_id": "04f289a4b5a58016",
+    "name": "The Wyrm of Blasphemy",
+    "documentType": "Actor",
+    "itemType": "npc",
+    "sourcePage": "193-197",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-foes",
+    "_id": "529351b9e574c23b",
+    "name": "The Hermit",
+    "documentType": "Actor",
+    "itemType": "npc",
+    "sourcePage": "202-207",
+    "originalText": true
+  },
+  {
+    "pack": "legendary-foes",
+    "_id": "f5740ff9830300b3",
+    "name": "Avatar (10th-Level Spell Form)",
+    "documentType": "Actor",
+    "itemType": "npc",
+    "sourcePage": "125-125",
+    "originalText": true
+  },
+  {
+    "pack": "book-reference",
+    "_id": "ca2d449b9596f9b6",
+    "name": "Front Matter and Here Be Legends",
+    "documentType": "JournalEntry",
+    "itemType": null,
+    "sourcePage": "1-17",
+    "originalText": true
+  },
+  {
+    "pack": "book-reference",
+    "_id": "35ead5750e172818",
+    "name": "I - Legendary Characters",
+    "documentType": "JournalEntry",
+    "itemType": null,
+    "sourcePage": "18-81",
+    "originalText": true
+  },
+  {
+    "pack": "book-reference",
+    "_id": "4e8e8f5c70aa803a",
+    "name": "II - Heroic Paths",
+    "documentType": "JournalEntry",
+    "itemType": null,
+    "sourcePage": "82-105",
+    "originalText": true
+  },
+  {
+    "pack": "book-reference",
+    "_id": "dd4d6bb2949630fa",
+    "name": "III - Mythical Techniques",
+    "documentType": "JournalEntry",
+    "itemType": null,
+    "sourcePage": "106-117",
+    "originalText": true
+  },
+  {
+    "pack": "book-reference",
+    "_id": "fe702c6e76ef36e8",
+    "name": "IV - Epic Magic",
+    "documentType": "JournalEntry",
+    "itemType": null,
+    "sourcePage": "118-133",
+    "originalText": true
+  },
+  {
+    "pack": "book-reference",
+    "_id": "e6ddbd56541317fe",
+    "name": "V - The Legendary Game",
+    "documentType": "JournalEntry",
+    "itemType": null,
+    "sourcePage": "134-155",
+    "originalText": true
+  },
+  {
+    "pack": "book-reference",
+    "_id": "3c31d12320991c78",
+    "name": "VI - Legendary Foes",
+    "documentType": "JournalEntry",
+    "itemType": null,
+    "sourcePage": "156-207",
+    "originalText": true
+  },
+  {
+    "pack": "book-reference",
+    "_id": "6ff031141eb730f6",
+    "name": "Alpha Changelog and Back Matter",
+    "documentType": "JournalEntry",
+    "itemType": null,
+    "sourcePage": "208-213",
+    "originalText": true
+  }
+]

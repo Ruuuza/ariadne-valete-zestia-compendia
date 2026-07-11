@@ -1,0 +1,72 @@
+{
+  "_key": "!items!9b65775eb12bbe28",
+  "_id": "9b65775eb12bbe28",
+  "name": "Runeblood",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 98.</p><p>Tier III: Runeblood</p><p>Prerequisite: Greater Runes</p><p>World Rune. You gain access to two additional Greater Runic Boons from your Greater Runes heroic perk, for a total of 5.</p><p>Limited Magic Immunity. You cannot be affected or detected by spells and magical effects of 7th-level or lower unless you wish to be.</p><p>Path Connections Unbreakable. Instead of the Greater Runes Heroic Perk, you can take the Stone Body Perk, changing to the Unbreakable path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "runeblood",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "98",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Runeblood",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "98",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Runeblood",
+      "stageType": "Tier III",
+      "stageOrder": 5
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_key": "!items!fc994402bde0651f",
+  "_id": "fc994402bde0651f",
+  "name": "Giant’s Wrath",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 102.</p><p>Tier II: Giant’s Wrath</p><p>Prerequisite: Unmatched Strength</p><p>Shockwave. When you hit a creature with a melee attack, your attack sends a shockwave in a 15-foot radius sphere centered on the target. Each creature in that area other than you, including the target creature, must succeed on a Dexterity saving throw with a DC equal to 8 + your Strength modifier + your proficiency bonus or take half the damage of the original attack as thunder damage. The additional damage of the shockwave cannot exceed 50.</p><p>Unmovable. You cannot be knocked prone, shoved, or grappled by creatures with a lower Strength score than you.</p></div>",
+      "chat": ""
+    },
+    "identifier": "giant-s-wrath",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "102",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Titan",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "102",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Titan",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

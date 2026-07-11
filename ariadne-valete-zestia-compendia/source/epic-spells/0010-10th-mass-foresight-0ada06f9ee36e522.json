@@ -1,0 +1,179 @@
+{
+  "_key": "!items!0ada06f9ee36e522",
+  "_id": "0ada06f9ee36e522",
+  "name": "[10th] Mass Foresight",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "daaff6cc50223b40": {
+        "_id": "daaff6cc50223b40",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Mass Foresight"
+        },
+        "duration": {
+          "value": "8",
+          "units": "hour",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "120",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 128.</p><p>Mass Foresight</p><p>10th-level divination</p><p>Classes: Bard, Druid, Warlock, Wizard Casting Time: 1 action Range: 120 feet Components: V, S, M (a divination fractal with six surfaces worth at least 1,000 gp, which the spell consumes) Duration: 8 hours</p><p>You tap into the possibilities contained within the fractal, splitting it into up to six shards, which you can bestow upon willing creatures within range. Each shard affixes to a creature’s forehead as a tiny item with an AC equal to the bearer’s AC + 5, 30 hit points, and immunity to all damage except force. A fractal shard can be destroyed or dislodged from a creature’s forehead by a creature grappling the bearer as an action.</p><p>A creature bearing a fractal shard gains a limited ability to see into the immediate future. It can’t be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against it.</p></div>",
+      "chat": ""
+    },
+    "identifier": "mass-foresight",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "128",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "8",
+      "units": "hour"
+    },
+    "level": 9,
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material"
+    ],
+    "range": {
+      "value": "120",
+      "units": "ft"
+    },
+    "school": "div",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "128",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Bard, Druid, Warlock, Wizard",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

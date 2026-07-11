@@ -1,0 +1,71 @@
+{
+  "_key": "!items!ec59307191860300",
+  "_id": "ec59307191860300",
+  "name": "Heroic Path: Shadowblade",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 99.</p><p>Heroic Path: Shadowblade</p><p>Prerequisite: Dexterity Score of 20 or higher Tier I: Phantom Strike</p><p>Shadow Step. As a bonus action, you can teleport up to 60 feet to an unoccupied space you can see, alongside anything you are wearing or carrying. You have advantage on the first attack you make before the end of your turn after using this feature.</p><p>Unseen Threat. You can use the Hide action as a bonus action. When you are hidden from a creature and hit it with an attack, it cannot use reactions until the end of its next turn.</p><p>Of Darkness. You gain darkvision out to a range of 30 feet, or extend your darkvision range by 30 feet if you already have it. Your darkvision is not impeded by magical darkness. While in dim light or darkness, you can attempt to hide from creatures that would normally perceive you through blindsense, darkvision or tremorsense. Heroic Perk: Death Mark</p><p>Prerequisite: Phantom Strike</p><p>You can use a bonus action to Death Mark a creature you can see within 60 feet. While Death Marked, you always know the creature’s exact location regardless of distance, even across planes of existence. Your attacks against a Death Marked creature ignore damage resistances, and the creature cannot benefit from invisibility or concealment against you. A Death Mark lasts until the creature dies, you mark a new target, or the creature is targeted by a remove curse spell or similar magic. Tier II: Living Shadow</p><p>Prerequisite: Death Mark</p><p>One With Darkness. While in dim light or darkness, you can use a bonus action to become invisible. This invisibility lasts until the start of your next turn and ends if you attack or cast a spell.</p><p>Ghost Form. As a bonus action, you can become incorporeal until the start of your next turn. While incorporeal, you can move through creatures and objects as if they were difficult terrain, you have resistance to all nonmagical damage, and you cannot be grappled, restrained, shoved or knocked prone. If you end your turn inside a solid object, you take 6d6 force damage and are pushed to the nearest unoccupied space.</p><p>Nerve Strike. When you hit creature that cannot see you and isn’t a Construct with a weapon attack, you can choose to target a precise anatomical point. The creature must succeed on a Constitution saving throw against a DC equal to 8 + your proficiency bonus + your Dexterity modifier or be stunned until the end of its next</p><p>turn. Once you use this feature, you cannot do so again until the start of your next turn. Heroic Perk: Shroud of Night</p><p>Prerequisite: Living Shadow, Phantom Strike</p><p>You can cast the Darkness spell innately and at will, requiring no material components. Dexterity is your spellcasting ability for this spell. As a bonus action, you can extend your inner shadow outward in a 60-foot radius, turning the area to magical darkness for 1 minute. Creatures of your choice within this darkness can see through it. Tier III: Shadowblade</p><p>Prerequisite: Shroud of Night</p><p>Death From Nowhere. When you hit a creature that cannot see you with a melee weapon attack, you can cause the attack to deal double damage. You can use this feature once per turn.</p><p>Phantom Dodge. You do not cast a shadow or a reflection unless you choose to do so. As a reaction when you are hit by an attack or damaged by an effect, you can collapse into shadow entirely, causing the attack to miss or the damage to be avoided and teleporting you up to 30 feet to an unoccupied space you can see that is in dim light or darkness. If there are no eligible spaces to teleport to, you cannot use this reaction.</p><p>Path Connections Legendary Sniper. Instead of the Death Mark Heroic Perk, you can take the Hunter’s Eye Perk, changing to the Legendary Sniper path.</p><p>Warlord. Instead of the Death Mark Heroic Perk, you can take the Defensive Proficiency Perk, changing to the Warlord path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-shadowblade",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "99",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "99",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Shadowblade",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

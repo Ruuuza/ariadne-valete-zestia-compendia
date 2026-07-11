@@ -1,0 +1,71 @@
+{
+  "_key": "!items!84ad050e2287ce02",
+  "_id": "84ad050e2287ce02",
+  "name": "Legendary Ranger - Level 22",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 58-61.</p><p>Level 22</p><p>Two Extra Attacks</p><p>Beginning at 22nd level, you can attack three times when you take the Attack action on your turn.</p><p>Greater Awareness</p><p>Also at 22nd level, you have a +5 bonus to your Initiative rolls, and you cannot be surprised while conscious. You can use the Search action as a bonus action on your turn.</p><p>Slayer’s Mark</p><p>Also at 22nd level, you learn to tag your quarry with a deadly mark. As a bonus action, you can expend 1 Legendary Point to hone your senses on a creature within 500 feet. Your critical range against that creature is increased by 1 and you have advantage on attack rolls against it. You always know the creature’s location while in the same plane of existence as you. The mark remains for 8 hours, or until you mark another creature.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-ranger-level-22",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "58-61",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Ranger level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "58-61",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Ranger",
+      "legendaryLevel": 22
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

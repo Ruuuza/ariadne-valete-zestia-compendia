@@ -1,0 +1,73 @@
+{
+  "_key": "!items!95ec798aeb8e7487",
+  "_id": "95ec798aeb8e7487",
+  "name": "Improved Legendary Smite",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 54-57.</p><p>Improved Legendary Smite</p><p>When you reach 24th level, your Legendary Smite’s range is increased to 45 feet. Regardless of whether the attack hits, all creatures in a 10-foot-wide line between you and the target, including the target, must make a Dexterity saving throw against your spell save DC, taking 70 (20d6) radiant damage on a failed save, or half as much damage on a successful one.</p></div>",
+      "chat": ""
+    },
+    "identifier": "paladin-improved-legendary-smite",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "54-57",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Paladin level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "54-57",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Paladin",
+      "legendaryLevel": 24,
+      "originalFeatureName": "Improved Legendary Smite",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

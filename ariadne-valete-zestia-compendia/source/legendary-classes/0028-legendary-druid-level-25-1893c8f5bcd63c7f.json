@@ -1,0 +1,71 @@
+{
+  "_key": "!items!1893c8f5bcd63c7f",
+  "_id": "1893c8f5bcd63c7f",
+  "name": "Legendary Druid - Level 25",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 40-43.</p><p>Level 25</p><p>Final Form</p><p>At 25th level, your wild shape mastery makes you able to replicate even the most exotic and unnatural lifeforms. When you use your Wild Shape, you can choose to expend 3 Legendary Points to turn into any creature that isn’t a Construct that you have seen before, of a Challenge Rating equal to or lower than your Druid level. You transform into an average example of that creature, one without any class levels or the Spellcasting trait. You can’t use any legendary actions, legendary resistances, or lair actions of the new form.</p><p>5.5e: Additionally, when you convert uses of Wild Shape into a spell slot, each use of your Wild Shape contributes to 3 spell levels. For example, if you convert two uses of Wild Shape, you produce a 6th-level spell slot. You cannot use this feature to gain a 10th-level spell slot. Once you use this benefit, you can’t do so again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-druid-level-25",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "40-43",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Druid level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "40-43",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Druid",
+      "legendaryLevel": 25
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

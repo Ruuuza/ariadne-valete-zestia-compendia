@@ -1,0 +1,73 @@
+{
+  "_key": "!items!5f17d7efe20c009f",
+  "_id": "5f17d7efe20c009f",
+  "name": "Supernatural Intervention",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 72-77.</p><p>Supernatural Intervention</p><p>Beginning at 25th level, the scale of your service to your patron has earned you the right to invoke its personal help, if only momentarily. You can call upon your patron’s supernatural intervention by using your action and expending 2 Legendary Points. An Avatar of your patron (as per the Avatar statblock on page 125) appears in an unoccupied space within 120 feet of you. Your patron can speak through it, and it has a telepathy range of 120 feet. If you are in combat, it acts on your initiative count. While within 500 feet of your patron’s avatar, you and your allies are immune to the charmed and frightened conditions.</p><p>Your patron’s avatar remains for 24 hours or until it is destroyed. Once you have beseeched your patron’s supernatural intervention, you must wait 7 days before you can call upon it again.</p></div>",
+      "chat": ""
+    },
+    "identifier": "warlock-supernatural-intervention",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "72-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Warlock level 25",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "72-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Warlock",
+      "legendaryLevel": 25,
+      "originalFeatureName": "Supernatural Intervention",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

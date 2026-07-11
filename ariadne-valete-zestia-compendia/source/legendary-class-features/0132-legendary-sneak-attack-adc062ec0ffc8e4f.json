@@ -1,0 +1,73 @@
+{
+  "_key": "!items!adc062ec0ffc8e4f",
+  "_id": "adc062ec0ffc8e4f",
+  "name": "Legendary Sneak Attack",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 62-65.</p><p>Legendary Sneak Attack</p><p>At 21st level, your sneak attack becomes even deadlier as you increase in power. Your Sneak Attack damage is increased by 2d6, and you ignore resistance(s) to the damage type(s) of your weapon when you use your Sneak Attack. Your Sneak Attack damage further increases by 2d6 at 22nd, 23rd, 24th, and 25th levels.</p></div>",
+      "chat": ""
+    },
+    "identifier": "rogue-legendary-sneak-attack",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "62-65",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Rogue level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "62-65",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Rogue",
+      "legendaryLevel": 21,
+      "originalFeatureName": "Legendary Sneak Attack",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "_key": "!journal!ca2d449b9596f9b6",
+  "_id": "ca2d449b9596f9b6",
+  "name": "Front Matter and Here Be Legends",
+  "pages": [
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.943fc81fca420f86",
+      "_id": "943fc81fca420f86",
+      "name": "p. 1 - A L P H A  V . 1 . 2",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 1</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">A L P H A  V . 1 . 2</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 1,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.b1375fc5579475d6",
+      "_id": "b1375fc5579475d6",
+      "name": "p. 2 - Alpha Document!",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 2</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Alpha Document!\n\nHello there! Just a reminder that this is an ALPHA\ndocument for Ariadne’s Book of Legends. Anything you\nsee here is subject to change, from the mechanics to the\nart, formatting, and even the lore. In fact, our goal is to\nimprove greatly upon what you see here, with your\npriceless help! If all goes as planned, the final product\nwill look fairly different.\n\nIn this document, you’ll see us, Alvar and Marcelo,\ncreative leads of the Codex of Strings, doing what we’ve\nbeen doing since the beginning: a bold digital release\nwith innovative ideas that sometimes work… and\nsometimes don’t. Much of the book’s art remains in\nproduction, so many pages might look like big ol’ blocks\nof text. If you wish to see a finished product, this Alpha\nrelease is not for you! That is alright. Not everyone plays\ngames in Early Access, and we certainly do not expect\nyou to do that. But if you do, we thank you, from the\nbottom of our hearts, for helping us construct this\nenormous project!\n\nWhy an Alpha?\n\nOur digital delivery date is months away. Why put out\nsomething incomplete this early? Truth be told, this is\nour first Kickstarter, and we jumped headfirst into a\ncomplex, multi-edition project that deals with what has\nhistorically been the most neglected, least-balanced tier\nof D&amp;D–high-level play. Cheers to us!\n\nWe want your help to ensure the final book is\nreflective of our backers’ particular wants and needs.\nThe more eyes we have on our mechanics, the better.\nThis is not akin to playtesting a new monster or a new\nsubclass; each individual table might have a completely\ndifferent idea of what Legendary Levels entail. Some\npeople have been playing beyond 20th level for decades\nalready!\n\nSo, if you’d be so kind, we’d love for you to play\naround with the contents of this book and genuinely try\nto break it as much as possible. Stress-test it!\n\nRead at your Own Pace\n\nThe Book of Legends isn’t exactly a beginner-friendly\nbook. Take your time to understand what exactly the\nLegendary Levels mean for your table. With this in\nmind, if you’re ever not sure of how a specific feature or\nability works, tell us! It might mean we need to clarify it\nfor the final release.\n\nALPHA DOCUMENT\n\nWhat is Useful Feedback?\n\nReading through this book is swell and all, but we are\nparticularly interested in your playtesting experience.\nMany features, spells, and abilities present in this book\ncan seem absolutely bonkers at first glance, only to not\nbe that useful once they are put into play. There are\nmany moving parts to this grand work of ours, and we\nare more interested in the interactions between\nsystems, characters, and foes than in the minutiae of a\ncertain feature on paper.\n\nSomething quite useful might look like this:\n\nMy players and I ran a combat encounter against Vosculd\nthe Avenger, and the Wizard absolutely smoked him on\nround 3 by using their Heroic Path feature along with their\n10th-level spell to deal over 750 points of damage. Though\nit was hard to pull off and required the entire party to\ncooperate, I’m pretty sure that was not an intended\ninteraction between those two features.\n\nThis is great feedback; it explains the situation that led\nto the overpowered interaction and allows us to\nevaluate whether or not that should still be included in\nour book. An example of something less useful would\nlook like this:\n\nThe Rogue’s 25th-level feature is absolutely overpowered.\n\nThis lacks context! Indeed, the Rogue’s final ability\nmight look quite powerful, but compared to other 25thlevel features, it seems to be in line. Remember, the\nwhole point of this book is going above and beyond!\nThings will jump out to you as incredibly powerful, on\nboth sides of the DM screen.\n\nClick Here or scan the QR code to\n\nleave your feedback!</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 2,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.c8b54bd24fc4f55e",
+      "_id": "c8b54bd24fc4f55e",
+      "name": "p. 3 - Credits",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 3</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Credits\n\nLead Designers: Alvar Mallo &amp; Marcelo J. Fosco\n\nLead Editors: Alvar Mallo &amp; Marcelo J. Fosco\n\nRules Developers: Alvar Mallo &amp; Marcelo J. Fosco\n\nOriginal Art: Matias Lazaro, Nacho Lazaro, Nikita\nKapitunov, It’s Just Hieu, Quito, Ignacio Segesso, Thai\nLu, Ines Toczyska, Mari Fonseca, Benninja, German\nErramouspe, Moreno Paisan, Trung Phan\n\nLicensed Art: Killian Prevost, Jonny Sun, Midnight,\nNK Studio, Shahzeb Khan Raza\n\nFree Use Art: Kim Diaz Holm, Ombremonde\n\nInterior Design Elements: Umberto Spaticchia\n\nHomebrewery Style: 5eCleric\nCodex of Strings Studio\n\nCreative Direction: Alvar Mallo &amp; Marcelo J. Fosco\nGame Design: Alvar Mallo &amp; Marcelo J. Fosco\nGraphic Design: Catalina Sánchez Sotelo, Gabriel\nLeón Manzur, Marcelo Mieses\nOperations Management: Catalina Sánchez Sotelo\nProduct Management: Alvar Mallo, Catalina Sánchez\nSotelo, Marcelo J. Fosco, Marcelo Mieses\nMarketing: Marcelo Mieses\nVTT Integration: Nate Turner\n\nSpecial thanks to our Patreon community, who make\nthese books possible, and to our Discord Playtesting\ncommunity, who ensure the quality of our products.\n\nAriadne’s Book of Legends © 2026 by Ariadne’s Codex of Strings LLC.\nAll rights reserved. Ariadne’s Codex of Strings is based in Lewes,\nDelaware, USA\n\nThe content here contains references to Wizards of the Coast’s 5e SRD,\nand is indeed shaped for compatibility with the rules and content there\ndescribed. Everything we use from the SRD belongs solely to WoTC\nand Hasbro: we offer an expansion upon that content, by the terms of\nthe CC-BY-4.0​ license under which the SRD is published.\n\nAs a paying customer of Ariadne’s Codex of Strings LLC, whether via a\ndirect website purchase or Patreon subscription, you are allowed to\nremix, adapt, and build upon the material in any medium or format, so\nlong as attribution is given to “Ariadne’s Codex of Strings”. You may not\ndistribute the content as-is: it must be transformed, or used within a\ncontext in which our original content makes up no more than 20% of the\ntotal new production.\n\nThe initial formatting of this Alpha is made using the Hombrewery\nsoftware by NaturalCrit, licensed under an MIT license. As such, we\nexpress our profound thanks to them for providing this wonderful tool,\nand we hereby recommend it to anyone in the process of making\nprofessional-looking homebrew content for TTRPGs!\n\nOn The Cover…\n\nIn this piece by Ignacio Segesso, Ariadne Stringweaver\nconfronts Theseus, the Lightslayer, along with her party\nof heroes. This climactic encounter has been centuries\nin the making, as the two once-lovers who defeated the\nMinotaur now battle over the fate of the cosmos.\nContact Information\n\nYou may email us at support@codexofstrings.com if you\nhave any questions, collaboration proposals, or, truth be\ntold, anything you want to tell us at all!\n\nIf you want a great deal on all our publications, find us\non Patreon and subscribe to one of our amazing tiers!\nYou can also follow us on Instagram to keep track of\nour latest stuff! For a full list of where to find us, check\nout our planar travel hub at www.codexofstrings.com,\nwhich will direct you anywhere you need!\n\nPDF Recommendations\n\nHey you! For the best PDF experience, we\nrecommend viewing this document in two-page\nlayout with “Show cover page separately” enabled.\nThis is the intended way to read the book. We\nrecommend using Microsoft Edge to view this\nPDF, as it rarely glitches and will optimize render\ntime and memory usage.\n\nBroken PDFs! Using an Apple device? The PDF\nmight be rendering poorly. Images over text, gray\nboxes around notes like this one, missing images;\nthis is an issue some iOS devices experience with\nimage-heavy PDFs. Sometimes, even an iOS update\ncan break PDFs that previously rendered without\nissue! Using a different PDF reader, such as\nMicrosoft Edge, Google Drive, or Adobe\nAcrobat Reader usually solves this issue.\n\nIf you are having any problems, please contact us at\nsupport@codexofstrings.com and we’ll help!\n\nCREDITS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 3,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.c5b71fdd8f88b395",
+      "_id": "c5b71fdd8f88b395",
+      "name": "p. 4 - Table of Contents",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 4</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Table of Contents\n\nHere Be Legends\n7\nA Legendary Campaign\n8\nLegendary Players\n8\nLegendary Challenges\n9\nThe Universe of Strings\n9\nUsing this Book\n10\nLegendary Tiers of Play\n10\nProgression\n11\nSummary\n12\nGeneral Rules\n13\nLegendary Point System\n13\nLegendary Features\n13\nLP outside of Combat\n14\nDifficulty Classes\n15\nArmor Class\n15\nLegendary Damage Types\n15\nAction Priority\n16\nIncapacitations\n16\nMagic\n17\n\nI - Legendary Characters\n18\nLegends Incarnate\n20\nGetting Started\n20\nBuilding a Legendary Character\n21\nBecoming Legendary\n23\nLegendary Classes\n26\nLevel 20+\n26\nLegendary Warriors\n27\nLegendary Casters\n27\nBarbarian\n28\nBard\n32\nCleric\n36\nDruid\n40\nFighter\n44\nMonk\n50\nPaladin\n54\nRanger\n58\nRogue\n62\nSorcerer\n66\nGreater Metammagic Options\n70\nWarlock\n72\n\nLegendary Invocations\n76\nWizard\n78\n\nII - Heroic Paths\n82\nYour Legendary Path\n84\nThe Anatomy of Heroic Paths\n84\nThe Full Picture\n85\nPrerequisites &amp; Branching Out\n85\nCustom Heroic Paths\n85\nHeroic Paths\n86\nArcane Marksman\n87\nArchmagus\n88\nChosen One\n89\nHerald\n90\nHierophant\n91\nLegendary Psion\n92\nLegendary Sniper\n93\nLimitless\n94\nNightingale\n95\nOverlord\n96\nPrimordial\n97\nRuneblood\n98\nShadowblade\n99\nSovereign\n100\nThird Eye\n101\nTitan\n102\nUnbreakable\n103\nWarlord\n104\n\nIII - Mythical Techniques\n106\nTechniques of Old\n108\nTechnique Mechanics\n108\nCustom Mythical Techniques\n108\nMythical Techniques\n109\nMythical Techniques Table\n110\nIchimonji\n111\nRyuushinkan\n112\nVorpal\n113\nDainsleif\n114\nZulfiqar\n115\nDurandal\n116\nSunyata\n117</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 4,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.f9b2d6720467f413",
+      "_id": "f9b2d6720467f413",
+      "name": "p. 5 - IV - Epic Magic",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 5</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">IV - Epic Magic\n118\nThe Great Arcanisms\n120\nEpic Magic\n120\nThe Cost of Epic Magic\n120\nMagic in your Game\n121\nEpic Spells\n122\nAbjure\n123\nAllmage\n123\nApocalypse\n124\nAvatar\n125\nCloak of Barbatos\n126\nDivine Rift\n126\nGreater Simulacrum\n127\nHorde to Stone\n128\nKilling Winds\n128\nMass Foresight\n128\nMiracle\n129\nPatron’s Blast\n129\nRimley’s Pulse\n130\nTheophrastus’ Flux\n130\nTrue Wish\n131\nWrath of Nature\n132\n\nV - The Legendary Game\n134\nLegendary Horizons\n136\nExploration\n137\nEpic Worldbuilding\n137\nLegendary Locations\n139\nObstacles\n140\nRoleplay\n142\nThe Wills at Play\n142\nEpic NPCs\n143\nPower and the Party\n144\nRoleplay Encounters\n145\nCombat\n146\nOf Combat in Legendary Tiers\n146\n\nMaking Combat Memorable\n147\nUsing Monsters\n148\nTo Battle Legends\n150\nPlanning a Legendary Battle\n150\nPrepare to Fight!\n152\nThe Environment\n152\nPhases\n153\nRising Tension\n154\nParty Size\n155\nBehind the Screen\n155\n\nVI - Legendary Foes\n156\nFoes Beyond\n158\nLegendary Foes in Your Game\n158\nFramework of a Legendary Foe\n158\nAdapting Legendary Foes\n159\nGrand Alchemist Paracelsion\n160\nStat Block\n166\nThe Inner Laboratory\n168\nDM Notes\n169\nVosculd, The Avenger\n170\nStat Block\n176\nDM Notes\n178\nThe Heirs of Leung\n180\nVazan’s Terror\n187\nThe Lord of Anguish - Stat Block\n188\nThe Lord of Anguish - DM Notes\n190\nBlasphemy of the Sisters\n192\nThe Wyrm of Blasphemy - Stat Block\n193\nThe Wyrm of Blasphemy - DM Notes\n196\nThe Hermit\n198\nStat Block\n202\nThe Hermit’s Lair\n204\nLair Actions\n205\nDM Notes\n206\n\nAlpha Changelog\n208</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 5,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.2b7e408881ff7ec2",
+      "_id": "2b7e408881ff7ec2",
+      "name": "p. 6 - HERE BE LEGENDS",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 6</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">HERE BE LEGENDS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 6,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.78dbc8594f3a5a0b",
+      "_id": "78dbc8594f3a5a0b",
+      "name": "p. 7 - An Introduction:",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 7</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">An Introduction:\nHere Be Legends\n\n \nW\n\nelcome, hero, to your final ascent! What\n\nfollows is the culmination of a decade’s\n\nworth of playing beyond 20th level,\nspanning several campaigns, previous\nCodex of Strings releases, and, thanks to\n\nour wonderful backers, a successfully\nfunded Kickstarter. Now we take our very\nbest shot at making this playstyle, so dear to our hearts,\n\neasier to access, more enjoyable to play, and simpler to\n\nrun.\n\nThe information in this Alpha is intended to give you a\ncomplete framework of our Legendary System, allowing\n\nplayers to reach up to 25th level and giving DMs the\ntools to orchestrate a balanced and fun game for parties\n\nof such might. You’ll find rules and advice for roleplay,\nexploration, combat, and every other component of this\n\ngame we know and love!\nThere are several works out there that tackle\nLegendary Play, both homebrew and official. Ariadne’s\n\nBook of Legends is inspired by the greats that came\n\nbefore, from the Epic Level Handbook to the Epic\nDestinies of 4th edition and the Epic Boons of 5e and\n\n5.5e; even the old Immortals ruleset of 1st edition.\n\nWe’ve chosen to tread our own path, creating an\noverarching system that can be laid over the current\nD&amp;D framework, focusing on turn simplicity, cinematic\n\nmoments, and cosmic showdowns.\n\nThus, our Legendary Tiers will take you through heights\n\nyet unknown, a truly special experience to have in a 5e\n\nor 5.5e game. Perhaps you are a veteran of epic-level\nplay, finding difficulty in the great balance that must be\n\nstruck between overpowered parties and ludicrously\ndifficult encounters. Perhaps you are new to this world,\n\nhaving joined our Kickstarter project with the hope of\n\none day playing through these impossible levels.\n\nWelcome, I say again, to the Book of Legends. We\nhope, through these pages, to channel the wonder\n\nLegendary Play can bring to the fantasy TTRPG\nexperience. You need not be a veteran D&amp;D player or a\n\nnumber-crunching wargamer to enjoy yourself; you\nneed only the willingness to go beyond all limits and\nweave a myth that will be remembered forevermore.\n\nOh, you’re here, at last! You’ve traveled\nfar, no doubt, in search of the legendary\n\npowers bequeathed to the Ascended. Get\n\nready! The Strings of Fate have\nsomething in store for you–I can feel it!\n\n– Ariadne Stringweaver\n\nHERE BE LEGENDS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 7,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.b930b1630f363c78",
+      "_id": "b930b1630f363c78",
+      "name": "p. 8 - A Legendary Campaign",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 8</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">A Legendary Campaign\n\nWhy would you ever play beyond 15th level? That is a\nquestion many have asked us, as we explained our\ngrandiose plans for this project. Most D&amp;D stories end\nway before even the third tier of play. Spells of 7th level\nand above are a thing of bad guys much more than of\nplayers; features become too hard to balance, and\nencounters swing wildly between too easy and decidedly\nunfair.\n\nThis is the verdict you’ll find online, and it may\ndiscourage you from ever trying to run 5e at higher\nlevels.\n\nYet, there are those first-time DMs–perhaps having\nawarded too many levels during the first handful of\nsessions–that continue running their games well beyond\nwhat is “recommended”, and somehow, they make it\nwork. As the players grow stronger and the 5e monsters\nbecome less capable of posing a challenge to them, such\nDMs begin inventing stat blocks, increasing hit points to\nmatch damage outputs, and countering the party’s main\nabilities with creations of their own. Magic items begin\noccupying the party’s inventory, creating unexpected,\ngame-breaking interactions. Artifacts increase a\ncharacter’s power level until they become part of the\nbalancing of future encounters. Homebrew progression\nsystems give abilities way beyond the party’s level after\ncompleting key story events. This group might have\nbeen killing rats during their first session. They now\ndefy the very Gods.\n\nAnd as long as the group keeps playing, the stakes\ngrow ever-higher, the levels increase, and the characters\ntranscend well beyond what the core rules were\ndesigned for. Gaining a level becomes irrelevant\ncompared to discovering an artifact or unlocking a new\nhomebrew ability. This group has long left D&amp;D behind\nto create their own TTRPG, a special, unique\ncombination of impossibly powerful items, absurd\nhomebrew abilities, and, if you’re like us, a bunch of\nanime references.\n\nThis transformation, this ascent beyond the rules of\nD&amp;D, happens to many who simply never stop playing\ntheir favorite campaign. The balance that is struck\nbetween players who know exactly how their characters\nwork and a DM accustomed to challenging them is\nsomething truly magical. And it is unbalanced, and\ngoofy, and requires constant maintenance behind the\nscenes. But it is worth it.\n\nYou don’t need this book to play Legendary D&amp;D. You\nneed only a steadfast will, a bunch of homebrew, and\ntime on the weekend. You will learn as you play, and\nperhaps, some encounters will be too easy, and some\ntoo hard. They will be memorable either way. We are\nhere to make this process smoother, simpler, and\ndecidedly epic. But we began just like you–a group of\nfriends who continued to play, well into the “hard\nlevels” of D&amp;D, simply because we were having\ntoo much fun.\n\nHERE BE LEGENDS\n\n \nLegendary Players\n\nThe 20th level is the absolute limit for 99% of heroes;\nthe constraints of a mortal body are hard to surpass,\nafter all. Hard, but not impossible. When an\nexceptionally talented individual is blessed with\nunyielding determination and great teachers, they might\njust rise above to become legendary. The highest\nachievers among all mortalkind, comparable in power\nto demigods and immortals.\n\nA barbarian bearing the weight of the world upon\ntheir shoulders. A wizard with such command over the\nforces of reality that they can evoke miniature stars to\nvaporize their enemies. A brilliant paladin blessed by\ntheir God, fearlessly leading the charge against the\ndarkest forces in existence. These are all examples of\nwhat it means to be a legendary character. Not just a\nmarginal improvement, but a greater dimension of\npower, available only to the greatest of their generation.\n\nThematically, legendary characters are individuals\nwho, through rigorous training and peerless talent, have\nachieved significant breakthroughs in their respective\nfields. They can do things that seem impossible to their\nlesser counterparts–which is to say, nearly everyone.\nMechanically, this means Legendary Characters break a\nlot of D&amp;D’s golden rules. Staples of balancing, such as\ncasting one leveled spell per turn, go out the window.\n\nThis is a design choice. Legendary characters are\nmeant to do the impossible, not just be marginally better\nthan their non-legendary counterparts.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 8,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.eb378d5f26168d90",
+      "_id": "eb378d5f26168d90",
+      "name": "p. 9 - Legendary Challenges",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 9</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Legendary Challenges\nThe Universe of Strings\n\nThe stories told beyond 20th level deal with shattering\nrealities, planar adventures, and world-ending threats.\nPlayers are akin to superheroes, anime protagonists,\nand mythical demigods. The stakes must be raised to\ntheir level.\n\nIn your world, there may be great creatures that hide\nwithin the darkness of the cosmos, monsters so terrible\nthat the mere mention of them turns valiant heroes into\ncowards. There may be guardians, ancient and divine,\nthat protect realms beyond reality from forces much\nolder than mortalkind. And there may be Gods, playing\nthe long game of divinity. Some lay amid the stars,\nentities whose breath can reshape worlds, create\nspecies, bring about cataclysms. Some choose to\nmeddle, to play with the younger races, raise them up,\nonly to discard them when they grow bored. And some\nyet remain asleep, kept in slumber by ancient seals and\npraying paragons, with the knowledge that their waking\nwould bring about a grand reckoning.\n\nIn a Legendary Game, the chains binding these\ncosmic beasts are brittle. The greed of the planar lords\nis great. The power of Divinity is tempting. Conflict\ninundates the firmament, and heroes must rise to quell\nthe flames of war–or to bask in their warmth.\n\nChallenges that come to rely on Legendary\nCharacters may seem impossible to overcome. A\ncampaign set mainly in our Legendary Tier of play will\noften deal with divine gambits, apocalyptic scenarios,\nand reality-breaking\n magic. We stand in the\nbattleground of\n devils, angels, and\nGods, and the\n characters,\ntogether, can\n face divinity.\n\nThe backdrop for this manual is the Universe of Strings,\nour original, sometimes-dark, sometimes-heroic fantasy\nsetting in which divinity has long perished, leaving the\ndregs of godhood for anyone to take. Mortals,\nprimordials, celestials, and demons fight over Threads\nof Divinity, essences that take many forms, but always\nallow one to embody a divine domain that once\nbelonged to the Pantheon. Though this book is mainly\nfocused on the mechanics behind Legendary Play, this\nstory inspires every spell, mythical technique, and\nlegendary foe described in these pages.\n\nThis shattered, anarchic cosmos of fallen stars and\ndead paragons has as much darkness as it does light,\nfilled with messianic heroes of all creeds who strive to\nmake their abandoned worlds a better place, but also\nwith villains content with exploiting what is broken.\nLegendary stories are commonplace in such a setting,\nwhere powers of many sources choose opposing vessels\nand go to war, even thousands of years after the Fall of\nthe Gods. And over them all, the Void watches; Eternity,\nthe Great Enemy who slew the Gods, looking to\nextinguish the dying light of creation once and for all.\n\nAs you shift through the pages of this book, you will\nfind tidbits of information about these tales, from the\nlore behind ancient artifacts to the stories of the foes\nthat stand ready to face your Legendary Party. You can\nincorporate these stories into your game, or even adopt\nthe Universe of Strings’ setting altogether, if you want.\nIt is, in our style, extremely well suited to Legendary\nPlay! If you want to know more about this setting, we\nrecommend you check out our SRD document. It’s a\nfree download on our website! Click here to visit.\n\nYour Own Legendary Campaign\nIf you don’t want to adopt anything from the Universe of\nStrings, do not fret! This book is also for you. All the\nmechanical content is either plug-and-play or very easily\nadaptable to any setting based on D&amp;D mechanical and\nnarrative conventions. After all, we want you to play your\nversion of Legendary Tier TTRPGs, and we realize that,\nmore often than not, that means playing with your\nestablished cosmology, characters, and magic systems!\n\nAlso, if you play any flavor of dark or heroic fantasy at\nyour table, you’ll find the stories and lore within this book\nand our SRD very easy to drag-and-drop into your own\nsetting. Always remember… good artists copy, great artists\nsteal!\n\nHERE BE LEGENDS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 9,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.81bb2acf6e0b9a59",
+      "_id": "81bb2acf6e0b9a59",
+      "name": "p. 10 - Using this Book",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 10</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Using this Book\n\nTo play a Legendary Campaign, you must first be very\nfamiliar with your chosen edition (5e or 5.5e). Though\nour main focus is to simplify the D&amp;D high-level\nexperience with our system additions, the tales you will\nweave far exceed the complexity of your regular 5th to\n10th level adventure. Your arsenal will increase in\nscope, both as a player and as a DM, and you must be\nprepared to wield such powers.\n\nLegendary Tiers of Play\n\nA Legendary Campaign is separated into three\nLegendary Tiers of play. Each of these tiers is a\nmagnitude greater than the last, with a pronounced\ndifference in power level between them.\n\nChallenge Rating on our Legendary Foes has been\nreplaced by a Recommended Level, ranging from\n20th to 25th. These correspond to each of the three\ntiers; Legend (20th - 21st), Paragon (22nd - 23rd), or\nAscended (24th - 25th). Each tier is of great importance\nwhen building a Legendary Campaign, and using all\nthree properly creates a believable power scaling\nstructure, even beyond the heights of 20th level.\n\nGameplay-wise, each Legendary Tier is a mighty\njump from the last, increasing the Legendary Points\nof both players and foes. This means a Paragon-level\nstat block is intended to contend with 4-5 characters\nwith 2 Legendary Points each, which gives them access\nto many more resources than a Legend-level party\nmight possess.\n\nLP Progression\n\nTier\nCharacters\nFoes\n\nLegend (20-21)\n1 LP\n3 LP\n\nParagon (22-23)\n2 LP\n4 LP\n\nAscended (24-25)\n3 LP\n5 LP\n\nModular Difficulty. Each Legendary Tier is comprised\nof 2 levels. A party on the lower level will find the\nchallenge posed by a Legendary Foe of that tier to be\nhard but fair, while a party on the higher level will find\nthe challenge to be balanced and surmountable.\n\nProficiency Bonus\n\nPlayers increase their proficiency bonus each time they\nreach a new tier of play, while Legendary Foes remain\nat a proficiency bonus of +10 for all three tiers.\n\nLegends (Levels 20 - 21)\n\nThe first tier of Legendary Play we offer in this book\nincludes a buffed version of 20th level, as players gain\naccess to Legendary Points, their associated Legendary\nResistance, and one class-specific feature. At the\nLegend tier, characters take their first step beyond the\nlimits of mortals. Their names carry weight across\n\nHERE BE LEGENDS\n\nkingdoms and planar domains, and through their deeds,\nnations rise or fall. A 20+ level hero is a living myth,\npossibly the greatest living practitioner of their specific\nclass.\n\nThis tier is about slaying primordial monsters,\nmending planar rifts, rewriting the fate of empires, and\nother adventures that are just a touch beyond the fourth\ntier of play outlined in the DM’s Guide. Legend-tier play\ndemands world-shaking stakes and adversaries to\nmatch– ancient dragons, demon lords, and interplanar\ncriminals.\nParagons (Levels 22 - 23)\n\nParagons transcend even legend, becoming the greatest\nheroes in recorded history. Their actions echo across\nplanes, and cosmic powers take notice. They are known\nbeyond the confines of their plane as famous people of\ntheir world, like a mortal may know the names of\nstoried angels or devils. A 22nd-level hero might be the\nmost powerful practitioner of their class in centuries.\n\nThis tier is about becoming a force in the cosmos.\nParagon play shifts toward fighting Gods, toppling\ndemonic hierarchies, and ruling over planes of\nexistence. The Foes in this tier might be some of the\nmost powerful creatures in the Universe.\nAscended (Levels 24 - 25)\n\nAscended heroes stand on the threshold of divinity.\nSome might already carry with them shards of Gods,\nmortals might speak their names in prayer, and deities\nmight consider them equals, or at the very least, threats.\nThey have joined the Pantheon, if not in name, at least\nin might. Their struggles are about dominion over\ncreation and the shaping of existence.\n\nAscended play is the culmination of an Era–claiming\na divine spark, forging a new plane, or choosing what\nthe next age of the world will become. This tier is\nmythic in scope: battles in the Astral Sea, wars against\noverdeities, and finales that determine the fate of\nbillions.\n\nBalance of Players\nWe have designed and playtested this book for a party of 4-5\nplayers. Some D&amp;D groups have more, some have less.\nEach Legendary Character added to the roster beyond these\nnumbers is a multiplying force that brings additional 10thlevel spells, mythical techniques, and magical items into the\nfray, greatly tipping the scales of combat, exploration, and\nroleplay alike. Fewer players, in turn, make the challenges\nmuch harder to accomplish, though this is more easily\nadjusted than a surplus of characters.\n\nMore information about how to handle non-standard\nplayer counts against Legendary Foes on Chapter V.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 10,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.abeed36f8a65d3e2",
+      "_id": "abeed36f8a65d3e2",
+      "name": "p. 11 - Progression",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 11</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Progression\n\nUnlike their non-legendary counterparts, characters\nbeyond 20th level do not simply advance in their\nprogression for virtue of completing an adventure or\ngaining enough experience. Each legendary level is an\nenormous hurdle to overcome, one that some people\nsimply cannot ever surpass. Many epic NPCs have\nreached the heights of their potential, the absolute limit\nof their growth, somewhere beyond 17th level. Some\nmay have trained for decades, even centuries, to gain a\nsingle Legendary Level. The characters, the true heroes\nof the story, have infinite potential, of course… but each\nlevel beyond the 20th must be earned through feats\nunparalleled. Legendary Levels are awarded at the\nDM’s discretion, in moments that align with the game’s\nnarrative.\n\nAny level beyond the 20th is a good place to stop,\ndepending on the scope of your game and the\nwillingness of your DM. Just because there are 25 levels\ndoesn’t mean you are obligated to reach them. Indeed,\nparties of the Ascended tier struggle to find much\nchallenge in anything beyond the most powerful\nLegendary Foes ever conceived.\n\nFinal Boss. The DM might have selected a specific\nLegendary Foe as the final encounter of the campaign.\nDepending on which tier the foe is from, it can mark the\nexpected ceiling of the adventure. An Ascended-tier\nboss, recommended for levels 24 and 25, can be used to\nfight a 23rd-level party, as a way to make the final battle\nfeel even more deadly. In fact, depending on the number\nof players at your table, it may be wise to bump up the\ndifficulty of some of these battles to maintain tension.\n\n20th-Level Adventure. Some stories never go beyond\n20th level. Perhaps your campaign is nearing the final\nstretch, and this book is here only to guide you through\nhigh-level combat and milestones the players can\nachieve for the final battle. Heroic Paths, Mythical\nTechniques, 10th-level spells, and Legendary Class\nfeatures can serve to inspire a non-Legendary\nCampaign, giving specific power-ups as boons from\nGods or features from lost artifacts without the\nframework of Legendary Levels. Using a Legend-tier\nFoe (recommended for 20th-21st level) as a Final Boss\nagainst a properly equipped 17th or 18th level party is a\nvalid way of playing a Legendary Campaign! This\nmanual is here to inspire, and only you know what is\nbest for your specific table; no need to follow every rule!\n\nLeveling Up\n\nIf you are expecting to level up regularly during your\ncampaign, we recommend that each increase in power\nbe marked by a Legendary Achievement, along the lines\nof the following examples.\n\nExternal. The character discovers a powerful relic,\ninherits the powers of a legendary foe, or is blessed by a\nGod. These power increases are often the culmination\nof an adventure–an external, immediate increase in\n\npower gained through the adoption of a boon that exists\nin your world. These are the best ways to level up a\nLegendary Party–having that increase in power be\nextraordinary, not the result of simple training and\nadventuring.\n\nInternal. The character hones their craft, whatever that\nmay be, which results in an increase in level. An\narchmage discovers new spells beyond 9th level, a\nsword saint masters Mythical Techniques lost to\nmemory and just recently recovered, a monk learns to\nwalk on air. These are often accompanied by some\nexternal stimuli–discovering an ancient text depicting a\n10th-level spell, for example–but occur internally and\ntake time and effort to complete. The first few\nLegendary Levels are best for this kind of level-up.\nInternal increases must always have a built-in reason to\noccur! A constant of effort, dedication, and training on\nthe part of the character.\n\nDowntime. Over several years, decades, or even\ncenturies of downtime, a Legendary Character may\nperform mythical acts that increase their level. They\nmay have completed legendary adventures that will go\ndown in history as folk tales, discovered new laws of\nreality in their isolated towers, or perfected their\ntechniques beyond their previous limits. These\nmoments between adventures are perfect for a\nLegendary Character to increase their level.\n\nMaximum Level\n\nIf a party ever reaches 25th level, it becomes very hard\nto challenge the players with anything short of a God.\nEven in this book, the creatures that stand ready to face\nsuch a group are the minority. We recommend only\nhitting max level in the last arc, in the epic ramp-up\ntoward the campaign finale. 25th level is, to this book,\nwhat 20th level is for regular D&amp;D!\n\nEdition Compatibility\nThis book is written for both 5e and 5.5e. Terminology\ngenerally follows 5.5e convention for player-facing rules,\nwhile monster stat blocks lean closer to classic 5e design.\n\nWhere the two editions differ, the text will note which rule\napplies to which version. Watch out for 5.5e or 5e\nparagraphs, noted by their edition in bold letters. Some\nfeatures only exist in one edition–the increasing Rage count\nfor the Barbarian, for example, only matters in 5.5e, since 5e\nBarbarians have an unlimited number of rages at 20th level.\n\nCertain terms may be unfamiliar depending on which\nedition you play. The Bloodied condition, for instance, is a\n5.5e term referring to a creature that has fewer than half its\ntotal hit points remaining.\n\nHERE BE LEGENDS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 11,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.8ca832cab9245e60",
+      "_id": "8ca832cab9245e60",
+      "name": "p. 12 - Summary",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 12</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Summary\n\nThis book is divided into three great parts that include\nmultiple chapters each:\n\n+\n\nThe introductory section you are reading now,\nwhich settles the bases for a Legendary Campaign and\nexplains the overarching systems and philosophy that\npermeate the book.\n\nThe Player section, from Chapter I to Chapter IV, will\ngive players the tools to create legendary characters.\n+\n\n+\n\nThe DM section, from Chapter IV to Chapter VIII, lists\nthe many monsters, relics, and additional information\na director needs to run a Legendary Campaign.\n\nAn Introduction: Here be Legends\n\nThis section contains general and special rules, along\nwith our design philosophy and recommendations to run\nand play a Legendary Campaign.\nChapter I: Legendary Characters\n\nThis chapter outlines the legendary level progression (2025) for each of the 12 core classes of D&amp;D 5e / 5.5e.\nSoon, the Shaper and Starblade, our original classes, will\nbe added to the list.\nChapter II: Heroic Paths\n\nThis chapter introduces you to Heroic Paths, a\nprogression system in which you pick from a wide\nselection of powerful feats, allowing you to customize\nyour Legendary Character. These feats are organized in\npaths, which work somewhat like subclasses, with each\nfeature building upon previous ones.\nChapter III: Mythical Techniques\n\nMartial classes have long been outscaled by learned\nwizards, ancient druids, and ascendant sorcerers,\nespecially in the higher levels of D&amp;D. No longer! This\nchapter focuses on Mythical Techniques, powerful\nabilities unlocked at certain legendary levels that further\nhelp you customize your martial character, allowing them\nto compete with the incredible might of epic magic.\nChapter IV: Epic Magic\n\nMagic beyond 9th level is the ultimate show of power.\nBoth characters and foes will find themselves using their\nlegendary resources to conjure the most powerful\narcanisms in existence: 10th-level spells. This chapter\nlists all spells we’ve created to accompany our legendary\nsystem of play.\nChapter V: The Legendary Game\n\nIn all our years playing epic-level D&amp;D, we’ve accrued\nsome good know-how about directing such mythical\ngames. This chapter will be your guide on maintaining\ntension, running encounters challenging enough for\nLegendary Characters, and preparing the stakes for the\nworld-shattering battles that will take place in your world.\n\nHERE BE LEGENDS\n\nChapter VI: Legendary Foes\n\nA campaign is nothing without its antagonist. This\nchapter is focused on our menagerie of Legendary Foes,\ncreatures beyond CR 30 that have been specifically\ndesigned to challenge even the most powerful of parties.\nLore, mechanics, lairs, and DM notes, this chapter will\nteach you to run these foes at your table.\nChapter VII: Relics (Not In Alpha)\n\nThere are items more powerful than artifacts in the\ncosmos. This chapter will describe relics that can be\nacquired after defeating each of our Legendary Foes,\nalong with some additional iconic magic items from the\nUniverse of Strings.\nChapter VIII: Appendices (Not In\nAlpha)\n\nThis final chapter will contain additional lore, easy-toreference tables, generic monsters for each Legendary\nTier, and additional tools to help you homebrew your\nown Legendary Content.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 12,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.df7fc3a42977418c",
+      "_id": "df7fc3a42977418c",
+      "name": "p. 13 - General Rules",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 13</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">General Rules\n\nD&amp;D famously has three pillars of play: Combat,\nExploration, and Roleplay. In a Legendary Campaign,\nthe fundamentals of Exploration and Roleplay remain\nmostly the same. Instead of exploring abandoned\ndungeons, the party is delving into the castle of a\nconquering lich, and instead of negotiating with the\ntown’s blacksmith, the players find themselves bartering\nwith Gods. Not only do these elements remain\nengaging, but they’re arguably at their very best.\nCombat, on the other hand, needs some work. We found\nthat never-ending turns, save-or-die mechanics, and\nbalancing issues are the main pain points for Legendary\nCampaigns.\n\nThe following general rules are focused on all three\npillars, but mainly give a framework to improve combat.\nTo that end, we’ve made some fundamental\nmodifications to 5e / 5.5e, which tackle the problems\nthat typically make high-level play sloggish and unfun in\nthe base game.\n\nLegendary Point System\n\nThe cornerstone of our take on high-level D&amp;D is the\naddition of Legendary Points, or LP for short. Both the\nparty and their adversaries will have a set number of\nLegendary Points, which they can use to fuel certain\nabilities.\n\nLegendary Points (and their uses) come into play at\n20th level.\n\nLP Restriction\n\nLP use has only one restriction. When a creature uses\nan ability that expends LP, it cannot use that same\nability again until the start of its next turn. This goes for\nplayers and monsters!\n\nRecover Action\n\nTo regain spent LP, a character must use a new tool in\ntheir arsenal: the Recover action. When a character\ntakes the Recover action, they regain all expended LP.\n\nLegendary Foes, for their part, recover all their LP\nautomatically at the start of each of their turns.\n\nLegendary Features\n\nClasses and Foes have some features to spend LP on.\nLet’s discuss some of them.\n\nLegendary Resistance\n\nWhen you fail a saving throw, you can expend 1 Legendary\nPoint to succeed instead.\n\nAt 20th level, to mark just how powerful the characters\nhave become—and to have a shot at defeating our\nLegendary Foes—every class gains access to the\nLegendary Resistance feature. This is a much-needed\naddition, allowing us to still use the powerful spells and\nabilities of high-level D&amp;D without the fear of save-ordie mechanics.\n\nBecause LPs serve to fuel your best abilities in these\nlegendary levels, expending a Legendary Resistance\nmeans not using a certain offensive capability, and\noverusing your LPs on dealing damage, for example,\ncan leave you vulnerable to retaliation. We’ve found it to\nbe a dynamic game of risk/reward, which turns a fairly\narbitrary, bland feature like Legendary Resistances into\na fun mechanic that both DM and players interact with.\n\nMultiplier Attacks\n\nSpecial actions and attacks that deal high amounts of\ndamage use a multiplier instead of a set number of dice.\nMost of these attacks are fueled by LP and are called\nMultiplier Attacks.\n\nDepending on the class or creature, they deal a\nnumber of dice times 5 or 10. The damage output of a\nMultiplier Attack is around 100 to 250 points of\ndamage, with some exceptions going higher or lower.\nMultiplier attacks are epic, effective ways for characters\nand creatures to deal damage in a simple, easy-tocalculate manner.\n\nLimitations. Multiplier attacks follow certain caveats.\nMultiplier Attacks do not benefit from any bonus to their\ndamage beyond their calculation. A critical hit from a\nMultiplier Attack never duplicates the damage\ncalculation, but rather increases it by a set number of\ndice, specified in each Multiplier Attack. Any effects that\nwould allow a creature to reroll damage dice do not\napply to Multiplier Attacks.\n\nYou can still do the math!\nSome tables prefer rolling ludicrous amounts of dice once\nin a while. You can always change the multiplier equations\nfor a set number of dice; for example, the Perfect Strike\nFighter feature deals 5d8 x 5 points of damage. That’s 25d8,\nif you prefer rolling!\n\nHERE BE LEGENDS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 13,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.93524a07fe12d585",
+      "_id": "93524a07fe12d585",
+      "name": "p. 14 - Mythical Techniques",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 14</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Mythical Techniques\n\nMartials also gain access to certain Mythical\nTechniques, some of which require LP. These powerful\nactions allow them to act outside of their turn, deal\nincredible damage, or invoke a certain unique effect.\n\n5.5e: Some classes gain additional Weapon Masteries\nwhenever they gain a Mythical Technique.\n\nClass Features\n\nClasses gain special ways of spending LP. These are\ngenerally more situational, but remain powerful and\nunique. Most of the time, Legendary Resistance and\nMultiplier Attacks will be a more effective way of\nspending LP during combat. These class features\nchange the way a character interacts with the world\naround them, and can also change the tide of battle if\nused at the proper time. When they hit, they really hit.\n\n10th-level spells\n\nFull casters gain access to legendary 10th-level spells,\narcanisms of such magnitude that they alter the very\nfabric of reality. To cast a 10th-level spell, a caster must\nuse their Action on their turn and expend 2 Legendary\nPoints. This is the most LP-intensive action a character\ncan take, and leaves the casters with much fewer\noptions until they find a way to recover LP.\n\nLegendary Foes follow the same rules and sometimes\nhave additional restrictions when it comes to casting\nmighty 10th-level spells.\n\nLegendary Foes\n\nThe LP System also applies to our Legendary Foes and\nsome of their minions. Legendary Points are used to\ntake Extra Actions, use Legendary Resistances and\nEndurances, and perform especially powerful abilities\nduring their turn.\n\nUnless otherwise stated, Legendary Foes must also\ncontend with the same restriction as the characters\nwhen casting 10th-level spells, and sometimes have\nadditional restrictions, such as phase transitions,\ncasting times, and material components.\n\nAs a DM, be very transparent with the amount of LP\nthe Foes have at any given moment; your players must\nbe able to strategize depending on what the villain is\ncapable of.\n\nLegendary Recovery. At the start of each of the\nLegendary Foe’s turns, it regains all spent LP.\n\nHERE BE LEGENDS\n\n \nLP outside of Combat\n\nThink about Legendary Points as a measure of a\nlegendary character’s basic power. Just as a Fighter\nmight attack or a Warlock cast an eldritch blast, a\nLegendary Fighter can cut reality apart, and a\nLegendary Warlock can shoot several beams of\noverwhelming power effortlessly. This applies to\nLegendary Resistances, too, meaning a stray Wisdom\nsaving throw outside of combat can easily be resisted by\na Legendary Character, needing only the next 6 seconds\nto recover and be able to do it again.\n\nAs long as a character can take a round to recover,\nthey are always capable of legendary feats. That is what\nseparates a powerful 17th-level adventurer from a 20thlevel legend.\n\nRoleplay and Exploration Features. Some classes\npossess powerful features that allow them to create\neffects more effective in roleplay and exploration\nscenarios. Some spellcaster features allow them to\nexpend LP to use certain spells without expending a\nspell slot, meaning they could always have a dimension\ndoor at the ready, or the ability to heal another\ncharacter to full health, given enough minutes. Certain\nMythical Techniques give martials the tools to traverse\ngreat distances, fly, or open planar rifts, all with the use\nof Legendary Points.\n\nDuring combat, some of these features become much\nharder to use and are often ignored, yet in other aspects\nof the game, they redefine the baseline capabilities a\nLegendary Character possesses. The Hulk needs not\ntake a short rest after each Thunderclap, Goku can\nalways use his Instant Transmission, and Satoru Gojo\nnever finds himself without his impenetrable Infinity.\n\nInfinite Legendary Resistances. The only restriction\non Legendary Resistances is having the LP to use them\nand only using one per round. This means saving\nthrows outside of combat will always be succeeded by\nLegendary Characters. A Dexterity saving throw to\navoid falling into a ravine, a Strength saving throw to\npush through difficult traveling conditions, a\nConstitution saving throw to avoid the paralysis of a\npoison dart trap–these mundane challenges aren’t\nobstacles for legends.\n\nThe limitations of your pitiful race\namuse me to no end. My blood bleeds\nblack, my eyes see shadow. Don’t you\nknow? I have transcended even my own\nkin. I am the greatest Teng to have ever\n\nlived!\n\n– The Jester of the Moonsilver Court</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 14,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.ea95d627f070ddfb",
+      "_id": "ea95d627f070ddfb",
+      "name": "p. 15 - Difficulty Classes",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 15</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Difficulty Classes\n\nThere is beautiful math behind most interactions in the\n5e and 5.5e system. Proficiency Bonus + Statistic\nModifier + Number = DC. This formula is good enough\nfor lower levels, but becomes quite cumbersome even\nbefore reaching the Legendary Levels.\n\nCharacters will mostly retain these sorts of Difficulty\nClass calculations, though some Mythical Techniques\nand 10th-level Spells have their own DCs.\n\nLegendary Foes will have a plethora of different\nDifficulty Classes, depending on the feature that is being\nused.\n\nTraps, encounter-based DCs, and other such cases\nshould be determined on a case-by-case basis, much like\nyou would in a non-legendary campaign. Maximum\nDCs, however, can easily reach beyond 30.\n\nLegendary Difficulty Classes\n\nTask Difficulty\nDC\n\nExceedingly Difficult\n30\n\nLegendary Feat\n35\n\nDivine Act\n40+\n\nKeep in mind that some rolls, skill checks in particular,\ncan very well surpass 40, at which point the action may\nbreak the bounds of traditional game logic. There can\nalways be situations that call for a DC 50 or 60 roll. Just\nremember, the DM always has the final say.\n\nStealth DC 40: The Rogue walks the transitive\nspace between the material and ethereal dimensions,\nbecoming impossible to track, even through divine\nmeans.\n\nAthletics DC 50: The Barbarian lifts a mountain,\nkeeping it over their shoulders, like Atlas holding up the\nworld.\n\nPerformance DC 60: The Bard performs so\nbeautifully, stars begin to weep, falling from their orbit\nand bombarding the material plane, if only to hear the\nmusic a little closer.\n\nArmor Class\n\nLong before you reach 20th level, AC becomes\nsomewhat trivial. Plate armor gives an AC of 18\nregardless of level, and AC increases depend too much\non magic items and spells, all of which become\navailable fairly early into your leveling journey. There\nsimply isn’t a compelling progression system when it\ncomes to armor class, and though it works quite well for\nthe first tiers of D&amp;D, it falls short for our purposes.\n\nLegendary AC. As a baseline, all legendary classes will\nbenefit from an AC equal to their level, should their AC\ncalculations be lower without this bonus. Certain\ncustomizable options will allow builds that focus on AC\nto reach ludicrous numbers, and some classes will gain\nextra AC as they reach higher Legendary Levels.\n\nAt 20th level, if your AC calculation is lower than your level,\nyou can use your level as your AC instead. If you are using\nyour Legendary AC, you cannot further increase your AC.\n\nOne or the Other. If a player is choosing to benefit\nfrom Legendary AC, they are forfeiting any and all\nbonuses to their AC they would otherwise get, with the\nexception of temporary magical effects. This means that\na Legendary Fighter who chooses to benefit from\nLegendary AC does not increase their AC as per the\nFighter’s AC feature.\n\nSome magical effects give temporary AC bonuses,\nsuch as Haste, Shield, and Shield of Fate. When using\nLegendary AC, these bonuses do apply. Permanent\nmagical bonuses, however, such as those given by a\nmagic item or a spell or effect lasting longer than 1\nhour, do not apply to Legendary AC.\n\nLegendary Damage Types\n\nSeveral new damage types appear in this book,\nexclusive to Legendary Foes and Characters.\n\nDark Damage. A blasphemous damage type appearing\nas black streaks of energy. When a creature takes Dark\ndamage, its hit point maximum is reduced by the same\namount for 24 hours. This reduction can be lifted early\nby Remove Curse, Greater Restoration, or a similar\neffect. A creature reduced to 0 hit points by Dark\ndamage cannot be revived by any effect below 9th-level.\nCreatures that are vulnerable to necrotic damage are\nalso vulnerable to Dark damage. This damage type\ncannot be resisted by effects that guard against spells or\nphysical damage, only by features that explicitly grant\nresistance to it or to all damage.\n\nLethal Damage. A magical form of physical damage,\nappearing as a powerful red force around a weapon.\nCreatures vulnerable to bludgeoning, piercing, or\nslashing damage are also vulnerable to Lethal damage.\nLethal damage from critical hits deals triple damage\ninstead of double against creatures that are bloodied.\nLethal damage dealt by a Multiplier Attack does not\nbenefit from this triple damage, but instead increases\nthe Multiplier attack’s critical calculation by 1 additional\ndamage die; from 8d8 x 5 to 9d8 x5, for example.\n\nSoul Damage. A fundamental form of damage\nappearing as white flame. Soulless creatures–such as\nconstructs and certain corporeal undead–are immune to\nit, at the DM’s discretion. Attacks or spell effects that\ndeal Soul Damage always affect creatures in the\nethereal plane and bypass temporary hit points. Soul\ndamage cannot be resisted or reduced by any means\nshort of having no soul to wound–this also means that,\neven if a creature is immune to all damage as part of a\nspell, feature, or artifact, Soul damage will still affect it.\n \n\nHERE BE LEGENDS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 15,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.0f0a9a7bcd331e7e",
+      "_id": "0f0a9a7bcd331e7e",
+      "name": "p. 16 - Action Priority",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 16</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Action Priority\n\nThe many features present in this book make it possible\nfor several creatures to act outside of their turn\nsimultaneously. Extra actions, Legendary Actions,\nMythical Techniques, and certain class features can all\ncompete for the same window between turns.\n\nWhen two or more creatures attempt to use\nLegendary Actions or Extra actions at the end of the\nsame turn, resolve them in initiative order. A 25th-level\nFighter using their Legendary Action feature at the end\nof another player’s turn, for example, will act before a\nLegendary Foe’s Extra Action if the Fighter has the\nhigher initiative count–and after it if they do not.\n\nSome Mythical Techniques and class features can\nalso be used outside of one’s turn by expending LP.\nThese are resolved after Extra actions and Legendary\nActions and follow the same initiative order priority.\n\nReactions and Phase Transitions are the exception to\nthis rule. They resolve immediately when triggered,\ntaking precedence over all other pending actions. If\nmultiple reactions or Phase Transitions are triggered at\nthe same time, resolve them in reverse order–the most\nrecently triggered effect resolves first.\n\nAction Priority\n\nPriority Action Type\nTiming\n\n1st\nReactions &amp; Phase\nTransitions\n\nImmediately on trigger,\nmost recent first\n\n2nd\nExtra Actions &amp;\nLegendary Actions\n\nIn initiative order, highest\nfirst\n\n3rd\nAll other out-of-turn\nfeatures\n\nIn initiative order, highest\nfirst\n\nIncapacitations\n\nCertain spells and abilities provide players with the\nability to “stunlock” the bad guy. Famously, a high-level\nMonk can dish out enough stunning strikes to dazzle\nany monster foolish enough not to have immunity to the\nstunned condition. Casters can sling ten or so lowerlevel spells that are highly incapacitating, and will\ndestroy your action economy if they get through.\nSomething as simple as Sleep, Hideous Laughter, or\nSlow can arrest the battle’s momentum for the price of\na low-level spell slot.\n\nA single Legendary Foe can never be completely\nneutralized, come their turn to play. Our solution is to\nadd fixes to both Characters and Foes that allow for a\ncertain bypass of condition immunities. Second, an\nability in every legendary foe’s toolkit to end stun-locks\nand similar effects. Third, a way to reward Legendary\nCharacters for getting incapacitating effects through the\nfoe’s high saving throws without the save-or-suck\ndynamics of D&amp;D.\n\nHERE BE LEGENDS\n\nLimited Magic Immunity\n\n[Legendary Foes] cannot be affected by spells cast at 3rd\nlevel or lower unless they wish to be.\n\nYou’ll find this feature on every stat block in this book.\nThis lowers the amount of resources the casters\npossess to neutralize a foe. If your sorcerer wants to\ncast Slow, they will have to do so at 4th level!\n\nCleanse Effect\n\nIf the [Legendary Foe] starts its turn affected by a condition\nor magical effect of 7th level or lower, it can expend 1\nLegendary Point to end the effect. If the effect or condition\nis of 8th or 9th level, or from a Mythical Technique, the\n[Legendary Foe] must expend 3 Legendary Points to end\nthat effect. A Legendary Foe cannot end a magical effect\nfrom a 10th-level spell.\n\nThis allows certain effects to still take root, but not to\nthe extent of neutralizing a Legendary Creature. Yes,\nHold Monster might get through, but the Legendary Foe\nwill be able to end the effect on its turn, at a cost. This\nsaid, powerful spells and mythical techniques remain\nincredibly meaningful, taking up most of a Legendary\nFoe’s LP for the round.\n\nCleanse Effect is meant to end any effect or\nincapacitation the foe might be experiencing, even if it\ndoesn’t fall into either the condition or magical effect\ncategories. For example, should a Foe be trapped under\na great heap of rubble, it can use a Legendary Point to\nfree itself. As the DM, use your judgment to determine\nthe extent of this feature.\n\nImpaired\n\nAn Impaired creature cannot take actions that cost 3 or\nmore Legendary Points. The Impaired condition usually\nlasts for either a round or a minute, or until a Legendary\nFoe ends the condition by spending 1 Legendary Point at\nthe beginning of its turn.\n\nTo ensure the player’s tools are still useful but don’t bar\nthe Legendary Foes from acting, we created the\nImpaired condition. In several Legendary Characters’\nfeatures, you’ll find the following wording.\n\nIf the target is immune to the […] condition, it is Impaired\ninstead.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 16,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!ca2d449b9596f9b6.28c034e44a3392f4",
+      "_id": "28c034e44a3392f4",
+      "name": "p. 17 - Magic",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 17</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Magic\n\nMagic and magical effects are the backbone of any\nbalanced campaign at higher levels. To help DMs and\nPlayers alike gauge which spell would take precedence\nover which other, or how a certain magical effect would\ninteract with an ongoing spell, we’ve created a scale of\nmagic to categorize the relative strength of magic in\nyour Legendary Campaign. It’s a simple enough system\nthat helps rule things on the fly and maintain\nimmersion.\n\nMagical Effects. Many creatures and classes utilize\npowerful effects that could be considered magic, yet\naren’t specifically leveled. To know how a Mythical\nTechnique or high-level Artifact would interact with\nthese features, the DM must assign a level to that\nmagical effect. Each level implies a different tier of\nmagic. If a feature in this book refers to a certain magic\ntier, such as Common-tier, Higher-tier, or Epic-tier, it\nrefers to the level brackets mentioned below. These\nTiers of Magic allow you to judge whether or not\nScáthach’s Scythe of Doom could destroy a Force Cage,\nfor example (the answer is yes!).\n\nLevel\nTier\nSpell Example\nEffect Example\n\n1st to\n7thlevel\n\nClass and Monster\nFeatures, Up to Very\n\nCommon\nDimension\n\nDoor\n\nRare Magic Items\n\n8th and\n9thlevel\n\nHigher\nForesight\nMythical Technique,\nLegendary Magic Item\n\nDivine Mandates,\nArtifacts, Fundamental\n\n10thlevel\nEpic\nGreater\nSimulacrum\n\nLaws\n\nCounterspell, Dispel Magic, End Magic, Cleanse\nEffect. The characters and foes in high-level games\ntend to have a lot of tools at their disposal when it\ncomes to ending magical effects, countering spells, and\ninterrupting casters.\n\nWith the higher ability scores this book allows,\ncountering a 9th-level spell with a 3rd-level casting of\nCounterspell is not that difficult, and Dispel Magic, even\nat 3rd-level, may very well end a character’s Foresight\nspell. There is a discrepancy between the resource\nexpended and the gameplay effect.\n\nOur solution is a new rule that affects not only the\nLegendary Levels, but also the rest of the leveling\nprocess (if you’re brave enough).\n\nTiers of Magic\n\nA spell or magical effect can only modify, end, or otherwise\naffect another spell or magical effect if it is from a tier of\nmagic equal to or higher than the target magic.\n\nThis mainly affects Counterspell and Dispel Magic, but\nit can also be used to quantify and determine the\nstrength of any type of magic, such as the toughness of\nan ancient barrier or the anti-magical properties of an\nalien material.\n\nEnd Magic and Cleanse Effect, features many\nLegendary Foes possess, also follow this rule, needing\nan increased spend in LP to affect greater levels of\nmagic.\n \n\nHERE BE LEGENDS</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 17,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    }
+  ],
+  "categories": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "book-reference",
+      "sourcePages": "1-17",
+      "language": "en-US",
+      "originalText": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "_key": "!items!08ef432db6e13186",
+  "_id": "08ef432db6e13186",
+  "name": "Divine Parry",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "ac4e4a9a87c3cf67": {
+        "_id": "ac4e4a9a87c3cf67",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Divine Parry"
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 112.</p><p>Divine Parry</p><p>Channel, Ryuushinkan</p><p>Weapon: Any Classes: Fighter, Monk Channeling Time: 1 action Base LP Cost: 2 LP Range: Self Duration: 1 minute</p><p>You prepare an almost insurmountable blocking force, able to stop even a God in its tracks. For the duration, when you are targeted by an attack, a Mythical Technique, or a spell or magical effect of 9th level or lower, you can use your reaction to nullify the effect against you and all creatures and objects of your choice within 15 feet of you. Elsewhere, the parried effect works as normal. Once you successfully nullify an effect in this way, the Divine Parry ends.</p><p>LP Cost. When you nullify an effect completely, you can expend 1 additional Legendary Point to redirect it toward the creature that created it instead. The creature must be within 120 feet of you. All DCs, damage calculations, and effects remain unchanged when redirected in this way.</p></div>",
+      "chat": ""
+    },
+    "identifier": "divine-parry",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "112",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter, Monk",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "112",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Ryuushinkan",
+      "techniqueType": "Channel",
+      "weapon": "Any",
+      "classes": "Fighter, Monk",
+      "legendaryPointCost": "2 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

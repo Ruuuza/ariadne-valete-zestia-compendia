@@ -1,0 +1,179 @@
+{
+  "_key": "!items!c9f48bea88428c93",
+  "_id": "c9f48bea88428c93",
+  "name": "[10th] Miracle",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "4de7622f35c76b7f": {
+        "_id": "4de7622f35c76b7f",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Miracle"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "1",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 129.</p><p>Miracle</p><p>10th-level evocation</p><p>Classes: Cleric, Druid Casting Time: 1 action Range: Touch Components: V, S, M (A shard of moonsilver worth 1,000 G.P) Duration: Instantaneous</p><p>You place your hands upon a creature you can see within range, summoning a surge of positive energy that floods its body and spirit. The target regains all its hit points, it is cured of all conditions affecting it, including those that would normally require a specific spell or ability to remove, and it is freed from any curse or harmful magical effect affecting it.</p><p>This spell restores all of the target’s expended class features, abilities, and spell slots. Only spell slots of 9th and 10th-level, uses of Mythical Techniques, and legendary class features with limited usage are not restored.</p><p>Alternatively, you can target the body of a creature that has been dead for no longer than one minute. This spell restores them to life with all their hit points and regrows missing body parts, if any. This use requires only a diminutive part of a deceased creature–a hair, a tooth, its ashes, or disintegrated remains suffice to recreate the rest of the body.</p><p>Miracle can end, cure, or dispel effects that would otherwise require a Wish spell, such as reconstructing a soul that was destroyed. The DM has final say on what effects are within the scope of Miracle to cure.</p></div>",
+      "chat": ""
+    },
+    "identifier": "miracle",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "129",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A shard of moonsilver worth 1,000 gp",
+      "consumed": false,
+      "cost": 1000,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material"
+    ],
+    "range": {
+      "value": null,
+      "units": "touch"
+    },
+    "school": "evo",
+    "target": {
+      "affects": {
+        "count": "1",
+        "type": "creature",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "129",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Cleric, Druid",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

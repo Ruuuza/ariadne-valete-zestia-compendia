@@ -1,0 +1,72 @@
+{
+  "_key": "!items!c439879ead6ad13e",
+  "_id": "c439879ead6ad13e",
+  "name": "Titan",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 102.</p><p>Tier III: Titan</p><p>Prerequisite: Siege Monster</p><p>Mythic Strength. Your Strength score increases by 4. 34 is your new maximum for that score. Your size category is increased by one, up to a maximum of Huge.</p><p>Breaker. When you hit a creature that has 100 hit points or less with a melee attack, they must succeed on</p><p>a Constitution saving throw with a DC equal to half the damage dealt by the attack or be reduced to 0 hit points.</p><p>Death Grip. You can grapple a creature with your bonus action. You can grapple creatures of any size. When you successfully grapple a creature that has a Constitution score of 19 or lower, you can use an action to reduce the creature to 0 hit points.</p><p>Path Connections Unbreakable. Instead of the Unmatched Strength Heroic Perk, you can take the Iron Stance Perk, changing to the Unbreakable path.</p><p>Warlord. Instead of the Siege Monster Heroic Perk, you can take the Perfect Body Perk, changing to the Warlord path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "titan",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "102",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Titan",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "102",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Titan",
+      "stageType": "Tier III",
+      "stageOrder": 5
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

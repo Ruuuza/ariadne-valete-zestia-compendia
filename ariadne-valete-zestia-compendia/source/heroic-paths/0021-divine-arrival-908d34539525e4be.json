@@ -1,0 +1,72 @@
+{
+  "_key": "!items!908d34539525e4be",
+  "_id": "908d34539525e4be",
+  "name": "Divine Arrival",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 90.</p><p>Heroic Perk: Divine Arrival</p><p>Prerequisite: Voice</p><p>You can choose to make yourself known whenever you enter a settlement, battlefield, or planar domain. The range at which you can announce yourself is an amount of miles equal to your total character level. Creatures instinctively know something important and divine has arrived. You can force creatures of CR 5 or lower to flee, gather near your position, or pray at your coming. The DM determines exactly how creatures respond to your arrival based on their nature, disposition and your intent.</p></div>",
+      "chat": ""
+    },
+    "identifier": "divine-arrival",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "90",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Herald",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "90",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Herald",
+      "stageType": "Heroic Perk",
+      "stageOrder": 2
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

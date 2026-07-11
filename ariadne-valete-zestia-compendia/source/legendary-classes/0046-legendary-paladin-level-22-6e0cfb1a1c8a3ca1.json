@@ -1,0 +1,71 @@
+{
+  "_key": "!items!6e0cfb1a1c8a3ca1",
+  "_id": "6e0cfb1a1c8a3ca1",
+  "name": "Legendary Paladin - Level 22",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 54-57.</p><p>Level 22</p><p>Heroic Aura</p><p>Starting at 22nd level, you and friendly creatures within 30 feet gain a +3 bonus to attack rolls while you are conscious.</p><p>Unendurable Smite</p><p>When you reach 22nd level, any Smite you perform, including Legendary Smite, ignores resistances to its damage type.</p><p>Aegis of Promise</p><p>When you reach 22nd level, you learn to call upon your Oath to shield your allies. As a bonus action, you can choose a willing creature within 30 feet of you to shield until the start of your next turn. When that creature is hit by an attack, it gains a bonus to its AC equal to your Charisma modifier against that attack, potentially causing it to miss.</p><p>The range of this feature is increased to 45 feet at 25th level.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-paladin-level-22",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "54-57",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Paladin level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "54-57",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Paladin",
+      "legendaryLevel": 22
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

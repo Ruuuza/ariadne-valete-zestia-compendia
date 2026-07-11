@@ -1,0 +1,71 @@
+{
+  "_key": "!items!8de088f3791de6b0",
+  "_id": "8de088f3791de6b0",
+  "name": "Legendary Fighter - Level 21",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 44-49.</p><p>Level 21</p><p>Heroic Path Advancement</p><p>At 21st level, you choose a Heroic Path you meet the prerequisites for and advance its first step. Each time you gain a level, you can advance a Heroic Path by one step, start a new Heroic Path, or, if specified as an option of the current step you’re on, jump from one Heroic Path into another.</p><p>Legendary Score Improvement</p><p>When you reach 21st level, and again at levels 23 and 25, increase one of your ability scores by 2 or two ability scores by 1. You cannot raise an ability score above 24 using this feature, unless another feature raised your maximum for that specific ability score beforehand.</p><p>Mythical Technique</p><p>At 21st level, you learn a Mythical Technique from the Mythical Techniques section. You learn an additional Mythical Technique when you reach 22nd, 23rd, and 24th levels.</p><p>5.5e: Whenever you learn a Mythical Technique, you gain an additional Weapon Mastery.</p><p>Improved Second Wind</p><p>At 21st level, you gain an additional use of your Second Wind feature. Whenever you use your Second Wind feature to heal, you gain temporary hit points equal to 1d10 + your fighter level.</p><p>You gain an additional charge of Second Wind at 23rd and 25th levels.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-fighter-level-21",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "44-49",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter level 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "44-49",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Fighter",
+      "legendaryLevel": 21
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

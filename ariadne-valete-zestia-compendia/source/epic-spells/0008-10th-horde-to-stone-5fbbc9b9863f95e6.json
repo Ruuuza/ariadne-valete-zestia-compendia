@@ -1,0 +1,179 @@
+{
+  "_key": "!items!5fbbc9b9863f95e6",
+  "_id": "5fbbc9b9863f95e6",
+  "name": "[10th] Horde to Stone",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "9ef1bfe074cc6331": {
+        "_id": "9ef1bfe074cc6331",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Horde to Stone"
+        },
+        "duration": {
+          "value": "",
+          "units": "perm",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "120",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 128.</p><p>Horde to Stone</p><p>10th-level enchantment</p><p>Classes: Bard, Sorcerer, Warlock Casting Time: 1 minute Range: 10 miles Components: V, S, M (a blank puppet and a steel pin) Duration: concentration, up to 1 hour</p><p>Describe the targets you wish this spell to affect with as much or as little detail as you choose. You can specify creature types, age ranges, genders, allegiance to a sovereign or organization, alignment, and similar criteria. The description must be short enough to be spoken within this spell’s casting time. As you speak, the puppet used in the casting magically acquires the features of the creatures you describe. To complete the casting, you must drive the steel pin into the heart of the puppet.</p><p>When you finish casting this spell, a wave of arcane energy washes out from the puppet, and each creature that fits your description within range must succeed on a Wisdom saving throw or be petrified. If you concentrate for the full duration of the spell, the petrification lasts until dispelled.</p></div>",
+      "chat": ""
+    },
+    "identifier": "horde-to-stone",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "128",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "perm"
+    },
+    "level": 9,
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material"
+    ],
+    "range": {
+      "value": "120",
+      "units": "ft"
+    },
+    "school": "enc",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "128",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Bard, Sorcerer, Warlock",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

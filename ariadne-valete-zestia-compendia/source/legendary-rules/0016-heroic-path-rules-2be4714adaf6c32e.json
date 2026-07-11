@@ -1,0 +1,69 @@
+{
+  "_key": "!items!2be4714adaf6c32e",
+  "_id": "2be4714adaf6c32e",
+  "name": "Heroic Path Rules",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 84-85.</p><p>Your Legendary Path</p><p>A</p><p>Barbarian who has spent their life on the front lines of a celestial war develops much differently from one who has hunted titans across the elemental planes. A Wizard who has perfected their casting to turn enemies to cinders with fiery blasts is very unlike another who has devoted their studies to dark celestial bodies and is now able to conjure miniature black holes. We created</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-rules",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "84-85",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "84-85",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

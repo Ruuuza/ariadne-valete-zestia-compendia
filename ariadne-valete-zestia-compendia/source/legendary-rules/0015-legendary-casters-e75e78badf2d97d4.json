@@ -1,0 +1,69 @@
+{
+  "_key": "!items!e75e78badf2d97d4",
+  "_id": "e75e78badf2d97d4",
+  "name": "Legendary Casters",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 27.</p><p>Legendary Casters</p><p>There is more to battle than the peerless skill of a rogue, the ancestral rage of a barbarian, or even the divine prowess of a paladin. To go beyond 20th level as a warrior is to harness the hidden potential of the soul, to enhance the body beyond what seems possible, and to perform mythical techniques only seen in tall tales.</p><p>For the purposes of this supplement, martial classes (Barbarian, Fighter, Monk, and Rogue) and half-casters (Paladin and Ranger) are considered warriors. To become Legendary as one of these classes is to ascend, to leave your imprint in history; as with spellcasters, it means becoming something more than just a mere mortal. Warriors in particular hone their bodies and skills to a point that escapes conventional logic and defies the very laws of physics, as they connect to the true, unbound potential of the soul. A fighter who can cut through adamantine gates is channeling a lot more than a good slashing technique, after all. Of Mythical Techniques</p><p>Warriors beyond 20th level gain access to the mighty Mythical Techniques of their predecessors, a slew of different abilities and features that have been passed from grandmaster to grandmaster across the ages,</p><p>dating back to the time of the Gods.</p><p>These techniques often require absolute discipline,</p><p>single-minded determination, and above all, a</p><p>resolve to uncover the secrets and hardships of the warriors that came before. All this to have even the slightest chance of successfully performing one. At 25th level, Warriors gain access to several Mythical Techniques, depending on their class. Mythical Techniques are extremely powerful, but are not as world-shattering as the Legendary Spellcaster’s 10th-level spells. To balance this, Warriors gain more power from their class features and feats, and generally have more options to resist or outright become immune to vast arrays of magical effects.</p><p>Mythical Techniques are the cornerstone of any Legendary Warrior, and are almost as modular as Heroic Paths. Depending on your choices, Mythical Techniques will determine your character’s effectiveness in one situation or another. While many Mythical Techniques are actions that can be performed, others are infusions or passive effects that activate under specific conditions, changing the tide of battle.</p><p>The arcane weave that permeates reality is the pathway to ultimate power, and for mortals, a means to reach the full potential of their existence, resembling the Gods of old in the scale of the effects they can manifest. Surpassing 20th-level as a spellcaster implies the acquisition of a deeper understanding of your own magic. You are no longer an exceptionally good user; you’re a creator. You understand each and every piece that makes your spells work and can thus make modifications to amplify them to their utmost potential.</p><p>Sometimes, this comes at a mental and physical cost. Ability does not imply wisdom in its application, and many mages have been felled by excessive prana channeling…</p><p>Of Epic Magic</p><p>The most impressive power of legendary spellcasters is their ability to cast spells of 10th level, the mightiest arcanisms mortals can channel. At 25th level, full casters have access to two 10th-level spells, though they can only cast one 10th-level spell between long rests. Learning 10th-level spells is quite an ordeal; a caster can only learn a 10th-level spell when it is noted in their class descriptions.</p><p>The use of a 10th-level spell is an event of mythic proportions, often directly tied to the conclusion of pivotal battles, the fall of legendary leaders, or the end of an era and beginning of another. Thus, a character that learns a 10th-level spell is leaving an imprint in history. We provide many 10th-level spells in this supplement that you can drag and drop into your game, but we deeply encourage you to make your own when a player character is involved! This is their ultimate power, the sum of their arcane ability and personal style. It should be unique to them. As you will see, many 10th-level spells are named after the illustrious individuals from our universe who invented them.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-casters",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "27",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "27",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

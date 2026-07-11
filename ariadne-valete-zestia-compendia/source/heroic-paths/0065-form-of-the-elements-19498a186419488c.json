@@ -1,0 +1,72 @@
+{
+  "_key": "!items!19498a186419488c",
+  "_id": "19498a186419488c",
+  "name": "Form of the Elements",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 97.</p><p>Heroic Perk: Form of the Elements</p><p>Prerequisite: Conduit</p><p>You gain a fly speed of 60 feet, propelled by your element– jets of flame, arcs of lightning, a howling wind, or a torrent of acid. While flying, you emit your Primordial Element in a 15-foot radius centered on you. Creatures of your choice within this area take 3d8 of your Primordial Element’s damage type at the start of your turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "form-of-the-elements",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "97",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Primordial",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "97",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Primordial",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

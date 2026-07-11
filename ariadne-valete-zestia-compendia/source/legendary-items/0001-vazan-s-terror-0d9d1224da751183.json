@@ -1,0 +1,125 @@
+{
+  "_key": "!items!0d9d1224da751183",
+  "_id": "0d9d1224da751183",
+  "name": "Vazan’s Terror",
+  "type": "weapon",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 187.</p><p>Vazan’s Terror</p><p>Weapon (Wakizashi), Relic (requires attunement)</p><p>A storied weapon, Vazan’s Terror is a short blade of living metal, adorned with a handle of Numari steel and a sheath of dragonscale. Moreover, it was cast in ghostflame, a soul-eating fire that imbues the few metals that resist it with the concentrated potential of mortalkind. This mythological craftsmanship was required in order to contain and channel the might of Supremacy itself. Such as it is, Vazan’s Terror is one of the few Relics in the Universe that can potentially ascend a mortal into functional godhood, should it contain all shards of Supremacy.</p><p>Attunement. Only a creature that embodies the ideals of Supremacy can attune to Vazan’s Terror. As a Relic, Vazan’s Terror requires two attunement slots instead of one. To attempt attunement, a creature must have a total character level of 20 or more, or be of CR 20 or higher. When attempting attunement, a creature must make a DC 25 Charisma saving throw. Alternatively, it can make a DC 30 saving throw using another ability score of its choice, representing its Supremacy in a different domain. On a success, they become attuned to Vazan’s Terror.</p><p>Unworthiness. If the divinity within the blade determines its wielder unworthy of Supremacy, it must succeed on a DC 30 Charisma saving throw whenever it finishes a long rest or take 105 (6d6 x 5) force damage and be forcibly unattuned from the artifact. Factors that lead to unworthiness include cowardice, sharing power, allowing treason to go unpunished, and other acts uncharacteristic of an emperor, at the DM’s discretion. Failure in this saving throw cannot be overturned with the use of a Legendary Resistance.</p><p>Supreme Blade. You have a +5 bonus to hit and damage rolls when you attack with this magic weapon. In addition, Vazan’s Terror deals an additional 14 (3d10) soul damage on a hit.</p><p>Bane of Dragons Great &amp; Small. When you hit a Dragon that is a Legendary Foe with an attack made with Vazan’s Terror for the first time in a round of combat, they lose 1 Legendary Point. If you hit a Dragon that is not a Legendary Foe, you deal an additional 50 points of soul damage instead.</p><p>Supremacy. While attuned to Vazan’s Terror, you have a +10 bonus to ability checks you roll as part of a contest. Additionally, you are immune to the charmed and frightened conditions, as well as spells and magical effects that would compel your behavior, such as the Command and Dominate Person spells.</p><p>Dynastic Power. While attuned to Vazan’s Terror, roll 1d4 when you finish a long rest to determine its benefits, which last until you must roll again.</p><p>1 - Divine Awareness: You gain truesight out to 60 feet. Additionally, you know when a lie is spoken in your presence.</p><p>2 - Divine Reflection: You have a +2 bonus to your AC. Any time you are targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll 1d6. On a 1 to 5, you are unaffected by the spell. On a 6, you are unaffected, and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.</p><p>3 - Serpent’s Might: Choose one ability score: between Strength, Dexterity, or Constitution. That score increases by 10, to a maximum of 30, until your next long rest.</p><p>4 - Dynast’s Mind: Choose one ability score between Intelligence, Wisdom, or Charisma. That score increases by 10, to a maximum of 30, until your next long rest.</p><p>Ascension. Vazan’s Terror is designed for much greater power than it currently holds, with only one quarter of the Divine Domain of Supremacy contained within. While Vazan’s Terror is attuned to a worthy wielder, it automatically absorbs any unclaimed Shards of Supremacy within 15 feet of it. The Lord of Anguish possesses one quarter of Supremacy, while the Wyrm of Blasphemy contains the missing half. For every additional quarter of Supremacy absorbed, Vazan’s Terror grows in power, as detailed in the following milestones:</p><p>50%: You roll twice instead of once to determine the effects granted by the Dynastic Power trait, rerolling duplicates.</p><p>75%: The extra force damage dealt by Vazan’s Terror becomes 27 (5d10), and you can choose the benefits of the Dynastic Power trait instead of rolling.</p><p>100%: At full power, the effects of the Dynastic Power trait improve, and you are under the effect of all four benefits simultaneously. Divine Awareness now grants truesight out to 120 feet and immunity to psychic damage. Divine Reflection now grants a +5 bonus to AC, and affected spells are reflected on a roll of 4 to 6. Serpent’s Might and Dynast’s Mind now each increase two ability scores of your choice by 10, to a maximum of 30, instead of one. Through this blade, you are a true Wielder of Divinity.</p></div>",
+      "chat": ""
+    },
+    "identifier": "vazan-s-terror",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "187",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "artifact",
+    "identified": true,
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "type": {
+      "value": "",
+      "baseItem": ""
+    },
+    "damage": {
+      "base": {
+        "number": 1,
+        "denomination": 8,
+        "bonus": "5 + 3d10",
+        "types": [
+          "slashing",
+          "soul"
+        ],
+        "custom": {
+          "enabled": false,
+          "formula": ""
+        },
+        "scaling": {
+          "mode": "",
+          "number": null,
+          "formula": ""
+        }
+      },
+      "versatile": ""
+    },
+    "properties": [
+      "fin",
+      "mgc"
+    ],
+    "proficient": null,
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "mastery": "",
+    "magicalBonus": 5,
+    "armor": {
+      "value": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "crew": {
+      "value": [],
+      "override": null
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-item",
+      "sourcePage": "187",
+      "language": "en-US",
+      "originalText": true,
+      "rarity": "Relic",
+      "attunementSlots": 2,
+      "automation": "reference"
+    }
+  },
+  "img": "icons/weapons/swords/sword-katana.webp",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

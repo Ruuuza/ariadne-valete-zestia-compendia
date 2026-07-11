@@ -1,0 +1,72 @@
+{
+  "_key": "!items!c0f13a50b65303f7",
+  "_id": "c0f13a50b65303f7",
+  "name": "Soul Harvest",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 96.</p><p>Heroic Perk: Soul Harvest</p><p>Prerequisite: Thrall, Dark Tyrant</p><p>When a creature of CR 25 or lower dies within 60 feet of you, you can use your reaction to trap its soul within a container of your choosing, preventing it from passing onto the afterlife. You can hold a number of souls equal to your spellcasting ability modifier simultaneously.</p><p>At any time, you can release a trapped soul to raise it as a Thrall, manifesting it in a spectral body. Thralls raised this way are immune to all nonmagical damage. When a spectral Thrall is destroyed within 60 feet of you, you can use your reaction to recapture its soul, returning it to your container and allowing you to raise it again later.</p><p>Soul Harvest also improves your existing Thrall capabilities in the following ways: you can have one additional Thrall of CR 6 or higher active simultaneously, and all your Thralls last for a maximum of 1 week instead of 24 hours.</p></div>",
+      "chat": ""
+    },
+    "identifier": "soul-harvest",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "96",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Overlord",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "96",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Overlord",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

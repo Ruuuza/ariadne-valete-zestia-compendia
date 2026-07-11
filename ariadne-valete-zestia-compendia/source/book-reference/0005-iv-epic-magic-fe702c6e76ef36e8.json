@@ -1,0 +1,481 @@
+{
+  "_key": "!journal!fe702c6e76ef36e8",
+  "_id": "fe702c6e76ef36e8",
+  "name": "IV - Epic Magic",
+  "pages": [
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.f44b575e9aecbf00",
+      "_id": "f44b575e9aecbf00",
+      "name": "p. 118 - IV",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 118</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">IV\n\nepic\nMAGIC</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 118,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.63938b3d29e14a70",
+      "_id": "63938b3d29e14a70",
+      "name": "p. 119 - Page 119",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 119</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\"></pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 119,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.3d55f7af52bdbbda",
+      "_id": "3d55f7af52bdbbda",
+      "name": "p. 120 - The Great Arcanisms",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 120</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">The Great Arcanisms\n\nL\n\negendary Spellcasters and Legendary Foes\nalike can access 10th-level spells,\narcanisms tantamount to the most powerful\neffects that can occur in your game–\nparticularly in combat. Only ancient rituals\nof great cost or direct divine mandates can\nsurpass them, and even then, 10th-level\nspells remain the building blocks of those realitybending workings. They are just about the hardest thing\na mortal can learn.\n\nEpic Magic\n\nThe scale of 10th-level spells is beyond that of any nonLegendary effect. As noted in the Magic section of the\nintroduction, Epic Magic encompasses any effect that\nsurpasses 9th level–divine authority, Wish-like\nworkings, and, of course, 10th-level spells. Epic Magic is\nthe only thing that can withstand or alter Epic Magic.\n\nMany effects you will encounter in the following\npages are singular, well-defined 10th-level arcanisms. In\nyour Legendary Campaign, however, you may come\nacross a variety of Epic Magic effects that are broader or\nless certain. A demigod’s gift of invulnerability, a divine\ndragon’s unique breath weapon, a void creature’s ability\nto fracture reality with each strike–even the powerful\neffects of a Relic-level magical item! The DM\ndetermines what qualifies as Epic Magic, and therefore\nwhat can only be interacted with, countered, or replaced\nby an equally powerful Epic effect. Non-Legendary\nmagic–even effects as sweeping as Antimagic Field–\ncannot stop Epic Magic.\n\nClashes of Epic Magic\nWhat happens when two divine heralds clash in their\nproclamations? What happens when you cast counterspell\nat 10th level to stop an enemy from casting a 10th-level\nspell? In these situations, the DM has considerable latitude\nin making a ruling, but we suggest erring on the players’\nside and using contests and rolls to settle complex\ninteractions. Shutting down your player’s Miracle with a\n10th-level counterspell is brutally anticlimactic. You can ask\nyourself the following questions to reach a sound ruling\nbetween “it just works”, “it doesn’t work”, and “it may work,\nwith a roll”.\n\nWhich caster is mightier or more skilled in magic?\n+\n\n+\n\nIs the caster of the challenged effect present to try and\novercome the challenge, or is the magical effect\nstanding on its own?\n\nWhat would allowing a challenge to this effect imply in\nworldbuilding terms?\n+\n\n+\n\nAnd, perhaps most important of all, how would your\nruling affect the fun of the table? Both you and your\nplayers are here for a good time, not realism.\n\nThe Cost of Epic Magic\n\nCasting a 10th-level spell requires an action, a 10thlevel spell slot, and 2 Legendary Points. This is an\nextraordinary investment of resources in the middle of\ncombat. When executed properly, Epic Magic can have\nsuch an effect as to halt a battle in its tracks.\n\nThese great arcanisms become available at 22nd\nlevel, and spellcasters learn at least one additional 10thlevel spell before their Legendary Adventure is over. A\ngreat part of a spellcaster’s power budget is baked into\nthese effects.\n\nThe 10th-Level Spell Slot\n\nThe 10th-level spell slot introduced in this expansion\nalso allows existing spells to be upcast to a higher level.\nUpcasting with a 10th-level slot, however, is a\ncategorically different matter from a standard upcast.\nTo use a 10th-level spell slot this way, you must still\nexpend 2 Legendary Points. A spell upcast at 10th level\ngains additional features–less powerful than those of a\ntrue 10th-level spell, but greater than a standard upcast.\nThis is a great way of creating your own 10th-level\nspells!\n\nWhen a spell is upcast using a 10th-level spell slot, it\ncan gain one or more of the following enhancements, at\nthe DM’s discretion:\n\n+\n\nGreater Scale. The spell’s area of effect, range, or\nnumber of targets increases significantly beyond its\nstandard upcast progression. A 10th-level Meteor\nSwarm may bring down enough comets to raze a\ncity, rather than just a small district.\n\n+\n\nHeightened Potency. The spell’s damage, healing,\nor primary effect increases beyond its standard\nupcast progression. A 10th-level Greater Restoration\nmay end all the harmful effects listed in its\ndescription, rather than just one of them.\n\n+\n\nLingering Effect. The spell leaves a persistent\nconsequence in its wake–a zone of altered terrain, a\nlasting condition, or a secondary effect that\ncontinues long after the spell ends. A 10th-level\nTime Stop may leave a small zone with permanent\ndisruptions in the flow of time, such as a loop or\naccelerated/slowed time.\n\n+\n\nUnendurable. The spell ignores resistances and\ntreats immunities as resistances. A 10th-level\nFireball may harm even fire elementals, so arcanely\nsuffused the spell becomes.\n\n+\n\nUnavoidable. Creatures that succeed on their\nsaving throw against the spell still suffer a reduced\nversion of its effect, rather than none at all. A 10thlevel Disintegrate may still deal half damage to a\ncreature that succeeded on the save.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 120,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.1b8f42c75d14b2c2",
+      "_id": "1b8f42c75d14b2c2",
+      "name": "p. 121 - Material Components",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 121</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Material Components\n\n10th-level spells require material components of\nincredible value. Unless those components are\nconsumed upon use, they are mostly flavorful additions\nto the mechanics of the game; as the DM, it is up to you\nwhether these are required or a focus can do the trick.\n\nMagic in your Game\n\nD&amp;D 5e / 5.5e has some difficulties with certain highlevel spells. In a Legendary Campaign, where 9th-level\nspells are plentiful and often go unused between long\nrests, a character might choose to cast Wish, dubbed\nthe “mightiest spell a mortal can cast”, every night until\nthey are unable to do so anymore. This can quickly\nunravel your game if you aren’t prepared.\n\nThere are some fixes that can be proposed for certain\nspells, though a Legendary Campaign can very well\ncontend with these effects as written. Legendary Foes\nhave the tools not to be overwhelmed by unusual spell\ncombinations accumulated over a long campaign.\n\nThat said, the following spells deserve special\nattention at your table. Each entry describes why the\nspell may become problematic at Legendary levels, and\noffers a fix you can adopt. As the DM, feel free to take as\nmany or as few as you’d like into your table, and\ncommunicate clearly with your players about how these\neffects have changed. As a player, be patient with your\nDM! They are trying to make this fun for everyone\nwithout non-legendary legacy rules getting in the way of\nthe narrative.\n\nWish. Is it really the mightiest spell a mortal can cast, if\nthere are 10th-level spells in the roster? That aside, with\nthe legendary level progression, it becomes realistic for\na caster to use it two or even three times a day,\ndepending on their class. Hardly the epic, one-of-a-kind\narcanism it was in non-legendary play…\n\nOur Fix: 9th-level Wish is now called Lesser Wish\nand has greater limitations, allowing only to create the\nstated effects, or similarly powerful ones–not being\nconsidered Epic Magic. 10th-level Wish, called True\nWish, expands on those effects and is actually the\nmightiest spell a mortal can cast. More about these\nchanges on the True Wish spell!\n\nSimulacrum. At Legendary levels, a duplicate of a\n22nd-level spellcaster is a second legendary character\nat the table, quickly breaking the intended balance of\nlegendary encounters.\n\nOur Fix: A Simulacrum created at Legendary levels\nremains at 20th-level and doesn’t have access to\nLegendary Points, resistances, and other legendary\nfeatures.\n\nForcecage and other elements of force. An\ninescapable cage that blocks teleportation is already\none of the most frustrating spells in the game at the 7thlevel category. Against a Legendary Foe with no reliable\nsaving throw bonus against Dexterity, it can trivialize\nencounters entirely.\n\nOur Fix: Legendary Foes and Legendary Characters\ntreat Forcecage as a contested effect they can break out\nof using their strongest ability score. When they end\ntheir turn trapped in a construction of magical force,\nthey make a DC 30 ability saving throw of their choice.\nOn a success, they break out of their confinement in a\nway consistent with their chosen ability: a Barbarian\nmight break through the forcefield, tearing it apart with\ntheir bare hands, while a Wizard may find a weakness\nin the arcane matrix of the wall, destabilizing it with a\nprecisely calculated burst of prana. The construction of\nmagical force closes behind the character after their\nescape. This can also be used in other cases of magical\nconfinement of a Legendary Creature, as long as that\nmagical confinement comes from a non-Legendary\neffect, a Legendary Foe or Character will always be able\nto escape it. Additionally, we recommend letting\nmythical techniques and Artifact and Relic weapons\ndestroy constructions of magical force.\n\nShapechange and True Polymorph. The ability to\nbecome any creature with a Challenge Rating equal to\nyour level is already extraordinarily broad at 17th level.\nAt 22nd, it can give access to stat blocks that dwarf\nwhat any encounter was designed to handle.\n\nOur Fix: Shapechange and True Polymorph have a\nCR limit of 20.\n\nTeleport, Plane Shift, and Gate. Escape spells are a\nnatural part of 5e, and in most campaigns, a reasonable\none. In a Legendary Campaign where the DM has\ninvested in complex, multi-session scenarios, a single\nTeleport can bypass entire narrative arcs.\n\nOur Fix: Create more zones that don’t allow for\nteleporting in or out of them with a non-Epic effect!\nMaintain the ability to teleport within the boss arena, for\nexample, but close the planar boundaries around it,\nensuring there is no chance of running away for either\nyour players or your boss monster, or at least not\nwithout significant resource expenditure.\n\nMagical Rulings\nAs a DM, you will probably make a few questionable rulings,\nespecially when it comes to how certain magical effects\ninteract. That’s okay. Don’t be afraid of changing things up\nif they are clearly not working as intended. Use your gut!\nPerhaps you find that some spell is having too much impact\nduring a battle; don’t let that spell trivialize an encounter\nbecause of a technicality.\n\nAlso, keep in mind the Tiers of Magic rule from the\nintroduction, which allows you to determine that a certain\nmagical effect or feature does not come into play when\nmeasured against greater magic; perhaps you determine\nthat Death Ward (4th-level), powerful as it is, is completely\nbypassed by the 10th-level spell Killing Winds, even if that is\nnot specifically written out. It’s your call!</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 121,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.3cbdb4c38bb063d5",
+      "_id": "3cbdb4c38bb063d5",
+      "name": "p. 122 - Epic Spells",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 122</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Epic Spells\n\nThe following is a list of all Epic Spells available to\nLegendary Characters within this supplement. Epic\nSpells belong to the eight established schools of magic\nand are segmented by class. Take the time to evaluate\nall your options whenever you gain access to a 10thlevel spell, and create a plausible flavor-like explanation\nfor your learning of a certain arcanism. This is your\nultimate power-up–how did you come across it?\n\nLP Cost. As a Legendary Character, casting a 10thlevel spell requires 2 Legendary Points, an action, and\nthe appropriate spell slot. Legendary Foes play by\ndifferent rules – with multiple actions and recharging\nLP, casting a 10th-level spell is often a multi-round\nendeavor and a costly matter, giving the party a chance\nto react before the great arcanisms are unleashed upon\nthem.\n\nEpic Spells\n\nName\nSchool\nClasses\n\nAbjure\nAbjuration\nSorcerer, Wizard\n\nAllmage\nDivination\nBard, Sorcerer, Wizard\n\nApocalypse\nEvocation\nCleric, Druid, Warlock, Wizard\n\nAvatar\nTransmutation\nCleric, Druid, Sorcerer, Warlock\n\nCloak of Barbatos\nNecromancy\nCleric, Sorcerer, Warlock\n\nDivine Rift\nConjuration\nCleric, Wizard\n\nGreater Simulacrum\nIllusion\nWizard\n\nHorde to Stone\nEnchantment\nBard, Sorcerer, Warlock\n\nKilling Winds\nNecromancy\nCleric, Warlock\n\nMass Foresight\nDivination\nBard, Druid, Warlock, Wizard\n\nMiracle\nEvocation\nCleric, Druid\n\nPatron’s Blast\nEvocation\nWarlock\n\nRimley’s Pulse\nAbjuration\nBard, Sorcerer, Wizard\n\nTheophrastus’ Flux\nTransmutation\nBard, Sorcerer, Wizard\n\nTrue Wish\nConjuration\nBard, Sorcerer, Wizard\n\nWrath of Nature\nConjuration\nDruid\n\nEpic Magic System\n\nMany 10th-level spells are very useful in combat, but\nmuch like in regular D&amp;D, some are part of the broader\nflavor of the Epic Magic system rather than tools your\nplayers will reach for in a fight. Apocalypse, for\nexample, will rarely see use on the players’ side unless\nthey are actively trying to devastate a region or unmake\na plane of existence. That does not mean the spell need\nnot be written! Not only can it serve as the signature\npower of a villain, it can also appear within the pages of\nan ancient grimoire or as the source of a catastrophe\nyour players are racing to prevent.\n\nWhen evaluating an Epic Spell, consider not just what it\ndoes in a fight, but what story it tells and what role it\nmight play in the hands of your world’s most powerful\nfigures–among which, the players!</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 122,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.41b4d7ab606d644f",
+      "_id": "41b4d7ab606d644f",
+      "name": "p. 123 - Abjure",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 123</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Abjure\n\n10th-level abjuration\n\nClasses: Sorcerer, Wizard\nCasting Time: 1 reaction, which you take when a\ncreature you can see within 120 feet of you casts a spell\nRange: 120 feet\nComponents: V, S, M (a platinum symbol of the\nAbjuration school worth at least 1.000 GP)\nDuration: Instantaneous\n\nWith a powerful word of abjuration, you interrupt the\ncasting of a spell. If the creature is casting a spell of 9thlevel or lower, it fails and has no effect. The creature\nmust then make a Charisma saving throw. On a\nsuccess, it cannot cast spells of the same school of\nmagic as the interrupted spell for the next 24 hours. On\na failed save, the target’s magical conduits decompose,\ncausing them to take 10d10 force damage and\nbecoming unable to cast spells. The target’s conduits\ncan be restored by a casting of Regenerate or similar\nmagic.\n\nIf you use this spell against a creature that is casting a\n10th-level spell, you must make a spellcasting ability\ncontest against them. If you succeed, they suffer the\nspell’s effects as normal. If you fail, Abjure has no effect.\n\nAllmage\n\n10th-level divination\n\nClasses: Bard, Sorcerer, Wizard\nCasting Time: 1 action\nRange: Self\nComponents: V, S, M (a silvery alphabet containing all\n42 magical runes that make up Toth’s cypher of\nSorcery)\nDuration: Concentration, up to 1 minute\n\nYour eyes turn to ever-splitting silvery mirrors as you\ndivine the core runes that make up the arcane world.\nChoose a spellcasting list.\n\nYou gain the ability to cast any spell of 9th level or lower\nfrom that list, as if you knew them and had them\nprepared. While you maintain concentration on this\nspell, they count as spells of your class for you.\nAdditionally, for the duration of this spell, when you cast\na spell of 8th level or lower from the chosen spell list,\nyou do not expend a spell slot.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 123,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.52cf0ec0410a1238",
+      "_id": "52cf0ec0410a1238",
+      "name": "p. 124 - Apocalypse",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 124</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Apocalypse\n\n10th-level evocation\n\nClasses: Cleric, Druid, Warlock, Wizard\nCasting Time: 1 hour\nRange: 10 miles\nComponents: V, S, M (a handful of earth from the\nbody of Geb, a living flame from the plane of fire, a gust\nof wind from Zephyr’s courtyard, and a gallon of silver\nwater from the fountains of Atlantis)\nDuration: Concentration, up to 8 hours\n\nYou open a rift to the four elemental planes,\ncommanding the elements to create an apocalyptic\nnatural disaster capable of laying waste to a city. When\nyou finish casting this spell, the elements surround you,\nand a 10-foot radius beam of energy descends from the\nheavens to illuminate you for the duration. The beam\nsheds bright light out to 60 feet, and dim light for\nanother 60 feet. For the duration of the spell, you\nlevitate 60 feet off the ground and must use your action\nevery turn to channel the elements. If you move or are\nmoved outside of the energy beam, or you lose\nconcentration, the spell ends. This spell can only be cast\nunder an open sky. At the start of each of your turns for\nthe duration of this spell, choose one of the following\neffects to take place in a location of your choosing\nwithin range.\n\nEarth. A terrible earthquake ravages the land. Choose a\npoint within range. A powerful seismic disruption\noccurs in a 200-foot-radius circle centered on that point.\nHundreds of fissures open in the area, swallowing\nwhatever is on the surface, leaving only a crater in the\nearth. Each creature within the area must make a\nDexterity saving throw, taking 10d6 bludgeoning\ndamage on a failure and falling prone into the crater, or\nhalf as much on a success and not falling prone. A\ncreature that can fly automatically succeeds this saving\nthrow. The ground in the area becomes difficult terrain.\nEach creature on the ground that is concentrating must\nmake a Constitution saving throw. On a failed save, the\ncreature’s concentration is broken.\n\nThe tremor deals 50 bludgeoning damage to any\nstructure in contact with the ground in the area when\nyou use this effect, and each time you choose this effect\nagain until the spell ends. If a structure drops to 0 hit\npoints, it collapses and potentially damages nearby\ncreatures. A creature within half the distance of a\nstructure’s height must make a Dexterity saving throw.\nOn a failed save, the creature takes 5d6 bludgeoning\ndamage, is knocked prone, and is buried in the rubble,\nrequiring a DC 20 Strength (Athletics) check as an\naction to escape. The GM can adjust the DC according\nto the nature of the rubble. On a successful save, the\ncreature takes half as much damage and doesn’t fall\nprone or become buried.\n\nAir. You create four violent tornadoes that assail the\narea. Choose four points you can see within range.\n\nTornadoes appear in 15-foot radius, 120-feet tall\ncylinders centered on each point. The tornadoes move\nup to 30 feet at the start of each of your turns in a\nrandom direction and last for one minute. You can use\nthis effect again to choose the direction of the\ntornadoes, or to create four tornadoes in new locations,\nreplacing the previous four. Any creature that starts its\nturn within a tornado must make a Strength saving\nthrow. On a failed save, the creature takes 5d6\nbludgeoning damage and is pushed 20 feet in a random\ndirection and 30 feet up. On a successful save, the\ncreature takes half as much damage and isn’t pushed.\nFlying creatures make this saving throw with\ndisadvantage. Objects that weigh up to 200 pounds are\nalso pushed around by the tornado. A creature that is\npushed in this manner lands prone and takes 6d6\nbludgeoning damage.\n\nWater. Torrential rain assails a 400-foot-radius circle\ncentered on a point you can see within range, drowning\nthe area in a matter of minutes. The area becomes\nlightly obscured. All creatures within it must succeed on\na Strength saving throw or be swept up by the water\nand moved 60 feet in a direction determined by the flow\nof the current. A creature that fails this saving throw by\n5 or more is pulled under the water and starts drowning\nif it breathes air.\n\nFire. You summon a pillar of radiance and flame in a\n30-foot radius, 200-feet-tall cylinder centered on a point\nwithin range. Each creature within the area must make\na Dexterity saving throw, taking 8d8 fire damage and\n8d8 radiant damage on a failed save, or half as much on\na successful one. The fire spreads around corners. It\nignites flammable objects in the area that aren’t being\nworn or carried. Objects ignited by the flames of this\nspell burn at twice the normal rate and require twice as\nmuch water to put out.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 124,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.ec31c092f682dd7b",
+      "_id": "ec31c092f682dd7b",
+      "name": "p. 125 - Avatar",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 125</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Avatar\n\n10th-level transmutation\n\nClasses: Cleric, Druid, Sorcerer, Warlock\nCasting Time: 1 action\nRange: Self\nComponents: V, S, M (a diamond worth at least\n\n10,000 G.P, which the spell consumes)\nDuration: 1 hour\n\nYou transform into an Avatar, a gargantuan elemental of\narcane energy. You can have your avatar take any form\nyou like, from a titanic animal to a spiritual version of\nyourself. You must have the space to grow to\nGargantuan size without squeezing.\n\nWhen you cast this spell, you enter a trance-like state\nand experience the world through the Avatar. You are\n\nAvatar\nGargantuan elemental (titan), any alignment\n\nArmor Class 25 (natural armor)\n\nHit Points 350 (20d20 + 140)\n\nSpeed 60 ft., fly 30 ft. (hover)\n\nSTR\nDEX\nCON\nINT\nWIS\nCHA\n\n30 (+10)\n8 (-1)\n25 (+7)\nX (-)\nX (-)\nX (-)\n\nDamage Immunities poison; slashing, piercing and\nbludgeoning from nonmagical attacks\nCondition Immunities charmed, frightened, poisoned,\nexhaustion\nSaving Throws Strength +17, Constitution +14\nSenses truesight 120 ft., passive Perception equal to that of\nthe caster\nLanguages –\nChallenge 23 (50,000 XP)\n\nProficiency Bonus +7\n\nLimited Magic Immunity. The Avatar can’t be affected or\ndetected by spells of 6th level or lower unless it wishes to be.\nIt has advantage on saving throws against other spells and\nmagical effects. These benefits extend to the caster.\n\nAvatar. The Avatar has the same Intelligence, Wisdom, and\nCharisma scores as its caster.\n\nentombed in its center, unable to move, and are\nprovided with full cover from all attacks and effects\noriginating outside the Avatar. Lingering effects, such as\na poison or curse, still affect your regular form while\nyou are inside the Avatar. For the duration of the spell,\nyou control the Avatar, whose statistics are outlined in\nthe next page. While entombed within the Avatar, you\ncannot cast spells, speak or perform any other actions\nthat its form cannot accommodate. When the spell ends,\nyou float slowly to the ground. The spell ends early if the\nAvatar is reduced to 0 hit points, you are reduced to 0\nhit points, or your body is transported outside of the\nAvatar. Your body remains visible inside the Avatar, and\ncan be targeted by effects that aren’t rendered moot by\nfull cover. The Avatar provides you with benefits to\nsaving throws and protections against certain effects, as\ndetailed in its stat sheet.\n\nMagic Weapons. The Avatar’s weapon attacks are magical.\n\nSiege Monster. The Avatar deals double damage to objects\nand structures.\n\nImmutable Form. The Avatar is immune to any spell or effect\nthat would alter its form.\n\nActions\n\nMultiattack. The Avatar makes two Slam attacks and uses its\nBeam.\n\nSlam. Melee Weapon Attack: +17 to hit, reach 30 ft., one\ntarget. Hit: 24 (4d6 + 10) bludgeoning damage.\n\nBeam. The Avatar shoots a beam of pure energy forming a\nline 100 feet long and 5 feet wide in a direction of its choice.\nEach creature in the line must make a DC 22 Dexterity saving\nthrow. A creature takes 35 (10d6) force damage on a failed\nsave, or half as much damage on a successful one.\n\nPrimordial Endurance. The Avatar prepares for an incoming\nstrike. Until the end of its next turn, it gains resistance to all\ndamage except psychic damage.\n\nArcane Meteor (1/day). The Avatar hurls an arcane meteor\nonto a point within 500 feet of it. Each creature in a 40-footradius sphere centered on that point must make a DC 22\nDexterity saving throw. A creature takes 49 (15d6) force\ndamage and 49 (15d6) bludgeoning damage on a failed\nsave, or half as much damage on a successful one.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 125,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.7465d069bcdf02af",
+      "_id": "7465d069bcdf02af",
+      "name": "p. 126 - Cloak of Barbatos",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 126</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Cloak of Barbatos\n\n10th-level necromancy\n\nClasses: Cleric, Sorcerer, Warlock\nCasting Time: 1 action\nRange: self (15-foot radius, 5-foot-high cylinder)\nComponents: V, S, M (a cigar of infernal tobacco\nworth at least 100 GP, which the spell consumes)\nDuration: Concentration, up to 1 minute\n\nYou exhale deathly smoke from your nose and mouth,\nwhich coalesces into a huge cloak of decay that wraps\naround you, killing everything in your path. The cloak is\na 15-foot-radius, 5-foot-high cylinder that moves with\nyou. Creatures that enter that area for the first time in a\nround of combat must make a Constitution saving\nthrow, taking 8d6 x 10 necrotic damage on a failed save,\nor half as much on a successful one. A creature that is\nreduced to 0 hit points by this spell is liquified, dying\ninstantly and having its body destroyed.\n\nDivine Rift\n\n10th-level conjuration\n\nClasses: Cleric, Wizard\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S, M (a rapier-sized ornamental\nneedle worth at least 10.000 GP)\nDuration: Until dispelled\n\nYou speak a word of power, and the continuum of space\nis rearranged to create a passage between your location\nand another location anywhere in the cosmos. A rift,\none inch thick and up to 20 feet tall and 20 feet long,\nappears centered in an unoccupied space of your choice\nwithin range, and another of the same size appears at a\nspecific spot of your choice on the destination. This\nspell can connect two points between different planes of\nexistence, even to dimensions unknown to you. If you\nare unfamiliar with the destination, the portal appears\nin an advantageous position near your intended point of\narrival, though not exactly on target. If you attempt to\nconnect your base with the castle of an evil overlord in\nanother plane of existence, for example, the Divine Rift\nmight appear outside the evil overlord’s stronghold,\nbehind the cover of a forest wall.\n\nIf you are familiar with the destination point, the\nDivine Rift forms exactly where you choose.\n\nOnly creatures of your choice can use the rift. You can\nalso designate a passcode that can be spoken to open or\nclose the passage through it. Creatures that walk\nthrough the rift appear on the other side as if the two\nlocations were contiguous.\n\nYou can only have one Divine Rift active at a time. If\nyou cast this spell again, any previous Divine Rifts you\nhave opened are dispelled. You can choose to close the\nDivine Rift at any point as an action.\n\nThis spell overcomes all restrictions for interplanar\nshifts, allowing travel anywhere within the universe,\nregardless of divine mandate. It can access unknown\ndimensions, from ancient demiplanes to heavily\nguarded tombs of old. A deity or creature of similar\npower is still capable of closing the rift by focusing their\ndivine power, but can only do so after one minute has\npassed since the spell was cast.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 126,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.e46a18ea22c3ed60",
+      "_id": "e46a18ea22c3ed60",
+      "name": "p. 127 - Greater Simulacrum",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 127</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Greater Simulacrum\n\n10th-level illusion\n\nClasses: Wizard\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S, M (a shadow caught in a bottle, a\nhandful of snow from Tartarus, a shard of glass from\nthe City of Mirrors, and a pinch of salt sprinkled in the\nair)\nDuration: Concentration, up to 1 hour\n\nYou shape an illusory duplicate of up to four creatures\nwithin range. The duplicates are shadowy forms,\npartially real, and can take actions and be affected as a\nnormal creature would. The illusions use all the\nstatistics of the creatures they duplicate, except that\nthey are Constructs and can have a maximum of 300 hit\npoints. A duplicate forms with all of the target’s\nequipment, except for Artifacts and Relics.\n\nThese duplicates do not possess the ability to cast\n10th-level spells nor use features or abilities that\nexpend more than 2 Legendary Points at a time. They\notherwise have all the abilities of their real\ncounterparts, mimicking their targets’ capabilities with\nuncanny precision. A simulacrum cannot create another\nsimulacrum nor recover Legendary Points.\n\nThe simulacri are friendly to you and creatures you\ndesignate. They obey your mental commands (no action\nrequired), moving and acting in accordance with your\nwishes. The duplicates act after their real counterparts\nin the initiative order. The simulacri lack the ability to\nlearn or become more powerful. They cannot learn new\nspells, gain class levels, or recover spent resources.\n\nThe simulacri last for an hour, until they are reduced\nto 0 hit points, or until your concentration ends, at\nwhich point they de-materialize into fading wisps of\nshadow. When a simulacrum is destroyed, any lingering\neffects it has created disappear alongside it.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 127,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.c7b96a4c707ffda1",
+      "_id": "c7b96a4c707ffda1",
+      "name": "p. 128 - Horde to Stone",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 128</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Horde to Stone\n\n10th-level enchantment\n\nClasses: Bard, Sorcerer, Warlock\nCasting Time: 1 minute\nRange: 10 miles\nComponents: V, S, M (a blank puppet and a steel pin)\nDuration: concentration, up to 1 hour\n\nDescribe the targets you wish this spell to affect with as\nmuch or as little detail as you choose. You can specify\ncreature types, age ranges, genders, allegiance to a\nsovereign or organization, alignment, and similar\ncriteria. The description must be short enough to be\nspoken within this spell’s casting time. As you speak,\nthe puppet used in the casting magically acquires the\nfeatures of the creatures you describe. To complete the\ncasting, you must drive the steel pin into the heart of the\npuppet.\n\nWhen you finish casting this spell, a wave of arcane\nenergy washes out from the puppet, and each creature\nthat fits your description within range must succeed on\na Wisdom saving throw or be petrified. If you\nconcentrate for the full duration of the spell, the\npetrification lasts until dispelled.\n\nKilling Winds\n\n10th-level necromancy\n\nClasses: Cleric, Warlock\nCasting Time: 1 action\nRange: 500 feet\nComponents: V, S, M (the carcass of an infernal locust\nand the favor of a deity)\nDuration: Instantaneous\n\nA powerful wind lifts from a point you choose within\nrange, and with it, the last breath of all mortals.\nCreatures with less than 100 hit points in a 100-footradius sphere centered on that point die instantly,\ndropping limp where they stand. Creatures with more\nthan 100 hit points must succeed on a Constitution\nsaving throw or die instantly. The wind violently swings\nopen doors and windows and extinguishes open flames,\nbut affects no other physical entities. Creatures\nsurrounded by at least 10 feet of solid matter are not\naffected by this spell.\n\nMass Foresight\n\n10th-level divination\n\nClasses: Bard, Druid, Warlock, Wizard\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S, M (a divination fractal with six\nsurfaces worth at least 1,000 gp, which the spell\nconsumes)\nDuration: 8 hours\n\nYou tap into the possibilities contained within the\nfractal, splitting it into up to six shards, which you can\nbestow upon willing creatures within range. Each shard\naffixes to a creature’s forehead as a tiny item with an AC\nequal to the bearer’s AC + 5, 30 hit points, and\nimmunity to all damage except force. A fractal shard can\nbe destroyed or dislodged from a creature’s forehead by\na creature grappling the bearer as an action.\n\nA creature bearing a fractal shard gains a limited ability\nto see into the immediate future. It can’t be surprised\nand has advantage on attack rolls, ability checks, and\nsaving throws. Additionally, other creatures have\ndisadvantage on attack rolls against it.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 128,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.3ff220680f5d0905",
+      "_id": "3ff220680f5d0905",
+      "name": "p. 129 - Miracle",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 129</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Miracle\n\n10th-level evocation\n\nClasses: Cleric, Druid\nCasting Time: 1 action\nRange: Touch\nComponents: V, S, M (A shard of moonsilver worth\n1,000 G.P)\nDuration: Instantaneous\n\nYou place your hands upon a creature you can see\nwithin range, summoning a surge of positive energy that\nfloods its body and spirit. The target regains all its hit\npoints, it is cured of all conditions affecting it, including\nthose that would normally require a specific spell or\nability to remove, and it is freed from any curse or\nharmful magical effect affecting it.\n\nThis spell restores all of the target’s expended class\nfeatures, abilities, and spell slots. Only spell slots of 9th\nand 10th-level, uses of Mythical Techniques, and\nlegendary class features with limited usage are not\nrestored.\n\nAlternatively, you can target the body of a creature\nthat has been dead for no longer than one minute. This\nspell restores them to life with all their hit points and\nregrows missing body parts, if any. This use requires\nonly a diminutive part of a deceased creature–a hair, a\ntooth, its ashes, or disintegrated remains suffice to\nrecreate the rest of the body.\n\nMiracle can end, cure, or dispel effects that would\notherwise require a Wish spell, such as reconstructing a\nsoul that was destroyed. The DM has final say on what\neffects are within the scope of Miracle to cure.\n\nPatron’s Blast\n\n10th-level evocation\n\nClasses: Warlock\nCasting Time: 1 action\nRange: Self (240-foot line)\nComponents: V\nDuration: Instantaneous\n\nYou speak a word of power and release the full,\nunrestrained might of your patron in a catastrophic\nburst of disintegrating energy. A 240-foot long, 10-foot\nwide line of raw magical force erupts from you, its color\nand shape a reflection of your patron’s nature–a wall of\nhellfire, a celestial streak of silver light, an eldritch tide\nof writhing darkness.\n\nEach creature in the line must make a Constitution\nsaving throw, taking 8d10 x 10 force damage on a failed\nsave, or half as much on a successful one. A creature\nthat fails this saving throw by 5 or more is also\nincapacitated until the end of its next turn, as the blast\ntears through it. If this damage reduces a creature to 0\nhit points, it is disintegrated. A disintegrated creature,\nalong with everything it wears and carries except magic\nitems, is reduced to a pile of fine gray dust. A\ndisintegrated creature can only be restored to life by a\nTrue Resurrection or Wish spell.\n\nThis spell automatically destroys Large or smaller\nnonmagical objects and creations of magical force. If\nthe target is a Huge or larger object or a creation of\nforce, the spell destroys a 10-foot-cube portion of it.\nRare or rarer magic items are not destroyed.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 129,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.e5a76e39a94ccec8",
+      "_id": "e5a76e39a94ccec8",
+      "name": "p. 130 - Rimley’s Pulse",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 130</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Rimley’s Pulse\n\n10th-level abjuration\n\nClasses: Bard, Sorcerer, Wizard\nCasting Time: 1 action\nRange: Self (1 mile radius)\nComponents: V, S, M (a finely tuned platinum chime\nworth at least 10.000 GP)\nDuration: Instantaneous\n\nYou release a disrupting, high-pitched musical note that\nreverberates in a 1-mile radius. An audible hum fills the\narea, and every ongoing magical effect of 9th level or\nlower is instantly dispelled. Spellcasters in the area lose\nconcentration on any spell they maintain. Magic items\nin the area that aren’t legendary, artifacts, or relics lose\ntheir magical properties and become mundane. A\ncreature attuned to one or more affected items can\nmake a single Charisma saving throw; on a success,\nthose items retain their magic.\n\nConstructs animated by magic that doesn’t originate\nfrom a deity or an artifact must succeed on a\nConstitution saving throw or be destroyed.\n\nTheophrastus’ Flux\n\n10th-level transmutation\n\nClasses: Bard, Sorcerer, Warlock, Wizard\nCasting Time: 1 action\nRange: Self (15-foot cone)\nComponents: V, S, M (a transmutation stone worth at\nleast 5,000 GP)\nDuration: Concentration, up to 3 rounds\n\nYou manifest a formidable pulse of volatile\ntransmutation in your hand, nourishing it before setting\nit loose in a 15-foot cone in front of you. The pulse\ntransforms everything in its path into a nonmagical\nmaterial of your choice, such as gold, glass, wood, or\nsand. Creatures in the area must make a Constitution\nsaving throw against the spell, taking 8d6 x 10 force\ndamage on a failed save, or half as much on a successful\none. A creature entirely contained within the area of the\nspell has disadvantage on the saving throw. If this spell\nreduces a creature to 0 hit points, it is completely\ntransformed into the chosen material. Magic items that\nare of Legendary, Artifact, or Relic rarity are not\ntransformed by this spell.\n\nWhen you cast this spell, you can hold it to increase its\nrange and potency, releasing it in one of your\nsubsequent turns by using an action. To maintain such a\npowerful arcanism, you must expend your action on\neach of your turns to hold the spell. If you hold it for 1\nround, the range becomes a 30-foot cone instead, and\nthe damage increases to 8d8 x 10. If you hold it for 2\nrounds, you can choose to make the range a 60-foot\ncone, and the damage increases to 8d12 x 10. If you\n\nhold it for 3 rounds, you can choose to make the range a\n90-foot cone, and the damage increases to 8d20 x 10.\n\nIf you lose concentration on this spell before you release\nit, you regain the Legendary Points you spent on its\nchanneling, but you lose the 10th-level spell slot.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 130,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.a2b506c96a5974d2",
+      "_id": "a2b506c96a5974d2",
+      "name": "p. 131 - True Wish",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 131</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">True Wish\n\n10th-level conjuration\n\nClasses: Bard, Sorcerer, Wizard\nCasting Time: 1 action\nRange: Self\nComponents: V\nDuration: Instantaneous\n\nWish, at 10th-level, is the mightiest spell a mortal\ncreature can cast. By simply speaking aloud, you can\nalter the very foundations of reality in accord with your\ndesires. The basic use of this spell is to duplicate any\nother spell of 9th level or lower. You don’t need to meet\nany requirements in that spell, including costly\ncomponents. The spell simply takes effect.\n\nAlternatively, you can create one of the following effects\nof your choice:\n\n+\n\nYou create one object of up to 50,000 gp in value\nthat isn’t a magic item. The object can be no more\nthan 300 feet in any dimension, and it appears in an\nunoccupied space you can see on the ground.\n\n+\n\nYou allow up to twenty creatures that you can see to\nregain all hit points, and you end all effects on them\ndescribed in the Greater Restoration spell.\n\n+\n\nYou grant up to ten creatures that you can see\nresistance to all damage, including Dark and Lethal\ndamage, for the next 24 hours.\n\n+\n\nYou grant up to ten creatures you can see immunity\nto a single spell or other magical effect for 8 hours.\nFor instance, you could make yourself and all your\ncompanions immune to a lich’s life drain attack.\n\n+\n\nYou undo a single recent event by changing the\nresult of any roll made within the last round\n(including your last turn). Reality reshapes itself to\naccommodate the new result. For example, a Wish\nspell could undo an opponent’s successful save, a\nfoe’s critical hit, or a friend’s failed save, and replace\nit with a new roll.\n\nYou might be able to achieve something beyond the\nscope of the above examples. State your wish to the GM\nas precisely as possible. The GM has great latitude in\nruling what occurs in such an instance; the greater the\nwish, the greater the likelihood that something goes\nwrong. This spell might simply fail, the effect you desire\nmight only be partly achieved, or you might suffer some\nunforeseen consequence as a result of how you worded\nthe wish. For example, wishing that a villain were dead\nmight propel you forward in time to a period when that\nvillain is no longer alive, effectively removing you from\nthe game. Similarly, wishing for a legendary magic item\nor artifact might instantly transport you to the presence\nof the item’s current owner.\n\nThe stress of casting this spell to produce any effect\nother than duplicating another spell weakens you. After\nenduring that stress, each time you cast a spell until you\nfinish a long rest, you take 1d10 Soul damage per level\nof that spell. This damage can’t be reduced or prevented\nin any way. In addition, your Strength drops to 3 if it\nisn’t 3 or lower already, for 2d4 days. For each of those\ndays that you spend resting and doing nothing more\nthan light activity, your remaining recovery time\ndecreases by 2 days.\n\nOne Wish. True Wish at 10th level is the most\npowerful effect you can manifest, as a mortal creature.\nRegardless of the effect you bring into existence–even\nduplicating a spell or creating one of the effects listed\nabove–you are unable to cast Wish at 10th level ever\nagain. Knowing the 10th-level version of Wish still\nallows you to cast it at 9th level. Alternatively, at your\nDM’s discretion, you can learn a new 10th-level spell\nduring an appropriate amount of downtime to replace it.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 131,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.19ccef39008ab5f4",
+      "_id": "19ccef39008ab5f4",
+      "name": "p. 132 - Wrath of Nature",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 132</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Wrath of Nature\n\n10th-level conjuration\n\nClasses: Druid\nCasting Time: 1 action\nRange: 1 mile\nComponents: V, S, M (a bronze twig from the\nforgotten forests of Elphame)\nDuration: Concentration, up to 8 hours\n\nYou call upon the natural world to rise against those\nwho would threaten it. Choose a point you can see\nwithin range. For the duration, a 500-foot-radius circle\ncentered on that point becomes a living battlefield, as\nevery root, stone, and beast awakens with purpose.\nArtificial terrain in the area is destroyed and returns to\nits original form. Towers of stone become rolling hills,\nlibraries of wood and paper turn to trees, and dams\nrelease rivers back into the soil. Great structures do not\ncrumble under the power of this spell, but smaller\nnonmagical artificial creations permanently return to\ntheir pre-civilization shapes.\n\nIf you cast this spell in a location where nature has\nbeen deliberately corrupted, desecrated, or destroyed –\na razed forest, a poisoned river, a city built upon sacred\nland – the spell’s radius doubles and each of its damage\nrolls increases by one die. The DM determines whether\na location qualifies.\n\nFor the duration, the area is transformed in the\nfollowing ways:\n\n+\n\nDifficult Terrain. The ground throughout the area\nbecomes difficult terrain for any creature you\ndesignate as an enemy when you cast this spell.\n\n+\n\nEnsnaring Growth. At the start of each of your\nturns, creatures of your choice within the area must\nsucceed on a Strength saving throw or become\nrestrained until the start of your next turn, as roots\nand vines surge up to bind them.\n\n+\n\nBeast Tide. A tide of ghostly creatures native to the\nterrain – wolves, bears, eagles, serpents, or similar –\nsurges through the area for the duration. At the start\nof each of your turns, each creature of your choice in\nthe area takes 4d10 Soul damage as the ghostly tide\nwashes over them. This damage cannot be avoided.\n\n+\n\nEyes of the Wild. For the duration, you are aware\nof the location of every creature within the area, as\nthe natural world feeds you information through\nroots, winds, and tides. You cannot be surprised, and\nyou gain truesight out to 60 feet.\n\nBoons of Nature. When you cast this spell, you can\ndesignate any number of creatures you can see as\nallies. Allied creatures within the area are unaffected\nby its hostile effects, ignore difficult terrain, and\nregain 2d10 hit points at the start of each of their\nturns.\n\n+\n\nChanging Environment. When the spell ends or is\ninterrupted, the area loses its magical properties but\nremains transformed. Trees that have grown over\nstreets stand tall, rivers that escaped their dams find\nnew paths, and stones raised from the earth settle into\nnew positions.\n\nRestoration. This spell can also be cast over a plot of\nland in need of healing rather than war. When cast this\nway, you can choose to forgo all of the spell’s hostile\neffects for the duration, channeling its power entirely\ninto restoring and revitalizing the land to its natural\nstate.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 132,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!fe702c6e76ef36e8.a15f2b57eb7a81a6",
+      "_id": "a15f2b57eb7a81a6",
+      "name": "p. 133 - Page 133",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 133</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\"></pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 133,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    }
+  ],
+  "categories": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "book-reference",
+      "sourcePages": "118-133",
+      "language": "en-US",
+      "originalText": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_key": "!items!8fb109fff4648e35",
+  "_id": "8fb109fff4648e35",
+  "name": "Legendary Rogue - Level 20",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 62-65.</p><p>Level 20</p><p>Legendary Points</p><p>Starting at 20th level, you gain Legendary Points. Your level determines the number of points you have, as shown in the Legendary Points column of the Legendary Rogue table. You can take the Recover action on your turn to regain all expended Legendary Points. You can spend these points to fuel various features.</p><p>Legendary Resistance</p><p>Starting at 20th level, you can expend 1 Legendary Point when you fail a saving throw to succeed instead.</p><p>Legendary AC</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC in any way, except by temporary AC increases or magical effects lasting 1 hour or less. Other spells and effects that increase your AC only affect your regular AC.</p><p>Mortal Blow</p><p>When you reach 20th level, you learn to utilize your stealth to perform a single mortal strike. When you use your Sneak Attack feature, you can expend 1 Legendary Point to perform a Mortal Blow. If you do so, your Sneak Attack Damage is multiplied by 3, as shown in the following table. While using Mortal Blow, your Sneak Attack damage cannot increase beyond the equation shown below and the attack does not benefit from any other bonus to its damage rolls. On a critical</p><p>Points</p><p>Talent, Untouchable 2</p><p>Reliable Luck 3</p><p>hit, the weapon damage is doubled as usual, but you do not multiply the Sneak Attack damage dice by 2, but instead add 4d6 to the equation.</p><p>Mortal Blow Damage</p><p>Level Damage Equation Critical Hit</p><p>20th 10d6 x 3 14d6 x 3</p><p>21st 12d6 x 3 16d6 x 3</p><p>22nd 14d6 x 3 18d6 x 3</p><p>23rd 16d6 x 3 20d6 x 3</p><p>24th 18d6 x 3 22d6 x 3</p><p>25th 20d6 x 3 24d6 x 3</p><p>Unlike other Multiplier Attacks, Mortal Blow is not an action and is added to the regular damage of the weapon attack with which it is performed. As long as you are performing a Sneak Attack and you have Legendary Points to spare, you can use Mortal Blow. Once you perform a Mortal Blow, you cannot do so again until the start of your next turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-rogue-level-20",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "62-65",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Rogue level 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "62-65",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Rogue",
+      "legendaryLevel": 20
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

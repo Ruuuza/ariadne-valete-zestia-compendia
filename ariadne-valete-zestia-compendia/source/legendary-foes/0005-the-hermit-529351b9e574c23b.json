@@ -1,0 +1,253 @@
+{
+  "_key": "!actors!529351b9e574c23b",
+  "_id": "529351b9e574c23b",
+  "name": "The Hermit",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 32,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 32
+      },
+      "dex": {
+        "value": 26,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 26
+      },
+      "con": {
+        "value": 29,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 29
+      },
+      "int": {
+        "value": 26,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 26
+      },
+      "wis": {
+        "value": 34,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 34
+      },
+      "cha": {
+        "value": 34,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 34
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 26,
+        "calc": "flat",
+        "formula": "",
+        "value": 26
+      },
+      "hp": {
+        "value": 2145,
+        "max": 2145,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": ""
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 120,
+        "swim": 0,
+        "walk": 50,
+        "units": "ft",
+        "hover": true
+      },
+      "senses": {
+        "darkvision": 0,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 240,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "",
+      "prof": 12
+    },
+    "details": {
+      "biography": {
+        "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 202-207.</p><p>The Hermit Gargantuan celestial / dragon, true neutral</p><p>Armor Class 26 (natural armor)</p><p>Hit Points 2145 (110d20 + 990)</p><p>Speed 50 ft., fly 240 ft. (hover)</p><p>STR DEX CON INT WIS CHA</p><p>32 (+11) 26 (+8) 29 (+9) 26 (+8) 34 (+12) 34 (+12)</p><p>Saving Throws Str +21, Con +19, Wis +22, Cha +22 Skills Stealth +18, History +18, Insight +32, Perception +32 Damage Resistances cold, fire, lightning, necrotic, radiant Damage Immunities poison; bludgeoning, piercing, and slashing from nonmagical attacks Condition Immunities charmed, exhaustion, frightened, paralyzed, poisoned, prone Senses truesight 120 ft., passive Perception 42 Languages All, telepathy 1000 ft. Recommended Level 24th - 25th</p><p>Proficiency Bonus +10</p><p>Draconic Celestial. The Hermit is both a dragon and a celestial. Spells, abilities, and other effects that target either of those creature types affect the Hermit.</p><p>Limited Magic Immunity. The Hermit can’t be affected or detected by spells of 3rd level or lower unless he wishes to be. He has advantage on saving throws against all other spells and magical effects.</p><p>Divine Domain. The Hermit is a shard of an elder god and carries divinity in its purest, unbroken form. In the event of the Hermit’s demise, the mysterious divine domain he carries will splinter into 1d4 + 1 Threads of Divinity. These Threads will immediately be sent across the cosmos to key locations determined by the Hermit through hidden cosmic currents. Mortals who have passed the Hermit’s Trial and are living become aware of the exact location of the Threads of Divinity. At the moment of the Hermit’s demise, all Clerics that gain power from him lose their connection to the divine and must worship another deity.</p><p>Astral Entity. The Hermit doesn’t require air, food, drink, or sleep, and can’t leave the Astral Plane, nor can he be banished or otherwise transported out of that plane.</p><p>Legendary Caster. The Hermit can concentrate on two spells simultaneously. If he fails a concentration check, he loses concentration on all spells he is currently concentrating on. In addition, the Hermit can cast various spells that expend spell slots in the same turn, ignoring the usual restrictions for spellcasting.</p><p>Wandering Hermit (1/day). The Hermit can manifest a projection of himself in a plane of existence of his choosing.</p><p>This projection is a Medium humanoid, has 502 hit points, an AC of 22, and shares the Hermit’s statistics, Limited Magic Immunity, Two-Pronged Staff, Innate Spellcasting, and Draconic Celestial traits, and only has access to the Wish and Change Shape actions. The Projection has access to the following Extra Actions: Nullify, Cast Spell, Plane Shift, Cosmic Wrath, Gate, Time Stop, and Abjure. The Projection is an extension of the Hermit and shares Legendary Points with its true form.</p><p>The Projection can take any appearance the Hermit chooses, most often that of a mundane shepherd. The Hermit can either control the projection or take actions with his real body, but not both. If the Projection is destroyed, the Hermit cannot use this feature again for the next 24 hours. The Projection can be dismissed by the Hermit at any point, in which case it can reappear in another plane of existence of the Hermit’s choice after an hour.</p><p>Special Equipment. The Hermit carries an artifact called The Two-Pronged Staff. The Staff is attuned to the Hermit in all his forms and scales to the Hermit’s current size. In the hands of anyone other than the Hermit, the Two-Pronged Staff is a +5 quarterstaff. If the Hermit is destroyed and his Divinity splintered as per the Divine Domain trait, the TwoPronged Staff can only attune to mortals who passed the Hermit’s Test.</p><p>Cosmic Strikes. The Hermit’s attacks are magical. When the Hermit hits a target with an attack, creatures and objects within 15 feet of the target are also targeted by that attack. The attack roll remains the same for all targets.</p><p>Phase Transition. When the Hermit is lowered to 1300 or fewer hit points, and again when he is lowered to 600 or fewer hit points, he is cleansed of all harmful conditions currently affecting him and immediately uses his Misanthropy lair action.</p><p>Legendary Foe</p><p>The Hermit has 5 Legendary Points (LP). He can use these points to fuel certain abilities. Once he uses a feature or action that consumes a Legendary Point, he cannot use that same ability again until the start of his next turn. The Hermit regains spent Legendary Points at the start of his turn.</p><p>Legendary Resistance. When The Hermit fails a saving throw, he can expend 1 Legendary Point to succeed instead.</p><p>Legendary Endurance. When The Hermit takes damage, he can expend 1 Legendary Point to reduce the damage taken by 100.</p><p>Cleanse Effect. If the Hermit starts his turn affected by a condition or magical effect of 7th level or lower, he can expend 1 Legendary Point to end the effect. If the effect or condition is of 8th or 9th level, or from a Mythical Technique, the Hermit must expend 2 Legendary Points to end that effect. Effects originating from a 10th-level spell cannot be cleansed in this way.</p><p>Innate Spellcasting</p><p>The Hermit’s spellcasting ability is Wisdom (spell save DC 30, +22 to hit with spell attacks). The Hermit can innately cast the following spells, requiring only verbal components:</p><p>At Will. dimension door, plane shift, resurrection, scrying, sunburst, wall of force</p><p>3/day each. antimagic field, force cage, power word stun</p><p>2/day each. maze, prismatic wall, weird</p><p>1/day, costs 2 Legendary Points. Greater Simulacrum</p><p>Actions</p><p>Multiattack. The Hermit makes two attacks with his Titan’s Staff. The Hermit can forgo one of his attacks to cast a spell from his Innate Spellcasting.</p><p>Titan’s Staff (+4). Melee Weapon Attack: +25 to hit, reach 30 ft., one target. Hit: 48 (5d12 + 15) bludgeoning damage plus 45 (10d8) radiant damage.</p><p>Two-Pronged Staff. The Two-Pronged Staff has 10 charges. The Hermit can expend 1 or more charges to cast one of the following spells (DC 25): Teleport (1 charge), Divine Word (1 charge), Power Word Stun (2 charges), Imprisonment (3 charges), Divine Rift (5 charges), Rimley’s Pulse (5 charges).</p><p>Breath Weapons (Costs 3 LP). The Hermit uses one of the following breath weapons.</p><p>Voice of the Stars: The Hermit speaks a singular word, and a radiant blast of starlight erupts in a 120-foot cone. Each creature in that area must make a DC 27 Constitution saving throw, taking 112 (25d8) radiant damage and being stunned until the end of their next turn on a failed save, or half as much damage and not being stunned on a successful one.</p><p>Breath of the End Times (1/day): The Hermit exhales a burst of reality-altering energy in a 1000-foot line that is 30 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 225 (10d8 x 5) Soul damage on a failed save, or half as much damage on a successful one. A creature that fails this saving throw must then succeed on a DC 27 Charisma saving throw or be banished from thought and time, into a dimension beyond our own. Only a Wish or Divine Rift spell can bring them back.</p><p>Change Shape. The Hermit magically polymorphs into a humanoid, celestial, or beast that has a challenge rating no higher than his own, or back into his true form. He reverts to his true form if he dies. Any equipment he is wearing or carrying is absorbed or worn by the new form (the Hermit’s choice). In a new form, the Hermit retains his alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action, which becomes an action of the new form. His statistics and capabilities are otherwise replaced by those of the new form, except for any</p><p>class features or legendary actions and resistances of that form.</p><p>Wish (Costs 5 LP). The Hermit prepares to cast the Wish spell innately at 10th level, without expending a spell slot or requiring material components. He ends the casting of this spell at the beginning of his next turn. While he is casting this spell, a creature can attempt to interrupt the casting by dealing over 500 points of damage to the Hermit before the beginning of his next turn. If the Hermit is incapacitated, the Wish spell fails.</p><p>Bonus Actions</p><p>Hurl Star (Costs 1 LP). The Hermit hurls a brilliant star at a point he can see within one mile. Creatures within 30 feet of that point must make a DC 25 Dexterity saving throw, taking 70 (20d6) radiant damage, or half as much on a successful one.</p><p>Reactions</p><p>Divine Counterspell (Costs 1 LP). Whenever a creature within 60 feet of the Hermit casts a spell of 8th level or lower, the Hermit can choose to make the spell fail.</p><p>Barrier of Stars. When a creature makes an attack against the Hermit, he can increase his AC to 32 until the start of his next turn.</p><p>Extra Actions</p><p>The Hermit can take extra actions outside of his turn by expending Legendary Points, choosing from the options below. Only one extra action can be used at a time and only at the end of another creature’s turn.</p><p>Nullify (Costs 1 LP). The Hermit ends one ongoing magical effect of 7th level or lower within 120 feet of itself. The Hermit can expend 2 Legendary Points to end an ongoing magical effect of 9th level or lower.</p><p>Glide (Costs 1 LP). The Hermit moves up to half his maximum speed.</p><p>Titan’s Staff (Costs 1 LP). The Hermit makes one Titan’s Staff attack.</p><p>Cast Spell (Costs 2 LP). The Hermit casts a spell from his Innate Spellcasting trait.</p><p>Two-Pronged Staff (Costs 2 LP). The Hermit uses its TwoPronged Staff to cast a spell.</p><p>Cosmic Wrath (Costs 3 LP) (1/day). The Hermit casts the Meteor Swarm spell innately, without expending a spell slot or requiring material components.</p><p>Gate (Costs 3 LP) (1/day). The Hermit casts the Gate spell innately, without expending a spell slot or requiring material components.</p><p>Time Stop (Costs 3 LP) (1/day). The Hermit casts the Time Stop spell innately, without expending a spell slot or requiring material components.</p><p>The Hermit’s Lair</p><p>Unlike other Legendary Foes in this book, the Hermit cannot be fought outside of his lair. He will only do battle against those who find him, through the folds of space and time.</p><p>The Scar of Divinity</p><p>The Hermit’s lair has only been visited by Myriel Genra in known history. In their writings following their encounter with the creature, the Threadseeker of Divinity has named that cradle of light the Scar of Divinity. A cosmic expanse of a billion stars, where celestial bodies are born and die, comets streak across the heavenly canvas, inhabited only by the Hermit. A Universe within the Universe.</p><p>It is not a physical location–no amount of space-faring would allow someone to reach the Scar of Divinity. It is more akin to a pocket dimension, a frequency beyond even the ethereal plane, where all planes converge, folded in a single space. Like an onion, the Scar of Divinity seems to be layered in such a way that the Hermit never needs to leave it; indeed, it may even be incapable of doing so. It always delves deeper and deeper, like a serpent burrowing in cosmic sand.</p><p>Within the Scar of Divinity, all planes of existence can be accessed with a simple thought. There are even gates to places beyond the known Universe, which leads many among the City of Strings to believe the Scar of Divinity might stretch through the void, and into unknowable dimensions. The Hermit could very well be of another reality. Genra’s Theories</p><p>The Scar isn’t truly explainable with the current understanding of the cosmos that the City of Strings teaches. All theories are merely conjecture.</p><p>This said, Myriel Genra has established that the Scar of Divinity cannot be older than the Fall of the Gods, and must date to a point right after the War of Eternity. It is clear that the Hermit did not exist before the Fall, and neither did the Scar. The first of his many legends, featuring Atizai the Green, dates to several hundreds of years after the War of Eternity, which could well and truly be the origin of the Hermit’s well-documented assisting of heroes.</p><p>The Scar is named after the fall of the Gods, for it seems that, somehow, the Hermit was born out of that grand tragedy. This dimension, connecting all planes, is an opening, a defect of reality itself, probably created by the death of elder deities and the loss of aspects of reality we cannot even conceive of, in this wounded Universe. Genra managed to access it only by following the remnants of the Threads of Divinity; they all seem to connect back to this cradle of cosmic light. Perhaps only Wielders of Divinity are capable of following the threads in such a way as to find the Scar? The Garden of Eden</p><p>The Scar is intrinsically connected to every plane in the universe, yet of all possible locations to pick, those that are proven unworthy of the Test are banished to the Garden of Eden, where another known teacher of Heroes resides. The relation between the Hermit and Zedekiah is unclear, though they must be cooperating in some way against the efforts of the Void. The Hermit’s work within the Scar of Divinity must be of vital importance to the survival of the Universe, for it is protected by the very ghost of Tiamat. Both beings seem to be specters of Gods, after all.</p><p>Theseus’ Notes on Legendary Foes We do not require the great wars of elder times to vanquish. The universe is a darker, colder place than before, yet it has not drawn its final breath. Finesse incites much less unified resistance than brute force, my dear Eternity. Believe me, I know a thing or two about slaying noble monsters.</p><p>The Hermit will be a difficult challenge to face, yet one that must be met if we are to succeed. He will attempt to flee within his pocket dimension, and time and time again, we must endure his overpowering resolve to push us away. We must pursue relentlessly until the Hermit has nowhere else to hide. In this vein, we must find a way to withstand the banishing energies of that bleeding dimension. An artifact that would shield us from planar travel would be paramount. If not, there is no way to follow the Hermit through his infinite planes, and we will find ourselves in front of Zedekiah to face judgment. Do not worry, dear Eternity. We will slay her, too.</p><p>Perhaps another important factor in the defeat of the Hermit is the tool used for the job. Our arsenal is full of such artifacts; I recommend the Black Fate Armaments that the Teng so kindly forged for us. Without such means, the Hermit will disappear within the stars, never to be seen again.</p><p>We only have one shot, dear Eternity. If the Hermit feels threatened, he will close all gates to his lair for an Age. We must slay the beast. I can take this task upon myself. It would not be the first time I delved into a labyrinth.</p><p>Accessing the Scar</p><p>Only Wielders of Divinity can divine a path to the Scar. An Astral Projection ritual must be channeled by one or more Wielders of Divinity, in which several trials of the mind, created specifically to test each of the would-be contestants’ resolve, must be completed. These challenges revisit parts of the Wielders’ lives, which allows the Hermit to make a judgment about each contestant’s character. Once they are deemed worthy of an audience, the Astral Projection spell is completed, and every individual who took part in the ritual is transported to the Scar, regardless of whether they possess a Thread of Divinity or not.</p><p>There might be other ways to access the Scar without requiring the approval of the Hermit, yet the astral creature does not take well to intrusions. A Divine Rift spell, for example, can open the way without the need for an Astral Projection, making the Hermit’s Test more easily accessible, and maintain a path through the planes unto the Scar even if the Hermit banishes or slays the contestants.</p><p>Regional Effects</p><p>The Scar of Divinity is a virtually infinite space akin to the astral sea, filled with half-born stars, shadows of the void, and rifts in reality that connect to a thousand different planes of existence. Distance is relative in such a wide arena, and the Hermit is in control of the space between all who are currently in his domain. The following effects characterize this region.</p><p>Astral Space. Creatures within the Scar of Divinity do not require air, food, drink, or sleep. There is no gravity within the Hermit’s Lair, and all creatures have a flying speed equal to their Intelligence modifier times 10 (minimum of 10 feet), unless their fly speed is higher without this bonus.</p><p>Time Dilation. Time passes differently within the Scar of Divinity. A day outside of the Scar is equal to two days within the Hermit’s lair.</p><p>Hermit’s Domain. Provided the Hermit has enough time, he can create anything within his domain, from stars to environments to even new realities, as if casting the Wish spell multiple times. These creations take the Hermit 1 minute per cubic meter of space he chooses to alter within his domain. If he channels this ability for an hour or more, he begins to alter space at a rate of 10 cubic meters per minute. If he channels this ability for 24 hours or more, this rate becomes 100 cubic meters per minute. Everything the Hermit creates turns to stardust if the Hermit stops actively paying attention to it, which makes the Hermit’s Lair an enormous canvas of unfinished creation. The Hermit will rarely create something that does not pertain to his present situation and the tests he is currently conducting.</p><p>Lair Actions</p><p>On initiative count 20 (losing initiative ties), the Hermit takes a lair action to cause one of the following magical effects. The Hermit cannot use the same lair action twice in a row.</p><p>Wayward Star. The Hermit uses his Hurl Star bonus action without expending a Legendary Point.</p><p>Alter Space. The Hermit alters the distances of his domain. He can choose to teleport himself up to 1000 feet in any direction. Alternatively, he can choose to affect up to 3 creatures, teleporting them anywhere within 1000 feet of himself by folding or extending the space between them. Unwilling creatures can attempt a DC 28 Charisma saving throw to avoid being displaced by the Hermit.</p><p>Reality Slash. The Hermit creates a slash through reality. It chooses two points within 1000 feet of one another. Creatures in a 5-foot wide line between those points must make a DC 28 Dexterity saving throw. On a failure, they take 45 (10d8) force damage that cannot be mitigated in any way, or half as much damage on a success. This effect reduces a creature’s maximum hit points by an amount equal to the damage taken.</p><p>Misanthropy. The Hermit tires of the battle; the actions of the heroes are not interesting enough for him. He expels all creatures from his domain and burrows deeper within the Scar of Divinity. All creatures currently within the Scar of Divinity must succeed on a DC 25 Charisma saving throw or be banished from the pocket dimension. The Hermit can choose to teleport them to the Garden of Eden, in the Broken Hells.</p><p>As part of this action, the Hermit casts plane shift on himself and teleports to a deeper layer of his domain, creating a rift in his last location. Other creatures can touch this rift to be teleported to the same layer the Hermit is currently in. For every round that passes after the first, the rift begins to close, gaining a cumulative 33% chance of failing, which would result in the target being banished to a random location in the Astral Sea. After three rounds have passed, the rift closes for good.</p><p>When the Hermit uses this action, he creates an additional layer of his domain, leaving the one with the characters and tests behind. The new layer is exactly the same as the last one with only small alterations. The layer that was left behind begins to crumble, no longer supported by the Hermit’s attention: when the Hermit’s rift closes in the crumbling layer, it is destroyed and all creatures within that layer are banished to a random location in the Astral Sea.</p><p>A character can use the Plane Shift spell to hop between layers without the need to reach the Hermit’s Rift, nor the danger of failure.</p><p>DM Notes</p><p>The Hermit is one of the most powerful creatures in this book (and in the Universe of Strings, for that matter), and is supposed to face characters of 25th level, with tremendous power-ups, and indeed, some sort of divine boon. Pitting such a foe against your players in a godslaying adventure can be as fun as it can be difficult. But just because the Hermit is extremely strong doesn’t mean you can’t make use of him as part of a tamer encounter! The following are some notes on how to run this monster, along with several possible resolutions.</p><p>Victory Conditions</p><p>The Hermit is, by all intents and purposes, a good guy. He isn’t going to pose a deadly threat to any character, unless your party’s goal is to kill him. The encounter is supposed to last until the Hermit reaches 66% of his health, or around 1300 hit points. This marks the end of the battle for most parties. If you think your group can manage a bigger challenge, forgo the first phase transition and fight until the Hermit reaches 33% of his health, or around 700 hit points.</p><p>Passing the Hermit’s “test” should be accompanied by some sort of reward; in the case of our own Universe, the party is blessed by the Hermit and rewarded with great secrets about legendary techniques and certain 10th-level spells. The Hermit can be a really good encounter to prepare for a potential final fight against a truly evil BBEG, at the end of a campaign. Killing the Hermit</p><p>If, for some reason, your party must destroy the Hermit, reducing him to 0 hit points is quite the endeavor. He must be hunted through several dimensions, casting Plane Shift right as he escapes deeper into the Scar of Divinity. The would-be assassins must also manage to resist the many banishment spells the Hermit will throw at them.</p><p>Once the Hermit reaches 0 hit points, however, he will not simply die–he must be destroyed by a weapon of the void. In our universe, some of the Relics presented in this book can accomplish such a task.</p><p>The Challenge</p><p>If you want to run a true 25th-level challenge, there must be much more to do than simply attacking the boss. Most of the time, defeating the enemy is the byproduct of a more important goal being accomplished.</p><p>For these scenarios, the Hermit’s trial should not be your conventional battle encounter. Rather than fighting to the death, the Hermit might attempt to escape the party, burrowing deeper into its domain and pushing the heroes out with a variety of spells and attacks.</p><p>The party fails the trial not by falling to 0 hit points, but by failing to complete the test before the Hermit becomes unreachable.</p><p>Tests of Might and Cunning. As the party arrives at the Hermit’s lair, they will be subject to several tests— puzzles constructed by the Hermit—they must pass while battling the Legendary Foe. Should they succeed at least three of the tests, they can either gain the Hermit’s favor, or, if you are feeling especially challenging, go unto the Trial of Shadows.</p><p>The party can also choose to prove its worthiness through battle; every time the Hermit uses its Phase Transition as a result of taking damage, the party counts as having completed one test.</p><p>The Trial of Shadows. After completing three tests, the party may reach the final phase; they are teleported to a smaller arena in which the Hermit’s Projection summons a copy of each character through the Greater Simulacrum 10th-level spell. The party must overcome their evil dopplegangers and defeat the Hermit one final time to win the god’s favor. The Tests</p><p>When preparing the Hermit’s encounter, try to design Tests suited to your party’s strengths and story, creating encounters or puzzles that reward their specific abilities and recollection of lore. Each Test can be located in different parts of the arena, accessed through planar doors that lead to isolated demiplanes.</p><p>While within a Test’s demiplane, the characters should not be able to interact with the Hermit, nor be affected by his abilities.</p><p>Perhaps, at some point, the Hermit might be all alone in the arena, as all characters are busy taking the tests. If no creature remains within the Hermit’s domain to engage him, he is likely to use his Misanthropy lair action, which means the entire layer the party inhabits begins to crumble. See Misanthropy for more information about the Scar’s layers.</p><p>If the entire party leaves a layer, any ongoing Test in that layer fails. However, a Test completed while a layer is collapsing still counts toward the Trial’s completion.</p><p>Tiers of Play</p><p>The Hermit’s stat block, as it is, represents an Ascended-tier challenge, one of the highest you can feasibly run in Dungeons and Dragons. It is the closest you can get to fighting an actual God within the Universe of Strings! You can, however, scale the encounter back to almost all tiers of epic level play, making for an engaging encounter regardless of your party’s current strength. Legend</p><p>Perhaps you are just beginning your foray into Legendary Play, which means your party is at most 20th or 21st level, with appropriate legendary boons and incredibly powerful artifacts. For such a battle, keeping the Hermit’s move set a little simpler, and taking out most, if not all, of its 10th-level shenanigans, goes a long way to make it a more manageable fight.</p><p>Its damage output is also something to consider when fighting parties of 21st level or lower. Dial back some of the Hermit’s attacks, such as its meteoric bonus action Hurl Star, capable of dishing out consistent damage across multiple turns, or its Voice of the Stars breath weapon, dealing an insane amount of radiant damage.</p><p>Paragon</p><p>Legendary Characters of the Paragon tier can face this creature without the need for too many alterations–just remember to exercise restraint when pushing your advantage. The Hermit is testing the characters; he wants to see how well they can manage against a foe as powerful as himself. Slaying the heroes can very much take them out of the combat (destroying their astral projection), while not necessarily ending in a player character’s death. This can ramp up the tension as, one by one, the heroes are returned to their bodies, judged unworthy by the Hermit.</p><p>23rd-level characters start to have an actual shot at pushing through the first of the Hermit’s Phase Transitions–this can vary depending on your party’s level of optimization.</p><p>Ascended</p><p>At 24th and 25th level, Legendary Characters have a wide array of Legendary Resistances, trump cards that allow them to cheat death, and guarantees beyond what even this Legendary Foe can do. In our testing, a fully prepared 25th-level party can deal with the Hermit quite comfortably in a straight-up fight. We recommend creating an engaging challenge as per the previous section of these notes.</p><p>For an evil campaign, actually killing the Hermit is truly the ultimate challenge, heralding the end of the cosmos as we know it. The Hermit can only be slain under specific circumstances; it is on you to decide how that catastrophic event would take place!</p></div>",
+        "public": ""
+      },
+      "alignment": "true neutral",
+      "cr": 30,
+      "type": {
+        "value": "celestial",
+        "subtype": "dragon",
+        "swarm": "",
+        "custom": "Legendary Foe"
+      },
+      "source": {
+        "book": "Ariadne's Book of Legends",
+        "page": "202-207",
+        "license": "",
+        "custom": "Original en-US text from Alpha v1.2",
+        "rules": "2014",
+        "revision": 1
+      },
+      "environment": ""
+    },
+    "traits": {
+      "size": "grg",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "all"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {},
+    "spells": {},
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-foe",
+      "sourcePages": "202-207",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference-statblock"
+    }
+  },
+  "prototypeToken": {
+    "name": "The Hermit",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 4,
+    "height": 4,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1
+    },
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  }
+}

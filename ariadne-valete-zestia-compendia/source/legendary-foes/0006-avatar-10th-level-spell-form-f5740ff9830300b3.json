@@ -1,0 +1,251 @@
+{
+  "_key": "!actors!f5740ff9830300b3",
+  "_id": "f5740ff9830300b3",
+  "name": "Avatar (10th-Level Spell Form)",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 30,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 30
+      },
+      "dex": {
+        "value": 8,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 8
+      },
+      "con": {
+        "value": 25,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 25
+      },
+      "int": {
+        "value": 10,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 10
+      },
+      "wis": {
+        "value": 10,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 10
+      },
+      "cha": {
+        "value": 10,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 10
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 25,
+        "calc": "flat",
+        "formula": "",
+        "value": 25
+      },
+      "hp": {
+        "value": 350,
+        "max": 350,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": ""
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 30,
+        "swim": 0,
+        "walk": 60,
+        "units": "ft",
+        "hover": true
+      },
+      "senses": {
+        "darkvision": 0,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 120,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "",
+      "prof": 7
+    },
+    "details": {
+      "biography": {
+        "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 125-125.</p><p>Avatar Gargantuan elemental (titan), any alignment</p><p>Armor Class 25 (natural armor)</p><p>Hit Points 350 (20d20 + 140)</p><p>Speed 60 ft., fly 30 ft. (hover)</p><p>STR DEX CON INT WIS CHA</p><p>30 (+10) 8 (-1) 25 (+7) X (-) X (-) X (-)</p><p>Damage Immunities poison; slashing, piercing and bludgeoning from nonmagical attacks Condition Immunities charmed, frightened, poisoned, exhaustion Saving Throws Strength +17, Constitution +14 Senses truesight 120 ft., passive Perception equal to that of the caster Languages – Challenge 23 (50,000 XP)</p><p>Proficiency Bonus +7</p><p>Limited Magic Immunity. The Avatar can’t be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against other spells and magical effects. These benefits extend to the caster.</p><p>Avatar. The Avatar has the same Intelligence, Wisdom, and Charisma scores as its caster.</p><p>entombed in its center, unable to move, and are provided with full cover from all attacks and effects originating outside the Avatar. Lingering effects, such as a poison or curse, still affect your regular form while you are inside the Avatar. For the duration of the spell, you control the Avatar, whose statistics are outlined in the next page. While entombed within the Avatar, you cannot cast spells, speak or perform any other actions that its form cannot accommodate. When the spell ends, you float slowly to the ground. The spell ends early if the Avatar is reduced to 0 hit points, you are reduced to 0 hit points, or your body is transported outside of the Avatar. Your body remains visible inside the Avatar, and can be targeted by effects that aren’t rendered moot by full cover. The Avatar provides you with benefits to saving throws and protections against certain effects, as detailed in its stat sheet.</p><p>Magic Weapons. The Avatar’s weapon attacks are magical.</p><p>Siege Monster. The Avatar deals double damage to objects and structures.</p><p>Immutable Form. The Avatar is immune to any spell or effect that would alter its form.</p><p>Actions</p><p>Multiattack. The Avatar makes two Slam attacks and uses its Beam.</p><p>Slam. Melee Weapon Attack: +17 to hit, reach 30 ft., one target. Hit: 24 (4d6 + 10) bludgeoning damage.</p><p>Beam. The Avatar shoots a beam of pure energy forming a line 100 feet long and 5 feet wide in a direction of its choice. Each creature in the line must make a DC 22 Dexterity saving throw. A creature takes 35 (10d6) force damage on a failed save, or half as much damage on a successful one.</p><p>Primordial Endurance. The Avatar prepares for an incoming strike. Until the end of its next turn, it gains resistance to all damage except psychic damage.</p><p>Arcane Meteor (1/day). The Avatar hurls an arcane meteor onto a point within 500 feet of it. Each creature in a 40-footradius sphere centered on that point must make a DC 22 Dexterity saving throw. A creature takes 49 (15d6) force damage and 49 (15d6) bludgeoning damage on a failed save, or half as much damage on a successful one.</p></div>",
+        "public": ""
+      },
+      "alignment": "any",
+      "cr": 23,
+      "type": {
+        "value": "elemental",
+        "subtype": "titan",
+        "swarm": "",
+        "custom": "Legendary Foe"
+      },
+      "source": {
+        "book": "Ariadne's Book of Legends",
+        "page": "125-125",
+        "license": "",
+        "custom": "Original en-US text from Alpha v1.2",
+        "rules": "2014",
+        "revision": 1
+      },
+      "environment": ""
+    },
+    "traits": {
+      "size": "grg",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [],
+        "custom": ""
+      }
+    },
+    "skills": {},
+    "spells": {},
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-foe",
+      "sourcePages": "125-125",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference-statblock"
+    }
+  },
+  "prototypeToken": {
+    "name": "Avatar (10th-Level Spell Form)",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 4,
+    "height": 4,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1
+    },
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  }
+}

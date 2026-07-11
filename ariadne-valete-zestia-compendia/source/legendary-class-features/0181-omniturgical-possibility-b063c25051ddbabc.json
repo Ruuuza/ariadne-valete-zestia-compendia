@@ -1,0 +1,73 @@
+{
+  "_key": "!items!b063c25051ddbabc",
+  "_id": "b063c25051ddbabc",
+  "name": "Omniturgical Possibility",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 78-81.</p><p>Omniturgical Possibility</p><p>At 23rd level, you learn to manifest magic that is normally out of reach for wizards. You can expend 2 Legendary Points to cast a spell of 9th level or lower without expending a spell slot. The spell can be one that you don’t know or have prepared. Having witnessed the spell being cast or having read about it is sufficient for you to perform it. The spell doesn’t need to be a wizard spell, but it counts as one for you. You must still abide by all other rules of spellcasting.</p><p>Once you use this feature, you cannot use it again until you complete a long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "wizard-omniturgical-possibility",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "78-81",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Wizard level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "78-81",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Wizard",
+      "legendaryLevel": 23,
+      "originalFeatureName": "Omniturgical Possibility",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

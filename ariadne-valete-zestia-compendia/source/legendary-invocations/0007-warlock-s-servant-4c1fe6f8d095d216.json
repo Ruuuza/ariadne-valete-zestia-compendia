@@ -1,0 +1,144 @@
+{
+  "_key": "!items!4c1fe6f8d095d216",
+  "_id": "4c1fe6f8d095d216",
+  "name": "Warlock’s Servant",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "d82cd4ba1d2d76a9": {
+        "_id": "d82cd4ba1d2d76a9",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Warlock’s Servant"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 76-77.</p><p>Warlock’s Servant</p><p>Prerequisite: Level 20+ Warlock</p><p>Choose a creature of CR 10 or lower whose type is related to your Patron, as determined by your DM. That creature becomes your servant. As an action, you can summon it in an unoccupied space within 60 feet of you. It is an ally to you and your companions, rolls its own Initiative, and acts on its own turn. The servant remains for 1 hour or until it is destroyed or dismissed. When reduced to 0 hit points or dismissed, it disappears, leaving behind anything it was wearing or carrying. Your servant’s presence counts as a higher-tier magical effect for the purposes of Tiers of Magic.</p><p>Once you summon your servant, you cannot do so again until you finish a long rest. You can change your chosen servant whenever you gain a Legendary Warlock level, provided the new creature meets the prerequisites.</p></div>",
+      "chat": ""
+    },
+    "identifier": "warlock-s-servant",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "76-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Level 20+ Warlock",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-invocation",
+      "sourcePage": "76-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Warlock",
+      "invocation": true
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

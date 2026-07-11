@@ -1,0 +1,73 @@
+{
+  "_key": "!items!8f416f90b821d7d7",
+  "_id": "8f416f90b821d7d7",
+  "name": "Greater Metamagic Master",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 66-71.</p><p>Greater Metamagic Master</p><p>Also at 23rd level, when you use your Greater Metamagic, you can use up to 2 Greater Metamagic options on the same spell. In addition, when you cast a 10th-level spell, you can use one Greater Metamagic option that costs 1 Legendary Point for free on that spell.</p></div>",
+      "chat": ""
+    },
+    "identifier": "sorcerer-greater-metamagic-master",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "66-71",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Sorcerer level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "66-71",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Sorcerer",
+      "legendaryLevel": 23,
+      "originalFeatureName": "Greater Metamagic Master",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

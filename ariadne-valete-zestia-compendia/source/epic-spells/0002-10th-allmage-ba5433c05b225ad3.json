@@ -1,0 +1,180 @@
+{
+  "_key": "!items!ba5433c05b225ad3",
+  "_id": "ba5433c05b225ad3",
+  "name": "[10th] Allmage",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "97150cff136024d9": {
+        "_id": "97150cff136024d9",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Allmage"
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 123.</p><p>Allmage</p><p>10th-level divination</p><p>Classes: Bard, Sorcerer, Wizard Casting Time: 1 action Range: Self Components: V, S, M (a silvery alphabet containing all 42 magical runes that make up Toth’s cypher of Sorcery) Duration: Concentration, up to 1 minute</p><p>Your eyes turn to ever-splitting silvery mirrors as you divine the core runes that make up the arcane world. Choose a spellcasting list.</p><p>You gain the ability to cast any spell of 9th level or lower from that list, as if you knew them and had them prepared. While you maintain concentration on this spell, they count as spells of your class for you. Additionally, for the duration of this spell, when you cast a spell of 8th level or lower from the chosen spell list, you do not expend a spell slot.</p></div>",
+      "chat": ""
+    },
+    "identifier": "allmage",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "123",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A silvery alphabet containing all 42 magical runes that make up Toth's cypher of Sorcery",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material",
+      "concentration"
+    ],
+    "range": {
+      "value": null,
+      "units": "self"
+    },
+    "school": "div",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "123",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Bard, Sorcerer, Wizard",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

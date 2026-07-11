@@ -1,0 +1,71 @@
+{
+  "_key": "!items!0da63e03b2b0f483",
+  "_id": "0da63e03b2b0f483",
+  "name": "Legendary Fighter - Level 23",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 44-49.</p><p>Level 23</p><p>Legendary Action</p><p>At 23rd level, you can expend 1 Legendary Point to take an action at the end of another creature’s turn. You cannot take the Recover action in this way. If you take the Attack action, you can make up to 3 attacks. Once you use your Legendary Action, you cannot do so again until the end of your next turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-fighter-level-23",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "44-49",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "44-49",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Fighter",
+      "legendaryLevel": 23
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

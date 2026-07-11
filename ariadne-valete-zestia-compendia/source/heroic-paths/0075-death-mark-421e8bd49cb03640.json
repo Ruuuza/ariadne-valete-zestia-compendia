@@ -1,0 +1,72 @@
+{
+  "_key": "!items!421e8bd49cb03640",
+  "_id": "421e8bd49cb03640",
+  "name": "Death Mark",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 99.</p><p>Heroic Perk: Death Mark</p><p>Prerequisite: Phantom Strike</p><p>You can use a bonus action to Death Mark a creature you can see within 60 feet. While Death Marked, you always know the creature’s exact location regardless of distance, even across planes of existence. Your attacks against a Death Marked creature ignore damage resistances, and the creature cannot benefit from invisibility or concealment against you. A Death Mark lasts until the creature dies, you mark a new target, or the creature is targeted by a remove curse spell or similar magic.</p></div>",
+      "chat": ""
+    },
+    "identifier": "death-mark",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "99",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Shadowblade",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "99",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Shadowblade",
+      "stageType": "Heroic Perk",
+      "stageOrder": 2
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "_key": "!items!99b87caf7c21b7c2",
+  "_id": "99b87caf7c21b7c2",
+  "name": "Anatomical Control",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "e65ab12be00c0a73": {
+        "_id": "e65ab12be00c0a73",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "minute",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Anatomical Control"
+        },
+        "duration": {
+          "value": "1",
+          "units": "hour",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 117.</p><p>Anatomical Control</p><p>Channel, Sunyata</p><p>Classes: Monk, Paladin, Ranger Channeling Time: 1 minute Base LP Cost: 0 LP Range: Self Duration: 1 hour</p><p>You enter a state of perfect anatomical awareness, directing the flow of your body’s energy to heal wounds from within. During the channeling time, you must remain still and undisturbed–if you take damage or are moved before the minute is complete, the technique fails. Once the technique is channeled, you regain hit points equal to half your hit point maximum, you are cured of all poisons, diseases, and conditions affecting you, and your hit point maximum is restored to its normal value if it was reduced. You regenerate lost limbs and lingering wounds and end any curse or magical effect upon your body.</p><p>For the next hour, you continue regenerating, regaining 20 hit points at the start of each of your turns for the duration. This effect ends early if you are incapacitated or if you drop to 0 hit points.</p><p>One Use. Once you use this Mythical Technique, you cannot do so again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "anatomical-control",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "117",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk, Paladin, Ranger",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "117",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Sunyata",
+      "techniqueType": "Channel",
+      "weapon": "—",
+      "classes": "Monk, Paladin, Ranger",
+      "legendaryPointCost": "0 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

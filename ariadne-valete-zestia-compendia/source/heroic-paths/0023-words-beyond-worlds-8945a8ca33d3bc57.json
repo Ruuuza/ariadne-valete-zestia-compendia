@@ -1,0 +1,72 @@
+{
+  "_key": "!items!8945a8ca33d3bc57",
+  "_id": "8945a8ca33d3bc57",
+  "name": "Words Beyond Worlds",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 90.</p><p>Heroic Perk: Words Beyond Worlds</p><p>Prerequisite: Omen Incarnate</p><p>You ignore material and somatic components when casting spells. As a bonus action, you can send a mental message to a creature of your choice, regardless of distance and even across planes of existence. The creature hears a message of your choice in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately if you choose to allow it. This feature enables creatures with Intelligence scores of at least 3 to understand the meaning of your message. Creatures that don’t consider you an enemy are motivated to heed your message and its intent– warnings will be taken seriously, and requests will be acquiesced unless exceedingly difficult or costly to their recipient.</p></div>",
+      "chat": ""
+    },
+    "identifier": "words-beyond-worlds",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "90",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Herald",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "90",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Herald",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

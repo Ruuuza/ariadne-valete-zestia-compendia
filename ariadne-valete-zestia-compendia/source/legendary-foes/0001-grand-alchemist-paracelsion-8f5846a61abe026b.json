@@ -1,0 +1,253 @@
+{
+  "_key": "!actors!8f5846a61abe026b",
+  "_id": "8f5846a61abe026b",
+  "name": "Grand Alchemist Paracelsion",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 22,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 22
+      },
+      "dex": {
+        "value": 18,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 18
+      },
+      "con": {
+        "value": 30,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 30
+      },
+      "int": {
+        "value": 25,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 25
+      },
+      "wis": {
+        "value": 23,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 23
+      },
+      "cha": {
+        "value": 20,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 20
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 22,
+        "calc": "flat",
+        "formula": "",
+        "value": 22
+      },
+      "hp": {
+        "value": 502,
+        "max": 502,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": ""
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 0,
+        "swim": 0,
+        "walk": 50,
+        "units": "ft",
+        "hover": false
+      },
+      "senses": {
+        "darkvision": 480,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 30,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "",
+      "prof": 10
+    },
+    "details": {
+      "biography": {
+        "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 166-169.</p><p>Grand Alchemist</p><p>Paracelsion Huge fiend (penumbral), neutral evil</p><p>Armor Class 22 (natural armor)</p><p>Hit Points 502 (31d12 + 300)</p><p>Speed 50 ft.</p><p>STR DEX CON INT WIS CHA</p><p>22 (+6) 18 (+4) 30 (+10) 25 (+7) 23 (+6) 20 (+5)</p><p>Saving Throws Con +20, Int +17, Str +16 Skills Arcana +27, Perception +16 Damage Resistances acid, cold, fire, lightning, thunder Damage Immunities poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered Condition Immunities charmed, frightened, exhaustion, poisoned Senses darkvision 480 ft., truesight 30 ft., passive Perception 26 Languages All Recommended Level 21st - 22nd</p><p>Proficiency Bonus +10</p><p>Limited Magic Immunity. Paracelsion cannot be affected or detected by spells cast at 3rd level or lower unless he wishes to be. He has advantage on saving throws against all other spells and magical effects.</p><p>Penumbral Sight. Paracelsion’s darkvision is not impeded by magical darkness.</p><p>Regeneration. Paracelsion regains 100 hit points at the start of his turn while his heart remains within his chest. Paracelsion only dies if he starts his turn with 0 hit points and doesn’t regenerate. Paracelsion is immune to any effects that would prevent him from regaining hit points or reduce his maximum hit points while his heart is in his chest.</p><p>Philosopher’s Stone. Paracelsion’s blood is the very elixir of life, and his heart a tireless engine that keeps it flowing. While his heart remains within his chest, Paracelsion doesn’t age nor require food, air, drink, or sleep to subsist.</p><p>While Paracelsion has less than 200 hit points remaining, his heart, a chunk of brilliant golden rock, becomes exposed.</p><p>The heart is a medium object lodged in Paracelsion’s chest with 100 hit points, 25 AC, resistance to piercing and slashing damage, and immunity to fire, poison, and psychic damage. If the heart is destroyed, it breaks apart, revealing a small, palm-sized Philosopher’s Stone that falls to the ground. A creature can only target the heart if it is exposed. If Paracelsion has 0 hit points and the heart is destroyed, Paracelsion’s body melts into black ooze.</p><p>A creature within 5 feet of Paracelsion can attempt a DC 30 Strength (Athletics) check to remove the heart, if it is visible. The DC is lowered to 20 if Paracelsion has 0 hit points remaining. On a success, the creature rips the heart from his chest, and Paracelsion takes 35 (10d6) necrotic damage. While carrying his heart, Paracelsion can put it back in its place as a bonus action, and it instantly regains its functionality.</p><p>Ritual Savant. Paracelsion can cast all ritual spells from the Wizard spell list, but only as rituals.</p><p>Telekinesis Master. When Paracelsion casts the Telekinesis spell, the spell’s range is increased to 120 feet, and its maximum manipulable weight for objects is increased to 2000 pounds.</p><p>Legendary Caster. Paracelsion can concentrate on two spells simultaneously. If he fails a concentration check, he loses concentration on all spells he is currently concentrating on.</p><p>Legendary Foe</p><p>Paracelsion has 3 Legendary Points (LP). He can use these points to fuel certain abilities. Once he uses a feature or action that consumes a Legendary Point, he cannot use that same ability again until the start of his next turn. Paracelsion regains spent Legendary Points at the start of his turn.</p><p>Legendary Resistance. When Paracelsion fails a saving throw, he can expend 1 Legendary Point to succeed instead.</p><p>Legendary Endurance. When Paracelsion takes damage, he can expend 1 Legendary Point to reduce the damage taken by 100.</p><p>Cleanse Effect. If Paracelsion starts his turn affected by a condition or magical effect of 7th level or lower, he can expend 1 Legendary Point to end the effect. If the effect or condition is of 8th or 9th level, or from a Mythical Technique, Paracelsion must expend 2 Legendary Points to end that effect. Effects originating from a 10th-level spell cannot be cleansed in this way.</p><p>Alchemical Spellcasting</p><p>Grand Alchemist Paracelsion is a 23rd-level spellcaster. His spellcasting ability is Intelligence (spell save DC 25, +17 to hit with spell attacks). Paracelsion has the following spells prepared:</p><p>At will. darkness, lightning bolt, slow, telekinesis</p><p>3/day each. dimension door, disintegrate, dominate person</p><p>1/day each. incendiary cloud, maze, teleport</p><p>Actions</p><p>Multicast. Paracelsion uses his Spellcasting. He then makes two Blaze attacks. Instead of using his spellcasting, Paracelsion can choose to make two Claw attacks. At any point, Paracelsion can choose to drop his Alchemical Braziers and replace each Blaze attack with a Claw attack.</p><p>Blaze. Ranged Spell Attack: +17 to hit, range 120 ft., one target. Hit 21 (6d6) force damage. Paracelsion can only use this attack while holding his Alchemical Braziers.</p><p>Claw. Melee Weapon Attack: +16 to hit, reach 5 ft., one target. Hit 23 (3d10 + 6) slashing damage. Instead of dealing damage, Paracelsion can choose to grapple the target (escape DC 24). Paracelsion can grapple up to 2 creatures in this way. If he chooses to drop his Alchemical Braziers, he can grapple up to 4 creatures in this way.</p><p>Bonus Actions</p><p>Penumbral Shift. Paracelsion teleports, along with any equipment he is wearing or carrying, to an unoccupied space he can see within 60 feet.</p><p>Transmuting Touch (Costs 1 LP). Paracelsion channels his transmuting might to all creatures grappled by him. If a target is a nonmagical object, it is transmuted into another object or material of Paracelsion’s choice that has roughly the same mass. If a target is a creature, it must succeed on a DC 25 Constitution saving throw or take 65 (10d12) force damage. If this damage brings a creature to 0 hit points, Paracelsion can choose to destroy the body and transform it into a material of its choice, such as a pile of sand, a stone statue, or a pool of slime.</p><p>Reactions</p><p>Alchemical Shield. As a reaction to an attack that would hit him, Paracelsion creates an alchemical shield around himself, increasing his AC by 5 until the start of his next turn.</p><p>A creature that hits Paracelsion with a melee attack while this shield remains takes 14 (4d6) acid damage. Paracelsion can only use this reaction while holding his Alchemical Braziers.</p><p>Intercept. As a reaction to a creature Paracelsion can see entering his melee reach, he can make a Claw attack against it.</p><p>Superior Counterspell (Costs 1 LP). As a reaction to a creature it can see within 60 feet casting a spell, Paracelsion casts Counterspell at 8th level, potentially nullifying the spell.</p><p>Extra Actions</p><p>Paracelsion can take extra actions outside of its turn by expending Legendary Points, choosing from the options below. Only one extra action can be used at a time and only at the end of another creature’s turn.</p><p>Blaze (Costs 1 LP). Paracelsion makes two Blaze attacks.</p><p>Claw (Costs 1 LP). Paracelsion makes one Claw attack.</p><p>Telekinetic Action (Costs 1 LP). Paracelsion casts Telekinesis on himself. If Paracelsion is already under the Telekinesis spell, he exerts his will on a creature or object within range.</p><p>Transmute Air (Costs 1 LP). Paracelsion casts Fly on himself and moves up to half his fly speed.</p><p>Transmute Fire (Costs 1 LP). Paracelsion casts Flame Strike.</p><p>Transmute Earth (Costs 1 LP). Paracelsion casts Wall of Stone.</p><p>Transmute Water (Costs 1 LP). Paracelsion casts Cone of Cold.</p><p>End Magic (Costs 1 or 2 LP). Paracelsion casts Dispel Magic at 5th level if he expends 1 Legendary Point, or at 9th level if he expends 2 Legendary Points.</p><p>Flames of the First Art (Costs 3 LP). Paracelsion spins his Alchemical Braziers in a wide circle, igniting a large area beyond his immediate reach. Creatures within 10 feet of Paracelsion must succeed on a DC 20 Dexterity saving throw or take 30 (4d10 + 6) bludgeoning damage. Creatures further than 10 feet from Paracelsion but within 60 feet of him must make a DC 25 Dexterity saving throw, taking 35 (10d6) acid damage, 35 (10d6) cold damage, 35 (10d6) fire damage, 35 (10d6) lightning damage, and 35 (10d6) thunder damage on a failure, or half as much damage on a success. Paracelsion can only use this action while holding his Alchemical Braziers.</p><p>The Inner Laboratory Lair Actions</p><p>Paracelsion’s personal research facility and living quarters are located at the innermost part of the fortress, in a gargantuan room whose centerpiece is a massive arcanite reactor–some say the largest in the Universe, which he can only power thanks to a deal he cut with a horrid, aberrant lord by the name of Arkan, who provides the penumbral alchemist with several metric tons of arcanite every week, in exchange for assorted favors. The two villains help each other further their own agendas.</p><p>Theseus’ Notes on Legendary Foes Paracelsion, like so many other villains of this Universe, is no true ally of our cause, even if he studied under Velenor. He knows you, dear Eternity, and he knows the cold truth of what we strive for. Like Arkan, the worst traitor among your ranks, he has built an empire of influence and wealth, and will fight tooth and nail to protect it from your… sweet oblivion. Yes, his methods and long list of crimes may be unpalatable to the heroic types that have made foiling us their reason to live, but oh… Trust me, they will put their differences aside when the going gets rough, these little animals. Survival instinct is a powerful thing.</p><p>Among the villains that will turn cloak when you start dealing eternal nothingness instead of power, Paracelsion is one of the most dangerous. I know you have felt his gaze, dear Eternity, watching across your blessed field of void, seeking what is beyond. Seeking other realities. This power and knowledge are what he will share with his newfound allies when he feels threatened by our advance.</p><p>Fortunately, we can have some heroes slay him for us! No champion of good is fond of any of Theophrastus’ many duplicates, much less of the Penumbral Alchemist, who has single-handedly committed more atrocities than anyone in myth–including Ariadne and myself!</p><p>When fighting inside his inner laboratory, Paracelsion can control its many mechanisms and arcane contingencies to take lair actions. On initiative count 20 (losing initiative ties), Paracelsion takes a lair action to cause one of the following effects. Paracelsion cannot use the same lair action twice in a row. The spell save DC for any spells cast as a lair action is 20, and contests regarding them are resolved using Paracelsion’s Intelligence modifier.</p><p>Displace. Hidden circles of teleportation appear beneath two creatures of Paracelsion’s choice within his lair, causing them to swap places. He can target himself with this lair action.</p><p>Cage. Paracelsion casts the forcecage spell anywhere within his lair, which lasts until he uses another lair action.</p><p>Unravel Arcana. Paracelsion creates a 30-foot radius sphere of anti-magic centered anywhere within his lair, which lasts until he uses another lair action. The field is an antimagic field spell.</p><p>Transfusion. Bloody circles of transmutation appear beneath all creatures of Paracelsion’s choice within his lair. Targets must succeed on a DC 20 Constitution saving throw or take 21 (6d6) necrotic damage. Paracelsion regains hit points equal to the total damage dealt.</p><p>Prana Drain. Sulphuric circles of transmutation appear beneath a creature of Paracelsion’s choice within his lair. It must succeed on a DC 20 Constitution saving throw or lose a spell slot of 7th level, or the highest level spell slot it has available of 6th level or lower, if it has no 7th level spell slots.</p><p>Rain of Acid. Paracelsion creates an acid shower in a 60-foot-high, 30-foot radius cylinder centered anywhere within his lair. Creatures within that area must make a DC 20 Dexterity saving throw, taking 35 (10d6) acid damage on a failed save, or half as much on a successful one.</p><p>The Grand Alchemist’s Final Act. Paracelsion triggers a catastrophic arcane meltdown in the reactor at the heart of Castle Blackfume, dooming the structure. Once Paracelsion uses this lair action, he cannot use lair actions again. At initiative count 20 on each subsequent round, all creatures and objects within the fortress take 65 (10d12) radiant damage; a creature can make a DC 20 Constitution saving throw to take half damage instead. After 10 minutes, the reactor fails entirely. Every creature and object within 10,000 feet of Castle Blackfume takes 175 (10d6 x 5) fire damage, 175 (10d6 x 5) radiant damage, and 175 (10d6 x 5) force damage.</p><p>DM Notes</p><p>Paracelsion encapsulates the very pinnacle of an alchemist’s power, provided with mighty spells and transmutative effects that make reality his playground. To an unprepared party, the sheer versatility and incapacitating potential of such a foe will quickly prove a deadly threat. A Mighty Lair</p><p>The considerations in this section assume your players will be facing Paracelsion within his lair, where there is much to do for the party other than assassinating the fiend. This fight becomes a whole lot easier if that is not the case! Dealing 500 points of damage and succeeding in interrupting Paracelsion’s regeneration should be within the capabilities of any legendary party, or even well-optimized parties of level 17-20. In such cases, consider giving your players a lot less information about Paracelsion’s abilities before the fight. He will need the element of surprise as an edge, without his beloved lair and helpers.</p><p>Preparation &amp; Information</p><p>If you intend to have your party beat Paracelsion as part of your game, they simply must know some things in advance. Chiefly, they need to know how to surprise him. If Paracelsion is allowed to prepare, the party will find him surrounded by his apprentices, along with two dozen other countermeasures, afforded to him by his vast wealth of resources.</p><p>Getting the drop on Paracelsion, along with all the preparation and investigation such a task requires, must be part of the legendary adventure that culminates in this fight. In a certain way, the battle begins weeks or even months before the showdown at his lair. Outwitting a paranoid, deathless alchemist is no easy task!</p><p>We suggest that further information, such as what his mightiest spells and actions, or perhaps his capability of destroying his lair in an apocalyptic meltdown as a last resort, be handed out as rewards for exceptionally good investigating done by the party.</p><p>Brushes With Death</p><p>With only 502 hit points, Paracelsion has a pronounced weakness against parties with very high damage output that can outpace his regeneration, overcome his resistances, and negate his contingencies. The fight is designed to have him lowered below half his maximum hit points with relative ease, to showcase his exceptional regenerative ability. And indeed, that is the flavor this legendary foe should evoke! In addition to his regular regeneration, the Transfusion lair action will aid him, should too many players remain in his field of view simultaneously.</p><p>Paracelsion’s heart is the source of his immense regenerative abilities. The real battle begins when the party understands this and starts attempting to remove or destroy it.</p><p>Paracelsion, Legendary Mage If you read Theseus’ Tome of Legendary Foes, you may remember Paracelsion quite differently, with a massive spell list, including a 10th-level spell, and a considerable capacity for spamming lower-level spells. This is no longer the case, and there are a couple of reasons for that: first of all, we wanted to simplify the decision-making process for DMs running Paracelsion, which was excessively marred in possibilities, in the previous composition. Secondly, a power budget that relies mainly on spells is almost impossible to balance–the mere presence of a character that has counterspell prepared is enough to take much difficulty off the encounter. And at this level, your party may either have superb protections against spells, or very few, depending on their classes, items, and chosen heroic feats, causing them to be wiped out quite anticlimatically. Thus, a more alchemy-focused Paracelsion was developed for this book, still full of magic, but with fewer pure spellcasting options.</p><p>However, if your party is particularly spell-resistant, of higher level, or you simply want a more arcana-focused Paracelsion, consider giving him more spells. Here’s an alternative Alchemical Spellcasting list we recommend for that purpose: Greater Alchemical Spellcasting Grand Alchemist Paracelsion is a 23rd-level spellcaster. His spellcasting ability is Intelligence (spell save DC 25, +17 to hit with spell attacks). Paracelsion has the following spells prepared:</p><p>At will. banishment, counterspell, darkness, lightning bolt, slow, telekinesis</p><p>3/day each. dimension door, disintegrate, dominate person, hold monster</p><p>1/day each. incendiary cloud, feeblemind, maze, teleport</p><p>1/day, costs 2 LP. theophrastus’ flux</p></div>",
+        "public": ""
+      },
+      "alignment": "neutral evil",
+      "cr": 30,
+      "type": {
+        "value": "fiend",
+        "subtype": "penumbral",
+        "swarm": "",
+        "custom": "Legendary Foe"
+      },
+      "source": {
+        "book": "Ariadne's Book of Legends",
+        "page": "166-169",
+        "license": "",
+        "custom": "Original en-US text from Alpha v1.2",
+        "rules": "2014",
+        "revision": 1
+      },
+      "environment": ""
+    },
+    "traits": {
+      "size": "huge",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": "poison; nonmagical nonsilvered bludgeoning, piercing, and slashing"
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": "acid, cold, fire, lightning, thunder"
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": "charmed, frightened, exhaustion, poisoned"
+      },
+      "languages": {
+        "value": [
+          "all"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {},
+    "spells": {},
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-foe",
+      "sourcePages": "166-169",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference-statblock"
+    }
+  },
+  "prototypeToken": {
+    "name": "Grand Alchemist Paracelsion",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 2,
+    "height": 2,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1
+    },
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_key": "!items!862a6b1d0bea5814",
+  "_id": "862a6b1d0bea5814",
+  "name": "Crowned",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 100.</p><p>Tier II: Crowned</p><p>Prerequisite: Greater Charms</p><p>Unassailable Mind. You are immune to the charmed and frightened conditions. When a creature attempts to charm or frighten you, you become aware of the attempt and can identify the source.</p><p>Decree. As a bonus action, you issue a Decree to a creature you can see within 60 feet. The creature must succeed on a Wisdom saving throw against your spell save DC or be compelled to follow a single course of action on its next turn, as if under the effect of the Suggestion spell, limited to one turn. A creature that succeeds on this saving throw is immune to your Decree for the next 24 hours.</p><p>Presence of Command. Your presence commands absolute social authority. You are always treated as the highest-ranking individual in any non-hostile social situation, regardless of titles, wealth, or station. Creatures that would ordinarily refuse to speak with you are compelled to hear what you have to say regardless of their apprehensions. You always benefit from advantage on Charisma (Persuasion, Deception and Intimidation) checks.</p></div>",
+      "chat": ""
+    },
+    "identifier": "crowned",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "100",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Sovereign",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "100",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Sovereign",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

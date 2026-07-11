@@ -1,0 +1,72 @@
+{
+  "_key": "!items!3a6604e2b556d0d1",
+  "_id": "3a6604e2b556d0d1",
+  "name": "Destined",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 89.</p><p>Tier II: Destined</p><p>Prerequisite: Fated, Convergence</p><p>Written in the Stars. Increase an ability score of your choice by 2. Your maximum for that score is increased by 2 as well.</p><p>Fated Criticality. When you make an attack against a target within range, you can turn a miss or regular hit into a critical hit. Alternatively, when you make an ability check or saving throw, you can treat the d20 roll as a 20. You can choose to do so after rolling but before any of the roll’s effects are announced. Once you use this ability, you must finish a long rest before you can do so again.</p></div>",
+      "chat": ""
+    },
+    "identifier": "destined",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "89",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Chosen One",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "89",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Chosen One",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

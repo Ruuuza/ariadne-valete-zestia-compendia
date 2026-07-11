@@ -1,0 +1,147 @@
+{
+  "_key": "!items!e698d60e9553d20c",
+  "_id": "e698d60e9553d20c",
+  "name": "Obliterating Strike",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "c582429364b7bbf3": {
+        "_id": "c582429364b7bbf3",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "Range: Weapon range",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Obliterating Strike"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "spec",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 116.</p><p>Obliterating Strike</p><p>Strike, Durandal</p><p>Weapon: Any heavy melee weapon Classes: Barbarian, Fighter, Paladin Channeling Time: 1 action Base LP Cost: 2 LP Range: Weapon range Duration: Instantaneous</p><p>You channel every ounce of your physical might into a single, annihilating blow. Make a melee weapon attack against a creature within reach. On a hit, the attack deals 5d10 x 10 Lethal damage. On a critical hit, you do not multiply the damage dice by 2, but instead deal 8d10 x 10 Lethal damage. A creature hit by this attack must succeed on a Constitution saving throw against your Mythical Technique save DC or be stunned for a minute and pushed up to 30 feet away from you.</p><p>One Use. Once you use this Mythical Technique, you cannot do so again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "obliterating-strike",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "116",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian, Fighter, Paladin",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "116",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Durandal",
+      "techniqueType": "Strike",
+      "weapon": "Any heavy melee weapon",
+      "classes": "Barbarian, Fighter, Paladin",
+      "legendaryPointCost": "2 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

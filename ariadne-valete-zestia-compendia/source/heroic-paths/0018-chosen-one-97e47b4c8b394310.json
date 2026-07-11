@@ -1,0 +1,72 @@
+{
+  "_key": "!items!97e47b4c8b394310",
+  "_id": "97e47b4c8b394310",
+  "name": "Chosen One",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 89.</p><p>Tier III: Chosen One</p><p>Prerequisite: Threads Unraveled, Destined</p><p>Another Chance. When an effect would kill you outright, or damage would reduce you to 0 hit points, you drop to 1 hit point instead. Once this feature triggers, it cannot trigger again for a minute.</p><p>Thrice Fated. You can use your Fated Criticality three times between long rests.</p></div>",
+      "chat": ""
+    },
+    "identifier": "chosen-one",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "89",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Chosen One",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "89",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Chosen One",
+      "stageType": "Tier III",
+      "stageOrder": 5
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

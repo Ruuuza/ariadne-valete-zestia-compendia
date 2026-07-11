@@ -1,0 +1,69 @@
+{
+  "_key": "!items!23c76cbbb043e30f",
+  "_id": "23c76cbbb043e30f",
+  "name": "Legendary Tiers of Play",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 10.</p><p>Legendary Tiers of Play</p><p>A Legendary Campaign is separated into three Legendary Tiers of play. Each of these tiers is a magnitude greater than the last, with a pronounced difference in power level between them.</p><p>Challenge Rating on our Legendary Foes has been replaced by a Recommended Level, ranging from 20th to 25th. These correspond to each of the three tiers; Legend (20th - 21st), Paragon (22nd - 23rd), or Ascended (24th - 25th). Each tier is of great importance when building a Legendary Campaign, and using all three properly creates a believable power scaling structure, even beyond the heights of 20th level.</p><p>Gameplay-wise, each Legendary Tier is a mighty jump from the last, increasing the Legendary Points of both players and foes. This means a Paragon-level stat block is intended to contend with 4-5 characters with 2 Legendary Points each, which gives them access to many more resources than a Legend-level party might possess.</p><p>LP</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-tiers-of-play",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "10",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "10",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "_key": "!items!36f56fa88041ee39",
+  "_id": "36f56fa88041ee39",
+  "name": "Greater Lotus Barrier",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "35c715ea97a6022d": {
+        "_id": "35c715ea97a6022d",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "you or a creature within 30 feet of you takes damage",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Greater Lotus Barrier"
+        },
+        "duration": {
+          "value": "1",
+          "units": "round",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "30",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 48-49.</p><p>Greater Lotus Barrier</p><p>Strike, Ryuushinkan</p><p>Classes: Fighter Channeling Time: 1 reaction, which you take when you or a creature within 30 feet of you takes damage Range: 30 feet Duration: 1 round LP Cost: 2 LP</p><p>You project a barrier of pure soul-energy that encompasses you and up to 7 allies within range, interposing itself between them and all harm. The barrier absorbs damage directed at any protected creature and can withstand up to 1,000 points of damage total before breaking. It lasts until the end of your next turn.</p><p>For the duration, each creature protected by the Lotus Barrier cannot be forcibly moved, grappled, knocked prone, or displaced. They are immune to any effect that would reduce them to 0 hit points or kill them outright. The barrier protects against the triggering damage, against any secondary effects that damage would cause–such as a poison or a magical condition– and against the effects of other Mythical Techniques, including other Kensei Techniques.</p><p>If the barrier is destroyed, any damage in excess of the barrier’s remaining threshold is dealt to the creature or creatures targeted by the source that destroyed it.</p></div>",
+      "chat": ""
+    },
+    "identifier": "greater-lotus-barrier",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "48-49",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Legendary Fighter level 25",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "kensei-technique",
+      "sourcePage": "48-49",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Fighter",
+      "techniqueTier": "Kensei Technique"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

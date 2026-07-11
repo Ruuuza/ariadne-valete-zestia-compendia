@@ -1,0 +1,71 @@
+{
+  "_key": "!items!6a0636cb9135a011",
+  "_id": "6a0636cb9135a011",
+  "name": "Heroic Path: Warlord",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 104.</p><p>Heroic Path: Warlord</p><p>Prerequisite: A Strength or Dexterity score of 20 or higher. Tier I: Elite Skirmisher</p><p>Advantaged Strike. You have advantage on the first attack you make on your turn.</p><p>Deflection. As a reaction when you or a creature within range of your currently equipped melee weapon is targeted by an attack, you can attempt to deflect it. Make a weapon attack. If the result is higher than the triggering strike’s attack roll, the attack misses as you deflect it. Heroic Perk: Technique Student</p><p>Prerequisite: Elite Skirmisher</p><p>You learn a Mythical Technique available to your class. If you have no Mythical Techniques available to your class, you learn the Reality Slash Mythical Technique. Tier II: Combat Master</p><p>Prerequisite: Technique Student</p><p>Defensive Proficiency. While wielding a melee weapon, increase your AC by 3.</p><p>Greater Critical. Your critical range is increased by 1. When you score a critical hit, your attack ignores resistances to its damage type.</p><p>Perfected Saves. You gain proficiency in Strength, Dexterity, and Constitution saving throws. Heroic Perk: Perfect Body</p><p>Prerequisite: Combat Master</p><p>Your Strength, Dexterity, and Constitution scores are increased to 20, unless they are already higher without this benefit. Scores that are already above 20 instead increase by 1, up to a maximum of 24. Tier III: Warlord</p><p>Prerequisite: Perfect Body</p><p>Mythical Technique. You learn a Mythical Technique of your choice from any class’s list.</p><p>Technique Savant. Whenever you use a Mythical Technique that expends 2 or more Legendary Points, you expend 1 less Legendary Point when you use that technique.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-warlord",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "104",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "104",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Warlord",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_key": "!items!eb370ab51d0bf2b3",
+  "_id": "eb370ab51d0bf2b3",
+  "name": "Limited Magic Immunity",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 66-71.</p><p>Limited Magic Immunity</p><p>At 23rd level, your mystical bloodline provides you with innate protection against the arcane. You cannot be affected or detected by spells of 3rd level or lower, and have advantage on saving throws against other spells and magical effects.</p></div>",
+      "chat": ""
+    },
+    "identifier": "sorcerer-limited-magic-immunity",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "66-71",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Sorcerer level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "66-71",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Sorcerer",
+      "legendaryLevel": 23,
+      "originalFeatureName": "Limited Magic Immunity",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

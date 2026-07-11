@@ -1,0 +1,71 @@
+{
+  "_key": "!items!97cf5539caba76b4",
+  "_id": "97cf5539caba76b4",
+  "name": "Heroic Path: Sovereign",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 100.</p><p>Heroic Path: Sovereign</p><p>Prerequisite: Bard, Sorcerer, Paldin, or Warlock Tier I: Regal Presence</p><p>Aura of Greatness. You emit an aura of commanding greatness in a 120-foot radius sphere centered on you. Friendly creatures that can see you within that radius can add your Charisma modifier to one ability check, attack roll, or saving throw. Once a creature has benefited from your Aura of Greatness, that creature cannot do so again until you finish a short or long rest.</p><p>Sovereign Will. Your spell save DC is increased by 1. Heroic Perk: Greater Charms</p><p>Prerequisite: Regal Presence</p><p>Your spells and class features ignore immunity to the charmed condition. Tier II: Crowned</p><p>Prerequisite: Greater Charms</p><p>Unassailable Mind. You are immune to the charmed and frightened conditions. When a creature attempts to charm or frighten you, you become aware of the attempt and can identify the source.</p><p>Decree. As a bonus action, you issue a Decree to a creature you can see within 60 feet. The creature must succeed on a Wisdom saving throw against your spell save DC or be compelled to follow a single course of action on its next turn, as if under the effect of the Suggestion spell, limited to one turn. A creature that succeeds on this saving throw is immune to your Decree for the next 24 hours.</p><p>Presence of Command. Your presence commands absolute social authority. You are always treated as the highest-ranking individual in any non-hostile social situation, regardless of titles, wealth, or station. Creatures that would ordinarily refuse to speak with you are compelled to hear what you have to say regardless of their apprehensions. You always benefit from advantage on Charisma (Persuasion, Deception and Intimidation) checks. Heroic Perk: Powerful Presence</p><p>Prerequisite: Crowned</p><p>Your Charisma score increases by 2, as does your maximum for that score. Your spells and class features ignore immunities to the frightened condition. Tier III: Sovereign</p><p>Prerequisite: Powerful Presence</p><p>Absolute Authority. When a creature within 120 feet of you makes a saving throw against one of your spells or class features, you can use your reaction to force it to</p><p>fail on that saving throw. Once you use this feature, you cannot do so again until you finish a short or long rest.</p><p>Court of One. You are permanently under the effects of the Glibness spell. This effect cannot be dispelled. Additionally, creatures of your choice of CR 10 or lower that lay eyes upon you for the first time between long rests are charmed by you for the next 24 hours, during which they regard you as their sovereign, follow your commands, and will not willingly act against your interests. This effect ends for a creature if you or your allies deal damage to it.</p><p>Path Connections Overlord. Instead of the Greater Charms Heroic Perk, you can take the Thrall Perk, changing to the Overlord path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-sovereign",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "100",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "100",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Sovereign",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

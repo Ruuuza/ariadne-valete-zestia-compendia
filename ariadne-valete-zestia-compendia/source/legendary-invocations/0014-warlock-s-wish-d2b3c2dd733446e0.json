@@ -1,0 +1,71 @@
+{
+  "_key": "!items!d2b3c2dd733446e0",
+  "_id": "d2b3c2dd733446e0",
+  "name": "Warlock’s Wish",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 76-77.</p><p>Warlock’s Wish</p><p>Prerequisite: level 24+ Warlock</p><p>You can expend 2 Legendary Points to cast the Wish spell at 9th level innately, without expending a spell slot. If you do so, you do not suffer the repercussions of casting the Wish spell. Once you use this feature, you cannot use it again for 30 days.</p></div>",
+      "chat": ""
+    },
+    "identifier": "warlock-s-wish",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "76-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "level 24+ Warlock",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-invocation",
+      "sourcePage": "76-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Warlock",
+      "invocation": true
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

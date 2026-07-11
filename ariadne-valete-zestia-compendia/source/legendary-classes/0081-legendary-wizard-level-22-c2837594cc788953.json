@@ -1,0 +1,71 @@
+{
+  "_key": "!items!c2837594cc788953",
+  "_id": "c2837594cc788953",
+  "name": "Legendary Wizard - Level 22",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 78-81.</p><p>Level 22</p><p>10th-Level Spell</p><p>At 22nd level, you learn a single 10th-level spell. You learn an additional 10th-level spell at 24th level. When you start casting a 10th-level spell, you must expend 2 Legendary Points alongside the required action and spell slot.</p><p>Efficient Flow</p><p>Also at 22nd level, you learn to use your conduits with near-perfect efficiency, allowing you to manifest spells faster. You can cast various spells that expend spell slots in the same turn, ignoring the usual restrictions for spellcasting, and you can concentrate on one additional spell at a time. If your concentration is broken, all spells you were concentrating on end.</p><p>The number of spells you can concentrate on at a time can never exceed 4, even if you gain this same benefit from various sources.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-wizard-level-22",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "78-81",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Wizard level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "78-81",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Wizard",
+      "legendaryLevel": 22
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "_key": "!items!3a9755e48770a0e7",
+  "_id": "3a9755e48770a0e7",
+  "name": "[10th] Wrath of Nature",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "517fe852ccd86373": {
+        "_id": "517fe852ccd86373",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Wrath of Nature"
+        },
+        "duration": {
+          "value": "8",
+          "units": "hour",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "1",
+          "units": "mi",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "radius",
+            "size": "500",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 132.</p><p>Wrath of Nature</p><p>10th-level conjuration</p><p>Classes: Druid Casting Time: 1 action Range: 1 mile Components: V, S, M (a bronze twig from the forgotten forests of Elphame) Duration: Concentration, up to 8 hours</p><p>You call upon the natural world to rise against those who would threaten it. Choose a point you can see within range. For the duration, a 500-foot-radius circle centered on that point becomes a living battlefield, as every root, stone, and beast awakens with purpose. Artificial terrain in the area is destroyed and returns to its original form. Towers of stone become rolling hills, libraries of wood and paper turn to trees, and dams release rivers back into the soil. Great structures do not crumble under the power of this spell, but smaller nonmagical artificial creations permanently return to their pre-civilization shapes.</p><p>If you cast this spell in a location where nature has been deliberately corrupted, desecrated, or destroyed – a razed forest, a poisoned river, a city built upon sacred land – the spell’s radius doubles and each of its damage rolls increases by one die. The DM determines whether a location qualifies.</p><p>For the duration, the area is transformed in the following ways:</p><ul><li></li></ul><p>Difficult Terrain. The ground throughout the area becomes difficult terrain for any creature you designate as an enemy when you cast this spell.</p><ul><li></li></ul><p>Ensnaring Growth. At the start of each of your turns, creatures of your choice within the area must succeed on a Strength saving throw or become restrained until the start of your next turn, as roots and vines surge up to bind them.</p><ul><li></li></ul><p>Beast Tide. A tide of ghostly creatures native to the terrain – wolves, bears, eagles, serpents, or similar – surges through the area for the duration. At the start of each of your turns, each creature of your choice in the area takes 4d10 Soul damage as the ghostly tide washes over them. This damage cannot be avoided.</p><ul><li></li></ul><p>Eyes of the Wild. For the duration, you are aware of the location of every creature within the area, as the natural world feeds you information through roots, winds, and tides. You cannot be surprised, and you gain truesight out to 60 feet.</p><p>Boons of Nature. When you cast this spell, you can designate any number of creatures you can see as allies. Allied creatures within the area are unaffected by its hostile effects, ignore difficult terrain, and regain 2d10 hit points at the start of each of their turns.</p><ul><li></li></ul><p>Changing Environment. When the spell ends or is interrupted, the area loses its magical properties but remains transformed. Trees that have grown over streets stand tall, rivers that escaped their dams find new paths, and stones raised from the earth settle into new positions.</p><p>Restoration. This spell can also be cast over a plot of land in need of healing rather than war. When cast this way, you can choose to forgo all of the spell’s hostile effects for the duration, channeling its power entirely into restoring and revitalizing the land to its natural state.</p></div>",
+      "chat": ""
+    },
+    "identifier": "wrath-of-nature",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "132",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "8",
+      "units": "hour"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A bronze twig from the forgotten forests of Elphame",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material",
+      "concentration"
+    ],
+    "range": {
+      "value": "1",
+      "units": "mi"
+    },
+    "school": "con",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "radius",
+        "size": "500",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "132",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Druid",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

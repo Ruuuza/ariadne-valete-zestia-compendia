@@ -1,0 +1,71 @@
+{
+  "_key": "!items!064f83ce82ba5c21",
+  "_id": "064f83ce82ba5c21",
+  "name": "Legendary Druid - Level 24",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 40-43.</p><p>Level 24</p><p>Archdruid’s Resilience</p><p>When you reach 24th level, you become resistant to cold and fire damage, both in your true form and in your Wild Shape. Additionally, whenever you finish a long rest, choose one other damage type among the following: acid, lightning, or thunder. You become resistant to that damage type in all your forms until you choose another type upon finishing a long rest.</p><p>Rejuvenating Recovery</p><p>Also at 24th level, when you use the Recover action, you regain a use of your Wild Shape feature and are cleansed of one harmful condition or magical effect of 7th level or lower currently afflicting you.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-druid-level-24",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "40-43",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Druid level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "40-43",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Druid",
+      "legendaryLevel": 24
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

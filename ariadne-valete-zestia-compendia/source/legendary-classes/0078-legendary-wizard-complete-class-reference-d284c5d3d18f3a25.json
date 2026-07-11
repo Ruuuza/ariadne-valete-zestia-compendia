@@ -1,0 +1,71 @@
+{
+  "_key": "!items!d284c5d3d18f3a25",
+  "_id": "d284c5d3d18f3a25",
+  "name": "Legendary Wizard - Complete Class Reference",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 78-81.</p><p>Legendary Wizard</p><p>The Universe is full of unanswered questions. Somewhere, a lowly student of the arcane chose to pick up a quill and ponder their meaning, uncovering spells of great power and utility as almost an afterthought to the unpuzzling of reality. With courage and curiosity, these bookworms left their libraries and walked the world, recognizing that their field of study demands practical knowledge. And thus, working tirelessly and answering conundrums, they assembled a picture of what magic truly means, in its very essence.</p><p>The culmination of twenty levels of patient work has made these wizards into some of the greatest mortals the cosmos has ever seen. Every arcanism is the endpoint of a chain of reasoning that started with a simple graphism inside a spellbook and ended with the fiery explosions of meteors raining down. The arcane reveals itself only to those whose minds are sharp enough to decipher it, pouring through pages and pages of scribbled notes and ink-drawn sigils. This hard and methodical work has proven valuable beyond what anyone would have expected of that determined student who ventured out into the unknown, in search of something most mortals don’t care about beyond a superficial level: understanding.</p><p>Legendary Wizards are fascinating: the greatest scientists, the worst villains, the wisest elders. The raw power available to them at this tier is staggering, but it is the precise and methodical personality behind it that sets them apart from other spellcasters. A Wizard’s abode might contain items of incredible power created by the combination of hundreds of carefully devised spells, great constructs of magic that defy the definition of life, and alchemical formulas that result in diseases more virulent than any natural pathogen, and stimulants more potent than holy blessings.</p><p>A spellbook once empty now glows with the light of a thousand runes. Within each page is a fragment of the paradigm of understanding they have developed, a theory of everything within which the behavior of both the Universe and the Legendary Wizard can be explained. When magic alights upon the palms of these archmages, entire worlds shudder at the coming arcanisms.</p><p>1 5 25 4 3 3 3 3 2 2 1 1 —</p><p>Bonus Features Legendary</p><p>Level Proficiency</p><p>Points</p><p>Legendary Arcanisms, Legendary AC, Legendary</p><p>20th +6</p><p>Resistance</p><p>Heroic Path (1), Legendary</p><p>1 5 26 4 3 3 3 3 2 2 1 1 —</p><p>21st +6</p><p>Score Improvement (1),</p><p>Sacrificial Conduits</p><p>22nd +7 Heroic Path (2), Efficient Flow,</p><p>10th-Level Spell 2 5 27 4 3 3 3 3 2 2 1 1 1</p><p>Heroic Path (3), Legendary</p><p>Score Improvement (2),</p><p>2 5 28 4 3 3 3 3 3 2 1 1 1</p><p>23rd +7</p><p>Greater Magicker, Omniturgical Possibility</p><p>Heroic Path (4), Arcane</p><p>Resilience, Memorized Spellbook, Wizardly Recovery,</p><p>24th +8</p><p>3 5 All 4 3 3 3 3 3 3 1 1 1</p><p>10th-Level Spell (2)</p><p>Heroic Path (5), Legendary</p><p>25th +8</p><p>3 5 All 4 3 3 3 3 3 3 2 2 1</p><p>Score Improvement (3),</p><p>Arcane Exemplar</p><p>Level 20</p><p>Legendary Points</p><p>Starting at 20th level, you gain Legendary Points. Your level determines the number of points you have, as shown in the Legendary Points column of the Legendary Wizard table. You can take the Recover action on your turn to regain all expended Legendary Points. You can spend these points to fuel various features.</p><p>Legendary Resistance</p><p>Starting at 20th level, you can expend 1 Legendary Point when you fail a saving throw to succeed instead.</p><p>Legendary AC</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC in any way, except by temporary AC increases or magical effects lasting 1 hour or less. Other spells and effects that increase your AC only affect your regular AC.</p><p>Cantrips</p><p>Prepared</p><p>— Spell Slots Per Spell Level — 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th</p><p>Known</p><p>Spells</p><p>Legendary Arcanisms</p><p>Also at 20th level, you gain the ability to make spells you cast more potent and harder to nullify. When you expend a spell slot to cast a wizard spell, you can expend 1 Legendary Point to upcast it as if you had used a spell slot 3 levels higher than the spell slot you expended, up to a 9th-level upcast. This way, a spell cast at 1st level is instead cast at 4th level, and a spell cast at 6th level is instead cast at 9th level.</p><p>Level 21</p><p>Heroic Path Advancement</p><p>At 21st level, you choose a Heroic Path you meet the prerequisites for and advance its first step. Each time you gain a level, you can advance a Heroic Path by one step, start a new Heroic Path, or, if specified as an option of the current step you’re on, jump from one Heroic Path into another.</p><p>Legendary Score Improvement</p><p>When you reach 21st level, and again at levels 23 and 25, increase one of your ability scores by 2 or two ability scores by 1. You cannot raise an ability score above 24 using this feature, unless another feature raised your maximum for that specific ability score beforehand.</p><p>Sacrificial Conduits</p><p>Also at 21st level, you learn to fashion false prana conduits that allow you to use spell slots you’ve already spent, at the cost of your own health. You can cast a spell even if you don’t have the required spell slot for it. If you do so, you increase your exhaustion level by an amount equal to one-third the level of the spell you cast, rounded up (minimum of 1).</p><p>You can use this ability to cast a 10th-level spell, after learning one. If you do so, you disintegrate into arcanely charged dust at the end of your turn, using your very essence to maintain such an arcanism. Only a Wish or True Resurrection spell can bring you back to life.</p><p>Level 22</p><p>10th-Level Spell</p><p>At 22nd level, you learn a single 10th-level spell. You learn an additional 10th-level spell at 24th level. When you start casting a 10th-level spell, you must expend 2 Legendary Points alongside the required action and spell slot.</p><p>Efficient Flow</p><p>Also at 22nd level, you learn to use your conduits with near-perfect efficiency, allowing you to manifest spells faster. You can cast various spells that expend spell slots in the same turn, ignoring the usual restrictions for spellcasting, and you can concentrate on one additional spell at a time. If your concentration is broken, all spells you were concentrating on end.</p><p>The number of spells you can concentrate on at a time can never exceed 4, even if you gain this same benefit from various sources.</p><p>Level 23</p><p>Omniturgical Possibility</p><p>At 23rd level, you learn to manifest magic that is normally out of reach for wizards. You can expend 2 Legendary Points to cast a spell of 9th level or lower without expending a spell slot. The spell can be one that you don’t know or have prepared. Having witnessed the spell being cast or having read about it is sufficient for you to perform it. The spell doesn’t need to be a wizard spell, but it counts as one for you. You must still abide by all other rules of spellcasting.</p><p>Once you use this feature, you cannot use it again until you complete a long rest.</p><p>Greater Magicker</p><p>Also at 23rd level, your understanding of magic makes your spells even harder to resist. Increase your Spell Save DC by 2. Your magic always counts as Higher magic, even if it is Lower, for the purposes of Tiers of Magic.</p><p>Level 24</p><p>Arcane Resilience</p><p>Starting at 24th level, you have resistance to damage from spells. If you already had resistance to damage from spells from another source, you gain resistance to damage from all magical effects instead.</p><p>Wizardly Recovery</p><p>Also at 24th level, when you use the Recover action, you regain one spell slot of up to 5th level.</p><p>Memorized Spellbook</p><p>When you reach 24th level, your Spellbook has become obsolete. You have memorized all the contents from your Spellbook and no longer require it to cast Ritual spells. You have all spells from your Spellbook prepared at any time. Whenever you add a spell to your Spellbook, you immediately memorize it and always have it prepared.</p><p>You no longer require an arcane focus to cast spells, using your mind as your arcane focus.</p><p>Level 25</p><p>Arcane Exemplar</p><p>At 25th level, you gain an additional 9th-level spell slot (included on the class table), and you learn the ability to concentrate on an additional spell at a time. If your concentration is broken, all spells you were concentrating on end.</p><p>The number of spells you can concentrate on at a time can never exceed 4, even if you gain this same benefit from various sources.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-wizard-complete-class-reference",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "78-81",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-overview",
+      "sourcePage": "78-81",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Wizard",
+      "levels": "20-25"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_key": "!items!a218f5ff90496d28",
+  "_id": "a218f5ff90496d28",
+  "name": "Ki-Borne Awareness",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 50-53.</p><p>Ki-Borne Awareness</p><p>At 22nd level, you learn to use your Focus to pierce through any illusion and detect those that are hidden. As a bonus action on your turn, you can expend 3 Focus points to gain truesight out to a range of 30 feet.</p><p>You can expend additional Focus points beyond the initial 3 to extend the range by 10 feet per additional Focus point expended as part of the same bonus action. This feature lasts for a minute or until you are incapacitated.</p></div>",
+      "chat": ""
+    },
+    "identifier": "monk-ki-borne-awareness",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "50-53",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "50-53",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Monk",
+      "legendaryLevel": 22,
+      "originalFeatureName": "Ki-Borne Awareness",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

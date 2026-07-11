@@ -1,0 +1,73 @@
+{
+  "_key": "!items!fc94746163f1d278",
+  "_id": "fc94746163f1d278",
+  "name": "Reliable Luck",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 62-65.</p><p>Reliable Luck</p><p>At 25th level, your skill and training become such that it seems your good fortune can never run out, for you are its very origin. You can use your Stroke of Luck feature three times instead of one in between short or long rests.</p></div>",
+      "chat": ""
+    },
+    "identifier": "rogue-reliable-luck",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "62-65",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Rogue level 25",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "62-65",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Rogue",
+      "legendaryLevel": 25,
+      "originalFeatureName": "Reliable Luck",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

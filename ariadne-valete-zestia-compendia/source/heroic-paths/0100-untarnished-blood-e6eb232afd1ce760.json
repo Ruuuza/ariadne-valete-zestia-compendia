@@ -1,0 +1,72 @@
+{
+  "_key": "!items!e6eb232afd1ce760",
+  "_id": "e6eb232afd1ce760",
+  "name": "Untarnished Blood",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 103.</p><p>Tier II: Untarnished Blood</p><p>Prerequisite: Iron Stance</p><p>Cleanse Effect. You can use 1 LP at the start of your turn to end all conditions or harmful effects not created by mythical techniques or spells of 8th level or higher currently afflicting you.</p><p>Greater Health. Your hit point maximum cannot be reduced in any way, and you are immune to spells and effects that would immediately reduce your hit points to 0 or kill you outright.</p></div>",
+      "chat": ""
+    },
+    "identifier": "untarnished-blood",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "103",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Unbreakable",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "103",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Unbreakable",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

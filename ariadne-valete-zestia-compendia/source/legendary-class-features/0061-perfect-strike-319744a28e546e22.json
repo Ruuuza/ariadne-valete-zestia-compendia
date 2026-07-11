@@ -1,0 +1,146 @@
+{
+  "_key": "!items!319744a28e546e22",
+  "_id": "319744a28e546e22",
+  "name": "Perfect Strike",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "ceffa92ad8455c51": {
+        "_id": "ceffa92ad8455c51",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Perfect Strike"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 44-49.</p><p>Perfect Strike</p><p>When you reach 20th level, you learn to channel your martial prowess into a single, devastating blow. When you take the Attack action, you can forgo any number of your attacks and expend 1 Legendary Point to perform a Perfect Strike. The damage calculation of Perfect Strike changes depending on the number of attacks forgone and the weapon type used (melee or ranged).</p><p>Second</p><p>Weapon Mastery</p><p>Points</p><p>Wind</p><p>Make a weapon attack against a target within range. This attack has an additional +10 bonus to hit and does not benefit from any other bonus to its damage roll. If you use your Action Surge on the same turn as a Perfect Strike, you can forgo any attacks granted by Action Surge to further increase the damage calculation, up to a maximum of 10 forgone attacks. Attacks made with a bonus action, such as an off-hand attack, cannot be forgone to increase Perfect Strike’s damage calculation.</p><p>Perfect Strike Damage</p><p>Attacks Forgone Melee Damage Ranged Damage</p><p>1 1d8 x 5 1d6 x 5</p><p>2 2d8 x 5 2d6 x 5</p><p>3 3d8 x 5 3d6 x 5</p><p>4 4d8 x 5 4d6 x 5</p><p>5 5d8 x 5 5d6 x 5</p><p>6 6d8 x 5 6d6 x 5</p><p>7 7d8 x 5 7d6 x 5</p><p>8 8d8 x 5 8d6 x 5</p><p>9 9d8 x 5 9d6 x 5</p><p>10 10d8 x 5 10d6 x 5</p><p>When you score a critical hit with your Perfect Strike, you do not multiply the damage by 2, but instead add 2d8 (melee) or 2d6 (ranged) to the equation.</p><p>Weapon Attack. Perfect Strike counts as a weapon attack and can be modified by or apply additional effects such as Weapon Masteries, Maneuvers, and Mythical Technique Infusions. Effects that add damage to a weapon attack do not apply.</p></div>",
+      "chat": ""
+    },
+    "identifier": "fighter-perfect-strike",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "44-49",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Fighter level 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "44-49",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Fighter",
+      "legendaryLevel": 20,
+      "originalFeatureName": "Perfect Strike",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

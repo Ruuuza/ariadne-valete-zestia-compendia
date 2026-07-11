@@ -1,0 +1,72 @@
+{
+  "_key": "!items!9e165ff1ce79ad7b",
+  "_id": "9e165ff1ce79ad7b",
+  "name": "Thrall",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 96.</p><p>Heroic Perk: Thrall</p><p>Prerequisite: Dread Master</p><p>When a creature dies within 60 feet of you, you can use your reaction to raise it as a thrall under your command. A thrall uses the creature’s original stat block, but its maximum hit points are halved, and it cannot use legendary actions, legendary resistances, or legendary points .</p><p>You can have an unlimited number of thralls of CR 5 or lower active simultaneously. You can only maintain one thrall of CR 6 or higher at a time–raising a new one immediately dismisses the previous. Creatures of CR 25 or higher cannot be raised as thralls.</p><p>Thralls act on your initiative count immediately after you and obey your commands without question. A thrall crumbles to dust when it is reduced to 0 hit points or after 24 hours. You can also dismiss a thrall as a free action.</p></div>",
+      "chat": ""
+    },
+    "identifier": "thrall",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "96",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Overlord",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "96",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Overlord",
+      "stageType": "Heroic Perk",
+      "stageOrder": 2
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

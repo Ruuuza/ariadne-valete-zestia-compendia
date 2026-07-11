@@ -1,0 +1,649 @@
+{
+  "_key": "!journal!e6ddbd56541317fe",
+  "_id": "e6ddbd56541317fe",
+  "name": "V - The Legendary Game",
+  "pages": [
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.5ec2ae7e4589e7a3",
+      "_id": "5ec2ae7e4589e7a3",
+      "name": "p. 134 - V",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 134</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">V\n\nthe\nLEGENDARY\n\nGAME\n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 134,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.31f8d9bc9de89c44",
+      "_id": "31f8d9bc9de89c44",
+      "name": "p. 135 - THE LEGENDARY GAME",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 135</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">THE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 135,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.47a2f44ba0e61924",
+      "_id": "47a2f44ba0e61924",
+      "name": "p. 136 - Legendary Horizons",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 136</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Legendary Horizons\n\n \n \nT\n\nhe game master is the great director of any\nTTRPG. The following sections assume you\nare the one building the world, running the\nfoes, and managing the table–not playing in\nit.\n\nYou might have heard that high-level play\nbreaks things that worked fine at lower\nlevels. This is true. Saving throws become trivial or\nimpossible. Single spells can remove a foe from the fight\nentirely. One player’s toolkit can invalidate another’s. Do\nnot allow these difficulties to intimidate you; running a\nLegendary Campaign is a unique, fulfilling act that will\ntake you and your group on an unforgettable adventure.\n\nThe systems present in this sourcebook exist to address\nthose problems directly, but they require mastery.\nReading this section before running your first Legendary\nsession will save you significant trouble at the table.\n\nDo not expect perfection, either from you or from your\nplayers, and communicate clearly if something isn’t\nworking as intended. They are your collaborators in this\nLegendary Game, not your opponents–at this tier of play,\nthe level of power you wield can believably wipe them out\nwith a single godly wish, no matter how powerful their\nabilities.\n\nThe Three Pillars. We’ve touched upon the three pillars\nof D&amp;D in the introduction of this book. The following\nchapter is a more detailed analysis of how these\nfundamental aspects change from the DM’s side.\nExploration\n\nFirst is exploration, in which we’ll discuss worldbuilding,\ncreating incredible locations, and developing obstacles\n\nTHE LEGENDARY GAME\n\nyour characters may encounter while not actively in a\ncombat or roleplay scenario.\nRoleplay\n\nSecond is roleplay, focused on narrative tension at\nlegendary levels, epic NPCs, and conversation-type\nencounters. This section will help you create and balance\nthe story in a way that still affects your players, even as\nthey ascend to godhood.\nCombat\n\nThird is combat. This section will teach you the general\nprinciples of high-level combat, how to make it quick and\nfun, and how to manage your party’s combat resources\nover the course of a Legendary Adventure. It will include\nseveral ways of using non-Legendary foes to bring\ndifficulty to your players, along with many different types\nof combat encounters to suit your Legendary needs.\nTo Battle Legends\n\nThe final section of this chapter will focus exclusively on\nLegendary Battles, the kind that this entire sourcebook\nbuilds up to. It will give you the tools to understand what\nmakes a legendary showdown fun, the phases such an\nencounter might go through, how to maintain tension\nover several hours of combat, how to create compelling\nenvironments and lairs, and some tips and tricks to make\nsure you are fully prepared for your final battle.\n\nThis section, in particular, is perfect to construct the\nfinal battle of a campaign, be it legendary or not. Most of\nthe same precepts presented apply to both a 25th-level\nboss fight and a 15th-level one.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 136,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.2a0e3d0da2b102e4",
+      "_id": "2a0e3d0da2b102e4",
+      "name": "p. 137 - Exploration",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 137</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Exploration\n\nDelving into the deepest dungeons, uncovering the\nsecrets of ancient civilizations, charting planes no mortal\nhas named–these are the adventures your Legendary\nplayers will routinely find themselves embarking on. To\nrun a truly memorable high-level campaign, the locations\nmust meet the scope of the party standing in them.\n\nEpic Worldbuilding\n\nThe first thing you must do when preparing a Legendary\nGame is to settle on your narrative. What kind of story will\nyou tell beyond 20th level? Will your players chase down a\nnewborn God with plans to conquer the world? Battle\nacross an intergalactic war, traveling through planets and\ndismantling an empire that ruled the stars for a thousand\nyears? Hunt the artifacts of a fallen Legendary Hero in the\nhopes of ascending to Godhood themselves?\nUnderstanding your Legendary narrative, separate from\nwhatever brought the party to 20th level, will shape the\nsettings your campaign demands. “Settings”, plural; a\nLegendary Game visits many locations, and grapples with\ncultures, worlds, and planes of existence that were only\nhinted at before.\n\nPerhaps your party has already passed through the\nhells or heavens on some earlier adventure–a quick item\nretrieval, a petition for aid, a rescue of an NPC. Now is the\nmoment to develop those glimpsed places into fullyfledged worlds of magic and might. The planes beyond\nthe Material are not merely exotic backdrops; they are\n\npowerful environments where the median creature far\nexceeds the typical mortal in strength and danger. A\nLegendary Party still stands beyond most of what they\nwill encounter, but beings such as Solars, Pit Fiends,\nLiches, and Dragons may populate these places by the\ndozens. And beyond them, stranger things still, creatures\nthat don’t even have a stat block for your party to fight.\nTitans of stone with thousands of hit points, entities with\ndominion over the laws of reality, eldritch monstrosities\ncapable of devouring entire planets…\nThe Planescape\n\nA coherent cosmology is crucial for a Legendary Game,\neven if your story unfolds primarily within a single\ndimension. Your party almost certainly has access to\nplane-hopping spells or artifacts by this point, and they\nwill likely use them to chase any thread you dangle in\nfront of them. The Outer Planes of the Forgotten Realms\nsetting offer a well-developed example, built over decades,\nand are worth studying as a structural model for your own\ncosmic wheel. Our own setting, the Universe of Strings,\ndraws heavily from that tradition and can serve as a\ncomplete foundation for a Legendary campaign if you\nneed one.\n\nThat said, we recommend using other settings as\ninspiration rather than adoption. The worldbuilding\ndemands of a Legendary Game tend to outgrow any\nsingle published source, and running a pre-existing\nplanescape carries real risk–your players may be a Google\nsearch away from spoilers. At this tier, you alone must be\nthe master of the stakes.\n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 137,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.b924064dad200729",
+      "_id": "b924064dad200729",
+      "name": "p. 138 - The Fundamental Forces",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 138</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">The Fundamental Forces\n\nA cosmology needs opposing tensions to feel alive.\nRather than borrowing alignment axes wholesale from\n5e, consider building your cosmos around forces that\nreflect your setting’s history. These are some starting\npoints, along with key questions you should know the\nanswer to when creating a Legendary Campaign.\n\nOrder and Chaos. Perhaps the oldest opposition.\nWhere Order solidifies, civilizations form, laws are set\nin place, and reality becomes predictable. Where Chaos\nreigns, possibility proliferates, but shapes remain\nfleeting and ever-changing. The material plane is a\nbalance of these two forces; when creating worlds\nbeyond, think about tilting the balance to one side or the\nother. On the far end of Order, you can find infinite\ncities, totalitarian civilizations, perfectly ordered stars of\nsuffocating law. Upon the realms of chaos, you can find\nimpossible landscapes, beautiful and untamed wilds,\nuninhabitable planes of madness and chaos ruled by\nfleeting might and uncontrollable magic.\n\nCreation and Void. The vastness of space can be as\nbig or as small as you choose. What are the distances\nbetween your worlds? Where do they draw their planar\nborders? Are they infinite dimensions contained within\nthe greater infinity of the cosmos? Or do they carve their\nsmall domains upon the overwhelming void between\nstars? Think about the scales of your universe. Where\ndoes it end? How do planewalkers travel? Is everything\ndone with magic? How is that magic regulated upon\ndifferent planes of existence? These questions are all\nconnected to the dichotomy between Creation (where\nsomething exists) and Void (where nothing exists).\n\nLife and Death. Perhaps as important–if not\nmore so–than the previous forces, Life and\nDeath define the structure of your cosmology. What\nhappens after death? Where does the soul go? In\ntraditional 5e fashion, the planes of existence often\nfunction as afterlives—but how does the life of a devil\ncompare to that of a mortal? Are the people of your\nworld judged for their brief lives and confined to eternal\nfates? In a cosmos where mortals may interact with\nelder beings of unknowable power, devils who bargain\nfor souls, and angels who guard the resting places of\nheroes, what does death truly mean?\n\nWhat happens when an angel is destroyed? What of a\ndevil or an elemental? Do they possess an essence that\nremains, or do they fade into nothingness? Perhaps they\nare immortal, endlessly reformed within their native\nplanes. If so, how do they reproduce? How do they\nmanage populations that might grow without limit?\n\nDo all heroes and villains become something else\nafter death? Do tyrants rise as devils, and heroes as\nangels? Do they continue their conflicts as eternal\nbeings, or forget their mortal lives entirely in service to a\ngreater purpose?\n\nEach question you ask helps define the cycle of Life\nand Death in your universe, until your Legendary party\ncan interact with these forces directly.\n\nTHE LEGENDARY GAME\n\nMany More! Worldbuilding is, at its core, an exercise in\nasking questions. To support a Legendary game, your\nsetting must be robust, and the questions you asked\nbefore 20th level may no longer suffice at this new scale\nof power. New ones will take their place; not simply\n“Who are the gods?” but “How did they become gods?”\n\nIf your players uncover something that isn’t fully\ndeveloped, take a moment to consider before\nanswering–or perhaps leave it unanswered until you can\nweave it into your broader worldbuilding. Stay\nmysterious! A Legendary Campaign will often push your\nworldbuilding engines to their absolute limit.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 138,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.1bf54d68bbb13a2e",
+      "_id": "1bf54d68bbb13a2e",
+      "name": "p. 139 - Legendary Locations",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 139</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Legendary Locations\n\nFrom epic dungeons to inconceivable landscapes, a\nLegendary Campaign will take your party through some\nof the most impressive locations in the cosmos. Alien\nworlds, forgotten kingdoms, dangerous asteroid belts;\neach will determine the scope of the session they frame.\nThe environments should be as vibrant and complex, if\nnot more so, than the combat or roleplay scenarios.\nWhat makes a good location?\n\nThere are several principles to follow when\nconceptualizing the environment your Legendary party\nwill inhabit. Coincidentally, they all start with the letter\n“I”:\n\nImpressiveness. A Legendary game demands\nlegendary locations. Make your environments\notherworldly, incredible, and awe-inspiring. You are no\nlonger depicting simple towns, rolling hills, or ruined\ndungeons. Instead, imagine cities built on the dark side\nof tidally locked planets, where their inhabitants find\nrefuge from the scorching heat of a dying star. Think of\nfloating mountains connected by strands of condensed\nclouds, ever-shifting and yet, for fleeting moments,\ncapable of supporting the weight of material beings.\nDescribe the astral bastion of a long-forgotten lich,\nteeming with the confined magic of a thousand years,\nand the blasphemous creatures once created to serve it.\n\nOne of the greatest joys of running a Legendary\ncampaign is creating locations that simply cannot exist\nin a more grounded game. Asteroid fields where an\nancient, planet-sized being cultivates its crops; eternal\n\ncities at the heart of the Hells, where archdevils wrestle\nfor power amid the suffering of billions; living\nconstellations that once housed a galaxy-spanning\nempire of highly advanced beings, now fallen into ruin.\n\nGo all out! Make sure your players remember the\nplaces they visit.\n\nImportance. A Legendary location must matter. Your\nenvironments should carry weight within the story, the\ncosmos, or the characters themselves. Ask yourself: why\ndoes this place exist, and why does it matter now? A\nfloating city is impressive, but it becomes memorable\nwhen it is the last refuge of a dying civilization, or the\nsite where a grand lich is conducting a deathly ritual.\n\nTie your locations to consequences. The astral tomb\nis not merely a relic of the past–it may hold a sealed\nThread of Divinity, one whose release could reshape\nentire planes. The palace at the heart of the crucible is\nnot just the abode of an archdevil–it might be the place\nwhere a contract bearing a character’s soul is kept.\nWhen players understand that their actions within a\nlocation have lasting effects, the environment\ntransforms from a backdrop into a driving force of the\nnarrative.\n\nImportance also anchors player motivation. A place\ntied to a character’s past, a looming cosmic threat, or an\nimportant answer will naturally draw the party’s\nattention and investment. In Legendary play, where the\nscale of the universe expands dramatically, grounding\nyour locations in meaning ensures that your players do\n\nnot feel lost in the vastness of it all and in their\n\n many possible  destinations.\n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 139,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.f541663db81fadd9",
+      "_id": "f541663db81fadd9",
+      "name": "p. 140 - Interactivity. What is an epic location if there is only",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 140</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Interactivity. What is an epic location if there is only\none path forward, one thing to do, one objective to\nfulfill? As impressive as an environment might be, it is\nequally important for you to create multiple avenues of\ninteractivity within it, allowing for player creativity. Most\nof the time, this simply means being open to your party’s\nchoices; perhaps they fly over the ruined city instead of\nexploring it in detail. Perhaps they focus on a damned\nsoul you described in passing while traversing the Hells,\nor find a way to breach the ancient bastion’s doors\nwithout ever needing the key. Interactivity is, more often\nthan not, a result of your capacity for improvisation–not\nyour ability to prepare everything in advance. Leave\nthreads open in each location, and see which ones your\nparty chooses to follow. Being a DM is guiding the party\ntoward the right goal, even when they take a completely\ndifferent path than the one you intended.\n\nIn Legendary Locations, especially, your players\npossess such an array of abilities and options that you\noften cannot predict the course of action they might\ntake. You need to learn to roll with the punches and\nkeep yourself flexible enough to relocate certain NPCs,\npuzzles, or combat encounters to fit the will of your\nplayers.\nEvent Encounters\n\nThere is one type of encounter that is very much linked\nto Legendary Locations: the Event-type encounter.\nThese moments in the game are cinematic in nature,\ndescriptive, and require little to no input from the party.\nA dragon flying in the distance, a circle of fey lights\ncongregating around a tree, an execution of criminals\ncarried out in the name of the King–these narrative\nmoments serve to deepen the world and spotlight a\ncertain aspect of the story.\n\nIn legendary campaigns, these event-type encounters\ntake on a different role, since the chance of your players\ninteracting with them becomes a lot higher. Perhaps the\nLegendary Ranger chooses to shoot down the dragon\nyou described several miles off. Perhaps the druid\ncommands the fey lights to aid the party. Perhaps the\npaladin, with greater authority than the king, chooses to\nspare the criminals–or takes up the blade and executes\nthem. Be ready to improvise!\n\nWhen showcasing narrative events, it helps to be\ngrander than you were in your non-Legendary game. As\nthe party travels through the astral sea, they witness the\nbirth of a new star, or the rending of a planet by a\nmeteor shower. While the characters are exploring the\nelemental plane of earth, giants of stone battle in the\ndistance, breaking and reforming in a game of titanic\nproportions. Amid the heroes’ infiltration through the\ncastle of a demon lord, they pass through a great door\npowered by an enormous machine of steel and flesh,\nwhere thousands of damned souls cry in pain with each\nof the contraptions’ blasphemous movements.\n\nAlways remember, the party might choose to interact\nwith these events! Be ready to allow such tampering,\nand think on your feet to get the party back on track.\n\nTHE LEGENDARY GAME\n\nDM: The lands of the fae stretch out before you, a forest of\ngolden leaves parted through the middle by a set of\nenormous blade-like karsts. Far in the sky float several\nislands, orbiting above the forest as if something at the\ncenter of the myriad of golden trees kept them from falling.\nA river of honey flows through one of the far-off islands,\noozing down toward the ground and curving as it falls…\n\nCeles, playing Agamena the Barbarian: Oh my god, did you\nsay river of honey? That’s absolutely insane! Let’s go there!\n\nDM: Uh, it’s floating very far from the ground, about two or\nthree miles off…\n\nMari, playing Kyran the Sorcerer. Do not worry, Agamena. I’ll\nteleport us there.\n\nDM, who just improvised the place to add some flavour: With\na space-bending word, you teleport the party to the honeyriver island. As you manifest, you feel yourselves float, light\nas feathers. Something’s affecting the gravity of everything\nabove the golden forest. Perhaps it has something to do\nwith the sage you’ve been looking for in–\n\nCeles. Can I drink from the river? Is it good? Is it like, nectar\nor something?\n\nDM, thinking of a way to get the party back on track: …Alright.\nYou drop to your knees and gather a bit of honey on your\npalm before tasting it. The flavour is unreal, perhaps the\nbest sustenance you’ve ever had. It must be something\ndivine, for it doesn’t even stain your fingers or fill your belly.\nYou gain 10 temporary hit points.\n\nCeles: Let’s go! I’m over 400 hit points at last!\n\nDM: Before you finish licking your lips, however, you feel a\nfoot push your head into the honey. Make a Strength Saving\nthrow.\n\nCeles: Oh damn! Alright, low roll, that’s 28, but Indomitable\nMight makes it so I cannot roll beneath my strength score.\nThat’s 30, DM.\n\nDM, changing the place of an important NPC: Your muscles\ntighten to fight the pushing force, but despite your heroic\nmight, you fail. Gravity itself betrays you, as you sink into\nthe honeyed flow. A figure appears from thin air above\nAgamena, his elfine boot pushing her head down into the\nwater. “Who darrres violate my rrriver?” the powerful voice\nsays. His power over gravity seems absolute. This must be\nhim–the Sage of the Golden Forest. Kyran, your sorcerous\nprowess allows you to sense the warping gravity connecting\nin threads to his golden, leaf-adorned crown.\n\nMari. Oh shoot… He beat Agamena’s 30?\n\nDM. Yes. The sage seems to have power over much heavier\nthings than your friend.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 140,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.82cd182bc683f5cd",
+      "_id": "82cd182bc683f5cd",
+      "name": "p. 141 - Obstacles",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 141</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Obstacles\n\nFinally, when depicting the environments, worlds, and\nlocations your Legendary Party will explore, it helps to\ncreate believable obstacles that can challenge\ncharacters beyond 20th level. In non-Legendary\ncampaigns, these might take the shape of skill\nchallenges, such as stealthing through a dungeon,\nclimbing a mountain, finding a path through the\nwilderness; they might also be decision-making tests,\nplanning how to assault a bandit camp, choosing which\npath to take at the crossroads, or even what lead to\nfollow when solving a mystery.\n\nA Legendary Campaign requires a different\nperspective on obstacles–with higher ability scores, a\nplethora of options, and much greater scope.\n\nSkill Checks\n\nTo create satisfying skill checks, first acknowledge your\nparty’s mastery of non-Legendary challenges by not\ninflating DCs without reason. Just because the rogue is\nrolling a 42 on acrobatics does not mean the DC for a\nbackflip should increase from 15 to 30. Success should\nfeel earned and rewarding–let your players experience\nhow far they’ve come by overcoming once-difficult tasks\nwith ease.\n\nNow, what constitutes a DC 30, 35, 40, or even 50\nskill check in Exploration? Three aspects: complexity,\nimpressiveness, and narrative importance.\n\nComplexity. The first is simple to determine–how hard\nis this challenge? Perhaps a backflip has a DC of 15.\nThe rogue, however, is trying to do one in combat by\njumping on top of the barbarian (DC 18) and changing\ndirection mid air to grab unto the ceiling (DC 23) only to\nthen disarm an explosive trap armed into the roof (DC\n27) in the few seconds before it goes off (DC 33), all in\none bonus action (DC 40). With that aforementioned 42,\nthe Rogue clears it. Don’t gatekeep success, even when\nit stretches plausibility; you are playing a Legendary\nCampaign, the characters should be able to do\nLegendary stuff!\n\nSome challenges might be harder to determine. A\ngood rule to follow is this: if you intend them to be\ncomplex, put a high DC on them. Perhaps a lockpicking\nchallenge hides a key artifact. The lockbox you\ndescribed, though magical, doesn’t have nearly the\nsame importance as the secret gates to a penumbral\nfiend’s laboratory; yet both can have a DC of 35 or even\n40. A specialized character will clear both without much\ntrouble.\n\nImpressiveness. The DCs beyond 30 are reserved for\nacts that non-Legendary characters cannot ever hope to\naccomplish. A DC 35 Athletics check might be required\nto hold up the side of a falling building. A DC 40\nSurvival check may be appropriate to follow the residual\narcane trace left behind by an ethereal creature. A DC\n45 History check might reconstruct an ancient prophecy\nfrom scribbled runes on the side of fragmented ruins.\nThe more extraordinary the feat, the higher the DC.\n\nNarrative Importance. Some skill checks are\nrequired to further the story. These should often be\nchallenging, even for a Legendary Party. Depending on\nthe average range of your character’s rolls, you may\nchoose to increase a DC if you believe it to be of\nsufficient weight within the story to pose a greater\nchallenge. If your Legendary Barbarian is trying to pull\na mighty sword of ancient legend from a stone at the\nheart of the dungeon, and they happen to be inspired by\na Bard and enhanced by a Cleric, you can very well put a\nDC of 50 on that athletics check, even if such a DC\ncould be representative of a much more epic feat of\nstrength in another circumstance.\nDilemmas\n\nWhile decisive moments most often arise in roleplaying\nscenarios, they can just as easily emerge during\nexploration or even in the midst of combat. These are\nmoments that do not hinge on a die roll, but instead\ndetermine the path the party chooses to follow, each\nwith its own pros and cons.\n\nExploration dilemmas for a Legendary party function\nmuch like those in non-legendary play–the difference\nlies in their scale, stakes, and consequence. Rather than\nchoosing which road to take at a crossroads, the party\nmight decide which plane of existence to explore.\nInstead of determining how to approach a gnoll camp,\nthey may plan the infiltration of the seat of a Goddess of\nDarkness. In place of debating whether to take a magic\nitem from an ancient ruin or leave it be, they might\nweigh the consequences of claiming a shard of divinity–\nor leaving it behind.\n\nTo maintain tension in these decision-driven\nencounters, ensure that your players understand the\nstakes. A meaningful choice is rarely an easy one!\nTraps &amp; Puzzles\n\nWhen it comes to exploration, traps and puzzles are the\nmost iconic encounters your characters might face.\n\nTraps are easy to scale up to Legendary levels – more\npowerful spells stored in glyphs of warding, deadlier\npoisons, and, if you are feeling creative, grander and\nmore complex mechanisms. A never-ending hallway, a\nperpetual ray of disintegration, a room of lethal,\nunrelenting heat. In our experience, Legendary traps\nshould deal damage proportional to the tier of play–\nroughly 50 points per trigger at Legend, 75 at Paragon,\nand 100 or more at Ascended, depending on their\nintended deadliness.\n\nPuzzles can remain mostly the same as their nonLegendary counterparts, only with greater narrative\nweight. Solving the ancient riddle of a sphinx, finding\nthe path through an infinite labyrinth, and discovering\nthe missing piece of a heavenly sculpture–these are all\npuzzles that can exist in both regular and Legendary\ncampaigns. Keep in mind the increased capabilities of\nLegendary Characters and consider requiring their\npowerful spells or mythical techniques to solve certain\npuzzles. To balance different magical effects, see the\nMagic section in General Rules.\n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 141,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.7c59ecb163a698e2",
+      "_id": "7c59ecb163a698e2",
+      "name": "p. 142 - Roleplay",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 142</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Roleplay\n\nYour Legendary Party will interact with the greatest\ncreatures in your setting, be it Gods, devils, or eldritch\nhorrors beyond imagining. Not only that, but these\ninteractions will often be on equal ground–a cast of\nlegendary heroes can very well pose a threat to even\nthese mighty beings. As the DM, you must incarnate\nthese incredible forces of existence and know how to\ncreate narrative tension in a cosmos of ever-rising\nstakes.\n\nThe Wills at Play\n\nIn the Epic Worldbuilding section, you established the\nbroad architecture of your cosmos–the planescape, the\ndominant powers, the Gods that preside over it all. That\nis your backdrop. This section is about the foreground:\nthe individual wills, ambitions, and conflicts that\nactually move the story from one session to the next.\n\nStart by narrowing your scope to the personal level.\nWho wants something badly enough to act on it? This is\nthe question that begins an epic narrative. In a setting\nwhere the ultimate power is not only well defined but\nvery much in reach for the party, those who act upon\nyour story should come to challenge the fundamental\norder you’ve established when building your universe.\nA Living World\n\nBuild a world that was already in motion before the\nparty arrived. Other heroes exist. Other factions are\npursuing their own solutions to the same problems. A\nconclave of Ascended beings attempting a diplomatic\nresolution to a greater conflict. A guerrilla movement of\nenslaved creatures whose methods are questionable but\nwhose cause is just. A legendary figure from an earlier\nage who has been fighting alone for centuries and has\nstrong opinions about the newcomers.\n\nThese groups give the party a world to engage\nwith rather than a vacuum to fill, and they create\nnatural dramatic pressure–because if the party\nmoves too slowly, someone else will act, and\nthe shape of the story will change accordingly.\nHierarchies\n\nA God of Order may preside over an entire dimension, a\ntyrannical creature unbothered by the changing tides of\nthe universe, but it is their high priest–ambitious,\nbrilliant, and quietly convinced that their deity’s\nmethods are insufficient–who gives the party the task of\ntearing the God down.\n\nLesser powers are essential in any campaign. In a\nLegendary Game, these characters can become the\ndriving force of the narrative, even while being lesser\nthan the party. Build hierarchies; complex, difficult to\njudge, with many twists and turns. Beneath your\nprimary divine forces, place figures of significant power,\nmore keen on stirring the pot: demigods licking old\nwounds, wielders of great artifacts, warlords with\nenough planar territory to ignore their supposed\nmasters. These actors do not need to be fully detailed\n\nTHE LEGENDARY GAME\n\nfrom the start—they only need to want things, and those\nwants should pull in different directions. A lesser God\nwho quietly aids both sides of a celestial war, a fallen\nangel who believes the current divine order is corrupt, a\ndevil who has been gaining power over millennia. These\nare the wills that, much like your party, come to\nthreaten the status quo of your universe.\nThe Party\n\nThe most important thing to protect, through all of this\ncomplexity, is the party’s centrality. It is easy, when\nbuilding a cosmos full of ancient and powerful beings, to\nwrite a story in which those beings do mostly\neverything. This is not very engaging for your players.\n\nThe Gods and factions and lesser powers should be\nforces that the party navigates, influencing allies, slaying\nenemies, and determining the fate of worlds–never\nspectacles they watch from a distance. When the\nconclave of Ascended beings convenes to decide the\nfuture of a dying plane, the party should be in the room.\nWhen the second-in-command finally moves against\ntheir master, it should be because the party gave them\nthe reason, the means, or the moment. When the God of\nDarkness finally reveals itself, it should be the party he\nfights against.\n\nYour players should always be at the center of the\nstory, tipping the scales of the cosmos and determining\nthe fate of your setting.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 142,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.2632daaab495765c",
+      "_id": "2632daaab495765c",
+      "name": "p. 143 - Epic NPCs",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 143</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Epic NPCs\n\nNPCs are the key to creating a meaningful Legendary\nCampaign. The party needs people to fight,\npersonalities to encounter, and figures compelling\nenough to make the cosmos feel like it is populated by\nmore than just obstacles and exposition. At this tier of\nplay, the gloves are off–you can create incredibly\npowerful heroes and villains, yet you can also make\nregular people, trying to survive in a world of epic\nproportions. The NPCs your players will remember do\nnot have to be the ones with the most detailed stat\nblocks, but instead those that have the clearest wants,\nthe most interesting contradictions, and the most\npersonal stakes in what the party chooses to do.\n\nWhat makes an epic NPC? Quite simply, a character\nthat, in some way or another, interacts with the\nLegendary levels and/or plot of your campaign. This\nincludes not only your elder wizard NPC, who has\nguided the party across many arcs, but also the\nmysterious son of a blacksmith who has been marked\nby an evil God the party is trying to destroy. Though\nmost Epic NPCs are mainly defined by their power,\nsome characters can still be Epic while being much\nweaker than the party; what makes them “epic”, in this\ncase, is not their capabilities, but rather their narrative\nimportance.\nBuilding an Epic NPC\n\nWhen creating an Epic NPC, treat your process much\nlike you would a non-Legendary addition to your game.\n\nEstablish first what the NPC wants and what they are\nwilling to do to get it. A Solar who wants to restore their\nfallen God to glory and is willing to sacrifice a mortal\ncivilization to do so is immediately more interesting\nthan a Solar who’s antagonistic because their God\nhappens to be evil. Want creates behavior, and behavior\nis what the party will actually encounter at the table.\nEverything else–the stat block, the backstory, the\ninteractions–exists to explain and complicate that\ncentral want.\n\nAfterwards, give your Epic NPCs a history worthy of\nthe title “Epic”. Some creatures you will incarnate have\nbeen alive since before the party began adventuring.\nThey have won and lost, and made compromises they\nhave not fully reckoned with. A Threadbearer who\nseized their divine shard in a moment of desperation\ncenturies ago and has spent every year since regretting\nit, a devil who was a great paladin in life and gave\nthemselves to the hells in one final act of sacrifice, a\nprince with only good intentions forced to do their\ntyrannical father’s bidding.\n\nThis backstory does not need to be delivered as\nexposition, but rather needs to be visible in how they\nbehave–in what they flinch at, what they cannot quite\nbring themselves to say. These nuances are what the\nparty can interact with in roleplay scenarios, influencing\nthe NPCs without the need for a fight.\n\nIn addition, remember to create a clear relationship\nbetween the NPC and the party, something to anchor\n\nyou to their specific character when it comes to\nroleplaying them. Not simply ally or enemy, but\nsomething with depth; a demigod who owes the party a\ndebt yet feels humiliated by it, a king who requests\nerrands from the characters only to ensure they are not\na threat to his rule, a villain’s second-in-command who\nhas begun to wonder if they are backing the wrong side.\nThese relationships give your NPCs a reason to be in\ncertain situations, and give the party a reason to care\nabout them beyond their immediate utility.\nRoleplaying Epic\n\nThe most common mistake DMs make with powerful\nNPCs is making them feel omniscient. Ancient beings\nknow a great deal, but not all should feel like they read\nminds or know everything there is to know about the\nparty. Let the NPC be wrong about something\nimportant, and let the party either correct them or use\ntheir mistake as an advantage.\n\nPowerful NPCs should also have manners\nappropriate to their station, which creates natural\nfriction with a party accustomed to being the most\nsignificant force in any room. An archdevil does not\nrespect mortals, even Legendary ones–not out of malice,\nbut out of a deeply ingrained assumption that they are\nsuperior. A God does not ask; they require–demand,\neven–and expect their will to be done. Playing these\nsocial textures consistently makes encounters with Epic\nNPCs feel like genuine contact with something that\nexists beyond the party, something that has long ago\ngained its power and isn’t about to respect any\nnewcomer.\n\nWhat changes that dynamic, and what should drive\nsome of your most memorable NPC scenes, is the\nmoment these beings are forced to reconsider their\nassumptions about the party. The archdevil may have to\nask for help. The God who does not have the answer to\na question. Cracking a prideful creature’s haughty\ndemeanor is one of the most satisfying things for the\nplayers to accomplish. They are newcomers to the\ncosmos, yes–but they will be respected.\n\n“I’ve walked this world since before your\ncivilization had a name. In that time, I\nhave met perhaps a handful of mortals\nworth the trouble of an audience. You\ncome to my monastery in shambles, yet\nyour souls–your flame–is greater than\nthat of my most accomplished pupils. Sit.\nSpeak. You’ve earned the privilege… of\nmy attention.”\n\n– Yrith Yuna, the Sapphire Dragon\n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 143,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.5369c85e1704ea26",
+      "_id": "5369c85e1704ea26",
+      "name": "p. 144 - Power and the Party",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 144</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Power and the Party\n\nPerhaps the trickiest things to manage in a Legendary\nCampaign are the power differential between the party\nand the NPCs around them. Get it wrong in one\ndirection, and the party feels irrelevant, dwarfed by\nbeings so far beyond them that their choices do not\nmatter. Get it wrong in the other, and the cosmos feels\nhollow, populated by figures who are supposedly\nancient and terrible but fold very quickly under the\nparty’s might.\n\nCreate NPCs with circumstantial power, influence\nthat cannot be quantified by a stat block or ability. An\ninfluential demigod might not be a threat to a Legendary\nBarbarian, but they do control most of the alliances in\nthe cosmos, and the party needs those connections. A\nsimple cultist can be as dangerous as their God if their\ndeath releases a great curse upon the land. A\nplaneswalking trader of information may withhold a\nsecret from the party until they complete an errand.\nHard Power\n\nIf you need your NPC to be more of a physical threat to\nthe party, on the other hand, you can mix and match the\nfeatures available to your players in the previous\nchapters to create a challenging creature. Not only will\nyou be showcasing the full extent of this book’s\nmechanical options, but you will also be challenging\nyour players with their own tools, perhaps showing\nthem ways to use them differently. Browse through the\nHeroic Path features, Mythical Techniques, and 10thlevel spells like a catalogue, and take features from\ndifferent classes to create your own powerful NPC.\nMake sure to use this book to its full potential by\nexpanding on the classes or aspects not explored by the\nplayers.\n\nAnother way to make your NPCs threatening in\ncombat is to give them a specific, meaningful advantage\nagainst the party–immunity to a type of damage the\ncharacters rely on heavily, an ability that punishes\ncertain spells and effects, an action that is especially\neffective against your players. Remember, D&amp;D is a\ngame about information. A creature can pose much\nmore of a challenge in your hands by simply exploiting\nyour party’s weak points, without it having to be an\nuntouchable god that cannot be harmed.\n\nYou can also balance an NPC by giving them a\nsingular overpowered ability that the party must respect\nor find a way to overcome. Power over gravity; anyone\nwho attempts to move in the NPC’s area without their\npermission must succeed on a DC 30 Strength saving\nthrow or be immobilized. Power over the future; the\nNPC can change any roll that they can see to a number\nof their choosing. Power over death; any mortal who\ntouches the NPC must succeed on a DC 30 Constitution\nsaving throw or die. These incredibly powerful abilities\nare a great way to give a character that extra\notherworldly power that feels beyond even a Legendary\nParty, yet can be overcome regardless through clever\nplanning, raw muscle, or Legendary Resistances.\n\nTHE LEGENDARY GAME\n\nFinally, you can use the stat blocks of our Legendary\nFoes in Chapter VI to ensure the NPCs can pose a real\nthreat to the party. Perhaps the Guardians of Aaru are\nthe perfect template for your divine adjudicator and\nenforcer. Perhaps Barbatos, Wielder of Triumph, is\nexactly what you need to ensure a grand warlord is\nthreatening. Perhaps the Moonsilver Jester has the\nabilities your mysterious mage needs to keep up with\nthe party. Use this book to its full potential!\n\nBarring certain Gods and great figures of authority in\nyour cosmos, Epic NPCs should never feel impossible\nto beat in a straight-up fight. Your party is Legendary;\ntreat their potential as such. Be smarter about the\nchallenge you create.\n\nWhen you do require beings much greater than your\ncharacters, however…\nCreatures Beyond\n\nEven in a Legendary Campaign, some NPCs should feel\nbeyond the party’s combat capabilities. Gods, eldritch\nmonstrosities, fundamental beings of reality–give these\ncreatures power that cannot be overcome without great\npreparation. Some of the Ascended-tier foes on Chapter\nVI can be a great template for these types of beings,\nalthough you might have to crank some of their features\na bit–those stat blocks are meant to be beaten, after all,\nand you might need creatures in your narrative that\nshould not even be capable of bending.\n\nEven in the most extreme cases, however, always\nrespect the players. Legendary Points allow them to\nresist a certain number of effects–make sure they at\nleast have the chance to do so. Non-legendary\ncharacters cannot even hope to withstand a God’s will;\nLegendary Characters can at least try.\n\n“You have meddled with powers beyond\nyour understanding, and yet here you\nstand. Impressive. But power borrowed is\nnot power owned, and the favor of lesser\nbeings means nothing before true\ndivinity. Kneel, and I’ll let you live.\nRaise your hand against me, and the\nmight of Tartarus entire will descend\nupon your meager plane and cull your\nkind to the last. Your arrogance will be\nmy excuse. I will wipe your pathetic race\nfrom the face of creation. Unless. You.\nKneel.“\n\n– Barbatos, Wielder of Triumph</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 144,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.a0e3d9b1f247761f",
+      "_id": "a0e3d9b1f247761f",
+      "name": "p. 145 - Roleplay Encounters",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 145</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Roleplay Encounters\n\nNot every confrontation in a Legendary Campaign ends\nwith someone at zero hit points. At this tier, the party\nmoves through courts of ancient powers, negotiates\nwith beings that have outlasted civilizations, and deals\nwith alliances that shift with the cosmic tides of war. A\nwell-constructed roleplay encounter can carry as much\nweight as any combat or exploration event–indeed,\nsome conversations can reshape the narrative entirely.\n\nThe following are some encounter templates that may\nbe useful for your Legendary Game.\n\nAudience. The party has secured a meeting with\nsomeone of great importance; a God, an ancient power,\nor a sage that rarely receives visitors. The pressure of\nan Audience comes from asymmetry–the NPC holds\nmost of the leverage, and the party must make their\ncase without the option of force as a fallback (usually).\nThese encounters reward preparation, creativity, and\nquick thinking. The party that arrives knowing what the\nNPC wants, what they fear, and what they consider\nbeneath their attention will navigate an Audience very\ndifferently from the party that walks in expecting to be\nimpressive enough on their own merits. In addition, the\ninformation revealed within the Audience encounter\noften changes the paradigm, and your party will have to\nadapt to it if they hope to succeed. Run these\nencounters with ceremony, ritual, and the mystique\nappropriate for the situation you created. Should the\nparty not live up to the NPC’s expectations, have them\ndismissed.\n\nConfrontation. The party and an NPC are in direct,\npersonal conflict–but the situation either hasn’t yet\nescalated to violence, or makes combat impossible or\ninadvisable. A confrontation with a villain on neutral\nground where both parties have agreed to parley. A\nnegotiation between warring factions gone south. A\nconversation between opposing characters who are too\nwounded to continue fighting. These encounters are\nabout what is said when the mask comes off, and they\nrequire you, as the DM, to know the NPC’s most\nemotional truths and improvise under pressure.\nConfrontations often reveal things that couldn’t be said\nin other settings, creating some of the most important\nmoments in a campaign’s narrative.\n\nDilemma. The party is forced to choose between two\n(or more) mutually exclusive outcomes, each bearing\nmeaningful consequences. These decisions often\ndetermine the fate of important NPCs, entire factions,\nor even planes of existence. Each option should be\nclearly embodied–typically by an NPC, group, or cause\nthat stands to gain (or suffer) from the party’s choice.\nDilemmas are one of the clearest expressions of a\nLegendary Party’s influence on the world. At these\nlevels, the characters’ choices determine the fate of\nnations. A well-crafted Dilemma ensures that every path\ninvolves sacrifice, risk, or unintended consequences.\nThe party might be forced to choose between saving a\n\ncelestial from certain death or pursuing a fleeing devil\nwhose escape would doom another world–no decision\nis perfect, and each determines the outcome of great\nand powerful creatures.\n\nInformation. Some encounters are created to ensure\nthe party gains a certain piece of information. Events\nwhere two NPCs interact, conversations without\nparticular stakes that help to inform the narrative, or\neven encounters during travel that flesh out the world.\nIn Legendary Campaigns, these encounters should feel\nimpressive, grand, legendary. Two Gods agreeing to\nsplit a plane of existence while the party watches, a\nconversation with an ancient hero about their long-lost\nlegendary artifact, an epic introduction of an important\nNPC.\n\nNegotiation. Both parties want something the other\nhas, and neither is willing to simply give it. Unlike the\nAudience, a Negotiation implies somewhat equal\ngrounds–the party has leverage, and the NPC knows it.\nThese encounters are best run with clear stakes\nestablished before the conversation begins. What does\neach side want? What is each side willing to concede?\nWhat are the dealbreakers? A Negotiation that drifts\nwithout those anchors becomes a boring conversation\nthat seems to go nowhere. Make sure the stakes are\nwell defined, and don’t be afraid to escalate. A\nNegotiation in a Legendary Game is marked by the\npride and power of the parties at play. The NPCs will\nnot be disrespected, nor will they waste their time with\noffers beneath their station. Negotiations can become\nConfrontations, and even turn into outright combat,\nshould the party fail to navigate them correctly.\n\nReckoning. The party has done something with\nconsequences, and someone has come to discuss those\nconsequences. A powerful being they harmed, who was\nmore significant than they first realized. A promise they\nmade and could not keep. An item they lost, or\nexchanged, to appease another conflict. At this tier of\nplay, the actions of the characters have immense\nweight; reckoning encounters raise the stakes and give\nconflict a more personal feel. They might be\nuncomfortable, but they are not meant to punish your\nplayers–use them to deepen the world and its stakes.\nAllow the party to respond to what they have done with\nthe same seriousness the NPC brings to the table. A\nperceived betrayal, the consequence of a difficult choice,\na changing alliance–these actions from the party should\nnot feel like mistakes, but honest decisions, reflecting\non their character and that of the NPC that was\nwronged. These encounters can escalate and become\ncombat events, often making for reluctant battles in\nwhich neither party truly wishes the destruction of the\nother. Oh, the drama!\n \n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 145,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.68441882778833a9",
+      "_id": "68441882778833a9",
+      "name": "p. 146 - Combat",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 146</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Combat\n\nThe third and final axis of any D&amp;D game is Combat. At\nhigher levels, combat is notoriously inconvenient to run,\nwith many moving parts, too many dice to roll, and real\ndifficulty challenging players that are simply leagues\nabove any stat block you can throw at them. Using the\nLegendary Point system described in the introduction\nand the powerful features available to 20th+ characters,\nconfrontations are much easier on the player side. Still,\nthis is only one part of the equation; as the DM, you\nmust also do your part to ensure combat at these tiers is\nnot only enjoyable, but also challenging.\n\nThis section focuses on Combat against nonLegendary Foes–the conflicts in between the worldshattering battles of the next section, and how to make\nthem interesting, even when the stakes are nominally\nsmaller.\n\nTHE LEGENDARY GAME\n\n \nOf Combat in Legendary Tiers\n\nNot every fight in a Legendary Campaign is against a\nworld-ending threat. Between climactic confrontations,\nthe party moves through the cosmos, encountering\nguards, cultists, lesser monsters, and the armed\nrepresentatives of factions that would rather they not\ncontinue. These encounters serve a worldbuilding\npurpose – they make the universe feel alive and\ncontinuous. Just because the party has become\nLegendary does not mean every goon they meet has\nkept pace. These confrontations, however, require some\nthought–a Legendary Character dispatching a room full\nof ordinary enemies is not a challenge, so it must\ndefinitely not feel like a chore.\nLegendary Players in Combat\n\nWithout DM intervention, non-Legendary Combat is\noften a choice. With the tools available to a Legendary\nparty, many confrontations can be resolved before\ninitiative is ever rolled. An inconvenient ambush\nneutralized by a well-timed teleportation. A climactic\nstandoff ended with a single high-level spell. A pursuing\nforce stopped cold by a Mythical Technique before they\nclose the distance. These are the representation\n\nof your party’s power level,\nable to end conflict before it\n begins, and tend to be among the moments\nplayers remember most fondly.\n\n Picture this: cosmic pirates attempt to seize the\nparty’s ship as they travel through the Astral Sea.\nRather than calling for initiative, present it as a\n\n dramatic encounter. Before the hostiles can board,\nthe Legendary Fighter uses their Reality Slash Mythical\n\nTechnique, sending a wave of destructive\n\n energy into the pirate vessel and\n destroying its solar sail. Stranded in\n the middle of the stars, the crew\n\n surrenders. The party spares\nthem–they are not worth the time. Now\n imagine a hundred pirate ships\n converging at once; still, you present it as\n a scenario, not an immediate combat. The\nCleric thus uses their 9th-level spell to open a Gate and\nmoves the entire party, ship and all, directly to their\ndestination.\n\nWhere this becomes a problem is on your side of the\nscreen. If a combat encounter does not reveal\nsomething, threaten something, or change something, it\nmay not need to exist in the form you have planned.\nOverpreparing for confrontations that a Legendary party\nwill resolve in a single action is a reliable path to\nfrustration. Build your non-Legendary encounters\nloosely, with a clear narrative purpose and room for the\nparty to engage with them on their own terms. If the\nLegendary Wizard reduces an hour of preparation to\none elegant use of their Meteor Swarm, that is not a\nfailure of the session. Your players are powerful beyond\nimagining–give them the space to show off!</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 146,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.205f4bcfdd232cfb",
+      "_id": "205f4bcfdd232cfb",
+      "name": "p. 147 - Shortcuts",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 147</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Shortcuts\n\nCombat tends to go on for longer than it is enjoyable,\neven before 20th level. It is important for you, as the\nDM, to know when to take shortcuts when narrating\ncombat.\n\nThe most common shortcut is the narrative\nconclusion. When the outcome of a fight is no longer in\ndoubt–the last two enemies are standing, the party is at\nfull strength, and everyone at the table knows exactly\nhow this ends–describe how your players defeat\nthe final enemies. The Legendary Barbarian cuts\nthrough the remaining soldiers like they were\nnever a serious consideration, because they\nnever truly were.\n\nA related tool is the montage encounter, which does\nnot even require you to call for an initiative roll. The\nparty must fight their way through an entire wing of a\nfortress to reach the throne room. Rather than running\nevery room as a discrete combat, describe the journey\nas a single escalating sequence–the Rogue vanishing\ninto shadows ahead of the group, the Wizard collapsing\na corridor behind them, the Fighter holding a doorway\nagainst a tide of soldiers. Ask each player what their\ncharacter does in the chaos and weave the answers into\na single vivid passage, perhaps including some skill\nchecks and attack rolls to determine how well they do.\nThe party reaches the throne room, having spent little\nresources and feeling exactly like the unstoppable force\nthey are supposed to be.\n\nMaking Combat Memorable\n\nWhat makes the non-boss conflicts of your standard\nsession interesting? What makes them memorable at\nyour table? Tension. This factor is what separates an\nengaging combat from a dull one.\n\nWhen combat requires a more robust sense of\ntension, build the conflict around pressure, novelty, and\nvariety, rather than attrition or danger. A group of\nweaker enemies becomes interesting the moment they\nare protecting something, delaying something, or\nactively pursuing an objective that the party needs to\nstop. A squad of elite celestial soldiers is not a\nmeaningful fight against a Legendary party–but that\nsame squad about to execute a prisoner is a different\nproposition entirely. A complex battle in a dull setting\nmight be forgotten, while a straightforward\nconfrontation that takes place in a paradoxical\ndimension where up and down are irrelevant is much\nmore memorable.\n\nObjectives. The situation must carry as much tension\nas the enemies themselves. A Legendary Barbarian can\ncut through a dozen demon soldiers without breaking a\nsweat, but if those soldiers are buying time for an evil\nritual to finish, every round counts. The fight becomes a\nrace, regardless of how powerful the party is. Build\ntoward that tension by establishing the objective before\ninitiative is rolled. This is what separates an engaging\nbattle from a simple exchange of damage.\n\nThe Setting. The environment deserves\nas much attention as the enemies themselves, and\nmakes these easily forgotten encounters memorable. A\nbattle against a bunch of high-level mercenaries is not\nvery engaging, but that same battle amidst a collapsing\nastral fortress becomes a movie sequence. The setting\nof the battles transforms ordinary combat into\nsomething that demands creative engagement from the\nplayers. The party that finds a way to use the\nenvironment to their advantage, or that loses something\nbecause they failed to account for it, will remember that\nfight because of the wacky situation they found\nthemselves in.\n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 147,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.cfa905ac670d5405",
+      "_id": "cfa905ac670d5405",
+      "name": "p. 148 - Variety. Enemy variety matters more than enemy",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 148</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Variety. Enemy variety matters more than enemy\nquantity at this tier. A large group of identical enemies\nresolved in two rounds teaches the party nothing and\ncosts everyone time. A smaller, more varied group,\ncomposed of different archetypes, creates decisions\nworth making even when the outcome is not seriously in\ndoubt. A spellcaster disrupting concentration from the\nback line, a heavily armored juggernaut absorbing\nattention at the front, an assassin targeting whoever\nlooks most exposed. Give your non-boss encounters a\nshape, and they become part of the story! Memorable, in\nsome way, if only for the variety in enemies.\nNarrative\n\nSometimes, combat against random creatures can have\na narrative component to it. Use these encounters to\nbuild context around your larger threats or to deliver a\nparticular narrative moment.\n\nThe slain cultists are wearing the symbol of a\nnecromancer that the party is looking for. The\nmercenary captain who puts up a real fight before going\ndown is clearly working for someone who can afford the\nbest soldiers in the cosmos. The demonic warriors have\na commanding officer who manages to escape and warn\nhis superior in the infernal hierarchy.\n\nCombat is a very useful tool to deliver narrative\nthrough action–seemingly obsolete fights can be\ncharged with meaning by simply adding an important\ndetail to be discovered by your party.\n\nUsing Monsters\n\nA Legendary Party is powerful enough that balance\nbecomes a different kind of problem. You are no longer\nasking whether the party can handle a given creature–\nthey almost certainly can. The question is whether the\ncreature will last long enough to matter, hit hard\nenough to create genuine pressure, and do something\ninteresting before it goes down. True challenges are\nreserved for Legendary Foes, creatures beyond CR 30.\n\nThe monsters of standard 5e were not designed for\nhigh-level (not even the really powerful ones!), but with\nsome modifications, they can still serve a purpose at this\ntier. Keep them simple. A non-Legendary monster does\nnot need a complex toolkit–it needs enough hit points to\nsurvive contact, a clear role in the encounter, and one or\ntwo abilities that demand the party’s attention. The\nBalor from the 5e SRD is a great example of an\ninteresting creature to throw at your party; simple,\ndangerous, cool-looking, and with enough hit points to\nrequire a certain LP spender to take down.\n\nHere are the general types of monsters, depending on\ntheir abilities, and some tips for running them at\nLegendary levels.\n\nMartial-Type. A classic dragon, with high damage, a\npowerful rechargeable action, and a substantial pool of\nhit points. The Tarrasque is the archetypal example.\nThese are the easiest to modify for Legendary play–\nincreasing their hit points is often sufficient to make\nthem last longer. Action economy really hurts these\n\nTHE LEGENDARY GAME\n\ntitans, so consider pairing them with lesser creatures\nthat force the party to split their attention.\n\nCaster-Type. A Lich, an archmage, a powerful\ndemigod. These creatures are dangerous in regular play\nbecause a single spell can decide a fight. Beyond 20th\nlevel, however, most classes have meaningful tools for\nenduring high-level magic, not to mention Legendary\nResistances. This means you can sling powerful spells\nat your party without the fear of accidentally removing a\ncharacter from the fight entirely. Focus your Casters on\nincapacitation rather than raw damage (especially since\nspell damage is a bit lackluster at this tier) and\nsignificantly bolster their hit points–a single 20th-level\nFighter can dispatch a Lich in a round without breaking\nstride, and that is before accounting for any Legendary\nCharacter rules.\n\nHybrid. A Solar, a powerful hexblade, a death knight.\nThese creatures combine special abilities that shift the\nflow of battle with the capacity to hold their own in a\nstraight fight. These require the least modification and\nproduce the most interesting encounters. Varied\nabilities and meaningful special actions matter far more\nthan additional spells or higher hit points.\n\nCharacter-Type. A foe that uses the same framework\nas the party–class features, action economy, resource\nmanagement. These are the most difficult to balance,\nand these battles are most often decided by which side\ncontrols the action economy. To account for this, keep\nthe enemy group smaller than the party and bolster\neach character-type enemy with extra hit points.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 148,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.7c56f149568d1e3b",
+      "_id": "7c56f149568d1e3b",
+      "name": "p. 149 - Legendary Actions & Resistances",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 149</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Legendary Actions &amp; Resistances\n\nWhen using monsters from standard 5e or\nhomebrewing your own creatures, the decision to add\nLegendary Actions and Resistances comes down to\nwhat you need the encounter to accomplish.\n\nLegendary Actions are standard on most CR 20+\ncreatures, but they can bog down a fight quickly if\nmultiple creatures are using them simultaneously. Two\nAncient Dragons, each triggering Legendary Actions at\nthe end of every player’s turn, is a significant drag on\nthe session’s pace. If your goal is a challenging\nencounter rather than a complex one, consider\nforegoing Legendary Actions entirely and simply\nincreasing hit points and damage output instead. A\ncreature that hits hard and survives long will create\nmore tension than one with a busy action economy.\n\nFor creatures you want to feel genuinely threatening,\nyou can opt to use the LP system. Giving a nonLegendary creature 1 or 2 LP and a small number of\nfeatures to spend it on is often enough to elevate it into\na meaningful encounter without the overhead of a full\nLegendary Foe stat block. A Pit Fiend that uses a\nmythical technique, a Lich that casts a 10th-level spell,\nor even a Solar with a certain Multiplier Attack; these\nare the kind of additions that make a combat\ninteresting.\n\nCharacter-type encounters are the best candidates for\nintroducing the LP system at a smaller scale. Giving\neach individual foe 1 LP puts them on near-equal\nfooting with the party and tends to produce some of the\nmost dynamic combat interactions a Legendary Game\ncan offer. The heart of our Legendary Showdowns is the\nLP economy, after all!\nSurvivability\n\nWhen using regular monsters against Legendary\nCharacters, some modifications are almost always\nnecessary if you want them to survive contact with a\nsingle round of Multiplier Attacks. In most cases,\nincreasing hit points alone is enough to ensure they get\nto act. For creatures you intend as mini-bosses, consider\nadding 1 or 2 uses of the Legendary Resistance feature.\nNote that these creatures will often use the classic\nLegendary Resistance and Legendary Actions\nframework rather than the LP system, which means\nthey cannot recover those resistances during the fight–\nand also that those resistances are completely separate\nfrom their damage capabilities.\n\nBeyond hit points and Legendary Resistances,\ncondition immunities, damage immunities, and Limited\nMagic Immunity are all tools available to you to make a\ncreature survive for longer.\nRecommended Hit Points\n\nThe following table is our own framework for bringing\nstandard 5e and 5.5e creatures and homebrew\ncreations up to speed with Legendary Characters. A few\nnotes before using it.\n\n+\n\n \nThis table refers to effective hit points, representing\nthe total amount of hit points the party must work\nthrough before the creature is defeated. A creature\nwith 200 hit points is equivalent to a creature with\n100 hit points that is resistant to all damage. A\ncreature that must be fully defeated twice effectively\nhas double its listed hit points.\n\n+\n\nCharacter-type foes are not included in this table.\nTheir hit points vary too widely depending on class\nand abilities. As a general guideline, give them 100\nto 150 additional hit points above their party\ncounterpart for each Legendary Tier of Play.\n\nHit Points vs Legendary Characters\n\nCR\nMartial-Type\nCaster-Type\nHybrid\n\n20-22\n400+\n200+\n300+\n\n23-25\n550+\n300+\n400+\n\n26-28\n700+\n400+\n550+\n\n29-30\n850+\n500+\n700+\n\nLegend\n~1500\n~600-800\n~1000\n\nParagon\n~2500\n~700-1000\n~2000\n\nAscended\n~3000-5000\n1000+\n~3000\n\nPurpose\n\nEvery non-boss encounter should earn its place at the\ntable. Legendary Characters are not a party to be worn\ndown by many small battles–their most powerful\nabilities (LP spenders) refresh between fights, and\nmany of them have reliable ways to recover hit points\ngiven a minute. Resource drag is not a meaningful\ndesign philosophy at this tier, and encounters built\naround it will feel like speed bumps rather than gritty\nsurvival.\n\nBefore placing any non-boss combat in your session,\nask yourself once more: what does this encounter add?\nDoes it reveal something about the world or the threat\nahead? Does it put pressure on an objective the party\ncares about? Does it give a particular character a\nmoment to shine, or force the group into an interesting\ndecision? If the answer to all of those is no, the\nencounter probably belongs on the cutting room floor,\nor as a montage or skill challenge. If the army of pit\nfiends is not useful to the story… they can stay in hell.\n \n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 149,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.b7c354717257575c",
+      "_id": "b7c354717257575c",
+      "name": "p. 150 - To Battle Legends",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 150</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">To Battle Legends\n\nThe final section of this chapter delves particularly into\nBoss encounters with Legendary Foes. What makes a\ncreature Legendary? What makes it greater than any\nother stat block you’ve come across? Well, first of all,\nthe use of our LP system. These creatures have the\nsame tools as the players: an ever-recharging pool of\nincredibly powerful abilities that put other monsters to\nshame.\n\nThis section will teach you how to create an\nappropriate challenge for your Legendary Party–not\nonly as the final boss of a campaign, but also to\nrepresent the powerful creatures of your universe.\nGrand climactic moments should always be\naccompanied by a Legendary Foe, be it an ally or an\nenemy, be it the BBEG or a simple mini-Boss fought on\nthe way to the final confrontation.\n\nPlanning a Legendary Battle\n\nWhat makes a high-level fight feel good? What\ningredients make it feel like the ultimate showdown,\nand not a mechanical slog nobody wants to play\nthrough? These are difficult questions, but we’d like to\nventure some answers.\n\nAn important disclaimer to make is that battling\nLegendary Foes is not exactly something fast! Even\nwhen run like clockwork, combat with Legendary\nCharacters is still a multiple-hour, brain-draining\nactivity, on account of the many options available to\nyour party (and also to your bad guys).\n\nBut, when done correctly, these incredible\nconfrontations are worth every second and synapse\nexpended. Without further ado, let’s start with a general\noverview of the things that make up a legendary battle,\nand what to look out for as a DM when orchestrating\nthese grand showdowns.\nNarrative Weight\n\nMany D&amp;D monsters are just that: monsters. Even the\nTarrasque, with as much “world-ending” lore as it\ncurrently has, is just a big bag of hit points. It bites, it\nswallows, and it kinda sucks.\n\nA Legendary Foe is, first and foremost, a character.\nYes, you can make a big monster be your campaign’s\nfinal boss, but what differentiates a cool encounter with\na titan from the singular most important fight your\nplayers will face is the narrative weight behind it. Most\nof the foes presented in this book are deep and\ncomplicated beings, with their own wants and\nmotivations, as well as their own extensive stories.\nThese are world-ending villains, elder demigods, and\nlegendary heroes from the Universe of Strings, who’ve\nchanged the cosmos with their presence.\n\nOf course, you might not be playing in our expanded\nuniverse, nor be using our lore. The stat blocks present\nin the next chapter are, in the end, a mold with which to\ndo as you please. By making a few tweaks and\nadjustments, you can very easily transform Scháthach,\nWielder of Doom, into your own God of Death, or Angel\n\nTHE LEGENDARY GAME\n\nof Vengeance, or whatever you need for your particular\nworld. If the shoe fits…\nAction Economy\n\nSame old issue, valid for fighting rats in the city sewers\nand demigods in the middle of space. It follows reason\nthat a legendary foe should act a lot. This means extra\nactions, but also unique reactions and bonus actions,\naura-style traits, and regional effects, such as lair\nactions. If you don’t keep up the tension, your BBEG\nwill be overwhelmed before you can blink.\n\nAn often-suggested solution is giving the BBEG a host\nof minions, but we caution against that. Following the\ndesign philosophy outlined in these pages, a Legendary\nFoe will have the tools to put up a deadly fight all on\ntheir own.\n\nFor the most part, we believe the BBEG should be the\nnarrative center of attention and, mechanically, the\nmain target for the players’ attacks and abilities. It’s a\n“lone dragon against an army” sort of approach.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 150,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.ad841a4f814a5564",
+      "_id": "ad841a4f814a5564",
+      "name": "p. 151 - Prep & Improv",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 151</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Prep &amp; Improv\n\nThere’s no getting around it. Legendary foes have two\nor even three pages worth of traits, actions, extra\nactions (and sometimes lair actions).\n\nRunning a legendary foe will require some heavy\nlegwork from you as the DM in terms of prep. In\naddition to having a good tactical grasp of each of the\nmonsters’ abilities, you may need to tweak certain\nthings to fit the needs of your group. Some abilities\nmight not be doing a whole lot, because your players are\nstrong against a certain type of save or damage, and\nsome might be doing too much because none of the\ndefensive abilities available to the party apply.\n\nBeing ready for all eventualities is an impossibility at\nthis tier of play; changing certain things on the fly–such\nas deciding a certain action can only be used a limited\nnumber of times a day or requires recharge–is also\nimportant. No plan survives contact with the enemy, as\nthe saying goes.\n\nStay flexible. The most important thing is to make\nsure the fight is fun, not impossible. If that means never\nusing a Legendary Foe’s ultimate ability, then that is the\npath you must take. Most of the stat blocks you will\nunveil in this book have more abilities than the foe\nactually needs; the point is to know what to use, when to\ndo so, and how to make it memorable. Each table is\ndifferent–an artifact may change the course of the battle\nentirely, a bad roll at a bad time could take out a\ncharacter from the fight, an unforeseen interaction can\nmake a certain ability redundant; think on your feet and\nkeep the battle interesting!\nStakes, Conditions &amp; Outcomes\n\nWhen preparing to run a Legendary Encounter, it is\nvery important to determine the stakes of the battle.\nWhat constitutes failure for the players? What are the\nwin conditions for the villains? Perhaps, it is not just a\nmatter of who punches harder, but of who achieves\ntheir goal first. Indeed, setting proper stakes is\nsometimes more important than running the fight itself,\nand can allow for many different outcomes: a pyrrhic\nvictory, a courageous last stand, a loss for villains and\nheroes alike, a noble defeat.\n\nThe same rules apply for any high-level battle: set the\nproper stakes and make the setting interesting. We\nrecommend adding secondary objectives for the players,\nother than defeating the villain. Disrupting a ritual,\ndestroying an artifact, or completing a set of tasks.\nThese are the kinds of goals that make or break a\nLegendary Encounter.\n\nPicture this: the evil lich is performing a ritual to make\nthe universe a worse place (for the eleventh time this\ncentury), and the party must stop them! They defeat the\nlich, but the ritual is already finished; even though the\nvillain is vanquished, their actions will forever haunt the\nplanes. The ritual being completed is the stakes, and\nthough the players defeated the antagonist, they failed\nin their ultimate goal.\n\nAnother example: a powerful warlord ascends to\ngodhood through an unspeakable artifact and intends to\nbring an age of terror upon the world. Although the\nplayers do everything in their power to slay him, it is not\nenough, and one by one, they fall. The last player\nstanding, however, manages to destroy the artifact that\ngave the warlord his power, making him regress to his\nnot-so-almighty mortal form. In a rage, the villain kills\nthe hero, yet is incapable of achieving his goal of total\nworld domination, and is eventually defeated by another\nparty.\n\nThese two scenarios are examples of how the\nequation of victory or defeat can be modified depending\non the outcome of several factors within the Legendary\nEncounter. A varied set of stakes, conditions, and\nlogical developments is key to making these mythical\nbattles feel like they matter.\nDefeating a Legendary Foe\n\nBefore running a Legendary Battle, it is quite important\nto determine the conditions under which your villain is\ntotally defeated. Slaying a Legendary Foe takes much\nmore than just might, and hit points are often not the\nonly factor to consider. In this book, we outline several\npotential ways to conclusively deal with the Legendary\nFoes we present. In adapting these stat sheets to your\nworld, you will probably have to change the conditions\nunder which the villains are defeated to better fit your\nnarrative.\n\nMuch like an Artifact, these monsters can sometimes\nonly be dealt with for good in a certain way, with a\ncertain weapon, or by casting a certain spell. Think of\nthe big bads of your favorite fantasy series; a set of\nconditions must be met for these incredibly powerful\nbeings to be laid low, and they should be clear to the\nplayers before the fight. Is reducing their Hit Points to 0\nenough, or does the Lich possess a phylactery that you\nfirst need to destroy? What kind of binding ritual needs\nto be performed to seal a God? Must an artifact be used\nto deal the final blow, lest the evil returns to haunt the\nland in a hundred years?\n \n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 151,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.b35d1bedff91c193",
+      "_id": "b35d1bedff91c193",
+      "name": "p. 152 - Prepare to Fight!",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 152</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Prepare to Fight!\nThe Environment\n\nA Legendary Encounter takes an entire session of play\n(sometimes several!). It is not something to do after two\nor three hours of puzzle solving and dungeon-crawling.\nIt is imperative for you, as the DM, to finish the previous\nsession right at the gates of the final encounter, perhaps\neven as the villain finishes their monologue and\nInitiative is about to be rolled.\n\nThis is not only done for dramatic effect (who doesn’t\nlove a good cliffhanger?), but also for your and your\nplayers’ convenience. Preparing for such a heavily\nmechanical fight takes time, and not only on the DM’s\nside! You will be amazed at the wacky strategies your\nplayers will come up with, given a week of planning.\nInformation\n\nD&amp;D is not a video game. You cannot reload a previous\nsave and try again. The first time you fight a creature is\noften the last. For this reason, information is the most\nvaluable commodity among your players. At this level of\nplay, it is less about the consistency of damage, round\nafter round, and more about the big moments that occur\nevery couple of turns.\n\nYour players do not have the stat sheet of your\nLegendary Foe at hand, and have to slowly piece\ntogether the antagonist’s toolkit. Exercise caution and\nbe very transparent about certain key pieces of\ninformation when revealing the BBEG’s abilities. You\ncan add some meta-comments, such as “this ability can\ndo this” or “this attack will deal X amount of damage”\nbefore the villain acts, so that your players can react to\nit. Try to avoid big “got you!” moments, such as using a\ncertain ability that gives immunity to fire damage right\nbefore the wizard drops their meteor swarm. A\nLegendary Foe doesn’t need to trap the players to win–\nnor should you try to make these monsters win at all\ncosts! You are telling a story, after all–the stat blocks are\nonly there to guide you, and often give you more tools\nthan necessary to create a compelling battle.\n\nTHE LEGENDARY GAME\n\nIt is quite vital to construct an environment worthy of\nyour Legendary Foe. We recommend using a battle map\nfor these Legendary Encounters! Are you fighting in the\nBBEG’s lair, or are you drifting through the astral plane,\namong the ruins of a cosmic city? Are you battling over\nthe forlorn remains of a divine temple, or are you\ntraveling through dimensions while you face the\ncampaign’s final threat?\n\nAs explained before, you should have some time\nbetween your players arriving at the location of the final\nbattle and you having to actually run it. In this period,\ntry to determine what makes your environment fun to\nplay in!\n\nSome of our Legendary Foes have battlemaps that\ndepict their lairs. Use them as inspiration, should you be\ninterested in creating your own environments!\nEnvironmental Effects\n\nWhat makes for a dynamic environment? Interactivity! A\nvariety of effects determined by the location of the\nplayers and NPCs, along with a healthy dose of magical\nobjects and features scattered throughout the arena.\nHalf-finished spells written in the cobblestones of a\nforgotten library, ready to be used by a capable\nspellcaster. A terrible artifact in the corner of the room\nthat spews darkness, as unknowable as it is powerful. A\npond of pure divine water in the middle of the arena,\nable to rejuvenate whoever drinks from it.\n\nYou can also have more overarching, turn-based\neffects, such as a starfall that occurs every few rounds,\nor a set of portals that connect different locations in the\nbattle map. Think about it this way: you are about to\nspend 6+ hours on a single battle map. It better be fun\nto move through!\nChanging Arenas\n\nA staple of many high-level battles are effects that\ndestroy or otherwise change the environment. A meteor\nswarm breaks apart the tower where the fight is taking\nplace, an epic-level spell changes the landscape\ncompletely, or an artifact teleports the battle and all\ninvolved to a new location entirely. We recommend you\nadd at least one important change to your arena during\nthe fight, accompanying a phase change from the\nLegendary Foe or an important story event.\n\nSize Matters. Make the arena big. You don’t need to\nmanage a grid for the entire space you are using–a good\nol’ measuring device can do the trick just fine. This\ndoesn’t mean the battle will take place over 500 square\nfeet of terrain, but it does give a sense of scale and\nallows the higher movement speed of your Legendary\nFoes and characters to shine.\n\nThe fight will scale down as the phases pass, until by\nthe end, you will probably be fighting over a much\nsmaller arena than the one you started in. That is the\nintended progression of these encounters. From the big\nand imposing battlefield to the deadly eye of the storm!</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 152,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.8f8c378ada0f7fa5",
+      "_id": "8f8c378ada0f7fa5",
+      "name": "p. 153 - Phases",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 153</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Phases\n\nRunning one of these battles is akin to directing a\nmovie. You have to make sure the rising tension is well\nmanaged throughout several hours of play! Think of it\nas one big set piece, made to maintain your players’\ninterest across the session. There are three distinct\nphases to Legendary Battles.\n\nDiscovery\n\nThis phase deals with the players learning about the\nbad guy and trying things out. Discovering what the\nBBEG is capable of is one of the most important factors\nin any final battle, and as a DM, you should be very clear\nabout the dozen-or-so abilities your Legendary Foe\nmakes use of. Make sure to showcase your villain’s\nactions in a way that doesn’t permanently cripple the\nparty, while still making them seem intimidating and\npowerful.\n\nThe discovery phase is also where the players get to\nknow the environment, its dynamic characteristics, and\nthe many interactable objects around the arena. It’s a\nsetup stage for you as a DM, in which key NPCs send\nmessages to the party telling them they will arrive\nshortly, villains prepare powerful traps or channel\nrituals, and players start coming up with plans to tackle\nthe situation at hand. Some action is expected of this\nphase, with spells and attacks being thrown around. If\nyou are going to use minions, we recommend having\nthem be the preamble to the battle, and not the main\nfocus. This stage is perfect for your party to have\nsomething to do before actually facing their Legendary\nFoe.\n\nTake your Time. D&amp;D tends to frontload the tension of\nepic battles. The party is at its most vulnerable right at\nthe beginning! Dragons use their Breath Weapon, highlevel casters throw 9th-level spells with their first\nactions, and minions tend to overwhelm when they are\nmost numerous.\n\nIn a Legendary Encounter, make sure to take your\ntime. Let your players discover the environment, use\ntheir abilities, and learn about the villain. The\nLegendary Foes in this book don’t have to jump to the\noffensive immediately for the party to be challenged.\n\nDuring the discovery phase, your antagonist should\nnot be using their entire toolkit. Showcase their\nabilities, reveal some Legendary Point spenders, but\ndon’t obsess over using every possible Extra Action.\nShowcase, but don’t go all out. This will also give you\nsome leeway if the fight is going extremely poorly and\nthe party needs a break.\nMain Combat\n\nExactly what it sounds like. This is the longest phase,\nand begins when the BBEG does something that\nfundamentally changes the flow of the battle. This can\nbe the inciting incident of the fight or a more dynamic\neffect further into the session. A change of Arena, a\nparticular objective being completed, or an unexpected\n\nevent that takes the party by storm. We always\nrecommend running these battles in a single, long\nsession, but if you have to split it into two, this is a good\nmoment to pause, right before the Main Combat proper.\nIn fact, your players will be very glad to have some time\nto strategize after you change the premise of the battle!\n\nDuring this stage, you should make sure to expend\nyour players’ features evenly, so that everyone gets their\nturn to shine. Small victories, mounting defeats, NPC\ncameos, environmental events, and many other such\nthings should occur every few rounds. Make sure to\nmaintain your table’s attention, and err on the side of\nsmoothness whenever combat bogs down. Use average\ndamage values for your villain, keep player turns fast,\nand don’t forget to roleplay!\nClimax &amp; Conclusion\n\nFinally, the climax of your battle. This phase occurs\nwhen most abilities are spent, the darkest hour has\noccurred (or is currently happening!), and the arena has\nshrunken down. The final confrontation! Turns fly by\nmuch quicker, there is not much movement, and the\nvillain has become desperate, using everything in their\npower to either finish their secondary objective or\ndestroy the party once and for all. This is the time for\nheroic sacrifices, cinematic moments, and key rolls of\nthe dice!\n\nAt this time of the 4-6 hour session, you and your\ntable might feel a little tired. When the conclusion is\nclear for everyone to see, it isn’t strictly vital for you to\nrun the game until the Legendary Foe is reduced to\ntheir last available hit point; be on the lookout for grand\nactions from your players in the final rounds of combat\nand wrap the whole thing up with a nice, epic,\ndescriptive cinematic.\n\nWe recommend you end the session as the Legendary\nFoe (or the party) is defeated. You can deal with the\naftermath and its consequences next time.\n \n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 153,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.6783459bced4b989",
+      "_id": "6783459bced4b989",
+      "name": "p. 154 - Rising Tension",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 154</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Rising Tension\n\nUse your Legendary Foe in such a way as to direct the\ntension through this general structure. If your players\nare doing badly, don’t twist the knife; give them some\nspace! And if they are doing a little too well, use the\nBBEG’s more powerful abilities. Of course, this is D&amp;D,\nwe cannot perfectly predict what is going to happen\nthroughout the battle. Still, as the DM, you have control\nnot only over the extremely complicated stat sheets of\nthese Legendary Foes, but also of the battlefield\ndynamics and random events that can occur.\n\nIn this vein, it is quite important to add some NPCs to\nthe battle against the BBEG, to patch things up when\nyour players need them the most, and to better control\nthe orchestra that is a 4+ hour combat encounter.\nPerhaps, for some reason, a fighter has been left 200\nfeet away from the action, without anyone to help; don’t\nlet them waste 3 rounds of combat getting to the BBEG!\nHave a wizard NPC teleport them closer. You want\nspectacle, clash, ups &amp; downs! Directing your battle in\nsuch a way as to benefit the rising tension is the best\nway to ensure everyone is kept engaged.\n\nHere are some story beats from a classic 3 act structure\nthat you can keep in mind while conducting your final\nbattle.\n\nAnticipation. Initiative has been rolled! Your players\nare in the middle of the discovery phase of the battle.\nThey have no idea what the BBEG is capable of! Let this\ntension simmer, do not throw a 9th-level spell on turn\none, do not use the Legendary Foe’s greatest technique.\nLet the players have a turn. Allow them to set up, to\nprepare around the villain, and have the BBEG\nmonologue, or cast a few preparation spells, or tend to a\nspecific ritual they are conducting. Then…\n\nInciting Incident. An inciting incident is the thing that\nkicks off the plot. Within a D&amp;D battle, we like to think\nof the Inciting Incident as the thing that first throws off\nthe players. Perhaps concentration is broken on key\nspells, the martial characters are displaced across the\narena, or an important NPC is banished to another\nrealm.\n\nMounting Obstacles. You know the type. Things\nslowly become more dire as time goes on. A ritual is\nabout to be completed. The BBEG enters a new, more\npowerful form. A character is incapacitated or outright\nkilled! Be sure to make these obstacles meaningful, but\nnot damning. Death spirals are, unfortunately, pretty\ncommon in D&amp;D.\n\nSmall Victories. For each overall loss, a small to\nmedium victory for the players should be in order. Often\nenough, the dice take care of these for you, but if your\nparty is having a bad time, be sure to throw them a\nbone!\n\nTHE LEGENDARY GAME\n\nDarkest Hour &amp; Roaring Triumph. Always darkest\nbefore the dawn! This moment is the hardest to pull off\ncorrectly, because D&amp;D is, after all, a game. If the party\nis winning, they will continue winning. If they are\nlosing… odds are things will get more difficult. We\nrecommend planning a narrative darkest hour: a phase\ntransition, a powerful ability, a change in the\nenvironment. Make the final moments of the fight feel\nlike a desperate struggle, not a forgone conclusion.\n\nAnd finally, the Roaring Triumph; a critical hit, a\nheroic act, a powerful spell–these moments often come\nfrom your players as they overcome the final obstacle\nyou put in their way. The key to creating a worthwhile\nvictory is to reverse the villain’s final act!\n\nThis is D&amp;D, not a movie!\nYou don’t need to have all of these moments in mind while\nrunning your final battle. Most of the time, tension takes\ncare of itself, especially in such high-stakes scenarios. The\ndice have a way of telling a compelling story, no matter the\nresult. Keep these story beats in mind for when tension is\ngetting stale; don’t try to enforce them at all costs. As with\neverything in D&amp;D, go with the flow!</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 154,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!e6ddbd56541317fe.707e90e44e1731d6",
+      "_id": "707e90e44e1731d6",
+      "name": "p. 155 - Party Size",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 155</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Party Size\n\nThe Legendary Foes in this book are balanced for a\nparty of 4 to 5 Legendary Characters. If your table runs\nsmaller or larger than that, some adjustments are\nnecessary.\n\nThe simplest approach is to treat hit points as the\nprimary balancing dial. For every character below 4,\nreduce the foe’s hit points by about 15%. A party of 3\nwill have a bit more trouble with LP, since the Foe will\nrecover their resources one turn quicker.\n\nIf your party is a 2-person group or even a single\nplayer scenario, we recommend adding an NPC–or\nseveral–to balance these encounters. Reducing hit\npoints is not enough to offset the Legendary Foe’s\ncapabilities, and will do nothing for the speed at which it\nrecovers LP. Consider having the enemy regain their LP\nevery 2 turns, instead of at the start of each of their\nturns.\n\nFor larger parties of six or more, resist the temptation\nto add a second Legendary Foe unless you are\nexperienced running the LP system. Instead, give the\nLegendary Foe additional Legendary Points, allowing it\nto act more frequently across the round. For every\ncharacter beyond the 5th, add 1 Legendary Point to the\nfoe’s arsenal and increase hit points by 15%.\n\nYou can also play around with the Legendary Tiers. A\nparty of 6 Legends might have a genuine shot at\ndefeating an Ascended-tier foe–although with some\ndifficulty. And depending on the skill of your players,\nyou may need to make adjustments to your game\nregardless; 3 power gamers, min-maxed to the teeth,\ncan conceivably defeat a boss way out of their bracket,\nwhile 6 or more casual first-timers who have never\nplayed beyond 5th level might struggle against a\ncreature below their appropriate Legendary tier.\n\nBehind the Screen\n\nOver the years, we’ve learned a thing or two about\nrunning Legendary Encounters. Before presenting you\nwith the Legendary Foes of this sourcebook, we’d like to\nextend our miscellaneous wisdom to you all, in the hope\nit will help you run your epic-level battles a little\nsmoother.\nManaging your Players\n\nYou have much to do and much to think about during a\nbattle of such magnitude; you cannot micromanage\neverything your table is doing. Your players must help\nyou out a little by making sure they know their\ncharacters well. Communicate this clearly before the\nsession, and make sure they keep each other\naccountable when, for example, a concentration check\nneeds to be rolled.\n\nTrust that they will help you out, and above all, make\nsure things run smoothly. Do not get bogged down in\ndiscussions over rules or wacky actions your players\nwant to take. Be direct, say no if you have to, and keep\ngoing. Depending on the size of your table, you might\nneed to impose a time limit on turns! In such long fights,\n\nyour players will have a lot of turns to act, so having one\nor two lackluster rounds won’t ruin their fun.\nNPCs\n\nNPCs are great. They help smooth out kinks as they\nappear, they make for great ways of showcasing your\nBBEG’s abilities, and they can aid the party by doing the\nthings your players might find boring–activating an\nartifact, teleporting your party around the battlefield,\nfinishing off minions…\n\nNPCs can be used to inform of the villain’s attacks\nand features, deliver information about the battle, and\nenhance the player experience by buffing or healing the\nparty.\n\nMake sure NPCs don’t take center stage (unless\nduring a dramatic sacrifice or similar story beat) and,\nabove all, make sure their turns are lightning fast. Know\nhow they are going to act beforehand, make sure they\nroll their dice quickly, and arbitrarily determine the\noutcomes of some actions, if you have to. Your players\nwon’t typically pay too much attention to the turn-byturn minutiae of NPC management–they are waiting to\nplay their own character!\nNarrative Moments\n\nNarrative should always take precedence over rules,\nespecially during fights of such epic magnitudes. It so\nhappens that, during the heavy mechanical endeavor\nthat is a Legendary Encounter, your players (and\nperhaps even you!) will sometimes forget the story in\nfavor of the mechanics. Turns will go by in which\ncharacters won’t speak to one another–it’s an inevitable\npart of these great set pieces. Whenever you can, try to\nfoster moments of roleplay in between all the action.\nSmall one-liners, narrative events, quips from NPCs–\nwhatever you can think of.\n\nWe recommend having big, cinematic moments that\nbreak the action whenever the villain or the players do\nsomething of great importance. These changes can even\ncoincide with the stages of battle previously discussed.\nYou can also take such occasions for a short snack &amp;\nbathroom break.\n\nTo further enhance the weight of such moments, you\ncan have them end combat for a little while, allowing for\nsome out-of-combat actions that would take a minute or\ntwo to perform, before resetting the Initiative order\nwhen the party and the BBEG are once again face-toface.\n \n\nTHE LEGENDARY GAME</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 2200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 155,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    }
+  ],
+  "categories": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "book-reference",
+      "sourcePages": "134-155",
+      "language": "en-US",
+      "originalText": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  }
+}

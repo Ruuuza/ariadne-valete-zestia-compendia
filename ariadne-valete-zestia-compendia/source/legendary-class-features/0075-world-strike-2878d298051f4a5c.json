@@ -1,0 +1,146 @@
+{
+  "_key": "!items!2878d298051f4a5c",
+  "_id": "2878d298051f4a5c",
+  "name": "World Strike",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "9ca5e7e47f04abe5": {
+        "_id": "9ca5e7e47f04abe5",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "World Strike"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 50-53.</p><p>World Strike</p><p>When you reach 20th level, you learn to channel your martial prowess into a singular, ki-augmented strike. You can use your action and expend 1 Legendary Point to make an unarmed attack or melee weapon attack against a creature within range. This attack deals 4d8 x</p><p>Focus Points</p><p>Martial</p><p>Unarmored</p><p>Arts</p><p>Movement</p><p>Points</p><p>5 Soul damage to that target. This attack does not benefit from any bonus to its damage. On a critical hit, you do not multiply the damage dice by 2, but instead deal 6d8 x 5 Soul damage. You cannot use your Stunning Strike on this attack.</p><p>On a hit, you can expend 8 Focus points to force the target to make a DC 30 Constitution saving throw. On a failure, the target is stunned until the end of its next turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "monk-world-strike",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "50-53",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk level 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "50-53",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Monk",
+      "legendaryLevel": 20,
+      "originalFeatureName": "World Strike",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

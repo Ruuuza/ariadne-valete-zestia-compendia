@@ -1,0 +1,73 @@
+{
+  "_key": "!items!8df0ad379d2829aa",
+  "_id": "8df0ad379d2829aa",
+  "name": "Warded by a Higher Power",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 36-39.</p><p>Warded by a Higher Power</p><p>Also at 21st level, your God ensures your protection if you are ever in true danger. Whenever you take damage or are subjected to an effect that would reduce you to 0 hit points or kill you outright, you can use your reaction to regain 50 hit points and become immune to all damage for one minute. This protection affects the triggering damage. If you make an attack, use an object, or cast a spell, this protection ends.</p><p>Once you use this feature, you must finish a long rest before you can use it again.</p></div>",
+      "chat": ""
+    },
+    "identifier": "cleric-warded-by-a-higher-power",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "36-39",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Cleric level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "36-39",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Cleric",
+      "legendaryLevel": 21,
+      "originalFeatureName": "Warded by a Higher Power",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

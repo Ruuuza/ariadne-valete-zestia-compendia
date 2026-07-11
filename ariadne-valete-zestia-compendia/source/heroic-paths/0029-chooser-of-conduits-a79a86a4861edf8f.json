@@ -1,0 +1,72 @@
+{
+  "_key": "!items!a79a86a4861edf8f",
+  "_id": "a79a86a4861edf8f",
+  "name": "Chooser of Conduits",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 91.</p><p>Heroic Perk: Chooser of Conduits</p><p>Prerequisite: Exalted Presence, Perfected Boons</p><p>Spells you hold with your Spell Holding ability can be released by your allies. When you have a spell held, you can designate a willing creature you can touch as its</p><p>conduit. The conduit begins holding the spell in your stead. You lose the ability to release the spell with your designated trigger. The conduit can release the held spell using their action on their turn, originating from them but using your spell save DC and spell attack bonus. If the spell requires concentration, the conduit is the one that must maintain it.</p></div>",
+      "chat": ""
+    },
+    "identifier": "chooser-of-conduits",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "91",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Hierophant",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "91",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Hierophant",
+      "stageType": "Heroic Perk",
+      "stageOrder": 4
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

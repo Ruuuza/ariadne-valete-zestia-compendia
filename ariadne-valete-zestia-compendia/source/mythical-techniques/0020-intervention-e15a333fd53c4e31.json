@@ -1,0 +1,147 @@
+{
+  "_key": "!items!e15a333fd53c4e31",
+  "_id": "e15a333fd53c4e31",
+  "name": "Intervention",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "8f88ceb87f05694f": {
+        "_id": "8f88ceb87f05694f",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "you or an ally within 60 feet is targeted by an attack or spell",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Intervention"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "60",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 117.</p><p>Intervention</p><p>Mobility, Sunyata</p><p>Classes: Monk, Paladin, Ranger Channeling Time: 1 reaction, which you take when you or an ally within 60 feet is targeted by an attack or spell Base LP Cost: 1 LP Range: 60 feet Duration: Instantaneous</p><p>Where there is danger, there is a space that needs to be occupied. When you or an ally within 60 feet of you is targeted by an attack or spell, you empty your mind of hesitation and appear where you are needed. You teleport to an unoccupied space within 60 feet and immediately take an action. You cannot use this action to take the Recover action.</p></div>",
+      "chat": ""
+    },
+    "identifier": "intervention",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "117",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk, Paladin, Ranger",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "117",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Sunyata",
+      "techniqueType": "Mobility",
+      "weapon": "—",
+      "classes": "Monk, Paladin, Ranger",
+      "legendaryPointCost": "1 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

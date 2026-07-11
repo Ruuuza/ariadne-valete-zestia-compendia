@@ -1,0 +1,71 @@
+{
+  "_key": "!items!5c03797a200beedf",
+  "_id": "5c03797a200beedf",
+  "name": "Heroic Path: Legendary Sniper",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 93.</p><p>Heroic Path: Legendary Sniper</p><p>Prerequisite: A Dexterity score of 20 or higher Tier I: Heroic Sharpshooter</p><p>Sniper’s Range. While using a ranged weapon, you double its normal and long range. Your ranged weapon attacks ignore half and three-quarters cover.</p><p>Pinning Shot. Once per round, when you hit a Huge or smaller creature with a ranged weapon attack, you can choose to pin them. The creature’s speed is reduced by 20 feet until the end of its next turn.</p><p>Greater Accuracy. Your ranged weapon attacks cannot be made at disadvantage, and your critical range is increased by 1 for attacks made with ranged weapons. Heroic Perk: Hunter’s Eye</p><p>Prerequisite: Heroic Sharpshooter</p><p>You have a +5 bonus to your Wisdom (Perception) checks and Initiative rolls. You can see in lightly obscured areas, such as those created by fog, heavy rain and dim light as if they were clear. Tier II: Absolute Precision</p><p>Prerequisite: Hunter’s Eye</p><p>Penetrating Shots. Your ranged weapon attacks ignore resistance to piercing damage.</p><p>Legendary Shot (Multiplier Attack). You can use your action to perform a Legendary Shot. Make a single ranged weapon attack against a creature within range. On a hit, the target takes 4d8 x 5 of the weapon’s damage type. This attack does not benefit from any bonus to its damage. On a critical hit, you do not multiply the damage dice by 2, but instead deal 6d8 x 5 weapon damage. This Multiplier Attack does not expend Legendary Points when used. Heroic Perk: Armor Piercer</p><p>Prerequisite: Absolute Precision</p><p>Once per round, when you hit a creature with a ranged weapon attack, you can choose to expose a weak point in their defenses. The creature’s AC is reduced by 5 until the end of your next turn.</p><p>Tier III: Legendary Sniper</p><p>Prerequisite: Armor Piercer, Absolute Precision</p><p>Unfaltering Pulse. When you make a ranged weapon attack, you can choose to treat the d20 roll as a 15 before adding your attack bonus.</p><p>Double Shot. Once per round, when you make a ranged weapon attack, you can expend 1 LP to make two identical attacks instead of one. You can choose to target the same creature twice or target different</p><p>creatures within 60 feet of each other. This feature can be used on your Legendary Shot ability and Mythical Techniques performed by making a ranged weapon attack.</p><p>Path Connections Warlord. Instead of the Hunter’s Eye Heroic Perk, you can take the Defensive Proficiency Perk, changing to the Warlord path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-legendary-sniper",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "93",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "93",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Legendary Sniper",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

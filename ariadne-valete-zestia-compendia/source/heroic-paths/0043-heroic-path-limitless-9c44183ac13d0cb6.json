@@ -1,0 +1,71 @@
+{
+  "_key": "!items!9c44183ac13d0cb6",
+  "_id": "9c44183ac13d0cb6",
+  "name": "Heroic Path: Limitless",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 94.</p><p>Heroic Path: Limitless</p><p>Prerequisite: A Dexterity Score of 20 or higher Tier I: Lightness</p><p>Unbridled Step. You gain a fly speed equal to your walking speed, as you become capable of running on any surface, including air. You cannot take damage as a result of falling unless you are restrained or incapacitated.</p><p>Unpinnable. You have advantage on saving throws and ability checks against being grappled or restrained. Heroic Perk: Greater Speed</p><p>Prerequisite: Lightness</p><p>Your maximum walking speed is doubled. Whenever you take the Dash action, your AC is increased by 2 until the start of your next turn. Tier II: Celerity</p><p>Prerequisite: Greater Speed</p><p>Phasing Step. You can move through Medium or smaller objects and creatures as if they were difficult terrain. If you end your turn inside an object or creature, you are pushed to the nearest unoccupied space and take 20 force damage.</p><p>Beyond Restraint. You cannot be grappled, restrained, shoved, or knocked prone unless you are incapacitated.</p><p>Opening Act. When you roll initiative, you can choose to ignore the result of the roll and act on initiative count 30 (winning ties) instead. Heroic Perk: Unstoppable Movement</p><p>Prerequisite: Celerity</p><p>You don’t provoke opportunity attacks when moving in and out of an enemy’s range. Whenever you take the Disengage action, your AC is increased by 3 until the start of your next turn. Creatures you are carrying benefit from this AC increase.</p><p>Tier III: Limitless</p><p>Prerequisite: Unstoppable Movement</p><p>Extra Turn. At Initiative count 10, you can take an extra turn. Your extra turn has the following limitations: you can use either a bonus action or an action but not both, your speed is halved, you cannot use the Recover action, and you cannot use abilities that consume 2 or more Legendary Points.</p><p>Flash Speed. You can choose to spend your entire turn moving. When you do so, you spend your action, bonus action, and movement on your turn to gain a special Flash Speed equal to 10 times your walking speed. You can continue using this speed as long as you take no</p><p>other action other than moving on your turn. You can still use reactions while using your Flash Speed.</p><p>Path Connections Warlord. Instead of the Unstoppable Movement Heroic Perk, you can take the Perfect Body Perk, changing to the Warlord path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-limitless",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "94",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "94",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Limitless",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_key": "!items!671001e23c5bb7f0",
+  "_id": "671001e23c5bb7f0",
+  "name": "Blade of Perdition",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 76-77.</p><p>Blade of Perdition</p><p>Prerequisite: Level 20+ Warlock, Thirsting Blade Invocation</p><p>The Extra Attack granted by your Thirsting Blade invocation confers three extra attacks rather than one. Once per turn, when you hit a creature with a weapon attack, you can expend a spell slot to deal additional damage equal to twice your level as Dark damage.</p></div>",
+      "chat": ""
+    },
+    "identifier": "blade-of-perdition",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "76-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Level 20+ Warlock, Thirsting Blade Invocation",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-invocation",
+      "sourcePage": "76-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Warlock",
+      "invocation": true
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

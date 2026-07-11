@@ -1,0 +1,179 @@
+{
+  "_key": "!items!19d98afb3fe67a48",
+  "_id": "19d98afb3fe67a48",
+  "name": "[10th] Avatar",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "100afdf68bf36368": {
+        "_id": "100afdf68bf36368",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Avatar"
+        },
+        "duration": {
+          "value": "1",
+          "units": "hour",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 125.</p><p>Avatar</p><p>10th-level transmutation</p><p>Classes: Cleric, Druid, Sorcerer, Warlock Casting Time: 1 action Range: Self Components: V, S, M (a diamond worth at least</p><p>10,000 G.P, which the spell consumes) Duration: 1 hour</p><p>You transform into an Avatar, a gargantuan elemental of arcane energy. You can have your avatar take any form you like, from a titanic animal to a spiritual version of yourself. You must have the space to grow to Gargantuan size without squeezing.</p><p>When you cast this spell, you enter a trance-like state and experience the world through the Avatar. You are</p><p>Avatar Gargantuan elemental (titan), any alignment</p><p>Armor Class 25 (natural armor)</p><p>Hit Points 350 (20d20 + 140)</p><p>Speed 60 ft., fly 30 ft. (hover)</p><p>STR DEX CON INT WIS CHA</p><p>30 (+10) 8 (-1) 25 (+7) X (-) X (-) X (-)</p><p>Damage Immunities poison; slashing, piercing and bludgeoning from nonmagical attacks Condition Immunities charmed, frightened, poisoned, exhaustion Saving Throws Strength +17, Constitution +14 Senses truesight 120 ft., passive Perception equal to that of the caster Languages – Challenge 23 (50,000 XP)</p><p>Proficiency Bonus +7</p><p>Limited Magic Immunity. The Avatar can’t be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against other spells and magical effects. These benefits extend to the caster.</p><p>Avatar. The Avatar has the same Intelligence, Wisdom, and Charisma scores as its caster.</p><p>entombed in its center, unable to move, and are provided with full cover from all attacks and effects originating outside the Avatar. Lingering effects, such as a poison or curse, still affect your regular form while you are inside the Avatar. For the duration of the spell, you control the Avatar, whose statistics are outlined in the next page. While entombed within the Avatar, you cannot cast spells, speak or perform any other actions that its form cannot accommodate. When the spell ends, you float slowly to the ground. The spell ends early if the Avatar is reduced to 0 hit points, you are reduced to 0 hit points, or your body is transported outside of the Avatar. Your body remains visible inside the Avatar, and can be targeted by effects that aren’t rendered moot by full cover. The Avatar provides you with benefits to saving throws and protections against certain effects, as detailed in its stat sheet.</p><p>Magic Weapons. The Avatar’s weapon attacks are magical.</p><p>Siege Monster. The Avatar deals double damage to objects and structures.</p><p>Immutable Form. The Avatar is immune to any spell or effect that would alter its form.</p><p>Actions</p><p>Multiattack. The Avatar makes two Slam attacks and uses its Beam.</p><p>Slam. Melee Weapon Attack: +17 to hit, reach 30 ft., one target. Hit: 24 (4d6 + 10) bludgeoning damage.</p><p>Beam. The Avatar shoots a beam of pure energy forming a line 100 feet long and 5 feet wide in a direction of its choice. Each creature in the line must make a DC 22 Dexterity saving throw. A creature takes 35 (10d6) force damage on a failed save, or half as much damage on a successful one.</p><p>Primordial Endurance. The Avatar prepares for an incoming strike. Until the end of its next turn, it gains resistance to all damage except psychic damage.</p><p>Arcane Meteor (1/day). The Avatar hurls an arcane meteor onto a point within 500 feet of it. Each creature in a 40-footradius sphere centered on that point must make a DC 22 Dexterity saving throw. A creature takes 49 (15d6) force damage and 49 (15d6) bludgeoning damage on a failed save, or half as much damage on a successful one.</p></div>",
+      "chat": ""
+    },
+    "identifier": "avatar",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "125",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A diamond worth at least 10,000 gp",
+      "consumed": true,
+      "cost": 10000,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material"
+    ],
+    "range": {
+      "value": null,
+      "units": "self"
+    },
+    "school": "trs",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "125",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Cleric, Druid, Sorcerer, Warlock",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

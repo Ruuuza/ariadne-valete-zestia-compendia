@@ -1,0 +1,72 @@
+{
+  "_key": "!items!cd92821c7577256e",
+  "_id": "cd92821c7577256e",
+  "name": "Telekinetic Master",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 92.</p><p>Tier II: Telekinetic Master</p><p>Prerequisite: Mind Tricks</p><p>Ascended Intellect. Your Intelligence score increases by 2, as does your Intelligence score maximum.</p><p>Mind Fortress. Your mind becomes an impenetrable fortress. You are immune to any effect that would charm, frighten, or make you act against your will. When a creature targets you with such an effect, it must succeed on an Intelligence saving throw against a DC equal to 8 + your Intelligence modifier + your proficiency bonus or take 10d8 psychic damage as the attempt rebounds.</p><p>Psionic Field. You can add your Intelligence modifier to your AC calculations. When a creature within 30 feet of you makes an attack, you can use your reaction to sap their focus, giving them disadvantage on the attack. When a projectile of Small size or smaller passes within 30 feet of you, you can use your reaction to stop the projectile, causing it to fall to the ground.</p></div>",
+      "chat": ""
+    },
+    "identifier": "telekinetic-master",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "92",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Legendary Psion",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "92",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Legendary Psion",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

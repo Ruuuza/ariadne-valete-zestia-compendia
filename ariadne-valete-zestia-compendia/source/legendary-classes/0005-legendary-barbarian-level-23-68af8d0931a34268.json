@@ -1,0 +1,71 @@
+{
+  "_key": "!items!68af8d0931a34268",
+  "_id": "68af8d0931a34268",
+  "name": "Legendary Barbarian - Level 23",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 28-31.</p><p>Level 23</p><p>Challenging Roar</p><p>Starting at 23rd level, your challenging presence is impossible to ignore, even for legends. As a bonus action, you can unleash a primal roar. Each creature of your choice within 30 feet must succeed on a Wisdom saving throw against a DC equal to your Strength score or be frightened of you for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p><p>Creatures immune to the frightened condition must make this saving throw regardless. On a failure, the</p><p>creature is beckoned by your challenge and compelled to attack you until the end of its next turn. While compelled in this way, a creature cannot make attack rolls against a creature other than you if you are within range and a valid target. If the creature cannot reach you with its attacks or is otherwise unable to damage you, it may target another creature instead.</p><p>LP Cost. You can use this feature at the end of another creature’s turn by expending 1 Legendary Point.</p><p>Crushing Critical</p><p>Also at 23rd level, your critical hits can put even the greatest foes out of commission. When you score a critical hit, the target must succeed on a Constitution saving throw against your Strength score. On a failure, they are stunned until the end of their next turn. If the target is immune to the Stunned condition, it is Impaired instead for the same duration.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-barbarian-level-23",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "28-31",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "28-31",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Barbarian",
+      "legendaryLevel": 23
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_key": "!items!cfef69d60ce17f08",
+  "_id": "cfef69d60ce17f08",
+  "name": "Legendary Warlock - Level 22",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 72-77.</p><p>Level 22</p><p>Legendary Arcanum</p><p>Beginning at 22nd level, your patron bestows upon you a magical secret of peerless power, a mark of the trust and responsibility you have accrued in its service. Choose one 10th-level spell from the warlock spell list as your legendary arcanum. You can cast your legendary arcanum spell once without expending a spell slot. When you do so, you must also expend 2 Legendary Points. You must finish a long rest before you can do so again.</p><p>Patron’s Influence</p><p>Also at 22nd level, you can expend 1 Legendary Point and use your reaction when a creature that you can see makes an ability check, attack roll, or saving throw to either add or subtract your Charisma modifier (minimum of 1) from the result.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-warlock-level-22",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "72-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Warlock level 21",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "72-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Warlock",
+      "legendaryLevel": 22
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

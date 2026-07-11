@@ -1,0 +1,73 @@
+{
+  "_key": "!items!eeca10cb46ce6ad6",
+  "_id": "eeca10cb46ce6ad6",
+  "name": "Masterful Deflection",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 50-53.</p><p>Masterful Deflection</p><p>At 22nd level, you learn to catch lightning, bend fire, and redirect even psychic force back at those who would harm you. When you take damage from a type you are resistant to, you can use your reaction and expend 1 Legendary Point to take no damage instead.</p><p>When you use this reaction, you can choose to redirect the mitigated force toward a creature you can see within 60 feet of you by expending 5 Focus points. If you do so, that creature must succeed on a Dexterity saving throw or take Soul damage equal to the damage mitigated, up to a maximum of 100. You can expend additional Focus points beyond the fifth to increase this maximum. For each additional Focus point you expend as part of this reaction, the maximum Soul damage the target can take increases by 20, with no upper limit on the number of Focus points you can spend this way.</p><p>Once you use this feature, you cannot do so again until you finish a short or long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "monk-masterful-deflection",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "50-53",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "50-53",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Monk",
+      "legendaryLevel": 22,
+      "originalFeatureName": "Masterful Deflection",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

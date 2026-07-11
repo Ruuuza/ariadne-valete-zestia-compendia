@@ -1,0 +1,72 @@
+{
+  "_key": "!items!660190742aa4e773",
+  "_id": "660190742aa4e773",
+  "name": "Arcane Duelist",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 95.</p><p>Tier II: Arcane Duelist</p><p>Prerequisite: Spellblade’s Retort</p><p>Spellblade Mastery. You can deliver any spell of 5th level or lower that has a casting time of one action or one bonus action through your Spellstrike, not just spells that would require an attack roll. When you do so, the spell only affects the target you hit, even if it is an area spell or a spell that targets multiple creatures. Spells delivered through Spellstrike that would normally require a saving throw instead take full effect automatically on a hit. Subsequent saving throws beyond the first one, such as those required by the Flesh to Stone spell, are rolled as normal. A creature that possesses Legendary Points or Legendary Resistances can expend 1 Legendary Point to avoid being affected by a spell delivered through Spellstrike.</p><p>Parrying Cast. When you take the Dodge action, you can cast a spell of 5th level or lower as part of that same action.</p></div>",
+      "chat": ""
+    },
+    "identifier": "arcane-duelist",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "95",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Nightingale",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "95",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Nightingale",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

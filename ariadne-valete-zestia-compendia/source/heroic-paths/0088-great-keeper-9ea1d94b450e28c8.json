@@ -1,0 +1,72 @@
+{
+  "_key": "!items!9ea1d94b450e28c8",
+  "_id": "9ea1d94b450e28c8",
+  "name": "Great Keeper",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 101.</p><p>Tier II: Great Keeper</p><p>Prerequisite: Soul of the World</p><p>Primordial Intellect. You gain proficiency on Intelligence, Wisdom, and Charisma saving throws.</p><p>Regain Sense. As a bonus action on your turn, you can end a single condition affecting you or an ally within 30 feet among the following: charmed, frightened, stunned, or any condition originating from a spell of the Enchantment school.</p><p>Wisdom of the Keeper. You learn one 8th-level spell and one 9th-level spell from any class list. Wisdom is your spellcasting ability for these spells.</p></div>",
+      "chat": ""
+    },
+    "identifier": "great-keeper",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "101",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Third Eye",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "101",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Third Eye",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

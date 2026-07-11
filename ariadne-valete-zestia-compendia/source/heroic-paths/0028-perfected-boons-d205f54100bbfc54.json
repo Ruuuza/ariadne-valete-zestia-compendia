@@ -1,0 +1,72 @@
+{
+  "_key": "!items!d205f54100bbfc54",
+  "_id": "d205f54100bbfc54",
+  "name": "Perfected Boons",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 91.</p><p>Tier II: Perfected Boons</p><p>Prerequisite: Hierophant’s Sanctuary</p><p>Transcendent Healing. When you cast a spell that restores hit points, each target regains additional hit points equal to your spellcasting ability modifier + your proficiency bonus. Healing spells you cast also remove one condition of your choice from each target among the following: blinded, charmed, deafened, frightened, or poisoned.</p><p>Delegated Concentration. When you cast a concentration spell that targets or benefits a willing creature, that creature can maintain concentration on the spell on your behalf. If their concentration is broken, the spell ends. If the creature takes damage, they roll the Constitution saving throw to maintain concentration using their own statistics.</p><p>Amplified Magic. When you cast a spell that targets willing creatures, you can target twice the number of creatures the spell normally allows. All creatures must be within the spell’s range.</p></div>",
+      "chat": ""
+    },
+    "identifier": "perfected-boons",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "91",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Hierophant",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "91",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Hierophant",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

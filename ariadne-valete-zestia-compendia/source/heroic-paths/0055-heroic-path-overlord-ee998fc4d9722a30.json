@@ -1,0 +1,71 @@
+{
+  "_key": "!items!ee998fc4d9722a30",
+  "_id": "ee998fc4d9722a30",
+  "name": "Heroic Path: Overlord",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 96.</p><p>Heroic Path: Overlord</p><p>Prerequisite: Spellcasting or Pact Magic Tier I: Dread Master</p><p>Dread Aura. You radiate an aura of oppressive darkness in a 30-foot radius. Creatures of your choice that start their turn within the aura must succeed on a Wisdom saving throw against your spell save DC or be frightened of you for one minute. An affected creature can repeat the saving throw at the start of each of its turns, ending the effect on itself on a success. A creature that succeeds on this saving throw is immune to your Dread Aura for the next 24 hours.</p><p>Dark Authority. You can use an action to attempt to subdue a creature you can see within 60 feet. The creature must succeed on a Charisma saving throw against your spell save DC or be compelled to do your bidding for 1 minute, as if under the effects of the Dominate Monster spell. While under this effect, the creature is aware it is being controlled but cannot resist. A creature that is frightened of you automatically fails this saving throw. Creatures immune to the frightened condition are not affected by this feature. You can only have one creature controlled through this feature at a time. Heroic Perk: Thrall</p><p>Prerequisite: Dread Master</p><p>When a creature dies within 60 feet of you, you can use your reaction to raise it as a thrall under your command. A thrall uses the creature’s original stat block, but its maximum hit points are halved, and it cannot use legendary actions, legendary resistances, or legendary points .</p><p>You can have an unlimited number of thralls of CR 5 or lower active simultaneously. You can only maintain one thrall of CR 6 or higher at a time–raising a new one immediately dismisses the previous. Creatures of CR 25 or higher cannot be raised as thralls.</p><p>Thralls act on your initiative count immediately after you and obey your commands without question. A thrall crumbles to dust when it is reduced to 0 hit points or after 24 hours. You can also dismiss a thrall as a free action. Tier II: Dark Tyrant</p><p>Prerequisite: Thrall</p><p>Crushing Will. Your spell save DC is increased by 2. When a creature succeeds on a saving throw against one of your spells, it takes psychic damage equal to your spellcasting ability modifier + your proficiency bonus as your dark will lashes out against its defiance. A creature can only be affected by this feature once per turn.</p><p>Edict of Domination. When you cast a spell that charms or frightens a creature, you can choose to make the effect permanent until dispelled, rather than using</p><p>the spell’s normal duration. If you choose to do so and the spell’s full normal duration elapses, you are no longer required to maintain concentration on it to extend its effects. If your concentration ends before the full duration elapses, the effects end as normal.</p><p>Heroic Perk: Soul Harvest</p><p>Prerequisite: Thrall, Dark Tyrant</p><p>When a creature of CR 25 or lower dies within 60 feet of you, you can use your reaction to trap its soul within a container of your choosing, preventing it from passing onto the afterlife. You can hold a number of souls equal to your spellcasting ability modifier simultaneously.</p><p>At any time, you can release a trapped soul to raise it as a Thrall, manifesting it in a spectral body. Thralls raised this way are immune to all nonmagical damage. When a spectral Thrall is destroyed within 60 feet of you, you can use your reaction to recapture its soul, returning it to your container and allowing you to raise it again later.</p><p>Soul Harvest also improves your existing Thrall capabilities in the following ways: you can have one additional Thrall of CR 6 or higher active simultaneously, and all your Thralls last for a maximum of 1 week instead of 24 hours. Tier III: Overlord</p><p>Prerequisite: Thrall, Soul Harvest</p><p>Enfeebling Terror. Creatures that are frightened by you are also Impaired for the duration.</p><p>Apotheosis. Once per long rest, as an action, you undergo a terrifying transformation, channeling the full depth of your dark power. For 1 minute, you gain the following benefits:</p><p>Your spells and class features ignore immunity to the frightened condition for the duration. +</p><p>When you cast a spell that deals damage, it deals maximum damage instead of rolling. +</p><ul><li></li></ul><p>When a creature dies within 120 feet of you, you can choose to automatically raise it as a thrall without requiring a reaction, ignoring your normal thrall limit for the duration. Thralls raised in this manner crumble to dust when your Apotheosis ends.</p><p>Path Connections Sovereign. Instead of the Thrall Heroic Perk, you can take the Greater Charms Perk, changing to the Sovereign path.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-overlord",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "96",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "96",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Overlord",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

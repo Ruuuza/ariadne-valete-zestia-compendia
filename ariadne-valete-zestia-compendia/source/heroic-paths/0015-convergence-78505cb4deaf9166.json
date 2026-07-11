@@ -1,0 +1,145 @@
+{
+  "_key": "!items!78505cb4deaf9166",
+  "_id": "78505cb4deaf9166",
+  "name": "Convergence",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "5b2c36a37b96165c": {
+        "_id": "5b2c36a37b96165c",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Convergence"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 89.</p><p>Heroic Perk: Convergence</p><p>Prerequisite: Fated</p><p>Fate bends the world towards you. As an action, you can declare a Convergence, a particular event that will happen in the next hour. This can be a general declaration, such as obtaining an item, reaching a location, or defeating a Legendary Foe–but it can also be a specific, immediate need, such as having the strength to jump over a chasm. While your Convergence is active, you can choose to give yourself, or a creature within 60 feet of you, advantage on an ability check, attack roll, or saving throw related to the Convergence you declared. Once you do so, the Convergence ends. You can only have one Convergence declared at a time.</p></div>",
+      "chat": ""
+    },
+    "identifier": "convergence",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "89",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Chosen One",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "89",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "heroicPath": "Chosen One",
+      "stageType": "Heroic Perk",
+      "stageOrder": 2
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "_key": "!items!f1f3bbf64df506e4",
+  "_id": "f1f3bbf64df506e4",
+  "name": "[10th] Abjure",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "24bd24f4b43e3d16": {
+        "_id": "24bd24f4b43e3d16",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "A creature you can see within 120 feet casts a spell",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Abjure"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "120",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 123.</p><p>Abjure</p><p>10th-level abjuration</p><p>Classes: Sorcerer, Wizard Casting Time: 1 reaction, which you take when a creature you can see within 120 feet of you casts a spell Range: 120 feet Components: V, S, M (a platinum symbol of the Abjuration school worth at least 1.000 GP) Duration: Instantaneous</p><p>With a powerful word of abjuration, you interrupt the casting of a spell. If the creature is casting a spell of 9thlevel or lower, it fails and has no effect. The creature must then make a Charisma saving throw. On a success, it cannot cast spells of the same school of magic as the interrupted spell for the next 24 hours. On a failed save, the target’s magical conduits decompose, causing them to take 10d10 force damage and becoming unable to cast spells. The target’s conduits can be restored by a casting of Regenerate or similar magic.</p><p>If you use this spell against a creature that is casting a 10th-level spell, you must make a spellcasting ability contest against them. If you succeed, they suffer the spell’s effects as normal. If you fail, Abjure has no effect.</p></div>",
+      "chat": ""
+    },
+    "identifier": "abjure",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "123",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "reaction",
+      "value": 1,
+      "condition": "A creature you can see within 120 feet casts a spell"
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A platinum symbol of the Abjuration school worth at least 1,000 gp",
+      "consumed": false,
+      "cost": 1000,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material"
+    ],
+    "range": {
+      "value": "120",
+      "units": "ft"
+    },
+    "school": "abj",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "123",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Sorcerer, Wizard",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

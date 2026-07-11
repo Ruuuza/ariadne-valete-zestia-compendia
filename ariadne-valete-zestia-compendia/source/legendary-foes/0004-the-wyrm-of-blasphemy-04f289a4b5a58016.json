@@ -1,0 +1,253 @@
+{
+  "_key": "!actors!04f289a4b5a58016",
+  "_id": "04f289a4b5a58016",
+  "name": "The Wyrm of Blasphemy",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 28,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 28
+      },
+      "dex": {
+        "value": 28,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 28
+      },
+      "con": {
+        "value": 24,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 24
+      },
+      "int": {
+        "value": 18,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 18
+      },
+      "wis": {
+        "value": 22,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 22
+      },
+      "cha": {
+        "value": 12,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "max": 12
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 25,
+        "calc": "flat",
+        "formula": "",
+        "value": 25
+      },
+      "hp": {
+        "value": 1575,
+        "max": 1575,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": ""
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 120,
+        "swim": 0,
+        "walk": 60,
+        "units": "ft",
+        "hover": false
+      },
+      "senses": {
+        "darkvision": 0,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 120,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "",
+      "prof": 12
+    },
+    "details": {
+      "biography": {
+        "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 193-197.</p><p>The Wyrm of Blasphemy</p><p>Gargantuan dragon, neutral evil</p><p>Armor Class 25 (natural armor)</p><p>Hit Points 1575 (90d20 + 630)</p><p>Speed 60 ft., fly 240 ft. (hover)</p><p>STR DEX CON INT WIS CHA</p><p>28 (+9) 28 (+9) 24 (+7) 18 (+4) 22 (+6) 12 (+1)</p><p>Saving Throws Dex +19, Con +17, Int +14, Wis +16 Skills Acrobatics +19, Arcana +14, History +14, Insight +16, Perception +16 Damage Resistances acid; bludgeoning, piercing and slashing from nonmagical attacks, cold, fire, thunder Damage Immunities lightning, necrotic, poison Condition Immunities poisoned Senses truesight 400 ft., passive Perception 26 Recommended Level 22nd - 23rd</p><p>Proficiency Bonus +10</p><p>Limited Magic Immunity. The Wyrm cannot be affected or detected by spells cast at 3rd level or lower unless it wishes to be. It has advantage on saving throws against other spells and magical effects.</p><p>Two-headed. The Wyrm has one golden head and one green head. The Wyrm has advantage on Intelligence (Investigation) and Wisdom (Perception) checks, as well as on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</p><p>Wielder of Supremacy. The Wyrm wields half of the Divine Domain of Supremacy, gaining the following benefits:</p><p>Imperium: The Wyrm of Blasphemy is immune to spells and magical effects of 8th level or lower that would compel its behavior, such as the Command and Dominate Monster spells. When it is targeted by such an effect that only targets it, the Wyrm of Blasphemy can use its reaction to reflect the effects of the spell, turning the caster into the target. All DCs and effects remain unchanged, but if the effect requires concentration, the Wyrm must use its own to maintain it.</p><p>Vanquisher. The Wyrm has a +10 bonus to ability checks it rolls as part of a contest. In addition, damage dealt by the Wyrm ignores resistance to lightning and necrotic damage and treats immunity as if it were resistance.</p><p>Majesty. Creatures that start their turn within 120 feet of the Wyrm of Blasphemy and can see it must succeed on a DC 25 Wisdom saving throw or be forced to kneel, dropping prone and having their movement speed reduced to 0 until the start of their next turn. A creature that succeeds on this saving throw becomes immune to the Majesty trait for the next 24 hours.</p><p>In the event of the Wyrm’s death, Supremacy will break into 1d4 + 1 shards, which will remain floating atop its corpse for one hour before phasing into the corrupted Narak dimension, where they will separate and travel aimlessly across the cosmos. A Shard of Supremacy will only attune to a creature that embodies its values with exceptional depth. A creature that attempts to forcefully claim a Shard must make a DC 25 Charisma saving throw, gaining control of the Shard on a success, or taking 105 (6d6 × 5) force damage on a failure. The DC decreases by 5 if the creature already wields at least one shard of Supremacy, and by a further 5 if the creature wields more than one shard. A creature that fails to claim Divinity cannot attempt to do so again for the next 24 hours.</p><p>Legendary Foe</p><p>The Wyrm of Blasphemy has 4 Legendary Points (LP). It can use these points to fuel certain abilities. Once it uses a feature or action that consumes a Legendary Point, it cannot use that same ability again until the start of its next turn. The Wyrm of Blasphemy regains spent Legendary Points at the start of its turn.</p><p>Legendary Resistance. When the Wyrm fails a saving throw, it can expend 1 Legendary Point to succeed instead.</p><p>Legendary Endurance. When the Wyrm takes damage, it can expend 1 Legendary Point to reduce the damage taken by 100.</p><p>Cleanse Effect. If the Wyrm starts its turn affected by a condition or magical effect of 7th level or lower, it can expend 1 Legendary Point to end the effect. If the effect or condition is of 8th or 9th level, or from a Mythical Technique, the Wyrm must expend 2 Legendary Points to end that effect. Effects originating from a 10th-level spell cannot be cleansed in this way.</p><p>Phase Transition</p><p>If the Wyrm of Blasphemy is lowered to 500 hit points or fewer, one of its heads withers and dies to sustain the life of the other. The Wyrm loses its Two Headed trait and gains the Enraged condition, gaining access to Enraged actions and causing certain abilities to gain additional effects. When this phase transition happens, the Wyrm is cleansed of all harmful conditions and regains 2 Legendary Points. The nature and targeting of the attacks suffered by the Wyrm determine which head is destroyed, at the DM’s discretion. Depending on the surviving head, the Wyrm gains new abilities and features and loses others:</p><p>Head of Xiyun. If the green head survives, the Wyrm gains the following traits:</p><p>The Wyrm’s Breath of Curses costs 1 LP instead of 2, and its associated save DCs become 27. +</p><p>Necrotic damage dealt by the Wyrm is doubled. +</p><p>The Wyrm regains 50 hit points at the start of each of its turns. +</p><ul><li></li></ul><p>The Wyrm can no longer use the following actions: Fulgurai’s Inferno, Fulgurating Bite, Invoke Lightning, Multiattack, Primordial Lightning Breath, Ruin of the Dynasts.</p><p>Head of Fulgurai. If the golden head survives, the Wyrm gains the following traits:</p><p>The Wyrm’s Primordial Lightning Breath costs 1 LP instead of 2, and its associated save DC becomes 30. +</p><p>The Wyrm’s maximum fly speed becomes 480 feet. +</p><ul><li></li></ul><p>The Wyrm can no longer use the following actions: Breath of Curses, Necrotic Bite, Invoke Curse, Multiattack, Ruin of the Dynasts, Xiyun’s Torment.</p><p>Actions</p><p>Multiattack. The Wyrm makes three attacks: one with its Claws, one with its Fulgurating Bite, and one with its Necrotic Bite.</p><p>Multiattack (Enraged). The Wyrm makes four attacks: two with its Claws and two with its Fulgurating Bite or Necrotic Bite, depending on which of its heads remains alive. If available, it can replace one Bite attack with its Primordial Lightning Breath or Breath of Curses.</p><p>Claws. Melee Weapon Attack: +19 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage plus 26 (4d12) Lethal damage.</p><p>Fulgurating Bite. Melee Weapon Attack: +19 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) piercing damage plus 26 (4d12) lightning damage. If the target is a creature, it must succeed on a DC 27 Constitution saving throw or be stunned by the overwhelming energy until the end of its next turn.</p><p>Necrotic Bite. Melee Weapon Attack: +19 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) piercing damage plus 26 (4d12) necrotic damage. If the target is a creature that isn’t a construct, the Wyrm heals an amount of hit points equal to the necrotic damage dealt.</p><p>Primordial Lightning Breath (Costs 2 LP). The Wyrm breathes primordial lightning in a 600-foot line that is 15 feet wide. Creatures within that area must make a DC 27 Dexterity saving throw, taking 175 (10d6 x 5) lightning damage on a failed save, or half as much on a successful one.</p><p>Breath of Curses (Costs 2 LP). The Wyrm uses one of the following breath weapon options.</p><p>Paralyzing Breath. The Wyrm breathes a cloud of paralyzing poison in a 60-foot cone in front of it. Creatures within that area must make a DC 25 Constitution saving throw, taking 70 (4d6 x 5) poison damage and being poisoned for one minute on a failed save, or taking half as much damage and not being poisoned on a successful one. While poisoned in this way, a creature is paralyzed. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p><p>Necrotic Breath. The Wyrm breathes a necrotic mist in a 60foot cone in front of it. Creatures within that area must succeed a DC 25 Constitution saving throw, taking 35 (10d6) necrotic damage and being cursed for one minute on a failed save, or taking half as much damage and not being cursed on a successful one. A cursed creature takes 35 (10d6) necrotic damage at the start of each of its turns and becomes vulnerable to necrotic, piercing, and slashing damage. A Remove Curse or similar effect lifts this curse early.</p><p>Petrifying Breath. The Wyrm breathes a cloud of petrifying gas in a 60-foot cone in front of it. Creatures in the area must make a DC 25 Constitution saving throw. On a failed save, a creature is restrained as its flesh begins to harden. On a successful save, the creature isn’t affected. A creature restrained by this magic must make another Constitution saving throw at the end of each of its turns. If it successfully saves three times, the effect ends for it. If it fails its saves three times, it is turned to stone and subjected to the petrified condition. The successes and failures don’t need to be consecutive; keep track of both until the target collects three of a kind. If the creature is physically broken while petrified, it suffers from similar deformities if it reverts to its original state.</p><p>Bonus Actions</p><p>Invoke Lightning. The Wyrm causes a pillar of lightning to fall in a 60-foot-tall, 15-foot radius cylinder centered on a point it can see within 120 feet. Creatures in the area must make a DC 27 Dexterity saving throw, taking 35 (10d6) lightning damage on a failed save, or half as much on a successful one. If the Wyrm is Enraged, it can choose to teleport to the point it chooses, pushing objects and creatures to the nearest unoccupied space after they suffer the lightning damage.</p><p>Invoke Curse. The Wyrm invokes a ring of cursed energy in a 30-foot diameter circle centered on a point it can see within 120 feet. Creatures in that area must make a DC 25 Wisdom saving throw or be cursed for 1 minute. While cursed in this way, a creature has disadvantage on attacks against the Wyrm and on saving throws caused by the Wyrm. If the Wyrm is Enraged, creatures afflicted by this curse can use one action or one bonus action on their turn, but not both. A Remove Curse or similar effect lifts this curse early.</p><p>Extra Actions</p><p>The Wyrm of Blasphemy can take extra actions outside of its turn by expending Legendary Points, choosing from the options below. Only one extra action can be used at a time and only at the end of another creature’s turn.</p><p>Onslaught (Costs 1 LP). The Wyrm makes one attack with its Claws.</p><p>Fly (Costs 1 LP). The Wyrm moves up to its maximum speed in a direction of its choosing.</p><p>DM Notes</p><p>Combining the story and abilities of two separate beings into a single stat sheet, the Wyrm of Blasphemy is perhaps the most complex monster of the Paragon tier. Running this creature at the table need not be an ordeal, however, if you give these pages a thorough read and keep a few things in mind while playing it.</p><p>An Overbearing Foe</p><p>Spurred by its Divine Domain and the traumatic fall of the Ruby Dynasty, the Wyrm of Blasphemy is a creature that strives for immediate control over any given situation, including combat. This pulsion is a strength and a weakness: it will help it prevail in scenarios where decisive action is an advantage, while severely disadvantaging it in scenarios where caution is the winning strategy. What this means mechanically is that the Wyrm of Blasphemy is prone to overspend LPs early in the combat round (likely using Ruin of the Dynasts) and leaving itself open to retaliation if the party remains whole enough to punch back, which it probably will. The Wyrm</p><p>Reflective Scales (Costs 2 LP). The Wyrm enchants its scales with the powers of abjuration and reflection, gaining a +3 bonus to its AC until the end of its next turn. For the duration, when the Wyrm is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the Wyrm is unaffected. On a 6, the Wyrm is unaffected, and the effect is reflected back at the caster as though it originated from the target of this spell, turning the caster into the target. If the Wyrm is Enraged, spells are reflected on a roll of 3-6.</p><p>Fulgurai’s Inferno (Enraged, Costs 3 LP). The Wyrm uses its Primordial Lightning Breath. After that, 5 bolts of lightning fall from the skies in 60-foot-tall, 15-foot radius cylinders centered on points it can see within 120 feet. The points cannot be placed in a way that would make the resulting cylinders overlap. Creatures within those areas must make a DC 27 Dexterity saving throw, taking 35 (10d6) lightning damage on a failed save, or half as much on a successful one.</p><p>Xiyun’s Torment (Enraged, Costs 3 LP). The Wyrm brutally rends the scales and muscles of its chest, revealing the putrid draconid heart beneath, a misshapen alchemical fusion that thrums with a mind-rending beat. It takes 100 Lethal damage that cannot be reduced or prevented in any way. At the end of each of the Wyrm’s turns, creatures within 480 feet of the Wyrm and not behind full cover must make a DC 25 Wisdom saving throw, taking 35 (10d6) psychic damage and 70 (20d6) Dark damage on a failed save, or half as much on a successful one. This effect lasts until the Wyrm dies or heals back to its maximum hit points.</p><p>Ruin of the Dynasts (Costs 4 LP). The Wyrm uses its Primordial Lightning Breath and its Breath of Curses at the same time, in whichever order it chooses.</p><p>will try to dictate a frenetic tempo for the battle, rapidly spending itself while inflicting grievous wounds on its enemies. Surviving Shock &amp; Awe</p><p>To prevail against an overbearing foe like the Wyrm of Blasphemy, the party will probably have to prepare defensive measures beyond the basic toolkit of all legendary heroes–namely, Legendary Resistances. Powerful damage mitigation is highly rewarded, as is avoiding AoE-exploitable positioning. This last part should be evident to a party facing a draconic enemy, but as far as its other weak points go, they should not be too hard to glean, either. The Wyrm of Blasphemy is a high-profile continental ruler, after all, not a reclusive necromancer of whom little is known. And… it has made plenty of enemies in its short time as an absolute monarch, most of them members of its own court. Furtive encounters under the cover of night can serve as a prelude to the confrontation, where NPCs that have a bone to pick with the blasphemous dynast can reveal weaknesses and viable strategies to the party.</p><p>Of potential allies, the wisest and strongest would be Kaltoven, if you are playing within the Universe of Strings, or whoever you designate as the wielder of Vazan’s Terror in your own game. We recommend playing this character with ambivalence towards the dynasts, wishing the party well but emotionally or pragmatically unwilling to use every last measure to aid them. Strategic counsel should be the bulk of this character’s help, unless they are convinced to assume a more active position.</p><p>Dual Personality</p><p>Even though both are taken by Supremacy, the two minds of the dynasts still clash within the Wyrm of Blasphemy. Fulgurai is by far the most rapturous, while Xiyun has historically been academically inclined and cautious. This duality provides more than just flavor: depending on the course the fight is taking, it can be used to modulate the strategies adopted by the Wyrm in a narratively satisfying way. If the Wyrm’s recklessness leads it to take a massive amount of damage, for example, Xiyun’s head can take prominence, causing it to be more conservative. Similarly, if the fight is going too well for the Wyrm of Blasphemy, this tool of regulation can be employed to make it commit mistakes or leave itself open to equalizing blows.</p><p>For this reason–and to make the Phase Transition all the more satisfying–we recommend establishing the differentiation between the two heads early on, to avoid springing such revelations on your players in the midst of battle. It can be teased in prelude encounters, and introduced at the beginning of the fight–with the two heads disagreeing, for example.</p><p>Tiers of Play</p><p>The Wyrm of Blasphemy is a very challenging Legendary Foe for parties at the Paragon tier, so it can be a relatively engaging challenge for parties beyond that level as well. In its intended tier, this Legendary Foe can generate casualties very easily. You might want to pull your punches if that’s not the kind of battle you are looking for.</p><p>Legend</p><p>With its aggressive demeanor and overbearing AoE capabilities, the Wyrm of Blasphemy will completely overwhelm even the most clever parties at this tier, unless they are outfitted with purpose-made magic items such as Vazan’s Terror. As mentioned in other Paragon-tier foes, the jump between 21st level and 22nd level is incredibly meaningful for Legendary Characters, making a Paragon-tier foe (and especially the Wyrm of Blasphemy) not entirely suited for this kind of encounter.</p><p>Paragon</p><p>The Wyrm stands as one of the strongest foes in its intended tier of play. This level of might doesn’t take it to a degree where it becomes an unfair fight for characters, but the potential for catastrophic defeat is higher. So if failure is not a true option at the table you run, we urge caution. Keep an eye on your players’ hit points and available Legendary Points, and play suboptimally when needed, especially when it comes to the insane amounts of damage a Fulgurai-prominent Wyrm of Blasphemy can dish out.</p><p>Ascended</p><p>The Wyrm of Blasphemy is an excellent foe to throw at an overconfident party in the Ascended tier. Here, you can unleash the creature without a care for being excessively punishing. The dragon emperor doesn’t have overwhelmingly bad odds, all things considered– especially if the party isn’t especially well outfitted to resist its offensive abilities. By no means should it end up winning, but it can be a solid challenge. Add another Legendary Point and a couple hundred more hit points on top of that, and the Wyrm of Blasphemy can easily be adjusted to this tier.</p></div>",
+        "public": ""
+      },
+      "alignment": "chaotic evil",
+      "cr": 30,
+      "type": {
+        "value": "dragon",
+        "subtype": "",
+        "swarm": "",
+        "custom": "Legendary Foe"
+      },
+      "source": {
+        "book": "Ariadne's Book of Legends",
+        "page": "193-197",
+        "license": "",
+        "custom": "Original en-US text from Alpha v1.2",
+        "rules": "2014",
+        "revision": 1
+      },
+      "environment": ""
+    },
+    "traits": {
+      "size": "grg",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "all"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {},
+    "spells": {},
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-foe",
+      "sourcePages": "193-197",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference-statblock"
+    }
+  },
+  "prototypeToken": {
+    "name": "The Wyrm of Blasphemy",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 4,
+    "height": 4,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1
+    },
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  }
+}

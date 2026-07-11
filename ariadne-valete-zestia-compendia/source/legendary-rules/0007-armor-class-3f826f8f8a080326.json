@@ -1,0 +1,69 @@
+{
+  "_key": "!items!3f826f8f8a080326",
+  "_id": "3f826f8f8a080326",
+  "name": "Armor Class",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 15.</p><p>Armor Class</p><p>Long before you reach 20th level, AC becomes somewhat trivial. Plate armor gives an AC of 18 regardless of level, and AC increases depend too much on magic items and spells, all of which become available fairly early into your leveling journey. There simply isn’t a compelling progression system when it comes to armor class, and though it works quite well for the first tiers of D&amp;D, it falls short for our purposes.</p><p>Legendary AC. As a baseline, all legendary classes will benefit from an AC equal to their level, should their AC calculations be lower without this bonus. Certain customizable options will allow builds that focus on AC to reach ludicrous numbers, and some classes will gain extra AC as they reach higher Legendary Levels.</p><p>At 20th level, if your AC calculation is lower than your level, you can use your level as your AC instead. If you are using your Legendary AC, you cannot further increase your AC.</p><p>One or the Other. If a player is choosing to benefit from Legendary AC, they are forfeiting any and all bonuses to their AC they would otherwise get, with the exception of temporary magical effects. This means that a Legendary Fighter who chooses to benefit from Legendary AC does not increase their AC as per the Fighter’s AC feature.</p><p>Some magical effects give temporary AC bonuses, such as Haste, Shield, and Shield of Fate. When using Legendary AC, these bonuses do apply. Permanent magical bonuses, however, such as those given by a magic item or a spell or effect lasting longer than 1 hour, do not apply to Legendary AC.</p></div>",
+      "chat": ""
+    },
+    "identifier": "armor-class",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "15",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-rules",
+      "sourcePage": "15",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

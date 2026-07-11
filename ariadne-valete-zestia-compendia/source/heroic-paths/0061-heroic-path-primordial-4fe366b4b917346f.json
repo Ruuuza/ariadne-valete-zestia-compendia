@@ -1,0 +1,71 @@
+{
+  "_key": "!items!4fe366b4b917346f",
+  "_id": "4fe366b4b917346f",
+  "name": "Heroic Path: Primordial",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 97.</p><p>Heroic Path: Primordial</p><p>Prerequisite: Spellcasting or Pact Magic Tier I: Elemental Awakening</p><p>Primordial Element. When you gain this Heroic Feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. This is your Primordial Element.</p><p>Elemental Attunement. You gain immunity to your Primordial Element. Your spells and class features that deal damage of your Primordial Element ignore resistance, and treat immunity as if it were resistance. Heroic Perk: Elemental Mastery</p><p>Prerequisite: Elemental Awakening</p><p>You can replace the damage type of any spell you cast with your Primordial Element. When you deal damage of your Primordial Element, the spell gains one of the following modifiers, depending on your element, applied to any creature that fails its saving throw or is hit by the spell. A creature can only be affected once per round by one of these effects.</p><p>Acid: The creature’s AC is reduced by 3 until the start of your next turn.</p><p>Cold: The creature’s speed is reduced by 15 feet until the end of its next turn.</p><p>Fire: The creature takes an additional 3d10 fire damage at the start of its next turn.</p><p>Lightning: The creature cannot take reactions until the end of its next turn.</p><p>Thunder: The creature must succeed on a Strength saving throw against your spell save DC or be pushed up to 30 feet away from you and knocked prone. Tier II: Conduit</p><p>Prerequisite: Elemental Mastery</p><p>Primordial Absorption. When you take damage of your Primordial Element, you regain an amount of hit points equal to half the damage dealt, up to a maximum of 100 hit points regained in this way between long rests.</p><p>Prana Overchanneling. When you deal damage of your Primordial Element, you can expend a spell slot of 5th level or higher to deal maximum damage instead of rolling. Heroic Perk: Form of the Elements</p><p>Prerequisite: Conduit</p><p>You gain a fly speed of 60 feet, propelled by your element– jets of flame, arcs of lightning, a howling wind, or a torrent of acid. While flying, you emit your Primordial Element in a 15-foot radius centered on you. Creatures of your choice within this area take 3d8 of your Primordial Element’s damage type at the start of your turn.</p><p>Tier III: Primordial</p><p>Prerequisite: Form of the Elements</p><p>Ancient Power. Your spellcasting ability score increases by 2, as does your maximum for that score. The damage dice of all spells you cast that deal damage of your Primordial Element are increased by one die category, up to d12s–d4s becomes d6s, d6s becomes d8s, d8s becomes d10s, and d10s becomes d12s.</p><p>Cataclysm. As an action on your turn, you can unleash the full, uncontrolled fury of your element. :Acid: Corrosive Deluge: A torrent of acid falls in a 60-foot radius centered on a point you can see within 120 feet. Creatures in that area must make a Dexterity saving throw against your spell save DC, taking 15d8 acid damage and having their AC reduced by 3 until they finish a long rest, or taking half damage and suffering no AC reduction on a success.</p><p>Cold: Absolute Zero: A wave of killing frost erupts from you in a 60-foot radius sphere. Creatures in that area must make a Constitution saving throw against your spell save DC, taking 10d8 cold damage and being petrified until the end of their next turn on a failed save, or taking only half damage and having their maximum speed halved until the end of their next turn on a success.</p><p>Fire: Conflagration: A pillar of elemental fire descends in a 30-foot radius, 120-foot high cylinder centered on a point you can see within 120 feet. Creatures in that area must make a Dexterity saving throw against your spell save DC. On a failed save, they take 15d8 fire damage and are set burning, taking an additional 5d8 fire damage at the start of each of their turns for 1 minute or until they douse the flames by being submerged in water or spending an action rolling on the ground. On a success, they take half the initial damage and do not start burning.</p><p>Lightning: Stunning Storm: Lightning erupts from you, arching between each creature of your choice you can see within 120 feet. Each target must make a Dexterity saving throw against your spell save DC, taking 10d8 lightning damage and being stunned until the end of their next turn on a failed save, or taking half as much damage and not being stunned on a success.</p><p>Thunder: World Shatter: A concussive wave of thunder tears outward from you in a 90-foot cone in front of you. Creatures in that area must make a Constitution saving throw against your spell save DC. On a failed save, they take 15d8 thunder damage, are knocked prone, and are deafened for the next 24 hours. On a successful save, they take only half damage, aren’t knocked prone, and are deafened until the end of their next turn. Structures and objects in the area take maximum damage.</p><p>Once you use this feature, you cannot use it again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "identifier": "heroic-path-primordial",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "97",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-overview",
+      "sourcePage": "97",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Primordial",
+      "stage": "overview"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "_key": "!items!7fa92deb8ac95901",
+  "_id": "7fa92deb8ac95901",
+  "name": "[10th] Theophrastus’ Flux",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "6691aa2e050e5599": {
+        "_id": "6691aa2e050e5599",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Theophrastus’ Flux"
+        },
+        "duration": {
+          "value": "3",
+          "units": "round",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "cone",
+            "size": "15",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 130.</p><p>Theophrastus’ Flux</p><p>10th-level transmutation</p><p>Classes: Bard, Sorcerer, Warlock, Wizard Casting Time: 1 action Range: Self (15-foot cone) Components: V, S, M (a transmutation stone worth at least 5,000 GP) Duration: Concentration, up to 3 rounds</p><p>You manifest a formidable pulse of volatile transmutation in your hand, nourishing it before setting it loose in a 15-foot cone in front of you. The pulse transforms everything in its path into a nonmagical material of your choice, such as gold, glass, wood, or sand. Creatures in the area must make a Constitution saving throw against the spell, taking 8d6 x 10 force damage on a failed save, or half as much on a successful one. A creature entirely contained within the area of the spell has disadvantage on the saving throw. If this spell reduces a creature to 0 hit points, it is completely transformed into the chosen material. Magic items that are of Legendary, Artifact, or Relic rarity are not transformed by this spell.</p><p>When you cast this spell, you can hold it to increase its range and potency, releasing it in one of your subsequent turns by using an action. To maintain such a powerful arcanism, you must expend your action on each of your turns to hold the spell. If you hold it for 1 round, the range becomes a 30-foot cone instead, and the damage increases to 8d8 x 10. If you hold it for 2 rounds, you can choose to make the range a 60-foot cone, and the damage increases to 8d12 x 10. If you</p><p>hold it for 3 rounds, you can choose to make the range a 90-foot cone, and the damage increases to 8d20 x 10.</p><p>If you lose concentration on this spell before you release it, you regain the Legendary Points you spent on its channeling, but you lose the 10th-level spell slot.</p></div>",
+      "chat": ""
+    },
+    "identifier": "theophrastus-flux",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "130",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "3",
+      "units": "round"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A transmutation stone worth at least 5,000 gp",
+      "consumed": false,
+      "cost": 5000,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material",
+      "concentration"
+    ],
+    "range": {
+      "value": null,
+      "units": "self"
+    },
+    "school": "trs",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "cone",
+        "size": "15",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "130",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Bard, Sorcerer, Warlock, Wizard",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_key": "!items!595ee841d6062912",
+  "_id": "595ee841d6062912",
+  "name": "Living Shadow",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 99.</p><p>Tier II: Living Shadow</p><p>Prerequisite: Death Mark</p><p>One With Darkness. While in dim light or darkness, you can use a bonus action to become invisible. This invisibility lasts until the start of your next turn and ends if you attack or cast a spell.</p><p>Ghost Form. As a bonus action, you can become incorporeal until the start of your next turn. While incorporeal, you can move through creatures and objects as if they were difficult terrain, you have resistance to all nonmagical damage, and you cannot be grappled, restrained, shoved or knocked prone. If you end your turn inside a solid object, you take 6d6 force damage and are pushed to the nearest unoccupied space.</p><p>Nerve Strike. When you hit creature that cannot see you and isn’t a Construct with a weapon attack, you can choose to target a precise anatomical point. The creature must succeed on a Constitution saving throw against a DC equal to 8 + your proficiency bonus + your Dexterity modifier or be stunned until the end of its next</p><p>turn. Once you use this feature, you cannot do so again until the start of your next turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "living-shadow",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "99",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Shadowblade",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "99",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Shadowblade",
+      "stageType": "Tier II",
+      "stageOrder": 3
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

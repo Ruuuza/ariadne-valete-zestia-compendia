@@ -1,0 +1,73 @@
+{
+  "_key": "!items!330d6bfbf43fc535",
+  "_id": "330d6bfbf43fc535",
+  "name": "Heraldic Favor",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 36-39.</p><p>Heraldic Favor</p><p>Beginning at 23rd level, you become the foremost herald of your God. Your voice is theirs, and you can</p><p>perform miracles in their name. After successfully performing a Divine Intervention, you can do so again after you complete a long rest, instead of having to wait 7 days. In addition, your Divine Intervention becomes even more powerful, able to replicate any spell of 9th level or lower from the Cleric spell list.</p></div>",
+      "chat": ""
+    },
+    "identifier": "cleric-heraldic-favor",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "36-39",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Cleric level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "36-39",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Cleric",
+      "legendaryLevel": 23,
+      "originalFeatureName": "Heraldic Favor",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

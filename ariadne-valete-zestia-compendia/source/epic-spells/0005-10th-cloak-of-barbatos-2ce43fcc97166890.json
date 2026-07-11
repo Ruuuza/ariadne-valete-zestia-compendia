@@ -1,0 +1,180 @@
+{
+  "_key": "!items!2ce43fcc97166890",
+  "_id": "2ce43fcc97166890",
+  "name": "[10th] Cloak of Barbatos",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "72b920435c0bd863": {
+        "_id": "72b920435c0bd863",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Cloak of Barbatos"
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "concentration": true,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "cylinder",
+            "size": "15",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 126.</p><p>Cloak of Barbatos</p><p>10th-level necromancy</p><p>Classes: Cleric, Sorcerer, Warlock Casting Time: 1 action Range: self (15-foot radius, 5-foot-high cylinder) Components: V, S, M (a cigar of infernal tobacco worth at least 100 GP, which the spell consumes) Duration: Concentration, up to 1 minute</p><p>You exhale deathly smoke from your nose and mouth, which coalesces into a huge cloak of decay that wraps around you, killing everything in your path. The cloak is a 15-foot-radius, 5-foot-high cylinder that moves with you. Creatures that enter that area for the first time in a round of combat must make a Constitution saving throw, taking 8d6 x 10 necrotic damage on a failed save, or half as much on a successful one. A creature that is reduced to 0 hit points by this spell is liquified, dying instantly and having its body destroyed.</p></div>",
+      "chat": ""
+    },
+    "identifier": "cloak-of-barbatos",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "126",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "level": 9,
+    "materials": {
+      "value": "A cigar of infernal tobacco worth at least 100 gp",
+      "consumed": true,
+      "cost": 100,
+      "supply": 0
+    },
+    "properties": [
+      "vocal",
+      "somatic",
+      "material",
+      "concentration"
+    ],
+    "range": {
+      "value": null,
+      "units": "self"
+    },
+    "school": "nec",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "cylinder",
+        "size": "15",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "126",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Cleric, Sorcerer, Warlock",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

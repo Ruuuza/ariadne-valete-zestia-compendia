@@ -1,0 +1,72 @@
+{
+  "_key": "!items!20f1fd67c689470d",
+  "_id": "20f1fd67c689470d",
+  "name": "Unmatched Strength",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 102.</p><p>Heroic Perk: Unmatched Strength</p><p>Prerequisite: Overwhelming Might</p><p>Your Strength score increases by 2. 30 is your new maximum for that score. You always have advantage on Strength saving throws, ability checks, and contests. Your carrying capacity is multiplied by 10, and you can momentarily drag, push, pull, or carry impossible weights–structures, ships, or crumbling mountainsides– with a successful Athletics check with a DC at DM’s discretion.</p></div>",
+      "chat": ""
+    },
+    "identifier": "unmatched-strength",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "102",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Titan",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "102",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Titan",
+      "stageType": "Heroic Perk",
+      "stageOrder": 2
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

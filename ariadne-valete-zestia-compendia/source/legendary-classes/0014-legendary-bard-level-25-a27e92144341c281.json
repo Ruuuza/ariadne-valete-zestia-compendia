@@ -1,0 +1,71 @@
+{
+  "_key": "!items!a27e92144341c281",
+  "_id": "a27e92144341c281",
+  "name": "Legendary Bard - Level 25",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 32-35.</p><p>Level 25</p><p>Hymn of Legend</p><p>Starting at 25th level, your Song of Legend becomes more powerful.</p><ul><li></li></ul><p>Recovery: When you use the Respite option, you and up to 4 creatures within range regain 1 Legendary Point.</p><ul><li></li></ul><p>Catastrophe: When you use the Tragedy option, creatures of your choice within the area take an amount of psychic damage equal to five times your Charisma modifier and must succeed on a Constitution saving throw against your spell save DC. On a failure, they are stunned until the end of their next turn.</p><ul><li></li></ul><p>Zeal: When you use the Valor option, you can expend 1 Legendary Point to give you and up to 4 creatures within range that can hear you an additional action on their next turn. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object actions.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-bard-level-25",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "32-35",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Bard level 24",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "32-35",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Bard",
+      "legendaryLevel": 25
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

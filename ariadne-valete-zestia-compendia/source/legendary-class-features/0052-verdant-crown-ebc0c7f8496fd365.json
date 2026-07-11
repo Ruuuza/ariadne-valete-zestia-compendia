@@ -1,0 +1,73 @@
+{
+  "_key": "!items!ebc0c7f8496fd365",
+  "_id": "ebc0c7f8496fd365",
+  "name": "Verdant Crown",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 40-43.</p><p>Verdant Crown</p><p>Also at 22nd level, you can use an action to don a Verdant Crown for the next minute, a symbol of absolute authority from your Druid Circle. The crown can be worn while shapeshifted and counts as an 8thlevel spell for the purposes of Tiers of Magic.</p><p>While crowned in this way, you can concentrate on an additional spell at a time. If your concentration is broken, all spells you were concentrating on end. The number of spells you can concentrate on at a time can never exceed 3, even if you gain this same benefit from various sources.</p><p>In addition, your natural glory causes Beasts and Plants of CR 15 or lower within 120 feet of you to be completely enthralled. They are friendly to you, can understand you irrespective of what language you speak, and will heed all commands issued by you, unless they are directly harmful to them.</p></div>",
+      "chat": ""
+    },
+    "identifier": "druid-verdant-crown",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "40-43",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Druid level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "40-43",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Druid",
+      "legendaryLevel": 22,
+      "originalFeatureName": "Verdant Crown",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

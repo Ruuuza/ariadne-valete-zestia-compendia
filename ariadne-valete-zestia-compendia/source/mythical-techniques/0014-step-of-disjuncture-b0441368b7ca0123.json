@@ -1,0 +1,147 @@
+{
+  "_key": "!items!b0441368b7ca0123",
+  "_id": "b0441368b7ca0123",
+  "name": "Step of Disjuncture",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "c249c6a5fd6f2da1": {
+        "_id": "c249c6a5fd6f2da1",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Step of Disjuncture"
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "120",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 115.</p><p>Step of Disjuncture</p><p>Mobility, Zulfiqar</p><p>Classes: Monk, Ranger, Rogue Channeling Time: 1 action Base LP Cost: 0 LP Range: 120 feet Duration: 1 minute</p><p>You channel your soul into an agile step that splits dimensions, bestowing you with the energy of division. You teleport to an unoccupied space within 120 feet that you can see, leaving a fracture in reality in the spot you previously occupied. At any point in the next minute, you can use a bonus action to explode in a scatter of force energy, dealing 35 (10d6) force damage to all creatures within 30 feet of you and teleporting back to the fracture. Once you do so, the fracture disappears. You can only have one fracture active at a time.</p><p>LP Cost. You can use the teleportation of this Mythical Technique as a reaction to a creature targeting you with an attack or spell, causing it to fail automatically if the teleportation takes you out of the attack or spell’s range. When you do so, you expend 1 Legendary Point.</p></div>",
+      "chat": ""
+    },
+    "identifier": "step-of-disjuncture",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "115",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Monk, Ranger, Rogue",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "mythical-technique",
+      "sourcePage": "115",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "school": "Zulfiqar",
+      "techniqueType": "Mobility",
+      "weapon": "—",
+      "classes": "Monk, Ranger, Rogue",
+      "legendaryPointCost": "0 LP"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

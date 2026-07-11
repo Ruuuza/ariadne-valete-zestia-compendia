@@ -1,0 +1,73 @@
+{
+  "_key": "!items!987253b9c22d66d4",
+  "_id": "987253b9c22d66d4",
+  "name": "Legendary Rage",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 28-31.</p><p>Legendary Rage</p><p>Whenever you enter a rage, you can expend 1 Legendary Point to gain 100 temporary hit points that last for a minute. Once you use this feature, you cannot do so again until you finish a long rest.</p><p>5.5e: When using your Legendary Rage, you can expend additional Rage uses to increase the temporary hit points you gain. For each Rage use you expend, you gain an additional 20 temporary hit points, up to a maximum of 100. This cap is removed when you gain the Improved Legendary Rage feature at 25th level.</p><p>Also, when you reach 22nd level, and again at 24th level, you gain an additional use of your Rage feature.</p></div>",
+      "chat": ""
+    },
+    "identifier": "barbarian-legendary-rage",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "28-31",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "28-31",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Barbarian",
+      "legendaryLevel": 22,
+      "originalFeatureName": "Legendary Rage",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

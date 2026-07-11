@@ -1,0 +1,146 @@
+{
+  "_key": "!items!aa34ba5b964a4708",
+  "_id": "aa34ba5b964a4708",
+  "name": "Song of Legend",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "4f4a4a6351f5de8c": {
+        "_id": "4f4a4a6351f5de8c",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Song of Legend"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 32-35.</p><p>Song of Legend</p><p>Also at 23rd level, you learn to give a legendary performance that enhances your allies and intimidates your enemies. As an action on your turn, you can play one of the following powerful melodies:</p><ul><li></li></ul><p>Respite: You and up to 10 allies who can hear you within 60 feet gain an amount of temporary hit points equal to five times your Charisma modifier.</p><ul><li></li></ul><p>Tragedy: Creatures of your choice that can hear you within 60 feet must succeed on a Wisdom saving throw or become frightened of you until the end of their next turn. A creature that is immune to the frightened condition is Impaired for a minute instead.</p><ul><li></li></ul><p>Valor: You and allies that can hear you within 60 feet gain a +3 to attack and damage rolls until the end of your next turn.</p></div>",
+      "chat": ""
+    },
+    "identifier": "bard-song-of-legend",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "32-35",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Bard level 23",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "32-35",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Bard",
+      "legendaryLevel": 23,
+      "originalFeatureName": "Song of Legend",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "_key": "!items!e4389e3f48c6c0b8",
+  "_id": "e4389e3f48c6c0b8",
+  "name": "[10th] Patron’s Blast",
+  "type": "spell",
+  "effects": [],
+  "system": {
+    "activities": {
+      "c08bbf2611cd66d9": {
+        "_id": "c08bbf2611cd66d9",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Cast Patron’s Blast"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "line",
+            "size": "240",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 129.</p><p>Patron’s Blast</p><p>10th-level evocation</p><p>Classes: Warlock Casting Time: 1 action Range: Self (240-foot line) Components: V Duration: Instantaneous</p><p>You speak a word of power and release the full, unrestrained might of your patron in a catastrophic burst of disintegrating energy. A 240-foot long, 10-foot wide line of raw magical force erupts from you, its color and shape a reflection of your patron’s nature–a wall of hellfire, a celestial streak of silver light, an eldritch tide of writhing darkness.</p><p>Each creature in the line must make a Constitution saving throw, taking 8d10 x 10 force damage on a failed save, or half as much on a successful one. A creature that fails this saving throw by 5 or more is also incapacitated until the end of its next turn, as the blast tears through it. If this damage reduces a creature to 0 hit points, it is disintegrated. A disintegrated creature, along with everything it wears and carries except magic items, is reduced to a pile of fine gray dust. A disintegrated creature can only be restored to life by a True Resurrection or Wish spell.</p><p>This spell automatically destroys Large or smaller nonmagical objects and creations of magical force. If the target is a Huge or larger object or a creation of force, the spell destroys a 10-foot-cube portion of it. Rare or rarer magic items are not destroyed.</p></div>",
+      "chat": ""
+    },
+    "identifier": "patron-s-blast",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "129",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "level": 9,
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "properties": [
+      "vocal"
+    ],
+    "range": {
+      "value": null,
+      "units": "self"
+    },
+    "school": "evo",
+    "target": {
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      },
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "line",
+        "size": "240",
+        "width": "",
+        "height": "",
+        "units": "ft",
+        "stationary": false
+      }
+    },
+    "method": "spell",
+    "prepared": 0,
+    "sourceItem": null
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "epic-spell",
+      "realSpellLevel": 10,
+      "legendaryPointCost": 2,
+      "usesCustomTenthLevelSlot": true,
+      "sourcePage": "129",
+      "language": "en-US",
+      "originalText": true,
+      "classes": "Warlock",
+      "automation": "partial"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/spell.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

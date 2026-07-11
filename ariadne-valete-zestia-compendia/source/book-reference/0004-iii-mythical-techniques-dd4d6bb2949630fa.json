@@ -1,0 +1,369 @@
+{
+  "_key": "!journal!dd4d6bb2949630fa",
+  "_id": "dd4d6bb2949630fa",
+  "name": "III - Mythical Techniques",
+  "pages": [
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.183dd0e6d291fd7b",
+      "_id": "183dd0e6d291fd7b",
+      "name": "p. 106 - III",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 106</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">III\n\nmythical\nTECHNIQUES</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 106,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.062d361f5204f5ac",
+      "_id": "062d361f5204f5ac",
+      "name": "p. 107 - Page 107",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 107</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\"></pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 107,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.99c204efae4755cc",
+      "_id": "99c204efae4755cc",
+      "name": "p. 108 - Techniques of Old",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 108</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Techniques of Old\n\nT\n\no martials and half-casters–warriors, as\nwe call them–Mythical Techniques are the\nultimate power-up. They are ancient arts of\ngreat warriors of old who fought powerful\narchmages, divine celestials, and\nindescribable horrors from beyond the veil.\nThese are the tools of the sword saints,\nundying barbarians, and unholy assassins of history,\npassed down from generation to generation, and now\nwithin your grasp.\n\nIn the Universe of Strings, each Mythical Technique\nis a storied art polished over the course of centuries.\nThey manifest as shapes of one’s soul, channeling a\nstream of energy so powerful that only those who have\ntrained their body to the limit can attempt to perform\nthem. Most often, Mythical Techniques are the result of\na particular mortal’s determination and resolve. The\nwork of a hero who, out of necessity or conviction, broke\nthe mold of what is typically possible.\nMythical Schools\n\nMuch like spells, Mythical Techniques are divided into\nschools. Mythical Technique Schools have a particular\nflavor to them, and in our setting, a history behind each\ndiscovery and master. If you are not playing in the\nUniverse of Strings, consider adapting the schools and\nreflavoring the techniques to fit the lore of your game’s\nUniverse.\n\nTechnique Mechanics\n\nMythical Techniques are not as powerful as the storied\n10th-level spells, but as is often the case with Warrior\nfeatures, they can be used more often. Some Mythical\nTechniques don’t even require rest, and are always\navailable to those who have mastered them.\n\nEach Warrior Class gains its Mythical Techniques at\nspecific levels, as detailed in its class descriptions.\nMythical Techniques are powerful abilities that only a\nselect few warriors ever achieve. They have certain\nlimitations:\n\n+\n\nYou can only perform a Mythical Technique with a\nweapon you are proficient with. Some Mythical\nTechniques require a certain weapon or type of\nweapon to be performed, specified in the Weapon\nline of each technique. Techniques that don’t have\nthat line do not require a weapon to be channeled.\nTechniques that say “Any” in that line can be\nchanneled with any weapon, unarmed strikes, and\nnatural weapons.\n\nUnless otherwise stated, you can only perform one\nMythical Technique per turn.\n+\n\nLike spells, Mythical Techniques sometimes require\nconcentration. If your concentration is broken, the\neffects of the Mythical Technique end. Some of your\nMythical Techniques require your target to make a\nsaving throw to resist the technique’s effects. The\nsaving throw DC is calculated as follows:\n\nMythical Technique save DC = 8 + your proficiency\nbonus + your Strength or Dexterity modifier (your\nchoice).\n\nCustom Mythical Techniques\n\nWe highly encourage you to develop your own Mythical\nTechniques! These represent the legendary skills of\nyour setting’s finest warriors, and can also serve as a\nmeans to give a particular character at your table their\nsignature ability. Players are encouraged to think, both\nin the case of 10th-level spells and Mythical Techniques,\non what their own imprint in history would look like. Of\ncourse, Mythical Techniques are comparatively easier to\nadd than apocalypse-level arcanisms. We recommend\nsticking to the following principles when creating\nMythical Techniques.\n\nPower. How effective is your Mythical Technique?\nWhat effects that are already in the game is the Mythical\nTechnique trying to emulate? What is the closest ability\nthat resembles this Mythical Technique? A Mythical\nTechnique should resemble a spell between 7th and 9th\nlevel, depending on its ease of use and cost.\n\nUses. How many uses does this Mythical Technique\nhave? Does it expend Legendary Points? How difficult is\nit to perform? The more powerful a Mythical Technique,\nthe harder it should be to set up. A Mythical Technique\nsimilar to an 8th or 9th-level spell should have either\nlimited uses, an LP cost, or take several turns to set up.\nA weaker Mythical Technique, closer to a 6th or 7thlevel spell in power, can be used without expending\nresources other than the action needed to channel\nthem.\n\nOpportunity Cost\nTake into consideration the opportunity cost of using a\nMythical Technique when balancing its power. A 22nd-level\nFighter using Reality Slash deals 15d6 Lethal damage across\na 300-foot line–an average of 52 Lethal damage to every\ncreature in it. That same Fighter, using their action to\nperform a Multiplier Attack, might deal significantly more\ndamage to a single target. Reality Slash is the right call\nwhen there are five enemies in a line, or when lethal\ndamage is needed to bypass a resistance.\n\nMythical Techniques are not always the strongest option,\nbut they allow for greater flexibility.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 108,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.2db076cb66bd99ae",
+      "_id": "2db076cb66bd99ae",
+      "name": "p. 109 - Mythical Techniques",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 109</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Mythical Techniques\n\nThe following is a list of all Mythical Techniques\navailable to Legendary Characters, separated by\nMythical School. Class restrictions are not made\nbetween schools, but between techniques themselves.\n\nLP Costs. Each Mythical Technique lists a Base LP\nCost. A Base LP Cost of 0 means the technique can be\nperformed freely on your turn, without expending\nLegendary Points. A Base LP Cost greater than 0\nmeans the technique always requires that expenditure\nto perform. Many techniques also list an optional LP\nCost, which unlocks additional functionality – most\ncommonly, the ability to use the technique as an Extra\nAction at the end of another creature’s turn, or to\nenhance the technique’s effects beyond their base\nparameters.\n\nLearning Techniques. Mythical Techniques are\nlearned through your class, as detailed in each class’s\ndescription. Unless a Heroic Path, class feature, or your\nDM explicitly grants you access to a technique outside\nyour class list, you cannot learn it. If you are building a\ncustom character concept that seems to call for a\ntechnique from another class’s list, speak to your DM!\nThere’s always a way to make it work.\n\nMythical Technique Types\n\nEach Mythical Technique belongs to one of the\nfollowing types, noted in its description. Certain types\nhave specific interactions with other effects and\nfeatures.\n\nStrike. Techniques that immediately release, often\nrequiring an attack roll.\n\nMobility. Techniques that allow for extraordinary\nmovement or repositioning.\n\nInfusion. Techniques that infuse a weapon you are\ncarrying with a powerful enchantment for a duration.\nYou can only have one Mythical Technique infusion on a\nweapon at a time.\n\nChannel. Techniques that require channeling or\npreparation, often with a longer casting time.\n\nPassive. Techniques that enhance the character\npassively, without requiring activation.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 109,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.eedf63b520fb7e3d",
+      "_id": "eedf63b520fb7e3d",
+      "name": "p. 110 - Name",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 110</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Name\nSchool\nType\nWeapon\nClasses\n\nAnatomical Control\nSunyata\nChannel\n—\nMonk, Paladin, Ranger\n\nApparate\nSunyata\nMobility\n—\nMonk, Ranger\n\nBlasphemous Hand\nDainsleif\nStrike\nUnarmed Strike\nBarbarian, Fighter, Monk\n\nCloak and Dagger\nVorpal\nMobility\nAny\nFighter, Rogue\n\nCritical Edge\nVorpal\nInfusion\nAny light weapon\nFighter, Rogue\n\nDivine Parry\nRyuushinkan\nChannel\nAny\nFighter, Monk\n\nMythical Techniques\n\nDivine Severance\nZulfiqar\nStrike\nAny slashing melee weapon\nFighter, Paladin, Ranger\n\nEarthbreaker\nDurandal\nStrike\n—\nBarbarian, Fighter\n\nGarden of Eden\nRyuushinkan\nChannel\n—\nFighter, Monk, Paladin, Ranger\n\nGod’s Justice\nIchimonji\nStrike\nAny\nFighter, Monk, Paladin\n\nHateful Blade\nDainsleif\nInfusion\nAny melee weapon\nBarbarian, Fighter, Ranger, Rogue\n\nIntervention\nSunyata\nMobility\n—\nMonk, Paladin, Ranger\n\nLegendary Throwing\nDurandal\nPassive\n—\nBarbarian, Fighter\n\nLotus Barrier\nRyuushinkan\nStrike\n—\nFighter, Monk, Paladin\n\nObliterating Strike\nDurandal\nStrike\nAny heavy melee weapon\nBarbarian, Fighter, Paladin\n\nReality Slash\nZulfiqar\nStrike\nAny slashing melee weapon\nBarbarian, Fighter, Ranger\n\nSoul Strike\nIchimonji\nStrike\nAny melee weapon or unarmed strike\nFighter, Monk, Ranger, Rogue\n\nSoul Wound\nDainsleif\nStrike\nAny\nFighter, Ranger, Rogue\n\nStep of Disjuncture\nZulfiqar\nMobility\n—\nMonk, Ranger, Rogue\n\nUnbreakable Stance\nDurandal\nChannel\n—\nBarbarian, Monk, Paladin\n\nWhite Flame\nIchimonji\nInfusion\nAny\nFighter, Monk, Paladin</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 110,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.3bc996f3ef622017",
+      "_id": "3bc996f3ef622017",
+      "name": "p. 111 - Ichimonji is the most famous school of Mythical Techniques. It is a transla",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 111</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Ichimonji is the most famous school of Mythical Techniques. It is a translation of the abilities of the Xildur themselves,\n\ndeveloped by the legendary Kensei of Satokai, who descended to the Broken Hells in order to learn from the\nmysterious Zedekiah, Keeper of Eden. Ichimonji focuses on great build-ups of soul energy, and lightning-fast,\nsingularly focused releases–cuts and slashes, most often. Most techniques of this school are singular strikes of\n\nIchimonji\n\nThe School of the Singular Strike\n\nunendurable power.\n\nSoul Strike\n\nStrike, Ichimonji\n\nWeapon: Any melee weapon or unarmed strike\nClasses: Fighter, Monk, Ranger, Rogue\nChanneling Time: 1 action\nBase LP Cost: 2\nRange: Weapon range\nDuration: Concentration, up to 1 minute\n\nYou channel your soul into your weapon and release it\nas a burst of white flame shaped like the strike itself.\nMake a weapon attack against a target within range. On\na hit, you deal Soul damage with your weapon attack,\nand the creature falls unconscious as its soul is expelled\nfrom its body and cast into the ethereal plane. While the\nsoul is expelled, the body remains unconscious and\ncannot be awakened. A creature that has Legendary\nPoints can expend 2 Legendary Points to resist this\neffect.\n\nAn expelled soul appears in a space within 5 feet of its\nbody on the ethereal plane. It retains the same statistics\nas its body and can act on each of its turns, but remains\nin the ethereal plane and can only affect creatures and\nobjects there. At the start of each of its turns, the soul\ncan attempt to return to its body by succeeding on a\nCharisma saving throw. On a success, the soul returns\nand the creature regains consciousness. Damage dealt\nto the soul is also dealt to the body, but damage dealt to\nthe body does not affect the soul. When body and soul\nare reunited, the creature’s hit points become the lower\nof the two counts. If the body is killed before the soul\nreturns, the soul is lost in the ethereal and cannot\nreturn unless the body is resurrected. If neither the body\nnor the soul has been destroyed after 1 minute, the soul\nsnaps back to the body.\n\nCreatures with no soul–such as certain Constructs and\nUndead–are unaffected by this technique. This\ntechnique can hit a creature in the ethereal plane.\n\nGod’s Justice\n\nStrike, Ichimonji\n\nWeapon: Any\nClasses: Fighter, Monk, Paladin\nChanneling Time: 1 action\nBase LP Cost: 1 LP\nRange: 240 feet\nDuration: Concentration, up to 1 minute\n\nYou channel your soul into a powerful and inevitable\nstrike, marking a creature within range. For the\nduration, whenever the marked target takes an action,\nbonus action, or Extra Action, you can use your reaction\nto teleport to an unoccupied space within 60 feet of it,\nregardless of the distance between you–even across\nplanes of existence. When you teleport in this way, you\ncan make a single attack against the target with\nadvantage. On a hit, the target must succeed on a\nConstitution saving throw against your Mythical\nTechnique save DC or be stunned until the end of its\nnext turn. If the target is immune to the stunned\ncondition, it is impaired instead.\n\nThe effect ends early if the target dies.\nWhite Flame\n\nInfusion, Ichimonji\n\nWeapon: Any\nClasses: Fighter, Monk, Paladin\nChanneling Time: 1 bonus action\nBase LP Cost: 0 LP\nRange: Self\nDuration: Concentration, up to 1 minute\n\nYou infuse your next weapon attack, unarmed strike, or\nMultiplier Attack with the white flame of your soul,\nburning with a light that strikes deeper than flesh. For\nthe duration, the next weapon attack or unarmed strike\nyou make deals soul damage instead of its normal\ndamage type.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 111,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.f19f684d61fafd1b",
+      "_id": "f19f684d61fafd1b",
+      "name": "p. 112 - After learning of the Ichimonji school, which encompassed the ancient arts ",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 112</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">After learning of the Ichimonji school, which encompassed the ancient arts of the Xildur gods, Zedekiah taught Kensei\n\nher own Mythical Techniques. These, Kensei brought back to the material plane as the Techniques of the Dragon\n\nHeart, a melancholic yet firm and determined art, focused on protection, and paradoxically, chaos. At its core, the\n\nRyuushinkan is akin to a primordial mother, a powerful embrace, and a vicious retort.\n\nRyuushinkan\n\nThe School of the Dragon Heart\n\nDivine Parry\n\nChannel, Ryuushinkan\n\nWeapon: Any\nClasses: Fighter, Monk\nChanneling Time: 1 action\nBase LP Cost: 2 LP\nRange: Self\nDuration: 1 minute\n\nYou prepare an almost insurmountable blocking force,\nable to stop even a God in its tracks. For the duration,\nwhen you are targeted by an attack, a Mythical Technique,\nor a spell or magical effect of 9th level or lower, you can\nuse your reaction to nullify the effect against you and all\ncreatures and objects of your choice within 15 feet of you.\nElsewhere, the parried effect works as normal. Once you\nsuccessfully nullify an effect in this way, the Divine Parry\nends.\n\nLP Cost. When you nullify an effect completely, you can\nexpend 1 additional Legendary Point to redirect it toward\nthe creature that created it instead. The creature must be\nwithin 120 feet of you. All DCs, damage calculations, and\neffects remain unchanged when redirected in this way.\nGarden of Eden\n\nChannel, Ryuushinkan\n\nClasses: Fighter, Monk, Paladin, Ranger\nChanneling Time: 1 minute\nBase LP Cost: 0 LP\nRange: 15-foot-radius sphere centered on you\nDuration: Concentration, up to 8 hours\n\nYou expand your soul outward, creating a peaceful\nspiritual garden in a 15-foot-radius sphere centered on\nyourself. You must not be disturbed during the channeling\ntime for the Garden to manifest–if you take damage or\nlose concentration before the minute is complete, the\ntechnique fails. You can choose to make the garden\nvisible, with sprouting ghostly vines and flowers, or\ninvisible, with only a barely noticeable shimmer at the\nedge of the sphere. You can shape the Garden to\nresemble something other than vegetation, provided you\nfind the apparition peaceful. Neither you nor your allies\ncan interact with the invoked phantasms.\n\nOnce created, the Garden requires you to remain at its\ncenter in continuous meditation. If you move or are\nmoved outside the sphere, the technique ends. While\ninside the sphere, you and your allies regain 10 hit points\nat the end of each of your turns. You become aware of\n\neverything inside the Garden and gain truesight out to a\nrange of 60 feet. While meditating at its center, you can\ntake a short or long rest without sleeping, remaining\nalways aware of your surroundings and cannot be\nsurprised.\n\nSpells and magical effects of 9th-level or lower cannot\nmanifest inside the Garden or overlap with it unless you\nallow them. Creatures of your choice within the Garden\ngain a +5 bonus to their AC. The atmosphere inside is\ncomfortable and dry, regardless of conditions outside.\n\nWhen a hostile creature enters the Garden, you can use\nyour reaction to make a number of attacks against it\nequal to your proficiency bonus from the center of the\nsphere, as if your weapon had a reach of 15 feet. These\nattacks are made at advantage.\n\nOnce you use this Mythical Technique, you cannot do so\nagain until you finish a short or long rest. If you used it\nto take a rest, you cannot use it again for the next 8\nhours.\nLotus Barrier\n\nStrike, Ryuushinkan\n\nClasses: Fighter, Monk, Paladin\nChanneling Time: 1 reaction, which you take when\nyou or a creature within range takes damage\nBase LP Cost: 1 LP\nRange: 30 feet\nDuration: Until the end of your next turn\n\nYou conjure a barrier of soul energy around yourself or\none ally within range. The barrier absorbs up to 200\npoints of damage and lasts until the end of your next\nturn. While the barrier holds, the protected creature\ncannot be forcefully moved, grappled, knocked prone, or\ndisplaced, and is immune to effects that would reduce it\nto 0 hit points or kill it outright. The barrier protects\nagainst the triggering damage and any secondary effects\nthat would result from it, such as a poison or a magical\ncondition. If the barrier is destroyed, any damage\nexceeding its remaining hit points is dealt to the\nprotected creature as normal.\n\nLP Cost. You can expend an additional LP to target\none additional creature within range that is also affected\nby the same attack, creating an additional 200 hit points\nLotus Barrier.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 112,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.82565c5253522053",
+      "_id": "82565c5253522053",
+      "name": "p. 113 - Little is known of the Vorpal school. Its name is derived from the Blades o",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 113</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Little is known of the Vorpal school. Its name is derived from the Blades of Vorpal, who would later be known as the\nUnseen Blades in the kingdom of Iskendar. Legends tell, however, of an ancient murderer from the last Teng Kingdom\n\nwho was so effective in his craft that he channeled the essence of the God of Slaughter and brought ruin to the\nMoonsilver Kingdom. Today, the Vorpal school is still practiced by the greatest killers all across the universe, often in\n\nVorpal\n\nThe School of Lethality\n\nthe service of mortalkind’s cruelest tyrants.\n\nCloak and Dagger\n\nMobility, Vorpal\n\nWeapon: Any\nClasses: Fighter, Rogue\nChanneling Time: 1 bonus action\nBase LP Cost: 1 LP\nRange: Self\nDuration: Concentration, up to 1 minute\n\nYou channel the power of your soul to slip between the\nplanes, vanishing from the material world entirely. You\nenter the ethereal plane for up to 1 minute. While\nethereal, you have a fly speed of 60 feet, resistance to all\ndamage except psychic and force, and cannot be\nperceived by creatures on the material plane. You can\nmove freely through the ethereal, observing the material\nplane as you go.\n\nAt any point during the effect, you can use a bonus\naction to choose a point you can see on the material\nplane within 60 feet and tear back through the veil,\nappearing in the nearest unoccupied space to that point.\nYour first weapon attack or unarmed strike after\nreturning deals Lethal damage instead of its normal\ndamage type and has advantage.\nCritical Edge\n\nInfusion, Vorpal\n\nWeapon: Any light weapon\nClasses: Fighter, Rogue\nChanneling Time: 1 action\nBase LP Cost: 1 LP\nRange: Self\nDuration: Concentration, up to 1 minute\n\nYou channel lethal nimbleness into your weapon,\ninfusing it with an edge that finds every gap in a\ncreature’s defenses. For the duration, the infused\nweapon’s critical hit range is increased by 3.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 113,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.2eb2c4cd3c3fbce9",
+      "_id": "2eb2c4cd3c3fbce9",
+      "name": "p. 114 - Of all schools of Mythical Techniques, none is more terrible than the schoo",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 114</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Of all schools of Mythical Techniques, none is more terrible than the school of Blasphemy. Dainsleif is the name of a\n\nsword now lost to time, forged by the best dwarven smiths for a Teng Hero, yet cursed by Malice to always cause a\n\nmortal’s death when it was drawn. It simply couldn’t be unsheathed without causing tragedy. It ended up in the\npossession of a lonely woman from a forgotten and ruined race, who hated the Teng, yet above all, blamed the Dead\nGods for her accursed life. Her name is forgotten, but her legacy of Blasphemy against Gods and Mortals still haunts\n\nthe Universe, in the form of the Blasphemous Techniques of Dainsleif.\n\nDainsleif\n\nThe School of Blasphemy\n\nBlasphemous Hand\n\nStrike, Dainsleif\n\nWeapon: Unarmed strike\nClasses: Barbarian, Fighter, Monk\nChanneling Time: 1 action\nBase LP Cost: 0 LP\nRange: 5 feet\nDuration: Instantaneous\n\nYou forgo the need for a weapon, sullying your hand\nwith blasphemous energy. Make a single unarmed\nstrike against a target within reach. On a hit, your strike\nplunges into the target’s soul, absorbing their essence.\nThe target must succeed on a Constitution saving throw\nagainst your Mythical Technique save DC or take 20d6\nDark damage. On a successful save, the target takes half\ndamage. You gain temporary hit points equal to the\ndamage dealt.\n\nHateful Blade\n\nInfusion, Dainsleif\n\nWeapon: Any melee weapon\nClasses: Barbarian, Fighter, Ranger, Rogue\nChanneling Time: 1 action\nBase LP Cost: 3 LP\nRange: Self\nDuration: 1 hour, or until dismissed\n\nYou infuse your weapon with an enchantment of Malice\nand Hate, a blasphemous art that demands blood. For\nthe duration, weapon attacks you make with the infused\nweapon deal maximum damage, and its damage type\nbecomes Dark. This infusion does not affect Multiplier\nAttacks nor other Mythical Techniques. If you end your\nturn without having dealt damage to a creature other\nthan yourself with the infused weapon, you take 10d10\nDark damage as the weapon turns its hunger inward. If\nyou kill a creature with this technique, that creature\ncannot be returned to life by any means short of a 10thlevel spell.\n\nOne Use. Once you use this Mythical Technique, you\ncannot do so again until you finish a short or long rest.\n\nSoul Wound\n\nStrike, Dainsleif\n\nWeapon: Any\nClasses: Fighter, Ranger, Rogue\nChanneling Time: 1 action\nBase LP Cost: 1 LP\nRange: Weapon range/reach, up to 60 feet\nDuration: Concentration, up to 1 minute\n\nYou make a single attack with the power to wound a\ncreature’s soul and deprive it of its most powerful\nfeatures. Make a weapon attack or unarmed strike\nagainst a creature within range. On a hit, the target\nmust succeed on a Charisma saving throw against your\nMythical Technique save DC or be unable to teleport,\nleave its current plane of existence, use Mythical\nTechniques, or cast spells of 8th-level or higher for the\nduration. On a successful save, the target is unaffected.\n\nIf the target has no Mythical Techniques or spell slots\nof 8th-level or higher, it cannot use its most powerful\naction or feature for the duration instead. A dragon, for\nexample, cannot use its Breath Weapon. The DM has\nfinal say on which feature this wound impedes.\n\nA creature can repeat the saving throw at the end of\neach of its turns, ending the effect on a success.\n\nA Terrible Hell\nIt is said that those who are slain by the Dainsleif technique\nare condemned to an eternity of torment. This is not true.\nThe souls of those destroyed by the Dainsleif are returned,\nin time, to the White Flame, as shattered pieces of a whole.\nThere is no consciousness after the Death of the Soul.\n\nThose who channel the Dainsleif, however, taint their soul\nwith blasphemy, and the hate of all who came before. It was\na mortal, not a God, who created these techniques,\nchanneling the powers of Rhox and Set into a red mélange\nof murder and bloodshed. Unlike her legacy, her identity has\nbeen lost to time. The Teng, perhaps in shame, ensured her\nname would never be spoken again.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 114,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.8c4f9b98d40b805a",
+      "_id": "8c4f9b98d40b805a",
+      "name": "p. 115 - Hundreds of years after the times of Kensei and Roland, in the Eastern land",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 115</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Hundreds of years after the times of Kensei and Roland, in the Eastern lands of Kahar lived the Great Sultan AlMahdir of Bazandi, beyond the reaches of Uru and the Divine Lions. In his teenage years, the sultan encountered a\nterrible creature on the road that offered him a most blasphemous deal. A Beast king, half-man, half-monster. After AlMahdir refused the creature, the Meratar cursed him with a malefice so ancient it dated to the Age of Gods. Al-Mahdir\n\nspent his entire life creating an art capable of severing his curse, until, finally, on his deathbed, he discovered the\nZulfiqar technique of the ancient Xildur, capable of unmaking even the strongest of vows, promises… and curses.\n\nZulfiqar\n\nThe School of Severance\n\nDivine Severance\n\nStrike, Zulfiqar\n\nWeapon: Any slashing melee weapon\nClasses: Fighter, Paladin, Ranger\nChanneling Time: 1 action\nBase LP Cost: 2 LP\nRange: Weapon range\nDuration: Instantaneous\n\nYou create a slashing attack able to undo the bindings of\ndivine laws, infernal contracts, fey curses, and even the\nholy promise that spawned life in the universe. Make a\nweapon attack against a target within range. On a hit,\nthe creature must make a Charisma saving throw,\ntaking 5d8 x 10 Soul damage on a failed save, or half as\nmuch on a successful one. On a critical hit, you do not\nmultiply the damage dice by 2, but instead deal 8d8 x 10\nSoul damage.\n\nThis attack slices through the soul, reducing the\ntarget’s hit point maximum by an amount equal to the\ndamage taken. This reduction lasts for 24 hours or until\nthe creature is targeted by a greater restoration spell or\nsimilar effect.\n\nIn addition, a creature that fails this saving throw by 5\nor more must succeed on a Dexterity saving throw\nagainst your Mythical Technique save DC or have a part\nof themselves lost forever. Choose a non-vital body part.\nThe creature can no longer use that part, even if no\napparent wound appears on its physical form. The soul\nof that body part can only be restored by healing magic\nof 9th level or higher.\n\nThis attack can cut through anything. It can sever\npromises, destroy magic, and expel divine will, creating\nan effect similar to a 9th-level casting of dispel magic, or\nother forms of severance – destroying unbreakable\nchains, unmaking devil contracts, releasing souls from a\nvow. The DM determines the extent of this effect in\neach case. Some powerful effects may require more\nthan one strike to break apart.\n\nOne Use. Once you use this Mythical Technique, you\ncannot do so again until you finish a long rest.\n\nReality Slash\n\nStrike, Zulfiqar\n\nWeapon: Any slashing melee weapon\nClasses: Barbarian, Fighter, Ranger\nChanneling Time: 1 action\nBase LP Cost: 0 LP\nRange: 300-foot long, 5-foot wide line / 90-foot cone\nDuration: Instantaneous\n\nYou perform an attack so powerful it cuts through\nreality itself. You can shape this attack as a 300-footlong, 5-foot-wide line or as a 90-foot cone. Each creature\nin the area must make a Dexterity saving throw, taking\n15d6 Lethal damage on a failed save, or half as much on\na successful one. This attack affects creatures and\nobjects in the ethereal plane.\n\nLP Cost. You can use this Mythical Technique at the\nend of another creature’s turn by expending 1\nLegendary Point.\nStep of Disjuncture\n\nMobility, Zulfiqar\n\nClasses: Monk, Ranger, Rogue\nChanneling Time: 1 action\nBase LP Cost: 0 LP\nRange: 120 feet\nDuration: 1 minute\n\nYou channel your soul into an agile step that splits\ndimensions, bestowing you with the energy of division.\nYou teleport to an unoccupied space within 120 feet\nthat you can see, leaving a fracture in reality in the spot\nyou previously occupied. At any point in the next\nminute, you can use a bonus action to explode in a\nscatter of force energy, dealing 35 (10d6) force damage\nto all creatures within 30 feet of you and teleporting\nback to the fracture. Once you do so, the fracture\ndisappears. You can only have one fracture active at a\ntime.\n\nLP Cost. You can use the teleportation of this Mythical\nTechnique as a reaction to a creature targeting you with\nan attack or spell, causing it to fail automatically if the\nteleportation takes you out of the attack or spell’s range.\nWhen you do so, you expend 1 Legendary Point.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 115,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.5bd9f683d501c49c",
+      "_id": "5bd9f683d501c49c",
+      "name": "p. 116 - Elsewhere in the universe, around the same time as Kensei learned the techn",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 116</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Elsewhere in the universe, around the same time as Kensei learned the techniques of Zedekiah, the legendary Hero\nRoland of the Kingdom of Camadar charged against the hosts of the Storm King Ferrus in the battle of Roncev. Both\n\nRoland and Ferrus met their end in that fateful confrontation, yet in their clash, a new school of martial techniques\nwas created, named after Roland’s sword, Durandal, and taught from generation to generation in the many successor\n\nDurandal\n\nThe School of Iron\n\nkingdoms of Camadar, most notably in Iskendar.\n\nEarthbreaker\n\nStrike, Durandal\n\nClasses: Barbarian, Fighter\nChanneling Time: 1 action\nBase LP Cost: 0 LP\nRange: 100-foot-radius circle centered on you\nDuration: Instantaneous\n\nYou channel the force of your soul through your legs\nand into the earth itself, creating a tremor that rips\nthrough the ground in a 100-foot-radius circle centered\non you. The ground in the area becomes difficult terrain.\nEach creature on the ground that is concentrating must\nsucceed on a Constitution saving throw against your\nMythical Technique DC or have their concentration\nbroken. Each creature other than yourself on the ground\nin the area must succeed on a Dexterity saving throw\nagainst your Mythical Technique DC or be knocked\nprone. The tremor deals 50 bludgeoning damage to any\nstructure in contact with the ground in the area. If a\nstructure drops to 0 hit points, it collapses, potentially\ndamaging nearby creatures.\n\nLP Cost. You can use this Mythical Technique as a\nbonus action by expending 1 Legendary Point.\nUnbreakable Stance\n\nChannel, Durandal\n\nClasses: Barbarian, Monk, Paladin\nChanneling Time: 1 action\nBase LP Cost: 0 LP\nRange: Self\nDuration: 1 round\n\nYou bolster yourself with unbreakable might, flowing\nfrom your soul to every last fiber of your body. You\nregain 1 Legendary Point and become resistant to all\nnon-legendary damage except force, poison, and psychic\nuntil the start of your next turn. For the duration, your\nspeed becomes 0 and you cannot be shoved or knocked\nprone against your will. You must be standing on solid\nground to use this Mythical Technique.\n\nLP Cost. You can expend 1 Legendary Point to instead\nbecome immune to all non-legendary damage and\nresistant to dark, force, lethal, poison, psychic and soul\ndamage for the duration.\n\nLegendary Throwing\n\nPassive, Durandal\n\nClasses: Barbarian, Fighter\nRange: Self\n\nYour throwing arm carries the force of legend behind it.\nThe range of any thrown weapon you use is multiplied\nby 100. When you hit a creature with a thrown weapon,\nit must succeed on a Strength saving throw against your\nMythical Technique save DC or be pushed a number of\nfeet away from you equal to 5 times your Strength\nmodifier and knocked prone. A creature pushed into a\nwall or solid surface takes an additional 5d10\nbludgeoning damage. In addition, you gain the ability to\nthrow creatures and objects you are grappling an\nincredible distance away. When you take the Attack\naction, you can replace an attack with a Fling.\n\nFling. One Medium or smaller object held or creature\ngrappled by you is thrown up to 120 feet in a direction\nof your choice and knocked prone. If a thrown target\nstrikes a solid surface, the target takes 10d6\nbludgeoning damage. If the target is thrown at another\ncreature, that creature must succeed on a Dexterity\nsaving throw or take the same damage and be knocked\nprone. Flinging a creature ends your grapple.\nObliterating Strike\n\nStrike, Durandal\n\nWeapon: Any heavy melee weapon\nClasses: Barbarian, Fighter, Paladin\nChanneling Time: 1 action\nBase LP Cost: 2 LP\nRange: Weapon range\nDuration: Instantaneous\n\nYou channel every ounce of your physical might into a\nsingle, annihilating blow. Make a melee weapon attack\nagainst a creature within reach. On a hit, the attack\ndeals 5d10 x 10 Lethal damage. On a critical hit, you do\nnot multiply the damage dice by 2, but instead deal\n8d10 x 10 Lethal damage. A creature hit by this attack\nmust succeed on a Constitution saving throw against\nyour Mythical Technique save DC or be stunned for a\nminute and pushed up to 30 feet away from you.\n\nOne Use. Once you use this Mythical Technique, you\ncannot do so again until you finish a long rest.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 116,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    },
+    {
+      "_key": "!journal.pages!dd4d6bb2949630fa.5f329cc18535b358",
+      "_id": "5f329cc18535b358",
+      "name": "p. 117 - Sunyata",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<div class=\"ariadne-pdf-page\"><p><strong>Original PDF page 117</strong></p><pre style=\"white-space: pre-wrap; font-family: var(--font-primary);\">Sunyata\n\nThe School of Emptiness\n\nThe origins of the Sunyata school are debated among\nscholars. Some attribute it to the monks of the Rhazaali\njungles, others to the Yuna Monastery of the second\ncircle, where the ancient dragon of blue and red leads a\ncult dedicated to strength of body and mind. What is\nagreed upon is this: Sunyata is not a school of combat in\nthe traditional sense. It is a school of absence–of\nclearing the mind until the self becomes a still core\naround which the world moves. It claims dominion over\nthat which is or is not there, either to fill the space… or\nto empty it.\nAnatomical Control\n\nChannel, Sunyata\n\nClasses: Monk, Paladin, Ranger\nChanneling Time: 1 minute\nBase LP Cost: 0 LP\nRange: Self\nDuration: 1 hour\n\nYou enter a state of perfect anatomical awareness,\ndirecting the flow of your body’s energy to heal wounds\nfrom within. During the channeling time, you must\nremain still and undisturbed–if you take damage or are\nmoved before the minute is complete, the technique\nfails. Once the technique is channeled, you regain hit\npoints equal to half your hit point maximum, you are\ncured of all poisons, diseases, and conditions affecting\nyou, and your hit point maximum is restored to its\nnormal value if it was reduced. You regenerate lost\nlimbs and lingering wounds and end any curse or\nmagical effect upon your body.\n\nFor the next hour, you continue regenerating,\nregaining 20 hit points at the start of each of your turns\nfor the duration. This effect ends early if you are\nincapacitated or if you drop to 0 hit points.\n\nOne Use. Once you use this Mythical Technique, you\ncannot do so again until you finish a long rest.\nApparate\n\nMobility, Sunyata\n\nClasses: Monk, Ranger\nChanneling Time: 1 action\nBase LP Cost: 0 LP\nRange: 500 feet\nDuration: Instantaneous\n\nYou focus your soul and body to modify your position in\nspace with only a thought, stepping through the void\nbetween places. You teleport to an unoccupied space\nyou can see within 500 feet. You can bring one willing\ncreature within 5 feet of you along.\n\nLP Cost. You can use this Mythical Technique at the\nend of another creature’s turn by expending 1\nLegendary Point.\n\nIntervention\n\nMobility, Sunyata\n\nClasses: Monk, Paladin, Ranger\nChanneling Time: 1 reaction, which you take when\nyou or an ally within 60 feet is targeted by an attack or\nspell\nBase LP Cost: 1 LP\nRange: 60 feet\nDuration: Instantaneous\n\nWhere there is danger, there is a space that needs to be\noccupied. When you or an ally within 60 feet of you is\ntargeted by an attack or spell, you empty your mind of\nhesitation and appear where you are needed. You\nteleport to an unoccupied space within 60 feet and\nimmediately take an action. You cannot use this action\nto take the Recover action.</pre></div>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "ariadne": {
+          "sourcePage": 117,
+          "language": "en-US",
+          "originalText": true
+        }
+      }
+    }
+  ],
+  "categories": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "book-reference",
+      "sourcePages": "106-117",
+      "language": "en-US",
+      "originalText": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_key": "!items!7f68ec63141c63bb",
+  "_id": "7f68ec63141c63bb",
+  "name": "Legendary Warlock - Level 23",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 72-77.</p><p>Level 23</p><p>Patron’s Predilection</p><p>At 23rd level, you are bestowed a special power to escape deadly danger. When you take damage, you can use your reaction to take no damage instead and immediately cast the Plane Shift spell, targeting only yourself, without expending a spell slot. You appear in a pocket dimension that belongs to your Patron, where they can communicate with you directly. While in this mystical space, you cannot be reduced to 0 hit points and you end all conditions and spell effects of your choice currently afflicting you. You can remain in this pocket dimension for a maximum of 1 hour. You can use an action to cast plane shift on yourself again without expending a spell slot to return to the exact location you left, or choose another plane of existence.</p><p>Once you use this feature, you cannot do so again until you finish a long rest.</p><p>Eldritch Invocation Savant</p><p>You gain 2 additional Eldritch Invocations. When you complete a long rest, you can change 1 Eldritch Invocation for another eligible option.</p><p>This feature does not affect Legendary Eldritch Invocations.</p></div>",
+      "chat": ""
+    },
+    "identifier": "legendary-warlock-level-23",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "72-77",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Warlock level 22",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-level",
+      "sourcePage": "72-77",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "class": "Warlock",
+      "legendaryLevel": 23
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

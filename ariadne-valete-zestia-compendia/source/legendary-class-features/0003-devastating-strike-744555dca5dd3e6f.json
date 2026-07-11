@@ -1,0 +1,146 @@
+{
+  "_key": "!items!744555dca5dd3e6f",
+  "_id": "744555dca5dd3e6f",
+  "name": "Devastating Strike",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "a45c0ecafb76e21a": {
+        "_id": "a45c0ecafb76e21a",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Devastating Strike"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": null,
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 28-31.</p><p>Devastating Strike</p><p>When you reach 20th level, you learn to channel your immense strength into a singular, devastating strike. You can use your action and expend 1 Legendary Point to make a melee weapon attack roll against a target within range. On a hit, you deal 5d12 x 5 damage of the weapon’s type. This attack does not benefit from any bonus to its damage. On a critical hit, you do not multiply the damage dice by 2, but instead deal 7d12 x 5 weapon damage.</p><p>A creature hit by Devastating Strike must succeed on a Constitution saving throw against your Strength score or become Impaired for a minute.</p><p>5.5e: If you use Reckless Attack on your Devastating Strike, you can forgo any Advantage on the attack roll. The Multiplier Attack must not have Disadvantage. If the attack hits, you add 1 die to the Devastating Strike’s damage equation, and you can cause two Brutal Strike effects of your choice. If the attack misses, you can</p><p>Points Rages Rage Damage</p><p>Weapon Mastery</p><p>expend 1 use of your Rage to reroll the attack. You must use the new roll.</p></div>",
+      "chat": ""
+    },
+    "identifier": "barbarian-devastating-strike",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "28-31",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Barbarian level 20",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-class-feature",
+      "sourcePage": "28-31",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Barbarian",
+      "legendaryLevel": 20,
+      "originalFeatureName": "Devastating Strike",
+      "granularity": "individual-feature"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

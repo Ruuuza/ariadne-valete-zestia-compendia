@@ -1,0 +1,72 @@
+{
+  "_key": "!items!15360f7ab344fcc5",
+  "_id": "15360f7ab344fcc5",
+  "name": "Exalted Presence",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 91.</p><p>Tier I: Exalted Presence</p><p>Amplified Boons. When you use a class feature that targets willing creatures, such as Bardic Inspiration or Channel Divinity, you can target twice the number of creatures the feature normally allows. All creatures must be within the feature’s range.</p><p>Spell Holding. When you take the Ready action to prepare a spell, you may hold that spell for up to 1 minute without releasing it, maintaining concentration as normal. The spell slot is not expended unless the trigger occurs and the spell is successfully cast. If your concentration ends before the trigger occurs, the spell’s energy dissipates back into your conduits without expending the slot.</p></div>",
+      "chat": ""
+    },
+    "identifier": "exalted-presence",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "91",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Heroic Path: Hierophant",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "heroic-path-stage",
+      "sourcePage": "91",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "reference",
+      "heroicPath": "Hierophant",
+      "stageType": "Tier I",
+      "stageOrder": 1
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

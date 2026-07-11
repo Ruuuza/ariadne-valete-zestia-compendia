@@ -1,0 +1,63 @@
+{
+  "_key": "!items!635bcbdf6811e38c",
+  "_id": "635bcbdf6811e38c",
+  "name": "Paracelsion’s Philosopher’s Stone",
+  "type": "loot",
+  "effects": [],
+  "system": {
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 166.</p><p>The Philosopher’s Stone is revealed when Paracelsion’s exposed heart is destroyed. The heart is a Medium object with 100 hit points, AC 25, resistance to piercing and slashing damage, and immunity to fire, poison, and psychic damage. If the heart is destroyed, it breaks apart, revealing a small, palm-sized Philosopher’s Stone that falls to the ground.</p><p>Paracelsion’s blood is the very elixir of life, and his heart a tireless engine that keeps it flowing. While his heart remains within his chest, Paracelsion doesn’t age nor require food, air, drink, or sleep to subsist.</p></div>",
+      "chat": ""
+    },
+    "identifier": "paracelsion-s-philosopher-s-stone",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "166",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "artifact",
+    "identified": true,
+    "type": {
+      "value": "trinket",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "legendary-item",
+      "sourcePage": "166",
+      "language": "en-US",
+      "originalText": true
+    }
+  },
+  "img": "icons/commodities/gems/gem-faceted-yellow.webp",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

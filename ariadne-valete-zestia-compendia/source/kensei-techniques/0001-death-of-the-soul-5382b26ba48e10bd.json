@@ -1,0 +1,144 @@
+{
+  "_key": "!items!5382b26ba48e10bd",
+  "_id": "5382b26ba48e10bd",
+  "name": "Death of the Soul",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "activities": {
+      "2713f1b555bcda77": {
+        "_id": "2713f1b555bcda77",
+        "type": "utility",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "spellSlot": false,
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          }
+        },
+        "description": {
+          "chatFlavor": "Death of the Soul"
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "60",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "img": null,
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "description": {
+      "value": "<div class=\"ariadne-entry\"><p><strong>Source:</strong> Ariadne's Book of Legends - Alpha v1.2, p. 48-49.</p><p>Death of the Soul</p><p>Strike, Ichimonji</p><p>Classes: Fighter Channeling Time: 1 action Range: Weapon range, up to 60 feet Duration: Instantaneous LP Cost: 3 LP</p><p>You channel your soul into your weapon, releasing twin bursts of white flame. Make two weapon attacks against either one target or two separate targets within range.</p><p>Soul Strike. On a hit, the attack deals Soul damage instead of its normal damage type and the target’s soul is expelled from its body, casting it into the Ethereal Plane. The body falls unconscious and cannot be awakened while the soul remains separated.</p><p>The expelled soul appears within 5 feet of its body on the Ethereal Plane, retaining the creature’s full statistics. It can act on each of its turns but is confined to the Ethereal Plane and can only affect creatures and objects there. At the start of each of its turns, the soul can attempt to return to its body by succeeding on a Charisma saving throw against your Mythical Technique DC. On a success, the soul returns and the creature regains consciousness. Damage dealt to the soul is also dealt to the body, but damage dealt to the body does not affect the soul. When body and soul are reunited, the creature’s hit points become whichever of the two counts is lower. If the body is destroyed before the soul returns, the soul is lost in the Ethereal and cannot return unless the body is resurrected. If neither body nor soul has been destroyed after 1 minute, the soul snaps back automatically.</p><p>Creatures with no soul–such as certain Constructs and Undead–are unaffected by this technique. This technique can hit a creature in the ethereal plane.</p><p>Double Strike. If both attacks target the same creature and both hit, that creature must make a Charisma saving throw against your Mythical Technique DC. On a failure, its soul is not merely expelled–it is destroyed entirely. The creature dies instantly. Nothing short of a Wish spell cast at 10th level can restore a soul destroyed in this way.</p></div>",
+      "chat": ""
+    },
+    "identifier": "death-of-the-soul",
+    "source": {
+      "book": "Ariadne's Book of Legends",
+      "page": "48-49",
+      "license": "",
+      "custom": "Original en-US text from Alpha v1.2",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": {},
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false,
+      "items": []
+    },
+    "properties": [],
+    "requirements": "Legendary Fighter level 25",
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    }
+  },
+  "flags": {
+    "ariadne": {
+      "version": "Alpha v1.2",
+      "category": "kensei-technique",
+      "sourcePage": "48-49",
+      "language": "en-US",
+      "originalText": true,
+      "automation": "partial",
+      "class": "Fighter",
+      "techniqueTier": "Kensei Technique"
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "folder": null,
+  "sort": 100000,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.361",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783771200000,
+    "modifiedTime": 1783771200000,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}
